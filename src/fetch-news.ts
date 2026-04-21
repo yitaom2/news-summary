@@ -28,11 +28,11 @@ const FEEDS: FeedConfig[] = [
   },
   {
     name: "Hacker News",
-    url: "https://hnrss.org/newest?q=AI&count=30",
+    url: "https://hnrss.org/newest?q=AI&count=10",
   },
 ];
 
-const TWENTY_FOUR_HOURS = 24 * 60 * 60 * 1000;
+const TWENTY_FOUR_HOURS = 48 * 60 * 60 * 1000;
 const SUMMARIZE_BATCH_SIZE = 5;
 
 function stripHtml(html: string): string {
