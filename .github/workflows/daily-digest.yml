@@ -29,11 +29,9 @@ jobs:
         run: |
           TODAY=$(TZ="America/New_York" date +%Y-%m-%d)
           mkdir -p docs
-          if [ -f "output/${TODAY}.md" ]; then
-            cp "output/${TODAY}.md" docs/index.md
-          else
-            cp "$(ls output/*.md | sort | tail -1)" docs/index.md
-          fi
+          SRC="output/${TODAY}.md"
+          [ -f "$SRC" ] || SRC="$(ls output/*.md | sort | tail -1)"
+          printf -- "---\nlayout: default\n---\n\n" | cat - "$SRC" > docs/index.md
 
       - name: Commit and push
         run: |
