@@ -1,0 +1,17 @@
+{
+  "name": "ai-news-digest",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "fetch": "tsx src/fetch-news.ts"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.90.0",
+    "fast-xml-parser": "^4.3.6"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.7",
+    "tsx": "^4.7.1",
+    "typescript": "^5.4.5"
+  }
+}
