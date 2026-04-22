@@ -191,10 +191,16 @@ function renderMarkdown(articles: Article[], date: Date): string {
   }
 
   const sourceCount = bySource.size;
+  const generatedAt = date.toLocaleTimeString("en-US", {
+    hour: "2-digit",
+    minute: "2-digit",
+    timeZone: "America/New_York",
+    timeZoneName: "short",
+  });
   const lines: string[] = [
     `# AI 日报 ${formatDate(date)}`,
     "",
-    `> 共收录 **${articles.length}** 篇，来自 **${sourceCount}** 个源`,
+    `> 共收录 **${articles.length}** 篇，来自 **${sourceCount}** 个源 · 生成于 ${generatedAt}`,
     "",
   ];
 
