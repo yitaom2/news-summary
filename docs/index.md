@@ -2,95 +2,95 @@
 layout: default
 ---
 
-# AI 日报 2026-05-07
+# AI 日报 2026-05-08
 
-> 共收录 **40** 篇，来自 **3** 个源 · 生成于 08:27 AM EDT
-
-## TechCrunch AI (20 篇)
-
-- [Spotify&#8217;s AI DJ now supports French, German, Italian and Brazilian Portuguese](https://techcrunch.com/2026/05/07/spotifys-ai-dj-now-supports-french-german-italian-and-brazilian-portuguese/) — 20:20
-  > Spotify的AI DJ功能已扩展支持法语、德语、意大利语和巴西葡萄牙语。该功能此前仅支持英语，现在用户可以用这四种新增语言获得个性化的音乐推荐和DJ式的播放体验。这一更新帮助Spotify在欧洲和南美市场更好地服务本地用户。
-- [Five architects of the AI economy explain where the wheels are coming off](https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/) — 13:25
-  > 五位掌控人工智能产业链各个环节的业界领袖在比弗利山庄米尔肯全球会议上讨论了AI经济面临的问题，包括芯片短缺、轨道数据中心以及支撑该技术的整体架构可能存在缺陷等问题。
-- [Barry Diller trusts Sam Altman. But &#8216;trust is irrelevant&#8217; as AGI nears, he says.](https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/) — 05:57
-  > 美国企业家Barry Diller为OpenAI首席执行官Sam Altman辩护，表示虽然信任他，但随着通用人工智能（AGI）的逼近，"信任变得无关紧要"。Diller警告称，AGI仍是一股需要防护栏约束的不可预测力量。
-- [Snap says its $400M deal with Perplexity &#8216;amicably ended&#8217;](https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/) — 05:43
-  > Snap与Perplexity达成的4亿美元合作协议已"友好终止"。该协议于去年11月宣布，原计划将Perplexity的AI搜索引擎集成到Snapchat中。双方决定终止这一合作，但未透露具体原因。
-- [Is xAI a neocloud now?](https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/) — 05:32
-  > xAI的真实业务重心可能不在训练AI模型，而在于建设数据中心。该公司正在大规模投资基础设施建设，以支撑AI计算需求。这种转变表明xAI正在演变为类似云计算服务商的"新云"企业，通过提供计算资源和基础设施服务来获利，而非仅依赖AI模型本身。
-- [How Elon Musk left OpenAI, according to Greg Brockman](https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/) — 02:23
-  > 根据OpenAI总裁Greg Brockman的说法，Elon Musk与OpenAI的分手源于创始人之间的激烈谈判。这类创业公司内部的高层谈判通常不会公开，特别是当公司像OpenAI一样成为改变世界的企业时。
-- [SpaceX may spend up to $119B on &#8216;Terafab&#8217; chip factory in Texas](https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/) — 01:23
-  > SpaceX计划在德克萨斯州投资最高119亿美元建造"Terafab"芯片工厂。该项目为多阶段、下一代垂直整合半导体制造和先进计算芯片生产设施。这将支持SpaceX卫星互联网等业务的芯片需求，实现芯片制造自给自足。
-- [DeepSeek could hit $45B valuation from its first investment round](https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/) — 01:20
-  > DeepSeek是一家中国AI实验室，因在2025年初推出大语言模型而备受关注。该模型仅用美国OpenAI和Anthropic等公司模型所需的极少计算资源和成本就完成了训练，效率远超业界预期。DeepSeek首轮融资估值可能达到450亿美元。
-- [Google updates AI search to include quotes from Reddit and other sources](https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/) — 23:49
-  > Google更新AI搜索功能，将引入Reddit等网络论坛和讨论板的评论。这一设计可帮助用户找到针对小众问题的答案，但也可能带来混乱。
-- [Khosla-backed robotics startup Genesis AI has gone full stack, demo shows](https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/) — 23:46
-  > Genesis AI是一家获得1.05亿美元融资的机器人AI初创公司，近日发布首个模型GENE-26.5。该公司采取全栈方案，不仅开发基础AI模型，还展示了自主研发的机器人手臂执行复杂任务的演示，标志着从算法到硬件的完整布局。
-- [Tinder owner Match Group is slowing hiring to pay for its increased use of AI tools](https://techcrunch.com/2026/05/06/tinder-owner-match-group-is-slowing-hiring-to-pay-for-its-increased-use-of-ai-tools/) — 23:27
-  > 约会应用Tinder母公司Match Group宣布减缓今年剩余时间的招聘计划，以支付不断增加的AI工具费用。该公司表示AI技术投入成本高昂，需要调整人力资源预算来优先支持AI发展。这反映出许多科技公司正面临在AI投资和传统运营成本之间的权衡。
-- [Apple to pay $250M to settle lawsuit over Siri&#8217;s delayed AI features](https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/) — 23:12
-  > 苹果同意支付2.5亿美元，以解决一起集体诉讼案件。该诉讼指控苹果过度宣传Siri的人工智能功能上线时间，导致消费者受欺骗。这笔和解金将赔偿因虚假承诺而蒙受损失的用户。
-- [Ethos raises $22.75M from a16z for its expert network with voice onboarding](https://techcrunch.com/2026/05/06/ethos-raises-22-75m-from-a16z-for-its-expert-network-with-voice-onboarding/) — 23:00
-  > Ethos公司从a16z融资2275万美元，用于其专家网络平台。该平台采用语音认证技术进行用户入门。目前Ethos每周新增35000名专家用户。该融资将支持平台的扩展和专家网络的发展。
-- [At TechCrunch Disrupt 2026, all your M&#038;A questions will be answered](https://techcrunch.com/2026/05/06/at-techcrunch-disrupt-2026-all-your-ma-questions-will-be-answered/) — 22:30
-  > TechCrunch Disrupt 2026大会将聚焦并购战略。Coinbase、M13和Mignano法律集团的领导者将讨论并购如何成为早期创业公司的战略手段。与会者可现场听取专业人士分析，深入了解科技创业融资和发展的关键问题。
-- [3 days left to lock in 50% off a second ticket to TechCrunch Disrupt 2026](https://techcrunch.com/2026/05/06/3-days-left-to-lock-in-50-off-a-second-ticket-to-techcrunch-disrupt-2026/) — 22:00
-  > TechCrunch Disrupt 2026大会推出限时优惠，购买一张门票可获得第二张门票五折优惠。此优惠有助于参展者在科技行业获得更多曝光机会。优惠截止日期为5月8日美国太平洋时间晚上11:59。
-- [AI boom pushes Samsung to $1T](https://techcrunch.com/2026/05/06/ai-boom-pushes-samsung-to-1t/) — 21:54
-  > 三星市值突破1万亿美元，成为继台积电之后第二家达到此里程碑的亚洲公司。这一增长得益于AI芯片需求的激增，推动三星股价大幅上升。
-- [Peter Sarlin&#8217;s QuTwo reaches $380M valuation in angel round](https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/) — 14:47
-  > Peter Sarlin创办的量子计算公司QuTwo在天使轮融资中估值达3.8亿美元。Sarlin强调QuTwo是一家AI公司，量子计算只是新型计算方式。公司将专注于企业级AI应用，AI是其核心战略方向。
-- [Marc Lore says that AI will soon enable anyone to open a restaurant](https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/) — 14:34
-  > 美国食品科技公司Wonder首席执行官马克·洛尔表示，人工智能将很快使任何人都能开餐厅。该公司计划将其机器人厨房转变为AI驱动的"餐厅工厂"，用户只需输入提示词就能创建虚拟食品品牌，无需专业厨师或传统厨房设施。
-- [SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw](https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/) — 07:50
-  > SAP计划以11.6亿美元收购德国AI初创公司Prior Labs，并将大力投资该公司。此举表明SAP致力于加强AI能力。同时，SAP限制客户仅能使用特定的AI代理，如英伟达的NemoClaw，以确保质量和安全性。
-- [Altara secures $7M to bridge the data gap that&#8217;s slowing down physical sciences](https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/) — 06:57
-  > Altara公司获得700万美元融资，致力于解决物理科学领域的数据鸿沟问题。该公司开发的AI技术通过统一分散在电子表格和遗留系统中的数据孤岛，帮助诊断故障并加速研究开发进程。
+> 共收录 **40** 篇，来自 **3** 个源 · 生成于 08:06 AM EDT
 
 ## Hacker News (10 篇)
 
-- [I built a WP plugin to solve the "AI Search" problem (YouTube-to-Blog and RAG)](https://www.indiehackers.com/post/i-built-a-wp-plugin-to-solve-the-ai-search-problem-youtube-to-blog-rag-z5dgPWkldjmyJnkaLzqe) — 20:19
-  > 开发者创建了一款WordPress插件，旨在解决"AI搜索"问题。该插件整合了YouTube转博客和检索增强生成（RAG）技术。通过这个插件，用户可以将YouTube视频内容转换为博客文章，并利用AI搜索功能提升内容的可搜索性和可发现性。该项目发布在独立开发者社区Indie Hackers上。
-- [What an AI productivity surge would mean for the fiscal outlook](https://www.axios.com/2026/05/06/ai-productivity-yale-fiscal-outlook) — 20:09
-  > 人工智能生产率提升对财政前景的影响分析。AI技术的广泛应用可能显著提高经济生产效率，进而增加税收基数、扩大GDP增长，改善政府财政状况。这将对长期债务管理、预算赤字和经济可持续性产生积极影响。同时需要考虑收入分配不均和劳动力结构调整等挑战。
-- [The Future Is Shrouded in an AI Fog](https://hbr.org/2026/04/the-future-is-shrouded-in-an-ai-fog) — 20:00
-  > 文章讨论了人工智能发展带来的不确定性。AI技术进步迅速，但其未来影响难以预测，被比作"浓雾"笼罩。文章强调了在AI时代，我们面临诸多未知挑战，包括技术发展方向、社会影响和伦理问题等，需要谨慎应对这种不确定性。
-- [Instead of picture puzzles: Google introduces QR code challenge against AI bots](https://www.heise.de/en/news/Instead-of-picture-puzzles-Google-introduces-QR-code-challenge-against-AI-bots-11273871.html) — 19:51
-  > 谷歌推出新型二维码验证码来对抗AI机器人。不同于传统的图片拼图验证码，新方案采用二维码识别技术，旨在更有效地区分真实用户和自动化程序。这一创新验证方式有望提升网站安全性，防止恶意机器人的滥用，同时改善用户体验。
-- [AI in the Breach: How an Adversary Leveraged AI to Target a Water Utility's OT](https://www.dragos.com/blog/ai-assisted-ics-attack-water-utility) — 19:38
-  > 一家水务公司遭到对手利用AI技术的网络攻击。攻击者通过AI辅助手段针对该水务公司的OT（运营技术）系统进行了有针对性的破坏活动。这起事件突显了AI技术被恶意利用，对关键基础设施构成的日益增长的安全威胁。
-- [Anthropic strikes SpaceX data center deal as it plows ahead on AI coding](https://www.reuters.com/business/retail-consumer/anthropic-unveils-dreaming-feature-help-its-ai-agents-self-improve-2026-05-06/) — 19:29
-  > Anthropic与SpaceX达成数据中心合作协议，推进AI编码业务发展。双方合作旨在为Anthropic的人工智能模型训练和部署提供必要的计算基础设施支持。这一合作体现了Anthropic在扩展AI能力方面的持续投入，同时也显示SpaceX在云计算和数据中心领域的战略拓展。
-- [Show HN: Bliss – a backlog quality scanner for AI-powered teams](https://trybliss.io/) — 19:29
-  > Bliss是一款针对AI驱动团队的积压任务质量扫描工具。它帮助开发团队检查和优化其产品待办事项的质量，确保任务描述清晰、可行性强。该工具特别适合使用AI辅助开发的团队，能提高任务管理效率和团队协作质量。
-- [Chasing AI Memory SOTA: Beating the Benchmark, Missing the Point](https://xmemory.ai/chasing-sota-in-ai-memory/) — 19:26
-  > 本文讨论了AI内存领域追求SOTA（state-of-the-art）基准的问题。虽然许多研究追求击败现有基准，但这样做可能忽视了真正的目标。文章暗示单纯优化基准分数未必能改进AI模型的实际内存管理能力，警示研究者不应本末倒置，需平衡基准性能与实际应用价值。
-- [I forget most of what I read, so I built an AI to quiz me on it](https://refresherai.com/) — 19:23
-  > 作者因为阅读后容易遗忘内容，开发了一款AI工具来帮助记忆。该工具通过测验的方式巩固用户对所读材料的理解。这是一个利用人工智能辅助学习、提高信息留存率的实用解决方案，反映了现代人面对信息爆炸时的记忆困境。
-- [Open-Ended Survey? Definition, Benefits, AI Analysis and How to Create One](https://figshare.com/articles/journal_contribution/_sup_strong_What_Is_an_Open-Ended_Survey_Definition_Benefits_AI_Analysis_How_to_Create_One_strong_sup_/32201577) — 18:56
-  > 本文介绍了开放式调查的定义、优势、AI分析方法和创建步骤。开放式调查允许受访者用自己的语言自由回答问题，而非选择预设选项。相比封闭式问卷，它能获得更深入的定性数据和真实见解。随着AI技术进步，可自动分析大量开放式回答，提高效率。文章指导如何设计和实施有效的开放式调查。
+- [Show HN: Rfp.ai – answer RFPs from approved docs, with source citations](https://rfp.ai/) — 20:02
+  > Rfp.ai是一个AI工具，能够基于获批文件自动回答招标书（RFP）问题，并提供源文件引用。该工具帮助企业快速准确地回应招标邀请，通过智能匹配批准的文档内容生成答案，同时标注信息来源，确保回复的真实性和可追溯性。
+- [Benchmarking AI agent retrieval strategies on Kubernetes bug fixes](https://www.cncf.io/blog/2026/05/08/benchmarking-ai-agent-retrieval-strategies-on-kubernetes-bug-fixes/) — 20:01
+  > 本文介绍了对Kubernetes bug修复中AI代理检索策略的基准测试研究。通过评估不同的信息检索方法，对比AI代理在识别和处理Kubernetes缺陷时的性能表现，为优化AI驱动的自动化修复工具提供参考数据和最佳实践指导。
+- [Building an Open Source 7MB AI Terminal with Agents and Code Editor (Rust/Tauri)](https://github.com/crynta/terax-ai) — 19:55
+  > 本文介绍了一个开源项目Terax AI，这是用Rust和Tauri框架开发的轻量级AI终端应用，大小仅7MB。该终端集成了AI代理和代码编辑器功能，提供了一个紧凑高效的开发环境。项目已发布在GitHub上供开发者使用和贡献。
+- [Gnome Surface next-generation AI desktop platform built with GirCore-SkiaSharp](https://github.com/GnomeMaui/surface) — 19:54
+  > GNOME Surface是基于GirCore和SkiaSharp技术构建的新一代AI桌面平台。该项目在GitHub上发布，旨在为GNOME桌面环境提供现代化的AI功能集成。GirCore提供GObject绑定支持，SkiaSharp则贡献强大的图形渲染能力。该平台在Hacker News获得讨论，展示了开源社区在AI桌面系统方面的最新探索。
+- [The Roadmap to Mastering Tool Calling in AI Agents](https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/) — 19:47
+  > 本文介绍了AI代理中工具调用的掌握路线图。工具调用使AI代理能够与外部系统和API交互，扩展其功能。文章阐述了如何设计、实现和优化工具调用机制，帮助开发者构建更强大、更灵活的AI系统。通过系统学习工具集成、错误处理和性能优化，可以有效提升AI代理的实用性和智能水平。
+- [Supportson-AI support widget with video calls, built by an AI co-founder($29/mo)](https://supportson.com) — 19:46
+  > Supportson是一款AI客服工具，具有视频通话功能，由AI联合创始人开发。该产品提供每月29美元的订阅服务，集成了人工智能技术的支持小工具，支持视频通话等多种客服方式，帮助企业提升客户服务效率和质量。
+- [Getting peak TOPS on a Ryzen AI 7 350 NPU](https://destevez.net/2026/05/getting-peak-tops-on-a-ryzen-ai-7-350-npu/) — 19:36
+  > AMD Ryzen AI 7 350 NPU芯片性能优化。文章讨论如何在该NPU上获得峰值运算性能，涉及硬件特性优化和软件调优策略。Ryzen AI 7 350是AMD新一代处理器集成的神经处理单元，性能评估对AI应用部署有重要参考意义。
+- [Blink – AI Assistant](https://blink-oi.vercel.app) — 19:28
+  > Blink是一个AI助手应用，部署在Vercel平台上。该项目在Hacker News上发布，目前获得1个赞。应用提供了相应的评论讨论链接，但暂未收到用户评论反馈。
+- [The Programmer After AI](https://gist.github.com/tamnd/11665e492d7a3b91ce54e26ecbd97248) — 19:27
+  > 这篇文章讨论了人工智能时代程序员的角色变化。随着AI工具的快速发展，传统编程工作的性质正在改变，程序员需要适应新的技能需求。文章可能探讨了AI如何辅助编程、自动化代码生成，以及程序员如何在AI时代保持竞争力等问题。
+- [Creativity and AI](https://roo.se/en/blog/creativity-and-ai/) — 19:24
+  > 本文探讨了创意与人工智能的关系。内容涉及AI如何影响创意工作、AI在创意领域的应用潜力，以及人类创意与AI创意之间的差异。该话题在技术社区引发讨论，反映出对AI时代创意未来的思考和关注。
+
+## TechCrunch AI (20 篇)
+
+- [Why you can never get your doctor to call you back](https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/) — 12:42
+  > 医疗行政工作人员工作量巨大，常难以应对。AI公司Basata开发自动化工具协助处理医疗行政任务，帮助员工应对沉重工作负担。但该公司未来将面临如何在增强员工能力和替代员工之间取得平衡的问题。目前员工更关注减轻工作压力。
+- [OpenAI launches new voice intelligence features in its API](https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/) — 06:24
+  > OpenAI推出API新语音智能功能。该功能可用于客服系统，同时在教育、创意内容平台等多个领域具有应用前景。
+- [Voi founders&#8217; new AI startup Pit has become the latest rising star out of Stockholm](https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/) — 05:02
+  > 斯德哥尔摩共享滑板车公司Voi的两位联合创始人创办了人工智能初创公司Pit，最近获得了16百万美元的种子轮融资，由知名风投a16z领投。Pit已成为斯德哥尔摩最新的创业明星。
+- [OpenAI introduces new &#8216;Trusted Contact&#8217; safeguard for cases of possible self-harm](https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/) — 04:20
+  > OpenAI推出新的"信任联系人"保护措施，为可能涉及自伤行为的情况提供安全保障。该功能是公司为保护ChatGPT用户而扩展的安全措施。当对话可能涉及自伤风险时，系统可通知用户指定的信任联系人，帮助及时干预和提供支持。
+- [Perplexity&#8217;s Personal Computer is now available to everyone on Mac](https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/) — 03:57
+  > Perplexity推出的个人电脑功能现已向所有Mac用户开放。该功能将AI代理集成到Mac系统中，使用户能够通过AI助手执行各种任务。这一更新使Perplexity的AI技术更加普及，让Mac用户可以更便捷地获取AI驱动的个人计算体验。
+- [Elon Musk&#8217;s lawsuit is putting OpenAI&#8217;s safety record under the microscope](https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/) — 03:21
+  > 埃隆·马斯克的诉讼案件使OpenAI的安全记录受到严格审查。该诉讼的关键在于OpenAI的营利性子公司是否能够增强或削弱其创立使命——确保人类从人工通用智能中受益。马斯克试图通过法律手段拆散OpenAI，其成败可能取决于该公司营利部门与安全使命的平衡问题。
+- [Bumble is getting rid of the swipe, CEO says](https://techcrunch.com/2026/05/07/bumble-is-getting-rid-of-the-swipe-ceo-says/) — 03:06
+  > Bumble首席执行官宣布将放弃滑动操作。公司计划转向人工智能方向，正开发AI约会助手"Bee"。CEO多次表示AI将成为爱情和关系的"超级加速器"，推动平台向智能化方向发展。
+- [How Anthropic’s Mythos has rewritten Firefox’s approach to cybersecurity](https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/) — 00:05
+  > 人工智能公司Anthropic开发的Mythos工具在Firefox浏览器中发现了大量高危漏洞。Mozilla的安全研究人员表示，该工具通过深度代码分析和漏洞检测能力，帮助Mozilla改进了Firefox的网络安全防护策略。这一合作成果为浏览器安全防护树立了新的标准。
+- [Startup Battlefield 200 applications close May 27: A shot at VC access, global visibility, TechCrunch coverage, and $100K](https://techcrunch.com/2026/05/07/startup-battlefield-200-applications-close-may-27-a-shot-at-vc-access-global-visibility-techcrunch-coverage-and-100k/) — 23:00
+  > TechCrunch Startup Battlefield 200项目报名截止至5月27日。申报创业公司可获得风投融资机会、全球曝光、TechCrunch媒体报道、10万美元无股权资金支持，以及其他扩展机会。
+- [Exhibit at TechCrunch Disrupt 2026: Get in front of 10,000 decision-makers before space runs out](https://techcrunch.com/2026/05/07/exhibit-at-techcrunch-disrupt-2026-get-in-front-of-10000-decision-makers-before-space-runs-out/) — 22:30
+  > TechCrunch Disrupt 2026展会邀请初创企业参展，在展厅展示产品以获得曝光和商机。展会将汇聚10000名决策者，参展企业可通过6英尺展台展示自身实力和获取融资机会。建议初创企业尽快预订展位，避免名额满员。
+- [Aurora&#8217;s Chris Urmson on why self-driving trucks are finally ready to scale](https://techcrunch.com/podcast/auroras-chris-urmson-on-why-self-driving-trucks-are-finally-ready-to-scale/) — 22:24
+  > Aurora自动驾驶卡车公司首席执行官Chris Urmson表示，自动驾驶技术已接近商业化规模。该公司去年4月启动商业无人驾驶运营，在达拉斯至休斯顿间运输货物，目前正从少数卡车扩展到今年的数百辆，标志着自动驾驶卡车产业已具备规模化条件。
+- [2 days left: Get 50% off a second pass to TechCrunch Disrupt 2026](https://techcrunch.com/2026/05/07/2-days-left-get-50-off-a-second-pass-to-techcrunch-disrupt-2026/) — 22:00
+  > TechCrunch Disrupt 2026大会门票促销即将截止。购票者可享受最高410美元的优惠，同时第二张门票可获得50%折扣。促销活动截止时间为5月8日太平洋时间晚上11:59，感兴趣者需抓紧时间报名参加。
+- [China&#8217;s Moonshot AI raises $2B at $20B valuation as demand for open source AI skyrockets](https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/) — 21:44
+  > 中国AI公司月之暗面（Moonshot AI）完成20亿美元融资，估值达200亿美元。公司4月份年化经常性收入超过2亿美元，主要由付费订阅和API使用量增长驱动。融资反映出开源AI需求激增的市场趋势。
+- [Spotify wants to become the home for AI-generated personal audio](https://techcrunch.com/2026/05/07/spotify-wants-to-become-the-home-for-ai-generated-personal-audio/) — 21:00
+  > Spotify推出新功能，允许用户通过Codex或Claude Code生成AI个性化音频内容，并将其导入Spotify平台。此举表明Spotify正致力于成为AI生成个人音频内容的主要平台，为用户提供定制化播客和音频体验，进一步拓展其音乐流媒体服务的边界。
+- [Spotify&#8217;s AI DJ now supports French, German, Italian, and Brazilian Portuguese](https://techcrunch.com/2026/05/07/spotifys-ai-dj-now-supports-french-german-italian-and-brazilian-portuguese/) — 20:20
+  > Spotify的AI DJ功能现已支持法语、德语、意大利语和巴西葡萄牙语。该功能使用人工智能生成个性化的电台节目，为用户提供音乐推荐和评论。此次语言扩展使更多欧洲和南美用户能够享受这一个性化音乐体验功能。
+- [Five architects of the AI economy explain where the wheels are coming off](https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/) — 13:25
+  > 五位掌控AI产业链各环节的人士在贝弗利山庄米尔肯全球会议上讨论了AI经济面临的问题。他们涉及芯片短缺、轨道数据中心等议题，甚至怀疑支撑整个技术的基础架构可能存在根本性缺陷。
+- [Barry Diller trusts Sam Altman. But &#8216;trust is irrelevant&#8217; as AGI nears, he says.](https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/) — 05:57
+  > 媒体大亨Barry Diller为OpenAI首席执行官Sam Altman辩护，表示虽然信任他，但随着人工通用智能（AGI）逼近，"信任变得无关紧要"。Diller警告称，AGI仍是需要防护措施的不可预测力量，强调在面对这一变革性技术时，仅有个人信任是不够的，需要更强有力的监管和保障机制。
+- [Snap says its $400M deal with Perplexity &#8216;amicably ended&#8217;](https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/) — 05:43
+  > Snap公司宣布与Perplexity的4亿美元合作协议"友好终止"。该合作去年11月宣布，原计划将Perplexity的AI搜索引擎集成到Snapchat应用中。双方未披露终止原因，但表示合作以友好方式结束。
+- [Is xAI a neocloud now?](https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/) — 05:32
+  > xAI的实际业务可能更侧重于建设数据中心，而非训练AI模型。这表明xAI正在转向基础设施建设，类似于云计算公司的运营模式。通过投资和运营大规模数据中心，xAI可能在建立自己的计算基础设施生态系统，以支持AI模型训练和部署。这种战略转变意味着xAI可能正在演变成一家"新云"公司。
+- [How Elon Musk left OpenAI, according to Greg Brockman](https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/) — 02:23
+  > 格雷格·布罗克曼透露了埃隆·马斯克与OpenAI分手的内幕。他指出,创业公司创始人之间的激烈谈判鲜少公开讨论,尤其是当公司变得如OpenAI那样改变世界的影响力时。这次披露打破了通常的保密惯例,揭示了这家人工智能巨头背后鲜为人知的创始人纠纷。
 
 ## The Verge AI (10 篇)
 
+- [Mira Murati’s deposition pulled back the curtain on Sam Altman’s ouster](https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster) — 03:55
+  > 2023年感恩节前，OpenAI首席执行官萨姆·阿尔特曼遭突然罢免。官方声称他在与董事会沟通中"不够坦诚"。通过诉讼中Mira Murati的证词和法庭证据，该事件的真相逐渐浮出水面，揭示了阿尔特曼被罢免的深层原因。
+- [Apple&#8217;s AirPods with cameras for AI are apparently close to production](https://www.theverge.com/tech/926376/apple-airpods-cameras-ai-production) — 03:39
+  > 苹果搭载摄像头的AI AirPods即将进入生产阶段。据彭博社记者Mark Gurman报道，该产品正处于设计验证测试阶段，苹果测试人员正在主动使用原型机，距离生产验证测试阶段仅一步之遥。这些AirPods的摄像头并非用于拍照，而是用于AI功能。
+- [SpaceX has a $55 billion plan to build AI chips in Texas](https://www.theverge.com/ai-artificial-intelligence/926356/spacex-terafab-plant-cost-ai-chips) — 03:26
+  > SpaceX计划在得克萨斯州奥斯汀投资至少55亿美元建设"Terafab"芯片制造厂。这是埃隆·马斯克进军AI芯片制造业的重大举措。该项目规模庞大，根据公开听证会通知文件透露，SpaceX将大力投资芯片生产能力，以支持人工智能产业发展。
+- [ChatGPT&#8217;s &#8216;Trusted Contact&#8217; will alert loved ones of safety concerns](https://www.theverge.com/ai-artificial-intelligence/925874/chatgpt-trusted-contact-emergency-self-harm-notification) — 02:00
+  > OpenAI为ChatGPT推出"可信联系人"功能。成年用户可指定紧急联系人，当AI检测到用户讨论自残或自杀等安全问题时，系统将通知指定的朋友、家人或护理者。这是一项可选的心理健康安全保护措施。
+- [Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit) — 01:40
+  > 埃隆·马斯克与萨姆·奥特曼就OpenAI的未来展开法庭对抗。2024年，马斯克起诉OpenAI背离创始使命，指控其放弃为人类造福的AI研发目标，转而追逐利润。该案可能深刻影响OpenAI及其ChatGPT产品的前景。
+- [OpenClaw and Claude can put your AI-generated podcasts in Spotify](https://www.theverge.com/entertainment/925916/save-to-spotify-ai-podcasts) — 22:15
+  > OpenClaw和Claude推出新工具，允许用户将AI生成的播客直接保存到Spotify。该命令行工具专为AI代理设计，用户可以收集研究资料，通过AI生成音频摘要和个人播客，并将其保存到Spotify平台上，实现AI内容创作与流媒体平台的集成。
+- [Google’s taking a big swing at AI health with the Fitbit Air](https://www.theverge.com/gadgets/925458/google-health-fitbit-air-ai-coaching-wearables-fitness-trackers) — 22:00
+  > Google推出售价99美元的Fitbit Air健身手环，采用无屏幕设计和金属织物表带。该产品在外观上与竞争对手Whoop手环相似，但Google正通过此举在AI健康领域进行重大布局，展示其在可穿戴设备和健康监测技术方面的投资。
 - [Musk’s biggest loyalist became his biggest liability](https://www.theverge.com/ai-artificial-intelligence/925665/musk-altman-trial-shivon-zilis-testimony) — 07:37
-  > 马斯克的亲密盟友希沃恩·齐利斯在法庭作证中成为了他的最大负债。她证实自己是马斯克四个孩子的母亲，在马斯克诉奥特曼案中出庭作证。这段证词引发了公众对她行为动机的质疑，成为该案件中的争议焦点。
+  > 埃隆·马斯克与山姆·奥特曼的诉讼案中，作为马斯克的亲密盟友和四个孩子的母亲，希沃恩·齐利斯出庭作证。这位曾经的忠实支持者反而成为马斯克的累赘，在法庭上引发关注。案件涉及两位科技界领袖之间的重大纠纷。
 - [Google shuts down Project Mariner](https://www.theverge.com/tech/925559/google-project-mariner-shut-down) — 05:21
-  > 谷歌已关闭Project Mariner项目，这是一项实验性功能，旨在为用户自动执行网络任务。根据报道，该项目已于2026年5月4日正式停止运营。该项目的登陆页面现已显示感谢信息，表明该功能已下线。
+  > 谷歌关闭了Project Mariner项目，这是一项为用户在网络上执行任务的实验性功能。该项目的登陆页面现已显示关闭通知，表明该项目已于2026年5月4日被关闭。具体原因未在报道中详细说明。
 - [How David Sacks crashed and burned in the White House](https://www.theverge.com/column/925487/david-sacks-trump-administration-ai-model-review) — 04:18
-  > 无法生成摘要。提供的新闻内容不完整，仅包含newsletter介绍和邀请订阅信息，缺少David Sacks在白宫失利的具体事实和细节。需要完整的新闻正文才能准确总结。
-- [Mira Murati tells the court that she couldn’t trust Sam Altman’s words](https://www.theverge.com/ai-artificial-intelligence/925338/openai-musk-v-altman-mira-murati) — 01:55
-  > OpenAI前首席技术官米拉·穆拉蒂在法庭作证称，CEO萨姆·奥特曼就新AI模型安全标准向她撒谎。在马斯克诉奥特曼案庭审中，穆拉蒂的视频证词显示，奥特曼虚假声称OpenAI法律部门认可该AI模型符合安全标准，导致穆拉蒂无法信任其言辞。
-- [Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit) — 23:37
-  > 埃隆·马斯克与山姆·奥特曼就OpenAI的未来进行诉讼对抗。马斯克在2024年提起诉讼，指控OpenAI背弃了开发造福人类的AI的创始使命，转而专注于追逐利润。该案件可能改变OpenAI及其知名产品ChatGPT的前景。
-- [Google&#8217;s AI search summaries will now quote Reddit](https://www.theverge.com/tech/924993/google-ai-search-mode-overviews-update-reddit-links) — 21:00
-  > 谷歌更新AI搜索功能，将在搜索结果中引入Reddit等社交媒体和网络论坛的"观点预览"功能，展示来自第一手来源的内容，帮助用户找到来自可信任源头的信息，并将搜索查询与相关在线讨论关联起来。
-- [Microsoft’s Office and LinkedIn chief now runs Teams in latest reshuffle](https://www.theverge.com/tech/924931/microsoft-office-copilot-windows-reorg-shuffle) — 19:45
-  > 微软LinkedIn负责人Ryan Roslansky去年扩大职责范围，成为Office部门负责人。在微软最新的领导层重组中，他的权力进一步扩大，Microsoft Teams组织将改为向他汇报。Roslansky将领导一个新的工作部门，整合Office和Teams等产品线。
-- [Chrome’s AI features may be hogging 4GB of your computer storage](https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features) — 18:13
-  > 谷歌Chrome浏览器因自动下载大型本地AI模型文件而占用过多存储空间。用户发现Chrome在系统文件夹中自动安装了4GB的weights.bin文件，导致设备可用存储空间显著减少。这个AI模型文件在某些情况下会被自动下载到浏览器系统文件夹中。
-- [Google Home&#8217;s Gemini AI can handle more complicated requests](https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade) — 05:46
-  > Google Home的Gemini AI助手已升级至3.1版本，现可处理更复杂的多步骤任务。用户可在单一命令中组合多个任务，Gemini将更好地理解和执行请求。此升级增强了这款智能家居助手的能力。
-- [Apple agrees to pay iPhone owners $250 million for not delivering AI Siri](https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement) — 05:18
-  > 苹果同意支付2.5亿美元和解集体诉讼，因被指控误导消费者关于Apple Intelligence功能的可用性。该和解适用于2024年6月10日后购买iPhone 16和iPhone 15 Pro的美国消费者。消费者购买这些机型时，苹果宣传的AI Siri功能实际未能按时交付。
+  > 大卫·萨克斯在白宫失利。这篇文章来自《Regulator》新闻通讯，该通讯专为Verge订阅者提供关于科技、政治和华盛顿内幕的报道。文章暗示萨克斯在白宫职位上遭遇挫折，但具体内容被截断，未能完整呈现。
