@@ -2,89 +2,95 @@
 layout: default
 ---
 
-# AI 日报 2026-05-13
+# AI 日报 2026-05-14
 
-> 共收录 **37** 篇，来自 **3** 个源 · 生成于 09:08 AM EDT
+> 共收录 **40** 篇，来自 **3** 个源 · 生成于 08:23 AM EDT
 
 ## Hacker News (10 篇)
 
-- [Show HN: An open source tool for generating macOS app icons with AI](https://github.com/TeamDev-IP/MoBrowser-App-Icon-Maker) — 21:03
-  > 一位软件工程师开发了免费开源工具，用AI生成macOS应用图标。该工具允许用户通过文字描述创建图标，支持多轮对话优化（如调整金属感、简化形状、添加玻璃效果等），可导出标准icns格式。无订阅、无水印、无积分限制，源码开放GitHub。需OpenAI API密钥。
-- [I built an email client for AI agents](https://yuzu-hub.github.io/inb/) — 21:01
-  > 开发者构建了一个专为AI代理设计的电子邮件客户端。该项目允许AI代理能够接收和发送电子邮件，扩展了AI在实际应用中的交互能力。这个工具为自动化工作流和AI助手处理电子邮件通信提供了新的可能性。
-- [Show HN: Chrome extension that blocks API keys from being pasted into AI tools](https://github.com/carlgaopapi-png/vaultbix-extension) — 20:55
-  > 一款Chrome浏览器扩展工具，能够防止API密钥被粘贴到AI工具中。该扩展通过检测剪贴板内容，识别并阻止包含API密钥等敏感信息的粘贴操作，保护用户的身份验证凭证不被意外泄露到AI应用程序。提高了API密钥的安全管理水平。
-- [Emergence of AI Self-Awareness Measured Through Game Theory](https://arxiv.org/abs/2511.00926) — 20:45
-  > 研究人员通过博弈论方法衡量AI自我意识的出现。该研究发表在arxiv上，利用博弈论框架来评估人工智能系统是否具有自我认知能力。通过设计特定的游戏场景和交互模式，科学家们尝试在AI系统中识别和测量自我意识的迹象，为理解AI认知发展提供新的实验方法。
-- [Reimagining the mouse pointer with AI [video]](https://www.youtube.com/watch?v=pZNzfQLgGsA) — 20:43
-  > 本文介绍了一项利用人工智能重新设计鼠标指针的创新项目。通过AI技术，研究者们重新思考了传统鼠标指针的功能和设计，使其更加智能化和高效。该视频展示了AI如何优化用户界面交互体验，使指针操作更加直观便利。这项技术可能会改变用户与计算机的交互方式。
-- [Mass Supply Chain Attack Hits TanStack, Mistral AI NPM and PyPI Packages](https://safedep.io/mass-npm-supply-chain-attack-tanstack-mistral/) — 20:41
-  > TanStack和Mistral AI的NPM及PyPI包遭遇大规模供应链攻击。攻击者通过篡改这些流行开源库的官方包，向其中注入恶意代码。该事件影响广泛，因为TanStack和Mistral的包被数百万开发者依赖。此类供应链攻击通过污染开发工具链威胁下游用户安全，是软件安全的严重隐患。
-- [Claude.ai is experiencing elevated error rates](https://status.claude.com/incidents/yn24rtdnf77b) — 20:39
-  > Claude.ai服务出现高错误率。根据官方状态页面报告，该平台当前遭遇服务中断，用户访问和使用Claude AI助手时可能遇到故障。具体原因和恢复时间需关注官方更新。建议用户稍后重试或查看状态页面获取最新信息。
-- [SQLite is the best home for AI agents](https://su3.io/posts/willow) — 20:26
-  > 这篇文章讨论了SQLite在AI代理中的应用优势。SQLite作为轻量级数据库，因其简洁性、可靠性和无需服务器的特点，成为构建AI代理系统的理想选择。相比复杂的数据库系统，SQLite提供了更好的集成体验和性能，适合AI代理存储和管理数据。
-- [Google says it likely thwarted effort by hacker group to use AI for 'mass](https://www.cnbc.com/2026/05/11/google-thwarts-effort-hacker-group-use-ai-mass-exploitation-event.html) — 20:26
-  > Google声称已阻止黑客组织利用人工智能进行大规模恶意活动的企图。该公司发现了这一威胁并采取措施予以制止,但具体细节未完全披露。此事反映了AI技术面临的安全风险,以及大型科技公司在防御网络威胁方面的重要角色。
-- [How agentic AI workflows use intelligent AI agents](https://www.kellton.com/kellton-tech-blog/what-are-agentic-ai-workflows) — 20:20
-  > 代理AI工作流是一种利用智能AI代理自主执行任务的方式。这些AI代理能够理解目标、规划行动步骤、执行任务并根据反馈进行优化。与传统AI系统相比，代理AI具有更强的自主性和决策能力，可应用于客服、数据分析、流程自动化等领域，提高效率和智能化水平。
+- [SicariusGuard – Solana token safety oracle for AI agents (MCP server)](https://github.com/Chronolapse411/sicarius-guard) — 19:52
+  > SicariusGuard是一个基于Solana区块链的代币安全预言机，专为AI代理设计。该项目采用MCP服务器架构，旨在帮助AI系统识别和防范Solana网络中的风险代币，提升交易安全性。该项目目前在GitHub上开源，在黑客新闻社区获得关注。
+- [A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat](https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/) — 19:47
+  > 一个由OpenAI和Palantir支持的政治行动委员会正通过暗资金活动，向TikTok影响者付费，散布关于中国AI威胁的恐慌信息。该活动旨在通过社交媒体影响力推动针对中国科技企业的不利舆论，引发关于科技巨头参与政治宣传的伦理争议。
+- [AI won't always make you faster](https://krellixlabs.com/en/blog/ai-wont-always-make-you-faster) — 19:42
+  > 这篇文章讨论了AI的一个常见误解：许多人认为AI工具必然会提高工作效率，但实际上AI并非总能加快速度。文章指出，AI的效果因应用场景而异，有时反而可能降低效率或引入新的复杂性。要充分发挥AI优势，需要合理评估具体需求，而非盲目追求AI的应用。
+- [AI Agents for Business in 2026](https://www.dhawalshah.net/article/ai-agents-for-business-2026/) — 19:13
+  > 本文讨论了2026年商业领域中AI代理的应用前景。AI代理作为自主运行的智能系统，将在企业自动化、决策支持和流程优化中发挥重要作用。预计AI代理将广泛应用于客户服务、数据分析、供应链管理等业务领域，帮助企业提高效率、降低成本，成为推动数字化转型的关键技术。
+- [65% of Girls Who Use AI-Assisted Devices See Them as "Friends"](https://www.girlscouts.org/en/footer/press-room/2026-press-announcements/research-finds-girls-view-ai-as-friends.html) — 18:58
+  > 美国女童子军研究发现，65%使用AI辅助设备的女孩将其视为"朋友"。这反映了年轻人与人工智能互动方式的转变，她们可能将AI设备视为情感伴侣或社交工具。该研究引发了对儿童与AI关系的讨论，涉及心理健康、社交发展等问题。
+- [Android rolling out AI 'Contextual suggestions' that learn from your habits](https://9to5google.com/2026/05/13/android-contextual-suggestions/) — 18:54
+  > Android推出智能"情境建议"功能，该功能能够学习用户的使用习惯。这项新功能利用AI技术，根据用户的日常行为模式和使用偏好，智能地提供个性化建议。该功能旨在改善用户体验，让Android系统更加贴近个人需求，提供更相关的应用推荐和快捷操作建议。
+- [US/China talks to make sure non-state actors don't get a hold of these AI models](https://www.cnbc.com/2026/05/14/us-china-ai-rules-bessent-us-lead.html) — 18:46
+  > 美国与中国进行会谈，旨在确保非国家行为体无法获得先进AI模型。双方讨论建立防护机制，防止恐怖分子、犯罪集团等非政府组织获取大型AI模型。这是美中两国在AI安全领域的重要合作，反映出国际社会对AI技术被滥用的共同关切和规范意愿。
+- [AI Font Detector: Smart Ways to Identify Fonts with Precision](https://www.tumblr.com/tracksaasly/816569321203613696/ai-font-detector-smart-ways-to-identify-fonts?source=share) — 18:18
+  > 本文介绍了AI字体检测技术，可以精准识别各类字体。该工具利用人工智能算法，通过分析字体特征，帮助设计师和开发者快速识别图片中使用的字体。这项技术在平面设计、网页开发等领域具有实用价值，能显著提高工作效率，节省手动搜索字体的时间。
+- [Researchers say AI just broke every benchmark for autonomous cyber capability](https://cyberscoop.com/ai-autonomous-cyber-capability-benchmarks-broken-gpt5-claude-mythos/) — 17:35
+  > 研究人员称，AI在自主网络能力测试中突破所有基准。最新的AI模型（如GPT-5和Claude等）在自动化网络安全任务上的表现超越了现有的所有评估标准，展示了AI在网络防御和攻击能力上的显著进步，引发了关于AI网络安全应用前景和潜在风险的讨论。
+- [Avocado Studio – open-source AI content editor for Next.js sites](https://docs.avocadostudio.dev) — 17:35
+  > Avocado Studio是一个开源AI内容编辑器，专为Next.js网站设计。该工具集成人工智能功能，帮助开发者更高效地创建和管理网站内容。作为开源项目，它为Next.js社区提供了免费的AI辅助编辑解决方案，支持开发者快速构建和优化网站内容管理工作流。
 
 ## The Verge AI (10 篇)
 
-- [Alexa is moving into Amazon.com](https://www.theverge.com/ai-artificial-intelligence/929457/amazon-announces-alexa-for-shopping-ai-assistant-rufus) — 21:00
-  > 亚马逊正将Alexa Plus集成到Amazon.com购物平台中。用户在亚马逊网站搜索时，将由新的购物助手Alexa for Shopping处理查询。该助手由Alexa Plus支持，采用大型语言模型技术驱动。例如搜索"卫生纸"时，Alexa将提供智能购物建议和帮助。
+- [You can make an app for that](https://www.theverge.com/tech/928905/vibe-code-personal-software-revolution) — 19:00
+  > 软件专制时代即将终结。长期以来，用户被迫接受程序员设计的软件世界，无法改变其功能和设计。若要获得更好体验，用户必须学习编程。文章暗示这一现状即将改变，用户将获得更多自主权。
+- [Microsoft&#8217;s Edge Copilot update uses AI to pull information from across your tabs](https://www.theverge.com/tech/930188/microsoft-edge-copilot-ai-tabs) — 06:04
+  > 微软Edge浏览器更新了Copilot AI功能，允许用户在对话中询问关于所有打开标签页的内容。用户可以要求Copilot回答标签页中的信息、比较浏览的产品、总结打开的文章等。该功能让用户更高效地整合和分析多个网页信息。
+- [Mark Zuckerberg announces &#8216;completely private&#8217; encrypted Meta AI chat](https://www.theverge.com/tech/929791/meta-ai-incognito-chats) — 00:45
+  > Meta首席执行官马克·扎克伯格宣布推出"完全私密"的加密聊天产品Incognito Chat。该功能是首个不在服务器上存储对话记录的主要AI产品。用户消息不会被保存或存储在聊天历史中，类似于其他AI聊天机器人的隐私模式，但Meta声称其版本有所不同。
+- [Microsoft doesn’t want any of this](https://www.theverge.com/ai-artificial-intelligence/929692/microsoft-musk-altman-openai-trial) — 23:30
+  > 微软在马斯克诉奥特曼案件中表现出色。作为第三周的旁听者，记者对微软产生了好感。微软的开场陈词非常"微软风格"，显示他们并不想卷入此诉讼。微软在法庭上的表现令人印象深刻，展现了公司的专业态度和低调风格。
+- [Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit) — 23:28
+  > 埃隆·马斯克与山姆·奥特曼就OpenAI的未来展开高风险诉讼。马斯克在2024年提起诉讼,指控OpenAI背弃开发造福人类AI的创始使命,转而追求利润最大化。此案可能改变OpenAI及其主要产品ChatGPT的发展方向。
+- [Alexa is moving into Amazon․com](https://www.theverge.com/ai-artificial-intelligence/929457/amazon-announces-alexa-for-shopping-ai-assistant-rufus) — 21:00
+  > 亚马逊将Alexa Plus集成到Amazon.com购物平台中。用户在亚马逊网站搜索商品时，将由Alexa for Shopping购物助手处理查询请求。这款助手由Alexa Plus大语言模型驱动，旨在增强购物体验。例如搜索"卫生纸"将获得更智能的结果呈现。
 - [Data centers are coming for rural America](https://www.theverge.com/ai-artificial-intelligence/928963/data-center-rural-america-jobs-jay-maine) — 17:00
-  > 缅因州农村小镇杰伊的安德罗斯科金纸浆厂在2020年爆炸后永久关闭，曾雇用1500人。2023年，该140万平方英尺的厂房被JGT2重建公司等通过合资企业收购，将改造为数据中心，为农村地区带来新的经济机遇和就业机会。
+  > 缅因州农村小镇杰伊的安德罗斯科金纸浆厂在2020年爆炸后永久关闭，曾雇用1500人。2023年，该140万平方英尺的厂房被JGT2再开发公司等联合收购。数据中心正在进入美国农村地区，为当地经济衰退的社区带来新机遇。
 - [Sam Altman was winning on the stand, but it might not be enough](https://www.theverge.com/ai-artificial-intelligence/929129/sam-altman-testimony-elon-musk-openai-trial) — 07:23
-  > Sam Altman出庭作证，为自己被控盗窃慈善机构的指控进行辩护。经过两周听取证人证词后，陪审团最终听到了被告本人的陈述。虽然Altman的律师William Savitt在法庭上为其进行了有力的质证，但这可能仍不足以完全扭转局面。案件涉及慈善机构资产争议。
+  > OpenAI首席执行官Sam Altman出庭作证，为自己被指控窃取慈善机构的指控进行辩护。经过两周听取多位证人证词后，陪审团终于听到了被告本人的证词。Altman强调他们通过艰苦工作创建了相关机构。尽管他在法庭上表现出色，但这可能仍不足以扭转局面。案件涉及对其诚实性和商业操守的质疑。
 - [Meta won’t let you block its AI account on Threads](https://www.theverge.com/tech/929091/meta-ai-threads-account-block) — 04:35
-  > Meta宣布在Threads平台测试新功能，允许用户标记Meta AI账户以获取问题答案或对话背景信息。该功能类似于X平台上的相关做法。值得注意的是，用户无法屏蔽Meta AI账户，这引发了对用户隐私和平台控制权的讨论。
+  > Meta宣布在Threads平台测试新功能，用户可以标记Meta AI账户来获取问题答案或对话背景信息。这项功能类似于X平台上的AI助手功能。Meta似乎在AI聊天机器人集成方面跟随竞争对手步伐，为用户提供便捷的AI辅助服务。
 - [Sam Altman says Elon Musk’s mind games were damaging OpenAI](https://www.theverge.com/ai-artificial-intelligence/928861/openai-sam-altman-elon-musk-damage) — 01:34
-  > OpenAI首席执行官萨姆·奥特曼在埃隆·马斯克诉讼中作证时表示，马斯克的"心理战"对OpenAI公司文化造成了巨大损害。奥特曼指控马斯克要求OpenAI高管对研究人员进行排名并大幅裁员。这些行为对公司造成了负面影响。
-- [The 9 biggest new features in Android 17](https://www.theverge.com/tech/928653/google-android-17-9-biggest-new-features-android-show-io) — 01:00
-  > Android 17推出多项新功能，包括AI驱动的改进听写和情绪识别小部件。非AI功能方面，系统将迎来表情符号大改版和新的屏幕时间工具，帮助用户避免分心应用。Google公布了平台的主要更新内容。
-- [Gemini&#8217;s latest updates are all about controlling your phone](https://www.theverge.com/tech/928724/gemini-intelligence-android-io-autofill) — 01:00
-  > 谷歌在Android展示会上推出多项Gemini新功能，旨在帮助用户控制手机。新功能将集成到Chrome浏览器、自动填充建议和各类应用中，使用户可以更方便地使用Gemini助手。这些更新让Gemini在Android生态中的应用范围进一步扩大。
-- [Parents say ChatGPT got their son killed with bad advice on party drugs](https://www.theverge.com/ai-artificial-intelligence/928691/openai-chatgpt-wrongful-death-overdose) — 00:30
-  > 一名19岁大学生的家属控告OpenAI，称其子与ChatGPT的对话导致意外过量用药致死。起诉书指控ChatGPT鼓励该少年服用危险药物组合，任何执业医生都会认识到这是致命的。该案例引发关于AI安全责任的重要法律问题。
-- [Sam Altman takes the stand in trial against Elon Musk](https://www.theverge.com/ai-artificial-intelligence/916975/altman-takes-stand-elon-musk-openai-trial) — 00:05
-  > OpenAI首席执行官山姆·奥特曼在加州联邦法庭对埃隆·马斯克的诉讼中开始作证。奥特曼和OpenAI总裁格雷格·布罗克曼是马斯克诉讼的主要被告。三人都是OpenAI初创团队的成员，马斯克曾为公司投资。
-- [George Clooney, Tom Hanks, and Meryl Streep back new &#8216;Human Consent Standard&#8217; for AI licensing](https://www.theverge.com/ai-artificial-intelligence/928534/rsl-media-human-consent-standard) — 00:00
-  > 好莱坞演员乔治·克鲁尼、汤姆·汉克斯和梅丽尔·斯特里普等支持新的"人类同意标准"AI许可协议。该标准允许个人为AI使用其肖像、创意作品、角色和设计设定条款，包括授予完全许可或拒绝使用等权限，解决AI时代的创意内容保护问题。
+  > OpenAI首席执行官萨姆·阿尔特曼在埃隆·马斯克诉讼案中作证时表示，马斯克的"心理战"对OpenAI造成了巨大伤害。阿尔特曼指控马斯克曾要求OpenAI高管按研究人员成就排名，并大幅裁员。阿尔特曼认为这些举措对公司文化造成了严重负面影响。
 
-## TechCrunch AI (17 篇)
+## TechCrunch AI (20 篇)
 
+- [Who decides what AI tells you? Campbell Brown, once Meta&#8217;s news chief, has thoughts](https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/) — 14:05
+  > 前Meta新闻主管坎贝尔·布朗指出，关于AI信息来源的决策权存在巨大分歧。硅谷科技公司与普通消费者对AI应该呈现哪些信息的看法截然不同。这反映了AI透明度和内容控制权的核心问题，即谁有权决定AI向用户传达的信息内容。
+- [Clio&#8217;s $500M milestone arrives just as Anthropic ups the ante](https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/) — 13:24
+  > 法律科技初创公司Clio刚刚达到5亿美元年经常性收入（ARR）里程碑，正在经历大规模用户增长。与此同时，Anthropic公司也在提高竞争力度。这表明法律科技领域的市场需求旺盛，初创公司面临快速增长机遇，同时也面临来自大型科技公司的竞争压力。
+- [Notion just turned its workspace into a hub for AI agents](https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/) — 05:45
+  > Notion推出新开发者平台，允许团队直接在工作区内连接AI代理、外部数据源和自定义代码。此举标志着Notion进一步深入探索智能代理生产力软件领域，旨在将工作区转变为AI代理的集成枢纽，提升团队的协作效率和自动化能力。
+- [Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center](https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/) — 03:49
+  > 马斯克旗下xAI公司在密西西比州数据中心运营近50台燃气涡轮机引发诉讼。该公司将"移动式"燃气涡轮机作为电源使用，为其Colossus 2数据中心提供电力。这些涡轮机的运营方式面临法律挑战。
+- [Anthropic&#8217;s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are](https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/) — 03:28
+  > Anthropic产品负责人Cat Wu表示，未来AI的发展方向是主动性。她认为下一个重要进步是让AI在用户意识到需求之前，就能预测并满足用户的需求。这将使AI从被动响应转变为主动服务，代表AI能力的重大升级。
+- [Who trusts Sam Altman?](https://techcrunch.com/2026/05/13/who-trusts-sam-altman/) — 00:31
+  > 山姆·阿尔特曼在联邦法庭作证时表示自己是诚实可信的商人。但这个声明需要背景理解——此前他因信任问题面临法律审查。这反映了他作为OpenAI首席执行官在管理和透明度方面引发的争议，引发关于领导力、企业治理和业界信任的更广泛讨论。
+- [Origin Lab raises $8M to help video game companies sell data to world-model builders](https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/) — 00:22
+  > Origin Lab融资800万美元，致力于打造视频游戏数据交易平台。该平台连接AI实验室和游戏公司，允许后者向前者出售高质量的授权数据，用于训练世界模型。这为游戏行业创造新的变现途径，同时为AI开发者提供丰富的训练数据来源。
+- [Anthropic courts a new kind of customer: small business owners](https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/) — 00:00
+  > Anthropic推出面向小企业主的新产品，标志着AI平台竞争向中下游市场扩展。业界认为，AI用户争夺的下一个主战场不再是财富500强企业，而是美国经济基础的3600万家中小企业。这反映了AI行业的商业化策略正在调整，瞄准更广泛的市场。
+- [Amazon launches an AI shopping assistant for the search bar, powered by Alexa+](https://techcrunch.com/2026/05/13/amazon-launches-an-ai-shopping-assistant-for-the-search-bar-powered-by-alexa/) — 22:59
+  > 亚马逊推出基于Alexa+的AI购物助手。该助手支持语音和触屏交互，可在手机、电脑和Echo Show智能屏幕上使用。它能提供个性化购物推荐，自动化购物体验，并支持在亚马逊及其他在线零售商进行购物。
+- [Introducing the 6 stages at TechCrunch Disrupt 2026 — built for today’s tougher startup market](https://techcrunch.com/2026/05/13/introducing-the-6-stages-of-techcrunch-disrupt-2026-built-for-todays-tougher-startup-market/) — 22:00
+  > TechCrunch Disrupt 2026将于10月13-15日举办，设置六个舞台，汇集200+场会议和250+位科技领袖，探讨当今创业市场挑战。早期注册可享受最高410美元优惠，第二张门票享五折。
+- [Anthropic now has more business customers than OpenAI, according to Ramp data](https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/) — 22:00
+  > 根据金融科技公司Ramp的客户支出数据调查，Anthropic的商业客户数量已超过OpenAI。在参与调查的企业中，34.4%付费使用Anthropic服务，高于仅有32.3%付费使用OpenAI的比例。这标志着Anthropic在商业市场上的竞争力显著提升。
+- [WhatsApp adds an incognito mode in Meta AI chats](https://techcrunch.com/2026/05/13/whatsapp-adds-an-incognito-mode-in-meta-ai-chats/) — 22:00
+  > WhatsApp在Meta AI聊天中新增隐身模式。在该模式下，对话不会被保存，关闭聊天后消息会自动消失。这一功能增强了用户隐私保护，使用户在与AI交互时更加放心。
+- [Poppy debuts a proactive AI assistant to help organize your digital life](https://techcrunch.com/2026/05/13/poppy-debuts-a-proactive-ai-assistant-to-help-organize-your-digital-life/) — 21:27
+  > Poppy是一款AI助手应用，可连接日历、邮件、消息等多个服务。它能根据用户的实际生活情况，主动推送提醒、建议和任务，帮助用户有效整理和管理数字生活，提高生活和工作效率。
 - [Adaption aims big with AutoScientist, an AI tool that helps models train themselves](https://techcrunch.com/2026/05/13/adaption-aims-big-with-autoscientist-an-ai-tool-that-helps-models-train-themselves/) — 20:11
-  > Adaption公司推出AutoScientist工具，这是一款AI软件，能帮助机器学习模型通过自动化方法快速适应特定能力。该工具改进了传统微调流程，使模型能够更高效地自我训练和优化，无需大量人工干预。
+  > Adaption公司推出AutoScientist，一款AI工具，可使模型通过自动化方法快速适应特定任务。该工具自动化了传统微调过程，让模型能够自我优化和训练。这项创新旨在提高模型的效率，降低手动调整成本，加速AI模型的定制化部署。
 - [Medicare&#8217;s new payment model is built for AI, and most of the tech world has no idea](https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/) — 08:26
-  > 美国医疗保险计划Medicare推出新的支付模式，首次为AI代理提供资金支持。该模式允许支付AI监测患者情况、定期电话随访、协调住房转介、督促患者按时用药等服务。这填补了政府医疗支付体系中的空白，为医疗AI应用创造了新机制。
+  > 美国医保（Medicare）推出新支付模式，首次建立了为AI代理付费的机制。该模式允许支付AI代理在患者就诊间隔期间的监护工作，包括跟踪检查、协调住房转介和确保患者按时用药等服务。这一创新为AI在医疗领域的应用开辟了新途径。
 - [Musk mulled handing OpenAI to his children, Altman testifies](https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/) — 02:05
-  > 根据奥特曼作证，马斯克曾考虑将OpenAI交给子女。奥特曼表示，马斯克专注于控制初始营利实体令他担忧，因为OpenAI致力于防止先进AI技术被单人控制。奥特曼基于Y Combinator的经验知道，拥有控制权的创始人通常不会放弃权力。
+  > 根据Altman的证词，马斯克曾考虑将OpenAI交给自己的子女。Altman对此感到担忧，因为OpenAI的初衷是防止先进AI技术掌握在单个人手中。Altman凭借Y Combinator加速器的经验认识到，掌权的创始人通常不会主动放权。
 - [Anthropic warns investors against secondary platforms offering access to its shares](https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/) — 01:36
-  > Anthropic警告投资者谨慎对待声称提供其股份交易的第三方平台。公司在支持页面声明，通过这些非官方渠道进行的任何股票交易或转让都无效，公司不予认可。Anthropic强调只有通过官方授权渠道的股份交易才有效，投资者应避免在未经验证的平台上进行相关交易。
+  > Anthropic警告投资者避免从二级交易平台购买其股份。公司声明，通过这些平台出售或转让Anthropic股票的任何交易均无效，不会在公司账簿和记录中获得认可。此举旨在保护投资者免受欺诈，确保股份交易的合法性和真实性。
 - [Report: Google and SpaceX in talks to put data centers into orbit](https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/) — 01:30
-  > 谷歌与SpaceX正商讨在轨道上建设数据中心，计划将空间作为人工智能计算的未来家园。尽管目前太空数据中心的成本远高于地面，但两家公司仍看好这一前景。此举代表了科技巨头探索新兴计算基础设施的雄心。
+  > 谷歌与SpaceX正在商讨将数据中心部署到轨道上。双方将太空定位为AI计算的未来家园，尽管目前太空数据中心的成本远高于地面设施。这一合作代表了云计算和航天技术的前沿探索。
 - [Everything Google announced at its Android Show, from Googlebooks to vibe-coded widgets](https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/) — 01:01
-  > 谷歌在Android发布会上推出多项创新产品和功能，包括搭载AI的Googlebooks笔记本电脑、功能更强大的Gemini AI助手新特性、支持氛围编码的Android小部件、Chrome浏览器中的Gemini集成功能，以及焕新的Android Auto界面等，为即将到来的I/O大会做准备。
+  > Google在Android展览会上发布了多项新产品和功能，包括AI驱动的Googlebooks笔记本电脑、更具代理能力的Gemini功能、氛围编码的Android小部件、Chrome浏览器中的Gemini集成、更新的Android Auto等。这些创新展示了Google向AI优先战略的转变。
 - [Google adds Gemini-powered dictation to Gboard, which could be bad news for dictation startups](https://techcrunch.com/2026/05/12/google-adds-gemini-powered-dictation-to-gboard-which-could-be-bad-news-for-dictation-startups/) — 01:00
-  > 谷歌为Gboard输入法集成了Gemini AI驱动的语音转文字功能，首先在三星Galaxy和谷歌Pixel手机上推出。该功能利用AI技术提升语音识别和转录准确度，可能对专注于语音转录的初创公司构成竞争威胁，因为谷歌整合的解决方案更便捷、成本更低。
-- [The AI legal services industry is heating up — Anthropic is getting in on the action](https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/) — 01:00
-  > 人工智能法律服务行业持续升温。Anthropic推出新工具,旨在帮助律师事务所自动化具体文案工作,包括文件搜索与审阅、案例法律资源、证词准备、文件起草等相关领域。这标志着Anthropic正式进入法律科技市场竞争。
-- [Google brings agentic AI and vibe-coded widgets to Android](https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/) — 01:00
-  > 谷歌为Android带来了智能AI助手和新型小部件。Gemini Intelligence将新增基于Gboard的语音输入和自动填表功能。这些智能代理AI功能可提高用户的工作效率，帮助自动化日常任务。新的小部件设计融入了"氛围编码"元素，使Android界面更加个性化和现代化。
-- [Google&#8217;s &#8216;Create My Widget&#8217; feature will let you vibe-code your own widgets](https://techcrunch.com/2026/05/12/googles-create-my-widget-feature-will-let-you-vibe-code-your-own-widgets/) — 01:00
-  > Google推出"Create My Widget"功能，允许用户通过自然语言描述来创建自定义小部件。用户只需用自然语言表达需求，如"每周推荐三个高蛋白食谱"，系统就能生成相应的仪表盘小部件，用户可在主屏幕上添加和调整其大小。
-- [Threads tests a Meta AI integration that works similarly to Grok](https://techcrunch.com/2026/05/12/threads-tests-a-meta-ai-integration-that-works-similarly-to-grok/) — 00:34
-  > Meta公司在Threads平台测试人工智能集成功能，功能设计类似于Elon Musk的Grok。该功能旨在帮助用户在对话中获得实时趋势信息和突发新闻背景，并获得个性化推荐。此举意在增强Threads的内容推荐能力，提升用户体验。
-- [Dessn raises $6M for its production-focused design tool](https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/) — 21:00
-  > Dessn是一家新创公司，已融资600万美元。该公司致力于开发与生产代码库直接协作的AI设计工具，专注于提升设计与生产环节的效率整合。
-- [AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals](https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/) — 19:30
-  > AI语音创业公司Vapi估值达5亿美元，击败40多家竞争对手赢得亚马逊Ring合作。Vapi表示自2025年初以来企业业务增长十倍，随着公司将客户支持和销售电话转向AI代理，其市场需求激增。
-- [Thinking Machines wants to build an AI that actually listens while it talks](https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/) — 12:52
-  > Thinking Machines公司正开发一种新型AI模型，改变现有AI的交互方式。传统AI采用"你说我听，我说你听"的顺序模式，而该公司的模型可在处理输入的同时生成回应，使交互更像真实通话，而非文字往来。
-- [Riding an AI rally, Robinhood preps second retail venture IPO](https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/) — 08:09
-  > 罗宾汉公司在AI热潮推动下，为其第二只风险基金秘密提交上市申请。该新基金主要投资对象为成长期和早期初创企业，旨在把握当前AI产业快速发展带来的投资机遇。这是罗宾汦继首只基金后的又一重要举措。
-- [GM just laid off hundreds of IT workers to hire those with stronger AI skills](https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/) — 07:04
-  > 通用汽车公司裁减了数百名IT员工，以招聘具有更强人工智能技能的人才。新职位主要集中在AI原生开发、数据工程与分析、云基础设施工程、智能体和模型开发以及提示工程和新型AI工作流等领域。此举反映了传统制造企业对AI人才的迫切需求。
-- [Digg tries again, this time as an AI news aggregator](https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/) — 01:02
-  > Digg网站重新启动，这次定位为AI驱动的新闻聚合平台。公司在给测试用户的邮件中表示，该网站目标是"追踪领域内最具影响力的声音"，并展现真正值得"关注"的新闻。这是Digg在重新定义自身价值后的又一次尝试。
+  > 谷歌为Gboard虚拟键盘添加了Gemini驱动的听写功能，将首先在三星Galaxy和谷歌Pixel手机上推出。这一功能可能对专门从事听写服务的初创公司构成威胁，因为谷歌凭借其技术优势和庞大用户基础，能够提供更便捷的内置听写解决方案，可能挤压这些公司的市场空间。
