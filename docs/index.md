@@ -2,69 +2,59 @@
 layout: default
 ---
 
-# AI 日报 2026-05-17
+# AI 日报 2026-05-18
 
-> 共收录 **27** 篇，来自 **3** 个源 · 生成于 07:57 AM EDT
+> 共收录 **22** 篇，来自 **3** 个源 · 生成于 10:27 AM EDT
 
 ## Hacker News (10 篇)
 
-- [Every AI Subscription Is a Ticking Time Bomb for Enterprise](https://www.thestateofbrand.com/news/ai-subscription-time-bomb) — 19:49
-  > 企业AI订阅存在风险。文章指出，随着企业采用越来越多的AI工具和订阅服务，成本控制和技术管理变得困难。企业面临订阅费用不断累积、供应商锁定、数据安全和隐私等问题。同时，AI技术快速迭代导致订阅服务可能过时。企业需要制定策略管理AI订阅，避免成为"定时炸弹"。
-- [Kaiden: Workstation AI Sandbox Desktop Application](https://openkaiden.ai/) — 19:47
-  > Kaiden是一款工作站AI沙箱桌面应用程序。该应用为用户提供了一个隔离的计算环境，用于运行和测试AI模型。通过沙箱机制，用户可以安全地探索AI功能，而不会影响主系统。该工具适合开发者和AI研究人员在本地环境中进行实验和开发工作。
-- [Mnemonicai – AI that learns from your company's work, not your docs](https://mnemonic.nishantvanawala6118.workers.dev) — 19:28
-  > Mnemonicai是一款AI工具，通过学习企业实际工作过程而非文档来提升工作效率。该产品采用创新方法，直接从员工的日常工作中获取知识，而不是依赖传统文档。这种方式能更准确地反映企业的真实运营流程和最佳实践，帮助AI更好地理解和辅助业务工作。
-- [AI in Finance: What Is Working Today](https://members.sigmazero.cc/posts/ai-in-finance-is-157955538?postId=ai-in-finance-is-157955538) — 19:28
-  > 文章讨论了当前金融领域AI应用的实际效果。内容涵盖了AI在金融行业中已验证可行的具体应用场景和技术方案。文章来自SigmaZero会员平台，在Hacker News上获得2个赞。通过分析AI在金融实践中的成功案例，为行业从业者提供参考和启示。
-- [American Jobs with AI Exposure Are Starting to Disappear, Data Show](https://gizmodo.com/american-jobs-with-ai-exposure-really-are-starting-to-disappear-data-show-2000759602) — 19:04
-  > 美国数据显示，易受AI影响的工作岗位正在消失。研究表明，随着人工智能技术的发展和应用，具有高AI暴露度的职位数量开始下降。这反映出AI对劳动力市场的实际冲击已经开始显现，可能导致相关行业就业压力增加。
-- [Some Asexuals Are Using AI Companions for Intimacy Without the Sex](https://www.wired.com/story/some-asexual-people-are-using-ai-companions-for-intimacy-without-the-sex/) — 19:02
-  > 一些无性恋者正在使用AI伴侣来满足亲密需求，而无需涉及性行为。这些AI虚拟伴侣为无性恋群体提供了情感连接和陪伴的新方式，使他们能够建立有意义的关系，同时避免传统约会中的性期望压力。AI伴侣技术为这一群体开辟了独特的亲密体验途径。
-- [Why our AI agent needed a causal graph, not just a RAG database](https://openyf.dev/blogs/world-model) — 18:22
-  > 本文讨论AI代理为何需要因果图而非仅依赖RAG数据库。传统RAG检索方法无法理解变量间的因果关系，容易产生错误推理。因果图能建立事物间的逻辑因果连接，帮助AI代理进行更准确的推断和决策。这对构建更智能、可靠的AI系统至关重要。
-- [My Thoughts on AI, Part 1: Fears, Opinions, and Mental Journey](https://blog.isquaredsoftware.com/2026/05/ai-thoughts-part-1-fears-opinions-journey/) — 17:50
-  > 本文是作者关于人工智能的思考第一部分，探讨了对AI的恐惧、个人观点和心理历程。文章发表在个人技术博客上，在黑客新闻平台获得1个赞，暂无评论。该文章系列将深入讨论AI相关话题。
-- [Fellow Artists, I'm Begging You to Pull Your Heads Out of the Sand About AI](https://glasshalftrue.substack.com/p/fellow-artists-im-begging-you-to) — 17:25
-  > 这篇文章呼吁艺术家们正视人工智能对创意产业的影响，不要回避这一现实。作者认为艺术家应该积极了解和参与AI相关讨论，而非选择忽视或逃避。文章强调艺术工作者需要主动应对AI带来的挑战与机遇，以保护自身利益并塑造行业未来发展方向。
-- [Towards local plug-and-play AI](https://adlrocha.substack.com/p/adlrocha-towards-local-plug-and-play) — 16:30
-  > 本文讨论本地插即用人工智能的发展趋势。传统AI模型通常依赖云端服务器运算，而本地AI则将模型部署在用户设备上，实现离线使用、数据隐私保护和低延迟响应。这种方向有望使AI技术更易获取、更加安全，成为未来AI应用的重要发展方向。
+- [Show HN: Dataset for AI training and fine tuning](https://neurvance.com/) — 22:22
+  > 用户分享了一个免费的AI训练数据集平台Neurvance，汇集了高质量的CC0许可数据。数据托管在neurvance.com和HuggingFace上，供开发者免费使用。同时提供符合欧盟第十条款的数据溯源合规文件，用以证明训练数据的合法来源，该文件需付费购买。
+- [Steven Soderbergh defends using AI in a documentary about John Lennon](https://apnews.com/article/john-lennon-steven-soderbergh-ai-cannes-documentary-7794a4344ed455cae4c5780fa6610860) — 22:22
+  > 导演史蒂文·索德伯格为在约翰·列侬纪录片中使用AI技术进行辩护。该纪录片在戛纳电影节展映，索德伯格认为AI技术是创意工具，能帮助讲述故事。尽管存在争议，他主张合理使用AI不会贬低艺术创作的价值，反而能拓展电影制作的可能性。
+- [AI Revenue May Jump 5x to $200B This Year as Spending Race Intensifies](https://www.fidelity.com/news/article/company-news) — 22:21
+  > 根据富达投资预测，今年AI行业收入可能增长5倍，达到2000亿美元。随着科技企业在AI领域的支出竞争加剧，包括芯片、软件和服务在内的各个环节都迎来快速增长。这反映了AI技术商业化进程加速，企业和资本对AI产业的投资热度持续升温。
+- [Show HN: Uber burned its 2026 AI budget by April. Why? 73% redundant reads](https://argosbrain.com/blog/re-read-tax) — 22:19
+  > Uber因重复读取问题在四月就耗尽了2026年AI预算。该文章指出，73%的数据读取操作是冗余的，这意味着系统频繁重复读取相同数据，造成严重的资源浪费。这个问题导致计算成本和能源消耗大幅增加，影响了Uber的AI项目效率和预算规划。优化数据读取策略成为亟待解决的问题。
+- [The Simplicity Trap: Why AI is making us "simple" in the wrong way (or not)](https://higashi.blog/2026/05/09/simplicity/) — 22:17
+  > 这篇文章讨论了AI在简化事物方面的双重影响。作者指出，AI虽然在某些方面能将复杂问题变得简单易懂，但这种过度简化可能导致人们忽视问题本质的复杂性。文章强调需要在追求简洁和保留必要复杂性之间找到平衡，避免因为便利而牺牲深度理解和准确性。
+- ['AI' Could Lead to a Rise in Research Slop](https://www.nominalnews.com/p/ai-research-slop-p-hacking) — 22:15
+  > AI可能导致研究质量下降。大量使用AI生成内容可能引发"研究垃圾"问题，即研究人员利用AI快速生成论文，但缺乏严谨性和原创性。这会导致科学文献充斥低质量研究，损害学术诚信，影响科学进步。研究界需要建立相应规范和审查机制，防止AI被滥用于学术出版。
+- [Building a Solidarity Ecosystem for AI](https://ssir.org/articles/entry/artificial-intelligence-solidarity-ecosystem) — 21:32
+  > 本文探讨建立人工智能团结生态系统的必要性。在AI快速发展背景下，需要构建包含多方利益相关者的协作框架，确保AI发展更加公平、透明和负责任。该生态系统应促进技术开发者、政策制定者、社区和受影响群体的对话与合作，以实现AI的可持续发展和社会效益最大化。
+- [The Human Value versus AI Legacy Code [video]](https://adventuresindevops.com/episodes/272-human-value-versus-ai-generated-legacy-code/) — 21:27
+  > 本视频讨论了人工智能生成代码与人工编写代码在价值上的对比。内容探讨了AI生成的遗留代码的质量问题、维护成本及长期影响。强调了人工编程的独特价值，包括代码可读性、可维护性和人类知识积累的重要性，以及AI代码生成可能带来的技术债问题。
+- [Researchers Wanted Preschool Teachers to Wear Cameras to Train AI](https://www.404media.co/researchers-wanted-preschool-teachers-to-wear-cameras-to-train-ai/) — 21:26
+  > 研究人员提议让幼儿园教师佩戴摄像头以训练AI系统。这一计划引发隐私与伦理争议，涉及未成年人数据采集和监控问题。该提议旨在通过收集教师工作视频来改进人工智能模型，但在数据安全和知情同意方面存在重大考量。
+- [Understanding Synthetic Users and Synthetic Data: Future of AI-Powered Research](https://zenodo.org/records/20271450) — 21:08
+  > 本文探讨了合成用户和合成数据在人工智能研究中的应用前景。合成用户是指由AI生成的虚拟用户，合成数据是计算机生成的数据集。这两项技术在AI研究中扮演重要角色，可用于测试、训练和优化AI系统，提高研究效率和降低成本。随着AI技术发展，合成用户和合成数据将成为AI研究的重要工具。
 
 ## TechCrunch AI (8 篇)
 
+- [South Korea&#8217;s LetinAR is building optics behind AI glasses](https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/) — 19:00
+  > 韩国初创公司LetinAR正在开发用于人工智能眼镜的光学元件。该公司研制的缩略图大小的镜片可能成为AI眼镜时代的光学基础。这项创新光学技术有望为下一代智能眼镜提供核心支撑，使LetinAR成为该领域的关键供应商。
+- [Apple’s Siri revamp could include auto-deleting chats](https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/) — 04:15
+  > 苹果计划推出新版Siri助手，隐私保护将成为核心特性。新版本可能支持聊天记录自动删除功能，进一步加强用户隐私保护。这次更新反映出苹果在人工智能助手领域对隐私问题的重视，旨在为用户提供更安全的语音交互体验。
+- [Why trust is a big question at the Elon Musk-OpenAI trial](https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/) — 03:46
+  > 埃隆·马斯克起诉OpenAI案的审判中心问题是OpenAI首席执行官萨姆·奥特曼的可信度。在诉讼最后阶段，法庭围绕奥特曼是否值得信任展开激烈辩论。这一信任问题对案件结果具有重要影响，反映了科技行业领导人诚信和承诺兑现的争议。
+- [If you’re giving a commencement speech in 2026, maybe don’t mention AI](https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/) — 00:32
+  > 2026年毕业典礼演讲中不建议谈及AI话题。在为毕业生描绘未来前景时，人工智能这个话题难以激发他们的热情和期待。这可能反映出公众对AI发展的担忧，以及毕业生对AI时代未来的不确定性和焦虑。
+- [TechCrunch Mobility: The AI skills arms race is coming for automotive](https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/) — 00:05
+  > 汽车行业正面临AI技术人才竞争加剧。随着自动驾驶、智能网联汽车等技术发展，传统车企与科技公司争夺AI人才。这场"军备竞赛"将推动汽车产业升级，但也带来人才短缺挑战。掌握AI技术的公司将在未来交通领域占据主导地位。
 - [The haves and have nots of the AI gold rush](https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/) — 04:17
-  > 当前AI繁荣热潮中弥漫着不乐观的气氛，即使在科技行业也不例外。这反映出AI领域的贫富分化加剧——大型科技公司掌握资金和技术优势，而中小企业和初创公司面临资源匮乏的困境。AI产业繁荣表面之下，存在明显的机会不平等现象。
+  > 当前AI热潮中的氛围并不乐观，即使在科技行业也是如此。这反映了AI发展中的贫富差距问题——大型科技公司和拥有充足资源的企业获得AI带来的巨大收益，而中小企业、初创公司和普通用户则难以受益，甚至可能面临被边缘化的风险。这种不均衡的分配格局引发了业内的担忧和不满。
 - [Research repository ArXiv will ban authors for a year if they let AI do all the work](https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/) — 02:54
-  > ArXiv预印本库将对滥用AI生成论文的作者进行严厉处罚。该平台要求作者在使用大型语言模型时必须披露，并禁止让AI完全代替人工创意工作。首次违规者将被禁用账户一年。此举旨在保护科学论文的质量和真实性，防止AI生成的低质量或虚假内容充斥学术平台。
+  > ArXiv论文库将对滥用大语言模型撰写论文的作者采取处罚措施。该平台禁止让AI完全代替人工完成论文工作的行为，违规作者将被禁用一年。此举旨在打击科研论文中对大语言模型的不当使用，维护学术诚实和论文质量。
 - [OpenAI co-founder Greg Brockman takes charge of product strategy](https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/) — 23:33
-  > OpenAI联合创始人格雷格·布罗克曼(Greg Brockman)接管产品战略。这是该公司最新的高管变动。据报道，OpenAI计划合并ChatGPT和编程产品Codex，整合两大核心产品线，以优化产品战略和用户体验。
-- [The OpenAI trial wraps up, and the Musk founder machine keeps spinning](https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/) — 03:24
-  > OpenAI诉讼案本周结束，最终辩论围绕一个核心问题：我们能否信任掌控AI的人？此案进行之际，SpaceX正朝向美国历史上最大规模IPO之一迈进，一代创业者已在推动此事发展。
-- [Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up](https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/) — 02:14
-  > 硅谷度假胜地太浩湖即将面临能源价格上涨。随着人工智能产业发展驱动电力需求激增，该地区急需新的能源供应商来满足不断增长的电力消耗。能源供应紧张和需求增加导致电价上升，对当地居民和企业造成压力。
-- [OpenAI launches ChatGPT for personal finance, will let you connect bank accounts](https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/) — 00:00
-  > OpenAI推出ChatGPT个人财务功能。用户连接银行账户后，可查看投资组合表现、支出、订阅服务和即将到期付款等财务信息的仪表板。该功能帮助用户更好地管理和了解个人财务状况。
-- [Runway started by helping filmmakers — now it wants to beat Google at AI](https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/) — 22:00
-  > Runway是一家AI视频生成初创公司，最初服务于电影制作者。该公司认为视频生成是通向世界模型的路径，并将自身作为AI领域局外人的身份视为优势而非劣势。Runway的目标是与谷歌等科技巨头竞争，在AI领域取得突破。
-- [Osaurus brings both local and cloud AI models to your Mac](https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/) — 20:19
-  > Osaurus是一款Mac应用程序，整合了本地和云端AI模型。该应用让用户的记忆、文件和工具保存在自己的硬件上，为用户提供隐私保护。用户可以根据需求选择使用本地或云端模型，享受AI的便利同时维护数据安全。
+  > OpenAI联合创始人Greg Brockman接任产品战略负责人。据报道，OpenAI计划合并其ChatGPT和编程产品Codex。此举是公司最新的人事调整，旨在优化产品线，加强人工智能助手的编程能力，提升整体竞争力。
 
-## The Verge AI (9 篇)
+## The Verge AI (4 篇)
 
+- [Revamped Siri will reportedly offer autodeleting chats](https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats) — 02:40
+  > 苹果计划在iOS 27中推出改进版Siri，新增自动删除聊天记录功能。苹果希望通过强调隐私保护来在AI领域与竞争对手差异化竞争，弥补其AI技术落后的不足。新Siri将具备更多聊天机器人特性，用户可选择自动删除对话历史记录。
+- [University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement](https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement) — 01:22
+  > 谷歌前CEO埃里克·施密特周五在亚利桑那大学毕业典礼上发表演讲。当他谈及人工智能时，频繁遭到学生嘘声。面临严峻就业市场的毕业生对AI持负面态度，认为其威胁就业前景。这反映了AI话题在社会中的争议性和学生对未来工作的担忧。
+- [Chatbots at the drive-thru are just the beginning](https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys) — 20:00
+  > 麦当劳等快餐企业开始在驾车窗口部署聊天机器人服务。这只是AI技术进入日常生活的开始。随着人工智能技术的发展，越来越多的行业正在探索如何利用AI来改进服务效率和用户体验。该趋势反映了科技在消费领域快速渗透的现状。
 - [Sony tries to explain that its AI Camera Assistant doesn’t suck](https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant) — 23:37
-  > 索尼澄清其Xperia 1 XIII手机的AI摄像头助手功能。该功能不是编辑照片，而是基于光线、深度和主体等因素提供拍摄建议，为用户提供四种选项供选择。此前该功能演示引发关注。
-- [YouTube is expanding its AI deepfake detection tool to all adult users](https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults) — 06:25
-  > YouTube推出AI换脸检测工具，已向全球18岁以上用户开放。该工具通过自拍式面部扫描监控YouTube上的相似内容，若检测到可疑视频会及时提醒用户。这一举措旨在帮助用户识别和应对可能的深度伪造视频，保护个人形象和隐私。
-- [ArXiv will ban researchers who upload papers full of AI slop](https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers) — 04:38
-  > ArXiv预印本平台将对上传充满AI生成内容的论文的研究人员实施禁令。如果论文包含"无可争辩的证据"表明作者未检查大语言模型生成的结果，如虚假参考文献或AI留下的元评论，相关作者将面临处罚。此举旨在减少低质量AI生成论文的数量。
-- [OpenAI keeps shuffling its executives in bid to win AI agent battle](https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle) — 02:21
-  > OpenAI宣布进行新一轮组织调整，将公司总裁格雷格·布罗克曼任命为产品负责人，领导所有产品事务。此次改组旨在支持OpenAI今年的核心战略——全力投入AI智能体开发。公司合并了部分部门，以集中资源和专注力，争夺AI智能体领域的竞争优势。
-- [AI radio hosts demonstrate why AI can’t be trusted alone](https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies) — 01:09
-  > Andon Labs进行了一项实验，让AI代理在无人类干预的情况下运营业务。最新实验是四家AI电台，分别由Claude、ChatGPT、Google Gemini和Grok等主流AI模型运营。该实验表明，AI虽然能处理某些任务，但存在可靠性问题，不能单独被信任运营实际业务。
-- [Does Trump Mobile know how many stripes are on the American flag?](https://www.theverge.com/gadgets/931347/trump-mobile-t1-phone-logo-flag-stars-stripes) — 00:47
-  > 本周对特朗普手机项目的最新进展进行了追踪。调查人员继续询问该手机的具体位置，但至今仍未获得设备。更令人担忧的是，出现了关于该公司爱国资质的新疑虑，暗示其可能存在基本常识或诚信问题。该项目的推进似乎遇到了实质性障碍。
-- [Google updates its spam rules to include attempts to ‘manipulate’ AI](https://www.theverge.com/tech/931416/google-ai-search-spam-policy) — 00:42
-  > 谷歌更新反垃圾邮件政策，将试图"操纵"其搜索AI模型的行为定为垃圾信息，包括影响AI概览和搜索AI模式的结果。该政策禁止欺骗用户或操纵搜索系统以获得高排名的技术。
-- [OpenAI now wants ChatGPT to access your bank accounts](https://www.theverge.com/ai-artificial-intelligence/931122/openai-chatgpt-financial-accounts-plaid-connection) — 00:00
-  > OpenAI宣布推出新功能，将允许ChatGPT通过Plaid平台安全连接用户银行账户。Plaid是连接银行与应用的桥接平台，已被包括嘉信理财、富达等12000多家金融机构使用。该功能目前处于预览阶段，将使用户能够安全地授予ChatGPT访问其银行账户的权限。
-- [The promises and pitfalls of personalized health](https://www.theverge.com/column/931148/optimizer-pmos-pcos-personalized-health) — 22:00
-  > 本文讨论个性化健康产品的发展现状。作者通过日常生活经历，分析了声称能改变生活的各类健康设备和产品的承诺与局限。提醒消费者在选择个性化健康产品时需保持理性，认真评估其实际效果，而不是盲目跟风。文章强调科学证据和个人实际体验的重要性。
+  > 索尼澄清其AI相机助手功能。该功能不会编辑照片，而是根据光线、景深和拍摄对象分析，为用户提供四种建议选项。用户可根据这些建议调整相机设置以获得更好的拍照效果。索尼此举旨在解释该功能的实际工作原理，消除之前引发的争议。
