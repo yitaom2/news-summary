@@ -2,67 +2,72 @@
 layout: default
 ---
 
-# AI 日报 2026-05-19
+# AI 日报 2026-05-20
 
-> 共收录 **26** 篇，来自 **3** 个源 · 生成于 09:52 AM EDT
+> 共收录 **30** 篇，来自 **2** 个源 · 生成于 09:35 AM EDT
 
-## Hacker News (10 篇)
+## The Verge AI (10 篇)
 
-- [Who's behind Facebook's hateful AI slop about the UK? They may be in South Asia](https://www.theguardian.com/commentisfree/2026/may/19/social-media-facebook-ai-slop-hateful-south-asia) — 21:36
-  > Facebook平台上出现了针对英国的仇恨性AI生成内容，调查表明这些内容的制作者可能位于南亚地区。这些AI生成的虚假信息和仇恨言论在社交媒体上传播，引发关于平台内容管理、AI滥用和跨境网络操纵的重要问题。此事揭示了社交媒体在应对AI生成有害内容方面面临的挑战。
-- [Standard Chartered to cut more than 7k jobs as it steps up AI use](https://www.theguardian.com/business/2026/may/19/standard-chartered-bank-cut-jobs-ai-london) — 21:29
-  > 渣打银行将裁员7000多人，以扩大人工智能应用。该银行计划通过增加AI技术使用来提高运营效率，预计未来几年内实现这一裁员目标。此举反映了金融行业正加速数字化转型，以应对市场竞争和降低成本压力。
-- [AIllowpages – Free AI tools search engine with 2500 tools, zero ads](https://aillowpages.com/) — 21:29
-  > AIllowpages是一个免费的AI工具搜索引擎，汇集了2500多个AI工具，且完全无广告。该平台为用户提供了便捷的AI工具发现和检索服务，帮助人们快速找到所需的AI应用程序。这个资源对于想要探索和使用各种AI工具的用户特别有价值。
-- [The economics of superstar AI researchers](https://epochai.substack.com/p/the-economics-of-superstar-ai-researchers) — 21:25
-  > 该文章讨论了顶级AI研究人员的经济价值。随着人工智能领域的快速发展，具有突破性创新能力的超级明星研究人员变得极其稀缺且价值巨大。这些研究人员的工作成果往往能推动整个行业进步，因此获得天价薪酬和股权激励。文章可能分析了这种"超级明星经济"现象对AI产业生态的影响。
-- [The Two X's Problem: Why AI-designed brands feel like AI-designed brands](https://blog.codeyam.com/p/the-two-xs-problem) — 21:24
-  > 文章讨论了AI设计品牌时的一个问题——"双X问题"。AI生成的品牌设计往往呈现出明显的AI痕迹，容易被识别为机器创作。这说明AI在创意设计上仍缺乏人类的独特性和原创性，难以产生具有个性和真正创新的品牌形象。AI设计的局限性在于模式识别的可预测性，导致输出结果显得生硬、通用，缺乏人类设计师的直觉和文化理解。
-- [Show HN: Chidori – Fast web-to-Markdown fetching for AI agents](https://github.com/taishikato/chidori) — 21:21
-  > Chidori是一个快速网页转Markdown工具，专为AI代理设计。该项目在GitHub上发布，旨在帮助AI系统高效地将网页内容转换为Markdown格式。这使得AI代理可以更方便地处理和理解网页信息，提升了信息提取的效率和准确性。
-- [AI Coding Feels Like Using an Unreliable Compiler](https://tomassetti.me/ai-coding-feels-like-using-an-unreliable-compiler/) — 21:17
-  > AI编程工具的行为类似于不可靠的编译器。它们能生成看似正确的代码，但常常存在难以察觉的bug和逻辑错误。开发者需要对AI生成的代码进行仔细审查和测试，不能盲目信任其输出。这要求使用者具备充分的编程知识来验证代码正确性，AI目前仍是辅助工具而非独立解决方案。
-- [Show HN: I built a linter for undocumented linter warnings. AI hates me now](https://github.com/BKDDFS/shamefile) — 21:11
-  > 作者开发了一个名为"shamefile"的linter工具，用于追踪和文档化代码中未说明的linter警告抑制（NOLINT）。该工具要求开发者在YAML文件中记录每个NOLINT的位置、原因等信息，防止AI和开发者随意忽略linter警告。通过强制文档化，提高代码质量和可维护性，并改善AI代理的行为。
-- [AI coding made us faster. Why did incidents increase?](https://leaddev.com/ai/ai-coding-made-us-faster-why-did-incidents-increase) — 21:04
-  > AI编码工具提高了开发速度，但事故反而增加。分析发现，虽然AI加快了代码生成，但开发人员在代码审查、测试和验证环节花费的时间减少，导致代码质量下降和缺陷增多。此外，过度依赖AI可能削弱开发人员的代码理解能力，引发更多生产环境问题。需要在追求速度与保证质量间找到平衡。
-- [I tried every AI memory tool. Here's why I built another one](https://runmemento.com/blogs/i-tried-every-ai-memory-tool/) — 20:54
-  > 作者尝试了市场上所有AI记忆工具后，因为现有工具都不够完美，决定自己开发一个新的AI记忆工具。这反映了当前AI记忆类产品存在的不足，激发了他创新的动力。新工具可能针对现有产品的缺陷进行了改进，旨在提供更好的用户体验和功能。
+- [If Google can’t make AI agents useful, maybe no one can](https://www.theverge.com/ai-artificial-intelligence/934478/if-google-cant-make-ai-agents-useful-maybe-no-one-can) — 21:24
+  > 多年来，科技公司承诺AI将提供个人助手服务，但实际交付的效果有限。过去六个月，开源AI代理平台OpenClaw的走红改变了这一局面。谷歌等顶级AI实验室正追赶类似的成功，但谷歌若无法将AI代理商业化，可能意味着整个行业面临挑战。
+- [The biggest data center ever is becoming a huge problem in Utah](https://www.theverge.com/ai-artificial-intelligence/933687/utah-stratos-project-data-center-kevin-oleary) — 21:00
+  > 美国犹他州Box Elder县委员会批准了Stratos项目，这是一个占地4万英亩的超大型数据中心。该项目旨在建立美国AI优势，但引发专家警告和公众强烈反对。这个数据中心将成为全球最大的数据中心之一，可能带来严重问题。
+- [Demis Hassabis said this might be the ‘foothills of the singularity.’ What?](https://www.theverge.com/tech/934260/google-io-ai-singularity-demis-hassabis) — 06:16
+  > 谷歌DeepMind首席执行官Demis Hassabis在Google I/O主题演讲中称这是"人类的深刻时刻"，认为Google的先进研究和产品将帮助解锁人工通用智能(AGI)的潜力，造福全人类。他暗示当前可能处于"奇点的山麓"阶段。
+- [The future of Google is a search box that does everything](https://www.theverge.com/tech/934217/google-search-box-does-everything-ai-io-2026) — 05:24
+  > 谷歌未来愿景是打造一个全能搜索框。在今年I/O大会上，谷歌展示了其新方向：不仅帮你搜索信息，更要代你完成各种任务。这个搜索框将成为用户与谷歌服务互动的主要入口，整合多项功能，让用户能直接通过搜索框实现购物、日程安排等日常操作，体现了谷歌从搜索引擎向综合服务平台的转变。
+- [Google’s AI future demands trust — and your personal data](https://www.theverge.com/tech/934172/google-io-gemini-ai-trust-personal-data) — 05:00
+  > 谷歌在I/O 2026大会上推出多项AI工具，包括随时待命的AI助手Gemini Spark和日报摘要Daily Brief等，承诺简化用户生活。但这些AI功能的实现高度依赖用户信任和个人数据共享。谷歌正致力于建立AI驱动的未来生态系统。
+- [Gemini will use Volvo’s external cameras to interpret parking signs](https://www.theverge.com/transportation/933556/google-io-gemini-volvo-ex60-camera-ai-parking) — 02:00
+  > 谷歌和沃尔沃宣布，Gemini AI助手将能访问沃尔沃EX60 SUV的外部摄像头，帮助车主解读停车标志和周围环境。这项功能利用沃尔沃嵌入的谷歌技术实现，使Gemini具备视觉和移动能力，为用户提供更智能的驾驶辅助体验。
+- [The 13 biggest announcements at Google I/O 2026](https://www.theverge.com/tech/933415/google-io-2026-biggest-announcements-ai-gemini) — 01:54
+  > 谷歌在I/O 2026大会上发布了13项重大公告，主要包括新一代Gemini 3.5人工智能模型、搜索和Gmail新功能，以及Project Aura智能眼镜的更新。此次大会继续聚焦AI技术创新和应用。
+- [Google wants to compete with Anthropic’s Mythos](https://www.theverge.com/tech/933921/google-wants-to-compete-with-anthropics-mythos) — 01:48
+  > 谷歌加强网络安全领域竞争。该公司在I/O大会上宣布邀请专家测试CodeMender API，这是去年10月推出的"代码安全AI代理"。谷歌现扩大工具的外部可用性并加大营销力度，意在与Anthropic的Mythos竞争。
+- [Google can now vibe-code you an Android app](https://www.theverge.com/tech/932364/google-ai-studio-native-android-apps-vibe-code-google-io-2026) — 01:45
+  > 谷歌宣布升级其AI Studio平台，用户现在可以使用AI生成代码来构建原生Android应用。用户只需输入应用想法的提示词，即可通过内置Android模拟器预览生成的应用。这一功能大幅简化了Android应用开发流程，使非专业开发者也能快速创建应用原型。
+- [Would you let robots spend your money? Google is betting on it](https://www.theverge.com/news/932927/google-io-agentic-ai-shopping-universal-cart) — 01:45
+  > Google推出AI驱动的购物工具，包括跨越多个零售商和Google产品的"通用购物车"，支持Gemini、YouTube和Gmail等平台。该工具允许AI代理帮助用户购物消费。Google在竞争对手退缩之际，正加大在AI购物领域的投入力度。
 
-## The Verge AI (7 篇)
+## TechCrunch AI (20 篇)
 
-- [Gemini is in danger of going full Copilot](https://www.theverge.com/tech/931752/google-io-2026-gemini-icon-docs-workspace) — 18:30
-  > Gemini正面临过度推广的问题。谷歌在各个应用中强行集成Gemini功能，从邮箱到云盘无处不在。虽然最初进展缓慢容易忽视，但近几个月情况恶化。Gemini的"蔓延"现象日益明显，有沦为微软Copilot式强制推送的危险。
-- [Musk v. Altman proved that AI is led by the wrong people](https://www.theverge.com/ai-artificial-intelligence/932464/musk-v-altman-proved-that-ai-is-led-by-the-wrong-people) — 03:00
-  > 马斯克诉奥特曼案是关于AI未来控制权的争夺。马斯克认为与其共同创办OpenAI的奥特曼不应该主导AI发展方向，而奥特曼的律师则质疑马斯克的可信度。陪审团已做出裁决。该案反映出AI领域由不适当的人物领导的问题。
-- [All of the updates from Elon Musk and Sam Altman’s battle over OpenAI](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit) — 01:49
-  > 埃隆·马斯克与萨姆·奥特曼就OpenAI的未来展开诉讼战争。2024年，马斯克控告OpenAI背离创立初心，放弃开发造福人类的AI，转而追求利润最大化。这场高风险诉讼可能重塑OpenAI及其知名产品ChatGPT的未来走向。
-- [Elon Musk loses his case against Sam Altman](https://www.theverge.com/ai-artificial-intelligence/932383/jury-verdict-musk-v-altman-openai-trial) — 01:39
-  > 埃隆·马斯克与山姆·奥特曼的诉讼案败诉。陪审团经过约两小时审议后一致裁定，其中两项索赔因诉讼时效限制而被驳回，第三项索赔因其中一项被驳回而失败。此案为今年科技界重大诉讼案件。
-- [Amazon Alexa Plus can now create AI-generated podcasts](https://www.theverge.com/tech/932375/amazon-alexa-plus-ai-podcasts) — 23:55
-  > 亚马逊推出Alexa Plus升级功能，用户可通过该AI助手生成几乎任何主题的播客。用户只需向Alexa Plus提供话题，AI助手便会呈现AI主持人的讨论概览，允许用户引导对话方向。这项新功能进一步扩展了Alexa的应用范围。
-- [Revamped Siri will reportedly offer autodeleting chats](https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats) — 02:40
-  > 苹果计划在iOS 27中推出改进版Siri，新增自动删除聊天历史的功能。苹果希望以隐私保护作为AI领域的竞争优势，来弥补在AI技术上的落后。该功能将使Siri更像聊天机器人，同时为用户提供更强的隐私控制选项。
-- [University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement](https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement) — 01:22
-  > 谷歌前CEO埃里克·施密特在亚利桑那大学毕业典礼上发表演讲，为人工智能辩护时遭学生嘘声。当话题转向AI时，他多次被掌声淹没。在就业市场困难的背景下，即将步入社会的学生对AI持负面态度，这并不令人意外。
-
-## TechCrunch AI (9 篇)
-
-- [SandboxAQ brings its drug discovery models to Claude — no PhD in computing required](https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/) — 05:29
-  > SandboxAQ将其药物发现模型集成到Claude中，使非技术背景的研究人员也能使用。与Chai Discovery和Isomorphic Labs等竞争对手专注于构建更强大模型不同，SandboxAQ认为关键障碍是访问权限，Claude的集成降低了使用难度，无需计算机博士学位即可进行药物发现研究。
-- [Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare](https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/) — 03:27
-  > Anthropic收购了初创公司Stainless。该公司成立于2022年，总部位于纽约，因其SDK自动化生成和维护技术而在AI行业崭露头角。Stainless的技术帮助开发者与API互动，已被OpenAI、Google和Cloudflare等科技巨头采用。
-- [Elon Musk has lost his lawsuit against Sam Altman and OpenAI](https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/) — 01:34
-  > 埃隆·马斯克对山姆·奥特曼及OpenAI的诉讼败诉。加州陪审团以全票通过的裁定认定，马斯克的诉讼提出过晚，不符合诉讼时效要求。该案涉及马斯克声称遭到OpenAI联合创始人不公正对待的指控。
-- [Amazon&#8217;s new Alexa+ powered feature can generate podcast episodes](https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/) — 22:56
-  > 亚马逊推出Alexa+新功能，可按需生成定制化AI播客节目。该功能将Alexa助手扩展为个性化AI内容平台，用户可以获得根据自身需求定制的播客内容，标志着亚马逊在AI助手领域的进一步创新和应用拓展。
-- [South Korea&#8217;s LetinAR is building optics behind AI glasses](https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/) — 19:00
-  > 韩国初创公司LetinAR开发了一种缩小指甲大小的镜片技术，有望成为AI眼镜光学系统的核心部件。该公司专注于为AI眼镜研发光学解决方案，通过先进的微型镜片设计，使眼镜设备更加轻薄便携。这项技术可能推动AI眼镜产业的发展，为消费者提供更实用的穿戴式AI设备。
-- [Apple’s Siri revamp could include auto-deleting chats](https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/) — 04:15
-  > 苹果计划对语音助手Siri进行重大升级，隐私保护将成为此次更新的核心主题。新版Siri可能具备自动删除对话记录的功能，以进一步保护用户隐私。这一改进反映了苹果对数据安全的重视，符合其一贯的隐私优先策略。
-- [Why trust is a big question at the Elon Musk-OpenAI trial](https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/) — 03:46
-  > 埃隆·马斯克诉OpenAI案件进入终审阶段，信任问题成为焦点。案件核心争议在于OpenAI首席执行官山姆·奥特曼的可信度。这一问题直接影响法院对OpenAI是否违反初衷、背离非营利使命的判断。信任缺失可能成为判决的关键因素。
-- [If you’re giving a commencement speech in 2026, maybe don’t mention AI](https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/) — 00:32
-  > 2026年的毕业演讲中可能不应提及人工智能。由于人工智能塑造的未来前景不明朗，很难激发毕业生对未来的期待。这提示演讲者在设计演讲内容时需要谨慎选择话题，避免因AI的不确定性和潜在风险而削弱对毕业生的激励效果。
-- [TechCrunch Mobility: The AI skills arms race is coming for automotive](https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/) — 00:05
-  > 汽车行业正面临AI人才竞争加剧。随着自动驾驶、车联网等技术发展，汽车制造商与科技公司争夺AI专家人才。这场"人才军备竞赛"将重塑汽车产业格局，拥有强大AI团队的企业将获得竞争优势。行业需要大量懂得机器学习、数据处理的专业人士，人才短缺问题日益凸显。
+- [Figma adds an AI assistant to its collaborative canvas](https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/) — 21:00
+  > Figma推出AI助手功能，首先在Figma Design上推出。该AI助手集成到其协作设计平台中，旨在帮助设计师提高工作效率。这一举措标志着Figma继续深化AI技术集成，为用户提供更智能的设计工具，增强其在数字设计领域的竞争力。
+- [Google just declared itself a contender in AI design at IO 2026](https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/) — 05:33
+  > 谷歌在IO 2026大会上宣布进入AI设计领域的竞争。该公司表示已设计出一款面向所有人的应用，从教师到小企业主都可以使用，旨在降低AI应用的使用门槛，使其更加易于获取和使用。
+- [You can now talk to your Gmail inbox, as seen at Google IO 2026](https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/) — 05:25
+  > 谷歌扩展了Gmail的AI收件箱功能，新增对话式语音搜索能力。用户现可通过与Gemini进行对话，快速查找和获取隐藏在邮件中的详细信息。这一功能在谷歌IO 2026大会上首次亮相，进一步提升了邮件管理的便利性和效率。
+- [How to use Google’s new AI agents to go beyond your standard searches](https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/) — 05:16
+  > 谷歌推出新型AI智能代理，具备后台自动监测功能。这些AI代理能够持续关注用户感兴趣的话题，并在发生更新或变化时主动向用户发送提醒通知。这项功能超越传统搜索方式，让用户获取信息更加高效便捷，无需主动搜索即可接收相关领域的最新动态。
+- [From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing](https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/) — 05:08
+  > Ocean是一个AI驱动的邮件安全平台，由前少年黑客创办人创立，已融资2800万美元。该平台利用AI代理技术深度分析每封邮件的上下文，以检测欺诈和冒充攻击。Ocean致力于通过智能化手段加强企业邮件安全防护，抵御日益复杂的AI网络钓鱼威胁。
+- [Elon Musk said Sam Altman &#8216;stole&#8217; a non-profit — but the trial showed he had similar aims](https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/) — 04:11
+  > 埃隆·马斯克指控山姆·奥特曼"盗取"了非营利组织OpenAI。但法庭证据显示，马斯克本人也有类似目标。陪审团迅速驳回了马斯克对OpenAI其他创始人和微软的诉讼，证实其案件证据不足，且起诉时间相隔太久。
+- [Google takes a page out of Meta&#8217;s book, announces new audio-powered smart glasses at IO 2026](https://techcrunch.com/2026/05/19/google-takes-a-page-out-of-metas-book-announces-new-audio-powered-smart-glasses-at-io-2026/) — 03:15
+  > 谷歌在IO 2026大会上发布新款音频智能眼镜。这款设备被称为"音频眼镜"，用户可通过语音命令控制，实现与谷歌应用和服务生态系统的交互，包括Gemini助手功能。此举借鉴了Meta的产品策略。
+- [Google’s Genie world model can now simulate real streets with Street View](https://techcrunch.com/2026/05/19/googles-genie-world-model-can-now-simulate-real-streets-with-street-view/) — 01:51
+  > 谷歌DeepMind将Street View与Project Genie整合，创建沉浸式交互世界模拟。该技术可模拟真实街景，支持探索环境、天气变化和罕见场景，应用于机器人、游戏和旅游领域。
+- [With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots](https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/) — 01:51
+  > 谷歌在开发者大会上推出Gemini 3.5 Flash模型，这是其迄今最强大的编码和智能体AI模型。该模型能够自主执行复杂任务并从零开始构建软件。这标志着谷歌将AI发展重心从聊天机器人转向自主智能体。
+- [Google Search as you know it is over](https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/) — 01:46
+  > 谷歌正将搜索引擎从链接列表转变为AI驱动的体验，集成对话式答案、自主代理和交互式界面。这一转变可能进一步减少网络出版商的流量，标志着搜索引擎时代的终结。
+- [OpenAI is making it easier to check if an image was made by their models](https://techcrunch.com/2026/05/19/openai-is-making-it-easier-to-check-if-an-image-was-made-by-their-models/) — 01:45
+  > OpenAI推出两项新措施帮助识别AI生成图像。首先，OpenAI加入开放性C2PA标准，该标准用于追踪数字内容的来源。其次，OpenAI在产品中集成谷歌SynthID技术，为生成的图像添加隐形水印。这两项举措旨在提高AI生成内容的透明度，帮助用户和平台检测图像真伪。
+- [Agentic app coding gets an upgrade with Google&#8217;s release of Android CLI](https://techcrunch.com/2026/05/19/agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli/) — 01:45
+  > 谷歌发布了新的Android命令行工具，支持与Claude Code和OpenAI Codex等AI编码平台集成。这些工具旨在帮助开发者及其AI助手更快地从命令行构建Android应用，标志着谷歌拥抱AI编码代理技术的举措。
+- [Google&#8217;s AI Studio now lets anyone build Android apps in minutes](https://techcrunch.com/2026/05/19/googles-ai-studio-now-lets-anyone-build-android-apps-in-minutes/) — 01:45
+  > Google推出了基于网络的AI工具，能在几分钟内生成原生Android应用程序。这一新功能通过AI Studio实现，允许任何人快速构建Android应用，无需具备深厚的编程基础。此举反映了Google在AI驱动软件开发领域的持续扩展战略。
+- [Google updates its Gemini app to take on ChatGPT and Claude at IO 2026](https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude-at-io-2026/) — 01:45
+  > Google在IO 2026大会上更新了Gemini应用，以与ChatGPT和Claude竞争。此次更新意在将Gemini应用转变为全能AI助手中心，而不仅仅是独立聊天机器人。Google正在加强Gemini的功能，使其能够提供更全面的AI服务和应用体验，巩固其在AI市场的竞争地位。
+- [Google&#8217;s new Universal Cart wants to follow your entire shopping journey across the internet](https://techcrunch.com/2026/05/19/googles-new-universal-cart-wants-to-follow-your-entire-shopping-journey-across-the-internet/) — 01:45
+  > Google推出通用购物车功能，用户可在互联网各处跨设备、跨零售商地追踪购物旅程。该功能适应现代消费者在多个平台多天内购物的需求，让用户能无缝管理分散在不同渠道的购物信息。
+- [Google launches Antigravity 2.0 with an updated desktop app and CLI tool at IO 2026](https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool-at-io-2026/) — 01:45
+  > Google在IO 2026大会上推出Antigravity 2.0，包含更新的桌面应用和CLI工具。同时发布AI Ultra新套餐，价格为100美元，相比AI Pro套餐提供5倍的使用限额。
+- [Google introduces Gemini Spark, a 24/7 agentic assistant with Gmail integration, at IO 2026](https://techcrunch.com/2026/05/19/google-introduces-gemini-spark-a-24-7-agentic-assistant-with-gmail-integration/) — 01:45
+  > Google在I/O 2026开发者大会上推出Gemini Spark，这是一款基于Gemini基础模型和Google Antigravity代理框架开发的全天候个人助手。该助手集成Gmail功能，能够自动执行各类任务，代表了Google在人工智能代理技术领域的最新进展。
+- [Google adds voice-based prompting to Docs and Keep](https://techcrunch.com/2026/05/19/google-adds-voice-based-prompting-to-docs-and-keep/) — 01:45
+  > 谷歌为文档和Keep应用推出基于语音的新功能。用户现在可以通过语音创建草稿、记笔记以及搜索邮件。该功能是谷歌Workspace最新更新的一部分，旨在提高工作效率和用户体验，使办公工作更加便捷。
+- [Google&#8217;s Gemini Omni turns images, audio, and text into video — and that&#8217;s just the start](https://techcrunch.com/2026/05/19/googles-gemini-omni-turns-images-audio-and-text-into-video-and-thats-just-the-start/) — 01:45
+  > Google推出多模态AI模型Gemini Omni，能够理解和处理文本、图像、音频和视频等多种信息形式。该模型可通过简单对话生成和编辑视频内容，首个版本为Omni Flash。这标志着Google在AI视频生成领域取得重要进展，为内容创作带来新的可能性。
+- [OpenAI co-founder Andrej Karpathy joins Anthropic&#8217;s pre-training team](https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/) — 23:43
+  > OpenAI联合创始人安德烈·卡帕西加入Anthropic的预训练团队。预训练负责大规模训练运行，为Claude模型提供核心知识和能力。这是构建前沿模型中最昂贵、计算密集的阶段之一。卡帕西此举强化了Anthropic在AI研究领域的实力。
