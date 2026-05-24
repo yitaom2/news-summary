@@ -2,66 +2,63 @@
 layout: default
 ---
 
-# AI 日报 2026-05-23
+# AI 日报 2026-05-24
 
-> 共收录 **27** 篇，来自 **2** 个源 · 生成于 07:57 AM EDT
+> 共收录 **24** 篇，来自 **3** 个源 · 生成于 07:58 AM EDT
 
-## The Verge AI (10 篇)
+## Hacker News (10 篇)
+
+- [Autotrader – paper trading AI agent for Indian equities](https://github.com/analyticalmonk/autotrader) — 19:55
+  > Autotrader是一个针对印度股票市场的纸面交易AI代理。该项目在GitHub上发布，旨在利用人工智能技术为投资者提供模拟交易功能。通过纸面交易（虚拟交易），用户可以在无实际资金风险的情况下，测试和验证交易策略在印度股票市场中的有效性。
+- [The invisible fabric of AI: chips aren't a US-China war, but a 30-country chain](https://zoopa.es/en/innovation-technology/invisible-fabric-ai-chips-geopolitics/) — 19:23
+  > AI芯片产业并非美中两国的竞争，而是涉及30多个国家的全球供应链。芯片制造需要多国协作，包括设计、制造、材料、设备等各环节。美国虽在设计和高端制造中领先，但依赖全球供应链支持。打破这一复杂的国际合作体系将损害所有参与国的利益，表明芯片竞争实际上是全球经济的深度融合。
+- [Responsible Work with AI](https://www.satisfice.com/responsible) — 19:20
+  > 本文讨论了负责任地使用人工智能的重要性。作者通过Satisfice网站和黑客新闻平台分享观点，强调在AI开发和应用中需要遵守伦理原则，确保技术安全可靠。虽然目前评论较少，但该话题反映了业界对AI治理和责任问题的重视。
+- [The AI Existential Crisis: Western AI Agents Will Win Commerce](https://medium.com/@vektormemory/the-ai-existential-crisis-western-ai-agents-will-win-finance-chinas-will-win-the-world-3945a70b3366) — 19:18
+  > 该文章讨论了AI领域的存在主义危机，认为西方AI代理将在商业领域占据优势，而中国的AI将在全球范围内获胜。文章发表在Medium平台上，在黑客新闻上获得1个赞，暂无评论。具体内容涉及AI技术竞争与地缘政治格局的思考。
+- [Orchestration problems hurt legal AI](https://lexifina.com/blog/legal-ontologies-for-ai) — 19:11
+  > 法律AI面临编排问题。文章讨论了在法律领域应用人工智能时遇到的挑战，特别是涉及法律本体论和系统编排的问题。这些技术难点影响了法律AI系统的有效性和准确性，需要更好的结构化方法来解决法律概念的复杂性和相互关系，以提高AI在法律领域的应用效果。
+- [AI Stock Is the Ultimate Set-It-and-Forget-It Buy for Long-Term Investors](https://www.fool.com/investing/2026/05/19/this-ai-stock-is-the-ultimate-set-it-and-forget-it/) — 19:03
+  > 某AI股票被投资专家推荐为长期投资者的理想选择。该股票具有"一劳永逸"的特点，适合长期持有投资者。文章发表在美国投资网站Fool.com上，旨在为投资者提供AI领域的投资建议和机会分析。
+- [South Korea's deputy PM says AI wealth must benefit the public](https://www.cnbc.com/2026/05/23/ai-wealth-must-benefit-the-public-south-koreas-deputy-pm-says.html) — 19:00
+  > 韩国副总理表示，人工智能带来的财富必须惠及公众。他强调AI产业发展不应只让少数企业和个人获利，而应确保其收益能够被广泛分享，造福全社会。这反映了韩国政府对AI技术公平分配和社会责任的关注。
+- [Physicists create hybrid light-matter particles to replace electrons in AI cmpt](https://www.sciencedaily.com/releases/2026/05/260518041341.htm) — 18:41
+  > 物理学家成功创造了混合光物质粒子，可用于替代AI芯片中的电子。这一突破性成果利用光子和物质的相互作用，创造了具有独特性质的新型粒子。该技术有望显著提升人工智能芯片的计算速度和能效，为下一代高性能计算提供新的可能性。
+- [State Explosion Security Problem in AI-Era Software Supply Chains](https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=09213cdc-9f30-4e82-aa6f-9b6e8d82dab3&redirect_uri=https%3A%2F%2Ftechcommunity.microsoft.com%2Ft5%2Fs%2Fauth%2Foauth2callback%2Fproviderid%2Fdefault&response_type=code&state=NvXPbqZ37O0VmIJaiNKiAjCz7yTOwVZ7xk8ZlXLO9C2fqqrIl4euo9S_A75_2IG4VuQ4ksOf1FkVUZIJLuRHngiRd6dED-IOdAYL0z8V36yZglQkbjEyslljCbf-NMbv&scope=User.Read+openid+email+profile+offline_access&referer=https%253A%252F%252Ftechcommunity.microsoft.com%252Fblog%252Fmicrosoft-security-blog%252Fstate-explosion-security-problem-in-ai-era-software-supply-chains%252F4518255%253FpreviewMessage%253Dtrue) — 17:43
+  > 微软安全博客发表文章讨论AI时代软件供应链中的"状态爆炸"安全问题。该问题指软件系统的复杂性和配置状态数量急剧增加，导致安全漏洞和风险管理难度提升。在AI技术广泛应用背景下，软件供应链的安全威胁更加复杂，需要采取新的防护措施。
+- [ShannonBase: The Lightweight Semantic Layer for Enterprise AI SQL](https://medium.com/@shannon.data.tech/shannonbase-the-lightweight-semantic-layer-for-enterprise-ai-sql-aac116b82a7e) — 17:27
+  > ShannonBase是一个轻量级语义层解决方案，专为企业AI SQL设计。它为企业数据查询和分析提供语义支持，使AI系统能更有效地处理SQL操作。该方案通过语义层的抽象，简化了企业级数据访问，提高了AI应用在数据库查询中的准确性和效率。
+
+## TechCrunch AI (9 篇)
+
+- [Ferrari is using IBM&#8217;s AI to create F1 superfans](https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/) — 23:08
+  > 法拉利与IBM合作利用人工智能技术重新定义一级方程式赛车的粉丝体验。通过IBM的AI技术，法拉利车队能够更好地理解和吸引粉丝，为他们提供个性化的互动和内容。这一合作旨在打造"超级粉丝"，增强法拉利与粉丝之间的联系，提升整体的粉丝参与度和忠诚度。
+- [Elon Musk has given up on solar power (on Earth)](https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/) — 21:00
+  > 埃隆·马斯克的xAI公司转向天然气能源，SpaceX则专注轨道数据中心建设。曾承诺构建"太阳能电力经济"的马斯克似乎已放弃地球太阳能开发。他的能源战略从清洁能源转向化石燃料和空间基础设施，引发外界对其能源愿景一致性的质疑。
+- [AI is being used to resurrect the voices of dead pilots](https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/) — 07:03
+  > 人工智能技术被用于通过分析驾驶舱录音的频谱图像来重现已故飞行员的声音。这一做法引发了美国国家运输安全委员会（NTSB）的担忧，该机构已临时关闭其档案系统的访问权限，以防止这类未经授权的语音重建行为。
+- [Google goes for the glitter with disco-ball icons: &#8216;Are y&#8217;all sure you still want this?&#8217;](https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/) — 05:02
+  > Google推出了迪斯科球主题图标，用户可以将整个Pixel手机主屏幕装饰成闪亮的迪斯科球风格。这一创意设计让谷歌员工在内部讨论中开玩笑式地问道"你们真的还想要这个吗？"，展现了这一设计的独特和大胆风格，为用户提供了个性化定制手机界面的新选择。
+- [How VCs and founders use inflated ‘ARR’ to crown AI startups](https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/) — 04:40
+  > 一些AI初创公司在公开讨论业绩进展时，对传统收入指标（如年经常性收入ARR）进行夸大。这些公司采用非标准计算方法，将预期收入、潜在合同或未兑现承诺计入ARR数据。投资者对此现象了解，但仍支持这种做法，以便向市场展示更具吸引力的增长数字。这种做法可能误导投资者和市场对AI公司实际财务状况的认知。
+- [Elon Musk can&#8217;t hear you over the sound of his $1.75 trillion IPO](https://techcrunch.com/podcast/elon-musk-cant-hear-you-over-the-sound-of-his-1-75-trillion-ipo/) — 02:17
+  > SpaceX提交上市申请文件，计划融资175亿美元。该公司宣称可开发市场规模达28万亿美元，马斯克薪酬与建立火星殖民地挂钩。若成功上市，将创美国历史最大IPO记录。文件长达36页风险因素说明，展现了公司的雄心壮志。
+- [You can no longer Google the word &#8216;disregard&#8217;](https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/) — 00:16
+  > Google搜索的AI更新后，搜索词"disregard"（忽视）现已无法正常使用。该词会导致搜索界面崩溃或失效。这一问题可能源于AI模型对特定词汇的处理缺陷。谷歌尚未就此发表官方声明。
+- [We tried Google’s AI glasses and they’re almost there](https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/) — 23:37
+  > 谷歌展示了搭载Android XR系统的原型眼镜。该眼镜可在视野中实时叠加由Gemini驱动的翻译、导航等信息功能。这款产品展现了谷歌在AR眼镜领域的进展，虽然还未完全成熟，但已接近商用水平。
+- [SpaceX files to go public, and the math requires a little faith](https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/) — 22:30
+  > SpaceX提交上市申请文件，披露了其宏大的商业计划。招股说明书显示，该公司瞄准28万亿美元的总可寻址市场，员工薪酬与火星殖民目标挂钩，目标估值将成为美国历史上最大IPO。文件包含36页风险因素披露。
+
+## The Verge AI (5 篇)
 
 - [Google’s new anything-to-anything AI model is wild](https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video) — 19:00
-  > 谷歌推出新型多模态AI模型。记者去年曾用该技术制作了一段孩子毛绒鹿玩偶度假的视频，重现了谷歌Gemini广告中的场景。这展示了谷歌新AI模型"万能"的能力——可以处理多种形式的输入和输出，实现文本、图像、视频等内容的智能转换和生成。
+  > Google推出新型全能AI模型。记者曾用Gemini技术深度伪造视频，让儿子的毛绒玩具鹿看起来在度假，以复现Google广告效果。该模型能处理多种输入输出形式，展现出强大的多模态能力，引发广泛关注。
 - [Google&#8217;s AI search is so broken it can &#8216;disregard&#8217; what you&#8217;re looking for](https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard) — 04:39
-  > 谷歌AI搜索功能出现故障。用户搜索"disregard"等词汇时，AI概览功能返回的结果类似聊天机器人的回复，而非常规搜索摘要。这反映出谷歌新推出的AI搜索功能存在技术缺陷，需要进一步改进和完善。
+  > Google的AI搜索功能存在故障。当用户搜索"disregard"（忽视）等词汇时，AI概览部分会生成类似传统聊天机器人的回复，而非常规的AI摘要总结。这一问题在社交媒体上被发现并报告，反映出Google的AI搜索功能仍需进一步完善。
 - [Elon, stop trying to make Grok happen](https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen) — 01:17
-  > 据路透社报道，埃隆·马斯克开发的AI聊天机器人Grok表现不佳，使用者寥寥。美国政府去年的AI使用联邦记录中几乎找不到Grok的身影。这表明xAI公司的产品未能获得广泛采用，暗示其"寻求真理"的AI工具并未达到预期效果。
+  > 埃隆·马斯克推出的"寻求真理"AI聊天机器人Grok表现不佳，使用者寥寥。根据路透社报道，在美国政府去年提交的AI使用联邦记录中，Grok几乎没有出现。这反映出xAI公司的产品未能获得市场认可。
 - [The literary world isn’t prepared for AI](https://www.theverge.com/tech/936073/ai-writing-granta-commonwealth-prize) — 22:30
-  > 英国文学杂志《Granta》今年在英联邦短篇故事奖中，似乎选中了一篇AI创作的作品——贾米尔·纳齐尔的《林中之蛇》。这反映出文学界对AI创作还未做好准备，传统文学奖项的评选标准和机制面临挑战。
+  > 英国文学杂志《格兰塔》发现其发表的英联邦短篇小说奖获奖作品《林中之蛇》疑似由人工智能创作。这一事件反映出文学界对AI生成内容的防范不足。随着AI写作技术进步，文学奖项和出版机构需要建立更严格的真实性认证机制，以维护文学创作的完整性和公正性。
 - [Spotify says its AI remix tool is for superfans, but I&#8217;m not convinced](https://www.theverge.com/ai-artificial-intelligence/936072/spotify-umg-ai-music-remix-cover-superfan) — 22:20
-  > Spotify推出AI混音工具，声称面向超级粉丝。但网络上已充斥劣质AI翻唱和混音作品，各大平台上充满了低劣的流派改编版本。这款新工具将使生成这类内容变得更加容易，引发对音乐质量和创意泛滥的担忧。
-- [Samsung&#8217;s memory chip employees negotiated $340,000 bonuses this year](https://www.theverge.com/tech/936002/samsung-memory-chip-employees-deal-strike-bonus) — 19:05
-  > 三星与半导体员工谈判达成初步协议，员工可获得平均34万美元年度奖金。此前员工威胁进行18天罢工，主要诉求是提高半导体部门员工的奖金上限。该协议反映了三星半导体业务利润大幅增长的背景。
-- [All of the updates from Elon Musk and Sam Altman’s battle over OpenAI](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit) — 04:15
-  > 埃隆·马斯克指控OpenAI背弃使命。马斯克于2024年对OpenAI及其CEO山姆·奥特曼提起诉讼，声称该公司放弃了开发造福人类AI的初心，转而追逐利润。此案涉及ChatGPT等产品，可能影响OpenAI未来方向。双方正进行高风险诉讼对峙。
-- [In desperate times, graduates find hope in humiliating tech CEOs](https://www.theverge.com/ai-artificial-intelligence/935602/graduates-boo-ai-ceos) — 04:00
-  > 大学毕业生在毕业典礼上嘘声和嘲笑宣传人工智能的企业高管。多段视频显示，谷歌前CEO埃里克·施密特等2026年毕业典礼演讲人因称赞AI而遭学生持续嘘声。这些高管似乎对此感到惊讶，而学生群体则对此反应强烈。
-- [This AI guitar pedal let me roll my own effects](https://www.theverge.com/ai-artificial-intelligence/935219/polyend-endless-ai-guitar-effects-pedal) — 01:00
-  > Polyend推出AI吉他效果器，允许用户自定义效果。这家知名音乐设备制造商以打造小众、特色设备著称，此前开发过追踪器式鼓机和多效果器。虽然AI吉他踏板需求不大，但其出现是必然趋势。该产品让吉他手能够创建个性化音效。
-- [Spotify is launching AI-generated remixes](https://www.theverge.com/ai-artificial-intelligence/935379/spotify-umg-ai-covers-remix) — 23:54
-  > Spotify与环球音乐集团达成许可协议，推出AI生成混音和翻唱功能。该工具面向付费用户提供，需额外付费。参与艺术家可获得版税收入，但艺术家可选择退出该计划。
-
-## TechCrunch AI (17 篇)
-
-- [AI is being used to resurrect the voices of dead pilots](https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/) — 07:03
-  > 人们利用AI技术，通过分析驾驶舱录音的频谱图像，成功复原了已故飞行员的声音。此举引发了美国国家运输安全委员会(NTSB)的关注，该委员会被迫临时关闭其档案系统的访问权限，以防止此类不当使用。
-- [Google goes for the glitter with disco-ball icons: &#8216;Are y&#8217;all sure you still want this?&#8217;](https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/) — 05:02
-  > 谷歌推出迪斯科球主题图标。用户现在可以将整个Pixel手机主屏幕装饰成闪闪发光的迪斯科球风格。这个新功能允许用户自定义应用图标的外观，采用炫彩、闪耀的迪斯科球设计元素，为手机界面增添视觉亮点和娱乐性。此举反映了谷歌在个性化定制方面的持续创新。
-- [How VCs and founders use inflated ‘ARR’ to crown AI startups](https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/) — 04:40
-  > 一些AI初创企业在公开宣传进展时，夸大了传统的年度经常性收入(ARR)指标。这些公司通过将免费试用、测试订阅或未来预期收入计入ARR，来展示虚假的增长势头。投资者对此心知肚明，却仍然参与其中，推高AI初创企业的估值。这种做法反映了当前AI泡沫中的投资乱象。
-- [Elon Musk can&#8217;t hear you over the sound of his $1.75 trillion IPO](https://techcrunch.com/podcast/elon-musk-cant-hear-you-over-the-sound-of-his-1-75-trillion-ipo/) — 02:17
-  > SpaceX提交了首次公开募股申请文件，拟融资1.75万亿美元，有望成为美国历史最大IPO。公司目标市场规模达28万亿美元，包含火箭业务外的多项野心勃勃的计划。马斯克薪酬与建立火星殖民地挂钩，反映了公司的长远战略目标。
-- [You can no longer Google the word &#8216;disregard&#8217;](https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/) — 00:16
-  > 谷歌搜索AI更新后，搜索"disregard"（忽视）一词会导致搜索界面崩溃失效。这个问题源于谷歌新推出的AI摘要功能与该词汇存在技术冲突，使用户无法正常进行搜索。谷歌尚未就此故障做出官方回应。
-- [We tried Google’s AI glasses and they’re almost there](https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/) — 23:37
-  > 谷歌展示了安卓XR眼镜原型机，可直接在视野中叠加由Gemini驱动的翻译、导航等信息。该智能眼镜通过增强现实技术，将AI功能集成到日常视觉体验中，包括实时翻译和导航辅助等应用。虽然还未完全成熟，但谷歌正在推进这一下一代计算平台的发展。
-- [SpaceX files to go public, and the math requires a little faith](https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/) — 22:30
-  > SpaceX已提交上市申请。该公司S-1文件显示其雄心勃勃：声称可寻址市场规模达28万亿美元，计划通过火星殖民地建设来激励高管薪酬，目标估值将创美国IPO历史新高。但文件也包含36页风险因素，需要投资者保持信心。
-- [Spotify and Universal Music strike deal allowing fan-made AI covers and remixes](https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/) — 03:45
-  > Spotify与环球音乐集团达成协议，允许高级用户创建AI生成的歌曲翻唱和混音作品。参与该计划的艺术家将获得相关收益分成。此举旨在规范粉丝创意内容的生成，同时保护原创艺术家的权益。
-- [Six search engines worth trying now that Google isn’t really Google anymore](https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/) — 03:19
-  > 谷歌搜索引擎即将进行重大改变，推出AI概览功能。如果用户不喜欢这一新功能，可能会对谷歌的未来方向失望。文章介绍了六款值得尝试的替代搜索引擎，为不满意谷歌变化的用户提供了其他选择。
-- [Trump delays AI security executive order, saying language &#8216;could have been a blocker&#8217;](https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/) — 01:30
-  > 特朗普延迟签署AI安全行政令。该令原要求对AI模型进行上市前政府安全审查。特朗普表示不满意该令的措辞，认为其措辞"可能成为阻碍"。这一延迟反映了政府在AI监管政策上的犹豫态度。
-- [Spotify adds AI-powered Q&#038;A and briefing generation features to podcasts](https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/) — 23:27
-  > Spotify推出AI驱动的播客功能，包括问答和摘要生成。用户可根据自定义提示生成每日或每周播客简报。这一功能利用人工智能技术，帮助用户快速了解播客内容精要，提升听众体验。该功能旨在简化信息获取流程，让用户更高效地消费播客内容。
-- [Spotify takes on Google&#8217;s NotebookLM with its new app](https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/) — 23:27
-  > Spotify推出新桌面应用，对标谷歌NotebookLM产品。该应用已在20多个国家以研究预览版形式发布。这一举措表明Spotify正在扩展业务范围，从音乐流媒体服务进入AI辅助研究工具领域，与谷歌的相似产品展开竞争。
-- [Spotify launches an ElevenLabs-powered audiobook creation tool](https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/) — 23:27
-  > Spotify推出由ElevenLabs技术支持的有声书创作工具。该AI驱动的有声书生成功能不要求作者签署专属合约，作者可自由选择在任何平台发布生成的有声书。这一举措为独立作者提供了便利，使他们能灵活运用AI技术创作有声书内容。
-- [The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy](https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/) — 22:00
-  > The Path是由托尼·罗宾斯和Calm前员工创办的AI心理治疗平台。该公司开发的AI模型在心理健康安全AI基准Vera-MH上获得95分，远超消费级AI机器人的最高分65分，旨在提供更安全的AI心理治疗服务。
-- [Hark raises $700M Series A for its secretive &#8216;universal&#8217; AI interface](https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/) — 22:00
-  > Hark公司完成7亿美元A轮融资。该公司计划今年夏季发布首个多模态AI模型，用于开发与现有产品和服务兼容的个人AI平台。随后将推出专门为该系统设计的硬件设备。
-- [Google is pitching an AI agent ecosystem to consumers who may not buy it](https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/) — 21:52
-  > 谷歌在开发者大会上推出AI代理生态系统，旨在改变消费者使用网络的方式。这一新技术被视为最具前景的创新之一，但其复杂性和实际应用价值存在疑问，消费者可能难以理解其优势，购买意愿有限。谷歌面临将这一技术转化为实际产品并获得用户认可的挑战。
-- [With aluminum prices up 20%, recycling startups bet on AI to cash in](https://techcrunch.com/2026/05/21/with-aluminum-prices-up-20-recycling-startups-bet-on-ai-to-cash-in/) — 21:38
-  > 随着铝价上升20%，回收初创企业利用人工智能技术提高铝等关键矿物的回收效率，致力于建立大规模的金属来源。这些企业通过AI技术优化回收流程，以应对铝价上涨带来的商机，推动循环经济发展。
+  > Spotify推出AI混音工具，声称面向"超级粉丝"。但AI翻唱和混音已泛滥网络，各平台充斥低质量的歌曲改编版本。新工具将使生成这些内容更加容易，可能进一步加剧问题。
