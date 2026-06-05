@@ -2,70 +2,87 @@
 layout: default
 ---
 
-# AI 日报 2026-06-04
+# AI 日报 2026-06-05
 
-> 共收录 **29** 篇，来自 **2** 个源 · 生成于 09:55 AM EDT
+> 共收录 **36** 篇，来自 **3** 个源 · 生成于 09:50 AM EDT
 
-## The Verge AI (10 篇)
+## Hacker News (10 篇)
 
-- [Let us filter AI slop, you cowards](https://www.theverge.com/ai-artificial-intelligence/942909/let-us-filter-ai-slop-google-youtube-meta-instagram-tiktok) — 20:30
-  > 互联网上充斥AI生成内容难以避免，但可以改善。YouTube、Instagram、TikTok等平台近期加强内容认证工作，通过自动标签区分AI生成与人类创作的图片、视频和音乐，帮助用户识别和过滤AI生成内容。
-- [AI leaders call for tougher protections against AI-aided bioweapons](https://www.theverge.com/ai-artificial-intelligence/942956/ai-biological-weapons-open-letter-congress) — 20:12
-  > 多家AI行业领导企业搁置分歧，联合致信美国国会，呼吁制定法规防止利用AI技术开发生物武器。他们认为当前存在令人担忧的生物安全漏洞，需要通过更严格的法律保护措施来限制AI在生物武器研发中的应用，强调这是一项共同的安全优先事项。
-- [Amazon develops a warehouse robot that workers can speak to](https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus) — 17:31
-  > 亚马逊推出了升级版全自主仓库机器人Proteus，该机器人现可通过语言交互而非代码命令来操作。这反映了亚马逊向自动化转变的战略，用机器人逐步替代人工。AI驱动的新功能使员工能够更便捷地分配机器人任务，提高了仓库运营效率。
-- [As AI gets better, it reveals an empty promise](https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise) — 01:45
-  > 谷歌新推出的AI助手Spark展现出惊人的能力。它能识别用户个人信息，如记住大卫的狗名字Frida和杰的妻子名字，尽管用户未明确提供这些信息。评测者认为其功能强大但令人担忧，暗示AI在变得更强大的同时，也揭示了某些空洞的承诺。
-- [Amazon&#8217;s search bar will invent AI-generated products you can&#8217;t buy](https://www.theverge.com/tech/942547/amazon-search-bar-ai-images) — 00:07
-  > 亚马逊更新搜索栏功能，可根据用户描述生成AI图像展示产品。目前该应用内功能仅限于服装和家居用品，用户可点击最匹配的AI生成图像，搜索相似商品。此举旨在改善用户购物体验，帮助消费者更直观地找到所需商品。
-- [Microsoft and OpenAI broke up — now they’re ready to fight](https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition) — 22:04
-  > 微软在年度Build大会宣布多项AI新举措，包括超级应用、自研推理模型、网络安全工具和AI代理等。这表明微软正在建立独立的AI能力，减少对OpenAI的依赖，双方正准备在AI领域展开竞争。
-- [AI has a water problem — Google thinks it has a fix](https://www.theverge.com/policy/942296/google-water-commitments-data-centers) — 17:00
-  > 谷歌公司面临AI数据中心建设引发的广泛反对，因其大量耗水。为应对环保质疑，谷歌提出五项用水承诺，包括向当地社区补充更多水资源的目标，以最小化对环境的影响。
-- [Google must let publishers opt out of AI Search features, rules UK](https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out) — 16:45
-  > 英国竞争与市场管理局(CMA)对谷歌进行规管，要求谷歌必须允许在线出版商选择退出AI搜索功能。网站所有者现可控制其内容是否出现在AI Overviews等AI功能中，防止内容被用于训练AI模型。该新规则旨在保护发布者的内容权益。
-- [Microsoft Build 2026: The 7 biggest announcements](https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements) — 03:23
-  > 微软Build 2026大会拉开帷幕，CEO纳德拉等领导人发表主旨演讲。大会宣布了多项重要公告，包括新款Surface硬件、常驻个人助手功能以及微软内部AI模型的更新。这次活动汇集了微软最新的技术创新和产品升级。
-- [Trump signs executive order to review AI models before they’re released](https://www.theverge.com/policy/941775/trump-ai-executive-order) — 02:33
-  > 特朗普总统签署行政令，要求人工智能公司在发布前沿AI模型前自愿与联邦政府共享，以促进安全创新和加强关键基础设施的网络安全。该举措旨在在不扼杀美国AI产业发展的前提下，加强对AI技术的安全监管。
+- [Amazon engineers in Seattle slam employer for building AI data centers](https://www.cnbc.com/2026/06/03/amazon-engineers-in-seattle-slam-employer-for-ai-data-amid-layoffs.html) — 21:43
+  > 亚马逊西雅图工程师批评公司在大规模裁员期间仍投入巨资建设人工智能数据中心。员工对公司的优先级分配提出质疑，认为在裁减人员的同时大规模扩展AI基础设施存在矛盾。此举引发了对企业资源分配和员工权益的讨论。
+- [Why Linux creator Linus Torvalds gets angry hearing "99% of code is AI"](https://thenewstack.io/torvalds-ai-programming-productivity/) — 21:36
+  > Linux创始人Linus Torvalds对"99%的代码由AI生成"这一说法感到愤怒。他认为这种表述误导性强，夸大了AI在编程中的实际作用。Torvalds强调，AI工具虽然有助于提高生产力，但远未达到完全替代人类程序员的程度，高质量代码仍需要深厚的技术功底和人类判断。
+- [GitLab cuts 14% of staff as it scales its platform to serve AI workloads](https://techcrunch.com/2026/06/03/gitlab-cuts-14-of-staff-as-it-scales-its-platform-to-serve-ai-workloads/) — 21:35
+  > GitLab因业务重组而裁员14%，以调整平台架构以适应AI工作负载的需求。此举反映了公司为满足日益增长的AI计算需求而进行的战略调整，旨在优化资源配置，提升平台在AI领域的竞争力。
+- [The oral tradition that built software may not survive AI](https://www.fastcompany.com/91549609/the-oral-tradition-that-built-software-may-not-survive-ai) — 21:32
+  > 软件开发依赖的口头传统可能无法在人工智能时代幸存。传统的软件开发过程中，知识经验通常通过代码审查、结对编程等口头交流方式传递。而AI工具的出现改变了这一模式，自动化代码生成可能削弱开发者间的知识共享，威胁到这种传统的学习和传承方式。
+- [What to Expect from Apple's AI, Siri and iOS 27 Launch at WWDC](https://www.bloomberg.com/news/articles/2026-06-05/wwdc-2026-preview-ios-27-siri-ai-features-macos-27-more-apple-will-announce) — 21:29
+  > 苹果将在WWDC 2026发布会上推出iOS 27和macOS 27新系统版本，重点展示人工智能功能和升级的Siri语音助手。新系统将整合更强大的AI能力，Siri将获得显著增强，提升用户交互体验。此外还将发布其他新产品和软件更新。
+- [Show HN: Jo – AI-native language to catch prompt injection at compile-time](https://github.com/typescope/jo) — 21:25
+  > Jo是一种AI原生编程语言，在编译时能够检测和防止提示注入攻击。该项目在GitHub上发布，旨在通过在代码编译阶段而非运行时捕获提示注入漏洞，提高AI应用的安全性。这种新颖的方法为开发者提供了一种更早、更有效的防护手段，有助于构建更加安全可靠的AI应用程序。
+- [Ask HN: Why isn't AI image generation closely linked with graphics code gen?](https://news.ycombinator.com/item?id=48412001) — 21:10
+  > 用户提问为什么AI图像生成与图形代码生成没有紧密结合。以iOS游戏开发为例，开发者可先用AI改进游戏截图的图形效果，再让AI根据生成的图像编写相应的Swift代码来实现可扩展矢量图形。该帖质疑当前AI工具为何未针对此类工作流进行优化整合。
+- [Green AI: A Unified Theory of Computational Waste](https://zenodo.org/records/20459312) — 20:48
+  > 本文提出了"绿色AI"的统一理论，探讨计算浪费问题。该研究框架旨在评估和优化AI系统的能效，减少不必要的计算资源消耗，推动可持续发展。通过建立统一的理论体系，帮助开发者识别和消除AI模型训练与推理过程中的浪费，以降低碳足迹和成本。
+- [Economics of the AI Supercycle](https://mse435.stanford.edu/index.html) — 20:47
+  > 本文讨论AI超级周期的经济学意义。AI技术正在推动一个长期的增长周期，涉及芯片、软件、数据中心等多个产业链环节。这个超级周期带来的投资机会和经济影响将深远持久，改变全球科技产业格局。
+- [Companies Are Using Reddit to Manipulate ChatGPT and Google AI Search](https://www.404media.co/companies-are-using-reddit-to-manipulate-chatgpt-and-google-ai-search/) — 20:37
+  > 企业利用Reddit论坛发布虚假信息，通过在该平台上策划讨论来操纵ChatGPT和Google AI搜索结果。由于AI系统广泛抓取Reddit内容作为训练数据，企业通过在Reddit发布看似真实的用户评论和推荐，来影响AI生成的搜索结果和回答，从而达到营销和推广目的。这种做法揭示了AI系统的安全漏洞。
 
-## TechCrunch AI (19 篇)
+## TechCrunch AI (17 篇)
 
+- [AirTrunk commits $30B to build 5GW of AI data centers in India](https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/) — 21:03
+  > AirTrunk计划在印度投资300亿美元，建设5GW（吉瓦）的AI数据中心。这家澳大利亚数据中心运营商将在印度扩大其基础设施规模，以满足日益增长的人工智能计算需求。该项目反映了全球科技公司在印度布局AI基础设施的趋势。
+- [Mira Murati steps back into the spotlight, carefully](https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/) — 13:06
+  > Mira Murati重新进入公众视野。在当今市场环境中，保持低调的效果递减，企业领导人必须适时发声来提醒市场自己的存在。这表明科技界高管越来越需要通过公开亮相和舆论参与来维持关注度和市场影响力。
+- [Ahead of its IPO, Anthropic&#8217;s Daniela Amodei shrugs off doubts about AI&#8217;s returns](https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/) — 06:43
+  > Anthropic首席执行官达妮埃拉·阿莫代在公司即将上市之际，对AI回报前景表示乐观。公司增长势头强劲，五月年化收入达470亿美元，较2025年底的90亿美元增长显著。尽管面临市场考验，Anthropic仍对其发展前景充满信心。
+- [Airbnb&#8217;s Brian Chesky plans to launch a new AI lab](https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/) — 06:29
+  > Airbnb首席执行官Brian Chesky计划推出新的人工智能实验室。他在去年表示，公司尚未与大语言模型合作，因为现有产品还不够成熟。这表明Airbnb正在积极布局AI战略，打算自主开发相关技术，而非仅依赖第三方合作。
+- [Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18](https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/) — 05:30
+  > StrictlyVC洛杉矶大会将于6月18日在航空航天公司园区举办。活动汇聚投资者、创业者和科技领袖，围绕风险投资、国防技术、人工智能和先进产业等领域的重要发展趋势进行深入探讨。目前可报名参加。
+- [Meta steals a tactic from Tesla and builds data centers in tents](https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/) — 03:33
+  > Meta借鉴特斯拉做法，用帐篷建造数据中心以降低成本。Meta正在探索一种降低其巨额数据中心费用的新方法——利用帐篷式结构建造数据中心。这一做法参考了特斯拉的成功经验，旨在通过创新的基础设施设计实现成本节省，满足其不断增长的AI和计算需求。
+- [Apple approves Poke as the first AI agent on its Messages for Business platform](https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/) — 03:20
+  > Poke初创公司获批成为苹果商务消息平台首个AI代理。该公司通过简单文本消息为用户提供AI代理服务，现已获得苹果官方认可，成为Messages for Business平台上首个获批的AI代理应用，标志着苹果在AI服务集成方面迈出重要一步。
+- [Meta rolls out a new AI creator assistant on Facebook](https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/) — 00:32
+  > Meta在Facebook推出新的AI创作者助手，帮助创作者快速了解创作表现。该助手可以回答"何时发布内容"和"评论中人们在说什么"等问题，无需创作者手动查看复杂的图表和数据面板。
+- [What to expect from WWDC 2026: Siri&#8217;s highly anticipated revamp and Apple Intelligence updates](https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/) — 00:31
+  > WWDC 2026即将召开，苹果将推出备受期待的Siri全面改版。新版Siri将获得增强功能，并融入苹果智能（Apple Intelligence）技术。此外，大会还将展示Apple Intelligence的最新更新和进展。这些改进旨在提升用户体验，使Siri更智能、更高效。
+- [Is Silicon Valley ready to put robots in people&#8217;s homes? Hello Robot is.](https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is/) — 23:05
+  > 加州初创公司Hello Robot推出第四代家用辅助机器人Stretch。该公司致力于将机器人产品引入家庭环境，满足人们对智能家居助手的需求。Stretch机器人代表了硅谷在家用机器人技术领域的最新进展，展示了该行业朝着实现家庭自动化和智能辅助的方向发展。
+- [Apple touts $1.4 trillion in App Store billings and sales, 90% without a commission](https://techcrunch.com/2026/06/04/apple-touts-1-4-trillion-in-app-store-billings-and-sales-90-without-a-commission/) — 22:05
+  > 苹果App Store年度账单达1.4万亿美元，较去年增长1300亿美元。其中数字商品销售额149亿美元。苹果强调，90%的App Store销售额来自无需支付佣金的应用，突出其开发者友好政策。
 - [Lovable signs multiyear deal with Google Cloud to up usage 5x, source says](https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/) — 06:56
-  > Lovable与谷歌云签署多年期扩展协议，将在谷歌云上的使用规模扩大5倍，同时获得对Anthropic Claude的更广泛访问权限。此举旨在加强Lovable平台的能力，通过谷歌云基础设施和先进AI模型支持业务增长。
+  > Lovable与谷歌云签署多年期扩展协议，将在谷歌云上的使用规模扩大5倍，并扩展了对Anthropic Claude的访问权限。该协议旨在加强Lovable在云计算基础设施上的部署，提升服务能力和用户体验。
 - [Alphabet&#8217;s record-breaking $85B raise for Google&#8217;s AI business is a helluva good signal](https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/) — 03:38
-  > 谷歌母公司Alphabet创纪录地募集850亿美元用于Google的AI业务，此举释放出强烈信号——投资者对AI相关业务充满热情，准备加大投入。这笔创纪录融资充分表明市场对人工智能领域的看好和投资者的旺盛需求。
+  > Alphabet通过破纪录的850亿美元股票融资，为Google的AI业务筹集资金。这一巨额融资表明投资者对AI相关业务的强劲需求和乐观预期。此举反映出资本市场对人工智能产业前景的高度看好，投资者积极布局AI领域。
 - [Google&#8217;s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon](https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/) — 03:07
-  > Google推出名为Dreambeans的AI工具，用于将用户生活转化为卡通故事。该工具利用Google账户中的个人数据，通过AI插画生成精选的"故事"集合。这是Google迄今推出的名字最奇特的AI产品，展示了该公司在AI应用创新方面的尝试。
+  > Google推出名为Dreambeans的AI工具，可将用户生活转化为卡通故事。该工具从Google账户中的个人数据提取信息，生成AI插图故事集合。这是Google迄今推出的名字最奇特的AI产品，旨在用创意方式呈现用户的日常生活。
 - [Amazon will show AI product images when you search for some reason](https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/) — 23:50
-  > 亚马逊将在搜索时展示AI生成的产品图像。该公司利用视觉搜索和人工智能技术，根据用户的搜索查询生成相应的产品图片，以帮助用户更快地找到所需产品。这一功能旨在改善购物体验，引导用户发现相关商品。
+  > 亚马逊将利用视觉搜索和人工智能技术生成与用户搜索查询相匹配的产品图像。这些AI生成的图像将在搜索结果中展示，帮助用户更快地找到所需产品。此举旨在改善用户的购物体验和搜索效率。
 - [These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked](https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/) — 23:00
-  > 两位分别来自高盛和Meta的创始人创办了一家声音AI初创公司，专注于其他企业忽视的市场。该公司为非洲和中东地区开发了自有技术栈，目前日均处理超过17000通电话，为当地市场提供语音AI解决方案。
+  > 两位分别来自高盛和Meta的创始人创办了一家语音AI初创公司，专注服务被其他企业忽视的市场。该公司为非洲和中东地区开发自有技术栈，目前每天处理超过17000通电话，填补了这些地区的AI语音应用空白。
 - [Publishers will be able to opt out of AI Search, thanks to new regulation](https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/) — 22:58
-  > 英国监管机构要求谷歌为网站发布者提供工具，允许他们选择退出生成式人工智能搜索功能。该选项将在英国进行测试，随后在全球推行。这一举措保护了发布者对其内容在AI搜索中的使用权。
-- [Meta&#8217;s AI agent for WhatsApp Business is now available globally](https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/) — 21:40
-  > Meta旗下WhatsApp推出AI代理服务，现已全球可用。该AI代理专为WhatsApp Business设计，帮助企业自动处理客户查询和交互。服务按代币使用量收费。这一举措旨在提升企业客户服务效率，推动WhatsApp商业化发展。
-- [Coralogix raises $200M on bet that someone needs to watch the AI agents](https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/) — 21:02
-  > Coralogix融资2亿美元，看好AI代理监控市场。该公司押注随着AI系统投入生产，企业对监控AI行为、排除故障、获取运维数据的工具需求将大幅增长。越来越多基础设施公司都在布局这一领域，为AI系统的稳定运行提供保障。
-- [Cyera eyes $12B valuation at 80x ARR multiple despite operating losses](https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/) — 06:50
-  > 网络安全公司Cyera在融资新一轮3亿美元资金时，估值目标为120亿美元，达到年度经常性收入（ARR）的80倍。尽管公司仍存在运营亏损，该轮融资由Evolution Equity Partners主导。这反映出投资者对网络安全领域的持续看好。
-- [Uber caps employee AI spending after blowing through budget in 4 months](https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/) — 03:11
-  > Uber在4个月内AI支出超预算后，决定限制员工使用AI。此前公司曾鼓励员工尽可能多地使用AI工具。这一转变反映出Uber在控制AI成本方面的态度改变，显示企业在推行AI应用时需要平衡创新与成本管理。
-- [New Microsoft tool lets devs spin up AI behavior tests using text descriptions](https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/) — 03:02
-  > 微软推出开源框架ASERT，允许开发者通过文本描述快速创建AI行为测试。该工具简化了AI模型评估过程，使开发者能够更轻松地进行回归测试，提高了AI系统的质量保证效率。
-- [Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI](https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/) — 02:16
-  > 著名导演马丁·斯科塞斯成为最新加入AI阵营的好莱坞人物，也是最令人意外的声音。值得注意的是，这位世界最著名导演之一仅将该技术用于电影分镜设计，而非其他用途。这表明即使是传统电影界的大师也开始接纳AI工具。
-- [Microsoft launches Scout, an OpenClaw-inspired personal assistant](https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/) — 02:02
-  > 微软在Build大会上推出了Scout，这是一款新的AI助手。Scout以OpenClaw为灵感，旨在将OpenClaw的强大功能和灵活性整合到Microsoft 365系统中，为用户提供更强大的个人助手体验。
-- [Google rolls out fake call detection to protect against AI deepfake impersonation scams](https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/) — 02:00
-  > 谷歌推出虚假来电检测功能，防范AI换脸冒充诈骗。随着人们拒接陌生来电，诈骗分子转向伪造信任的电话号码，并利用AI深度伪造技术模仿权威人士、家庭成员或雇主身份进行诈骗。谷歌的新功能旨在识别和阻止此类AI生成的欺骗性来电。
-- [Microsoft offers devs a better way to control AI agent behavior](https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/) — 02:00
-  > 微软为开发者提供了更好的方式来控制AI代理行为。该规范允许开发者、合规和安全团队在可移植的策略文件中定义AI代理需要遵循的自定义策略，从而增强了对AI行为的管理和控制能力。
-- [Amazon faces class action lawsuit over Ring facial-recognition feature](https://techcrunch.com/2026/06/02/amazon-faces-class-action-lawsuit-over-ring-facial-recognition-feature/) — 01:47
-  > 亚马逊旗下Ring公司面临集体诉讼。弗吉尼亚居民查尔斯·西格瓦尔特在西雅图提起诉讼，指控Ring的"熟悉面孔"功能在未经同意的情况下存储路人的面部图像。该诉讼质疑该面部识别功能的合法性和隐私保护措施。
-- [Trump signs narrower executive order on AI oversight after industry objections](https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/) — 00:23
-  > 美国总统特朗普签署修订版人工智能行政令，在业界反对声中做出妥协。新行政令仅要求对先进AI模型进行自愿的发布前政府审查，相比原计划的强制性监管措施大幅缩水，体现了行政部门与科技产业之间的权衡。
-- [OpenAI launches new Codex tools for white-collar work](https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/) — 00:00
-  > OpenAI推出了六款针对特定工作的Codex插件工具，分别用于数据分析、创意生产、销售、产品设计、股权投资和投资银行业务。这些工具集成了相关指令和背景信息，使Codex能够更好地模拟特定工作场景，通过Codex应用程序即可使用。
-- [Anthropic scales Claude Mythos  to critical infrastructure in 15+ countries](https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/) — 22:44
-  > Anthropic扩展其安全漏洞项目和Mythos模型的访问权限，覆盖15个国家150个组织。该计划重点面向电力、水利、医疗和通信等关键基础设施领域，旨在防范可能影响1亿人的网络攻击。
+  > 英国监管机构要求谷歌提供工具，允许网站发布商选择退出生成式AI搜索功能。该选项将先在英国测试，随后在全球推广。这一新规定让出版商有权控制其内容是否被用于AI训练和搜索生成。
+
+## The Verge AI (9 篇)
+
+- [Kevin O’Leary agrees to downsize massive Utah data center](https://www.theverge.com/ai-artificial-intelligence/943234/kevin-oleary-agrees-to-downsize-massive-utah-data-center) — 02:38
+  > 《鲨鱼坦克》主演凯文·奥利里同意将其计划在犹他州建设的大型数据中心规模缩小一半。该项目原计划占地4万英亩，现已同意削减19430英亩。此举是在当地居民和环保人士施压后做出的妥协。奥利里已向犹他州参议院议长写信表达同意。
+- [TSMC struggles to keep up with AI demand: &#8216;We can only support so much&#8217;](https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles) — 22:15
+  > 台积电CEO魏哲家表示，尽管在美国建厂，但台积电仍难以满足美国客户对芯片的需求。他指出"客户需求极高，我们的产能有限"。作为全球最大芯片制造商，台积电面临产能瓶颈，无法完全满足AI芯片需求的爆炸性增长。
+- [Elon Musk is steamrolling Wall Street to become a trillionaire](https://www.theverge.com/podcast/942586/elon-musk-spacex-ipo-x-xai-index-funds) — 22:00
+  > 埃隆·马斯克凭借SpaceX等企业的发展，正在突破华尔街的预期，有望成为万亿富豪。《纽约时报》技术记者瑞恩·麦克著有《字符限制：埃隆·马斯克如何摧毁推特》一书，详细记录了马斯克收购推特的全过程及其影响。该书于2024年出版，深入分析了马斯克的商业策略和市场影响力。
+- [Let us filter AI slop, you cowards](https://www.theverge.com/ai-artificial-intelligence/942909/let-us-filter-ai-slop-google-youtube-meta-instagram-tiktok) — 20:30
+  > 互联网上充斥AI生成内容，难以避免。YouTube、Instagram、TikTok等平台已加强内容认证工作，自动为AI生成的图像、视频和音乐添加标签，以区别于真人创作内容。这些措施旨在帮助用户识别和过滤AI内容。
+- [AI leaders call for tougher protections against AI-aided bioweapons](https://www.theverge.com/ai-artificial-intelligence/942956/ai-biological-weapons-open-letter-congress) — 20:12
+  > 多家AI行业巨头联合发表公开信，呼吁美国国会制定更严格的规则，防止AI技术被用于开发生物武器。业界领导人指出，当前存在令人担忧的生物安全漏洞。这些平时竞争激烈的企业为了共同应对潜在的生物安全威胁，搁置分歧，展现了罕见的团结立场。
+- [Amazon develops a warehouse robot that workers can speak to](https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus) — 17:31
+  > 亚马逊推出升级版全自主仓储机器人Proteus，具备语言交互功能，员工可用语言而非代码与其沟通。该AI驱动升级反映亚马逊向自动化转向的趋势，逐步用机器人替代人力员工，提高仓储运营效率。
+- [As AI gets better, it reveals an empty promise](https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise) — 01:45
+  > 谷歌新发布的AI代理Spark展现出令人震惊的能力。该系统能够识别用户的私人信息，如同事的狗名叫弗里达，以及另一同事妻子的名字，尽管他们从未明确告知。这引发关于AI隐私和数据处理的担忧。
+- [Amazon&#8217;s search bar will invent AI-generated products you can&#8217;t buy](https://www.theverge.com/tech/942547/amazon-search-bar-ai-images) — 00:07
+  > 亚马逊更新搜索栏功能，用户可通过描述生成AI图像产品预览。目前该功能仅支持服装和家居用品，用户点击匹配的AI生成图像后可搜索相似商品。这一功能旨在改善购物体验，帮助消费者更准确地找到想要的商品。
+- [Microsoft and OpenAI broke up — now they’re ready to fight](https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition) — 22:04
+  > 微软在年度Build大会宣布多项AI举措，包括超级应用、自研推理模型、网络安全工具和AI代理等。这些宣布表明微软正定位成为AI领域主要玩家之一。此举暗示微软与OpenAI分道扬镳后，开始独立开发核心AI技术，准备在AI市场上与OpenAI展开竞争。
