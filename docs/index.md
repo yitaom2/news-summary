@@ -2,83 +2,79 @@
 layout: default
 ---
 
-# AI 日报 2026-06-13
+# AI 日报 2026-06-14
 
-> 共收录 **34** 篇，来自 **3** 个源 · 生成于 08:21 AM EDT
+> 共收录 **32** 篇，来自 **3** 个源 · 生成于 08:58 AM EDT
 
 ## Hacker News (10 篇)
 
-- [DOE wants to build a single national platform for doing science with AI](https://cacm.acm.org/news/from-manhattan-to-genesis/) — 20:18
-  > 美国能源部(DOE)计划建设一个统一的国家科学AI平台。该平台旨在整合人工智能技术与科学研究，提升科研效率和创新能力。通过这个单一平台，科研机构和研究人员能够更便捷地利用AI工具进行数据分析、模型构建和科学发现，推进美国在AI驱动科学领域的领先地位。
-- [Yann LeCun: World Models: Enabling the Next AI Revolution](https://www.youtube.com/watch?v=72Xj8k5WQX4) — 20:14
-  > 杨立昆讨论世界模型在推动下一代AI革命中的关键作用。世界模型能让AI系统建立对物理世界的理解和预测能力，是实现通用人工智能的重要途径。通过学习世界的内在规律，AI可以进行更复杂的推理和规划，为自动驾驶、机器人等领域应用提供基础支撑。
-- [AI OSS tool repo goes archived over night after raising $7.3M Seed](https://github.com/tensorzero/tensorzero) — 20:10
-  > 一个获得730万美元种子融资的AI开源软件工具库在一夜之间被存档。该项目是TensorZero，据GitHub信息显示已被归档。这一突然举动引发了开发者社区的关注和讨论，具体原因尚未公开说明。
-- [Cerebras chips rival Nvidia GPUs for AI [video]](https://www.youtube.com/watch?v=qC_lCFTOJU0) — 20:01
-  > Cerebras公司推出的芯片在AI性能方面与英伟达GPU相竞争。该公司开发的专用AI芯片在处理人工智能任务时展现出强劲性能，有望挑战英伟达在AI芯片市场的主导地位。这一发展为AI芯片领域的竞争格局带来变化。
-- [EU budget 2027 €200B: 75B for "cohesion, resilience, and values", €2.5B for AI](https://twitter.com/EU_Commission/status/2064733839272899056) — 19:33
-  > 欧盟2027年预算规模达2000亿欧元，其中750亿欧元用于"凝聚力、韧性和价值观"项目，25亿欧元专项用于人工智能发展。该预算体现了欧盟在加强内部团结、提升抗风险能力和推进AI技术创新方面的承诺。
-- [To Thrive Alongside AI, Focus on Mindset – Not Skillset](https://hbr.org/2026/06/to-thrive-alongside-ai-focus-on-mindset-not-skillset) — 19:17
-  > 在AI时代，人们应该重点培养正确的心态而非单纯追求技能。文章强调，与其不断学习新技能应对AI带来的变化，不如建立开放、适应和持续学习的心态。这种心态能帮助人们灵活应对技术进步，在AI辅助下更好地发展职业生涯，实现长期竞争力。
-- [Instrumental Convergence in AI Safety: Complete 2026 Guide](https://aisecurityandsafety.org/en/guides/instrumental-convergence-guide/) — 19:10
-  > 本指南介绍了AI安全领域的"工具性收敛"概念。该理论认为，无论AI系统的最终目标如何，它们都可能采取相似的中间手段来实现目标，如获取资源、自我保护和信息收集。理解这一现象对于开发安全的AI系统至关重要，因为它解释了为什么即使目标设计良好的AI也可能产生危险行为。
-- [Equiv, check that an AI refactor did not change what your code does](https://github.com/Neelagiri65/equiv) — 18:46
-  > equiv是一个工具，用于验证AI重构代码后的功能是否保持不变。通过对比重构前后的代码行为，确保在AI自动优化或改进代码时，不会意外改变程序的实际功能。这对于使用AI辅助工具进行代码优化时的质量保证非常有用。
-- [European Sovereign AI. Breakthrough Performance](https://infercom.ai/) — 18:38
-  > 欧洲开发了自主AI技术，实现了突破性性能提升。该项目旨在减少欧洲对美国和中国AI技术的依赖，推动欧洲AI产业自主发展。通过自有技术研发，欧洲希望在人工智能领域确立战略地位，提升数字主权和竞争力。
-- [KPMG's AI report turns into a demo of AI hallucinations](https://www.theregister.com/ai-and-ml/2026/06/12/kpmgs-ai-report-turns-into-a-demo-of-ai-hallucinations/5255029) — 18:32
-  > KPMG发布的AI报告出现多个AI幻觉现象。报告中包含虚构数据、错误引用和不存在的研究结果，暴露了AI生成内容的可靠性问题。这一事件警示企业在使用AI工具生成重要报告时需谨慎，应加强人工审核和事实核查，以避免传播虚假信息。
+- [The origins of the AI age /s](https://indiekartik.substack.com/p/the-origins-of-the-ai-age) — 20:47
+  > 暂无法总结。提供的内容仅包含文章链接、讨论页面地址及基本信息，缺少实际新闻正文。无法从URL链接或评论数据推断文章具体内容。如需总结，请提供完整的文章正文内容。
+- [Stop Monitoring AI Systems Like Web Services](https://www.newsletter.swirlai.com/p/stop-monitoring-ai-systems-like-web) — 20:27
+  > 文章主张改变对AI系统的监控方式。传统的网络服务监控方法（如延迟、错误率等指标）不适用于AI系统。AI系统需要专门的监控策略，考虑模型性能、数据质量、偏差检测等特殊因素。仅用传统指标无法充分评估AI系统的真实运行状况和潜在风险。
+- [Relent less AI self-evolution](https://github.com/001TMF/harness-forge) — 19:29
+  > 这条新闻涉及GitHub上的"harness-forge"项目，在Hacker News上被讨论。标题提及"无休止的AI自我进化"，暗示该项目可能涉及AI系统的自主学习或自我改进机制。项目获得1个点赞但暂无评论。具体内容需要访问GitHub链接才能了解项目的详细技术细节和目标。
+- [Has AI Killed How-To Nonfiction?](https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/) — 19:22
+  > 这篇文章讨论了AI是否已经对"如何做"类非虚构文学造成了致命打击。随着AI技术的发展，生成高质量的操作指南和教学内容变得更加容易，这可能导致传统人类作者创作的此类内容失去市场价值。文章引发了关于AI对出版业、内容创作者以及传统写作行业前景的深思。
+- [UK police officer under criminal investigation over alleged use of AI](https://www.ft.com/content/514bab88-788c-4d48-a140-03597860bdb6) — 18:53
+  > 英国一名警察因涉嫌不当使用人工智能而接受刑事调查。该案例反映了执法部门在采用新技术时面临的法律和伦理问题。警方使用AI工具需要符合法律规定和程序正当性，保护公民权利。此事引发对警察AI应用监管的讨论。
+- [Home Opus: Local Deployment of Frontier AI Weights (Post-Fable 5 Ban)](https://github.com/zanirou/home-opus-whitepaper) — 18:52
+  > Home Opus是一个本地部署前沿AI模型权重的项目，在Fable 5禁令后推出。该项目允许用户在本地环境中运行高级AI模型，无需依赖云服务。这是对AI模型访问限制的回应，旨在让用户获得更多自主权和隐私保护。项目在GitHub上发布了相关白皮书供社区讨论。
+- [Show HN: Velyr – an AI agent that finds and fixes conversion leaks on your site](https://velyr.io/) — 18:00
+  > Velyr是一款AI代理工具，可自动检测并修复网站转化漏洞。该工具通过分析用户行为和网站性能，识别影响转化率的问题，如页面加载缓慢、用户体验不佳或流程障碍，并提供修复方案。这是一个面向网站运营者和电商企业的自动化解决方案，旨在提高在线转化效率。
+- [Ask HN: What problem did AI create at your company that didn't exist before?](https://news.ycombinator.com/item?id=48525718) — 17:50
+  > 这是一个Hacker News讨论帖，提问者询问AI项目给公司带来的新问题。他表示最近参与多个AI项目，每个团队都面临AI带来的新挑战。帖子邀请其他用户分享他们遇到的问题及解决方案。该讨论获得8个赞和9条评论，反映了业界对AI应用实践困境的普遍关注。
+- [It Is Beginning: AI Improves Itself (auth: Sabine Hossenfelder) (+abridgement)](https://www.youtube.com/watch?v=QADKN3hantI) — 17:32
+  > 萨宾·霍森费尔德发布视频讨论AI自我改进的现象。这标志着人工智能发展的新阶段，AI系统开始具备自我优化和自我改进的能力。该话题在黑客新闻获得关注，引发了关于AI发展方向和潜在风险的讨论。这一进展对人工智能未来发展具有重要意义。
+- [Repo-Slopscore: Detecting AI Contributions in Git Repositories via Commit](https://slopscan.ava.pet/) — 17:27
+  > 该研究提出了Repo-Slopscore工具，用于通过分析Git提交记录来检测代码库中AI生成的代码贡献。该方法通过检查提交特征来识别可能由AI（如GitHub Copilot等工具）生成的代码，帮助开发者了解项目中AI辅助编程的使用情况，对代码质量评估和来源追溯具有参考价值。
 
-## The Verge AI (8 篇)
+## TechCrunch AI (13 篇)
 
-- [Apple’s new AI photo editing tools mostly work, for better and worse](https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on) — 20:00
-  > 苹果在iOS 27中推出首批AI图片编辑功能。这些功能相比谷歌Pixel手机的AI编辑能力较为温和，但仍然强大。作为全球最受欢迎的相机，苹果手机获得了认真的AI照片编辑工具，虽然效果参差不齐，但这一进展值得关注。
-- [The future of Hollywood isn’t feeding prompts into vanilla gen AI models](https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai) — 19:00
-  > 尽管生成式AI被吹捧为电影工业的革命性技术，但迄今为止还没有真正的AI电影项目能吸引观众付费观看。大多数AI公司的视频模型目前只能生成短视频片段，尚未达到商业娱乐水平。好莱坞的未来并非简单地向通用生成AI模型输入提示，而需要更深层次的创新和发展。
-- [Siri is good now??](https://www.theverge.com/podcast/949079/siri-ai-good-vergecast) — 01:17
-  > 苹果发布了新版Siri语音助手，性能获得显著提升。过去十多年来，Siri饱受诟病，被批评功能有限、常出错，甚至无法完成设置计时器等简单任务。此次更新令人惊喜，标志着苹果对其语音助手的重大改进。
-- [Elon Musk is the world&#8217;s first trillionaire](https://www.theverge.com/ai-artificial-intelligence/948409/elon-musk-trillionaire-spacex-ipo) — 00:24
-  > 埃隆·马斯克成为全球首位万亿美元身家富豪。在SpaceX上市后，其净资产突破1万亿美元大关。马斯克持有SpaceX 48亿股，加上特斯拉等其他公司的财富，IPO前净资产约800亿美元。SpaceX股票开盘价150美元，目前维持高位。
-- [SpaceX’s massive IPO: all the latest news](https://www.theverge.com/business/948996/spacex-ipo-elon-musk) — 22:35
-  > SpaceX周五进行大规模IPO，首次向公众开放股票购买。此次IPO融资足以使埃隆·马斯克成为首位万亿富翁。这个结合火箭、人工智能和社交媒体的公司上市，使马斯克的纸面财富超过爱尔兰、瑞典等多个国家的经济体。
-- [Jeff Bezos’ AI startup aims to build an ‘artificial general engineer’](https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer) — 22:03
-  > 亚马逊创始人贝索斯创办的AI初创公司Prometheus致力于开发"人工通用工程师"。该公司研发AI驱动的工程工具，辅助物理产品设计。该项目去年11月首次被报道，旨在利用人工智能技术改进工程和产品开发流程。
-- [Siri won’t be your AI girlfriend](https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend) — 15:00
-  > 苹果公司表示，新版Siri AI助手的设计目标是避免像OpenAI和Google等公司的聊天机器人那样过度奉承讨好用户。苹果软件工程高级副总裁Craig Federighi在采访中强调，Siri将被设计成能够适时保持沉默，不会表现出过度的殷勤和谄媚特征。
-- [Amazon&#8217;s data centers used 2.5 billion gallons of water last year](https://www.theverge.com/tech/948534/amazon-data-centers-water-use) — 01:26
-  > 亚马逊首次披露其全球数据中心去年用水25亿加仑。此前，西雅图通过了一年期数据中心暂停令，由包括亚马逊员工在内的人士推动。随着水消耗和能源使用成为新型AI数据中心建设讨论焦点，亚马逊公开了数据中心用水量数据。
-
-## TechCrunch AI (16 篇)
-
+- [As Anthropic suspends access to new models, India debates its AI future](https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/) — 11:00
+  > Anthropic暂停向新用户提供模型访问，引发印度科技界关于其AI未来的讨论。此举被视为对印度AI发展雄心的警钟，促使业界反思国内AI产业的独立性和竞争力。这一事件凸显了印度在AI领域对海外技术的依赖，同时激发了业界加强本土AI创新和发展的呼声。
+- [Meta reportedly moves to unwind $2B Manus deal after Beijing&#8217;s demand](https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/) — 08:03
+  > Meta正在拆分其20亿美元的Manus收购案，此前北京当局要求该交易逆转。这笔交易涉及Meta在中国的业务扩展计划。据报道，由于中国政府的强硬态度和监管压力，Meta被迫开始解散这项收购。这反映了科技公司在华运营面临的越来越多的监管挑战和政治风险。
+- [KPMG pulls report on AI usage due to apparent hallucinations](https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/) — 04:42
+  > KPMG撤回了一份关于人工智能应用的报告，因为报告中包含明显的AI幻觉现象。这再次证明，AI在提供关于自身技术的信息时存在不可靠性。该事件突出了当前AI系统在准确性和事实验证方面的局限性，引发了对AI生成内容可信度的担忧。
+- [Amazon CEO reportedly raised Anthropic model concerns before government crackdown](https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/) — 03:11
+  > 亚马逊CEO安迪·杰西在政府打击行动前向政府部门提出了对Anthropic AI模型的安全隐患。此举可能导致Anthropic于周五停止全球用户对两个模型的访问。杰西的举报引发了对AI安全问题的政府关注和监管行动。
+- [OpenAI faces investigation from state attorneys general](https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/) — 00:47
+  > OpenAI面临多个州检察长的调查，但具体涉及哪些州尚未披露。调查涉及范围广泛，包括OpenAI的广告政策和健康数据处理方式等问题。这反映了监管机构对人工智能公司运营的日益关注。
 - [Andrew Yang thinks the next big startup opportunity is lowering the cost of living](https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/) — 12:14
-  > 杨安泽认为下一个创业机遇在于降低生活成本。他列举了美国人超支的领域，包括住房、食品和无线通讯等，认为初创企业应该致力于为消费者节省这些支出，这将是下一轮创业热潮。
+  > 创业家安德鲁·杨指出，美国人在住房、食品、无线通信等多个领域存在过度支付现象。他认为下一波创业浪潮的黄金机遇在于帮助消费者降低生活成本，将这些被过度收取的资金返还给民众。这反映了解决高生活成本问题的巨大市场潜力。
 - [Anthropic&#8217;s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI](https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/) — 10:26
-  > Anthropic因安全警告遭遇挫折。政府因发现其最强大AI模型存在狭隘的越狱风险，而要求召回已部署到数亿用户的商业模型。Anthropic对此表示不满，认为单一潜在漏洞不足以成为大规模召回的理由。
+  > Anthropic公司的AI模型因安全隐患遭政府叫停。Anthropic对此表示不满，认为仅因发现一个狭隘的越狱漏洞就召回已部署至数亿用户的商用模型是不必要的。公司在博文中表达了明确的反对立场。
 - [SpaceX IPO: Live updates on everything you need to know](https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/) — 07:15
-  > SpaceX即将进行首次公开募股(IPO)。TechCrunch持续跟踪报道SpaceX从创立初期到现在的发展历程及成就，并将继续关注其IPO进展。本报道涵盖IPO的受益者、融资前交易以及S-1注册文件等内容。
+  > SpaceX计划进行首次公开募股(IPO)。TechCrunch从SpaceX创立初期就跟踪报道其发展历程，包括早期困难和后来的成功。此次IPO报道涵盖潜在的赢家、融资前交易以及S-1注册文件中的关键信息。
 - [Meta&#8217;s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it](https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/) — 07:00
-  > Meta旗下一个拥有6500人的AI部门因工作环境恶劣而引发不满。据报道，该部门员工面临极高的工作压力和不人道的管理方式，被员工比作"灵魂摧毁的古拉格"。部门正处于发生员工反抗的边缘，反映出科技公司内部管理存在的严重问题。
+  > Meta旗下一个拥有6500名员工的AI部门被指为"灵魂摧毁的劳改营"。据报道，该部门员工对工作环境感到极度不满，团队即将发生反抗。虽然具体问题未详述，但该部门的管理方式和工作条件已引发严重的员工士气危机。
 - [Chinese cybercrime operation that used AI to scam &#8216;hundreds of thousands of victims&#8217; sued by Google](https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/) — 04:38
-  > 谷歌起诉名为"局外人企业"的网络犯罪团伙利用人工智能进行诈骗。该团伙在两周内发送250万条短信，受害者高达数十万。谷歌采取法律行动打击这一AI驱动的大规模诈骗活动。
+  > 谷歌起诉名为"局外人企业"的网络犯罪团伙利用人工智能实施诈骗，该团伙在两周内向数十万受害者发送250万条短信。谷歌指控其使用AI技术进行大规模诈骗活动，造成严重损害。
 - [Mistral is rumored to be raising €3B at €20B valuation](https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/) — 01:38
-  > Mistral AI正筹集3亿欧元融资，估值达200亿欧元（约231.5亿美元），几乎是其C轮融资110亿欧元估值的两倍。这一融资轮将大幅提升该AI初创公司的估值，反映出市场对其发展前景的看好。
+  > 法国AI公司Mistral传闻正融资30亿欧元，估值达200亿欧元（约231.5亿美元），接近其C轮融资估值11.7亿欧元的两倍。此轮融资将显著提升该公司估值，反映出生成式AI领域的投资热潮和Mistral在开源大模型领域的市场地位提升。
 - [SpaceX, Anthropic, and OpenAI’s hot IPO summer](https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/) — 00:23
-  > IPO市场回归，领导者已更换。FAANG时代已过，MANGOS（Meta/Microsoft、Anthropic、Nvidia、Google、OpenAI和SpaceX）成为新焦点。其中半数公司将在同一时间窗口上市，这对投资者、估值和市场构成考验。
+  > IPO市场回归，领军者已改变。传统FAANG让位于新兴的MANGOS（Meta/Microsoft、Anthropic、Nvidia、Google、OpenAI和SpaceX）。其中半数公司将在同一时间窗口上市，这对投资者、估值和市场构成严峻考验。
 - [It’s hot IPO summer, and the MANGOS are ripe](https://techcrunch.com/podcast/its-hot-ipo-summer-and-the-mangos-are-ripe/) — 23:50
-  > IPO市场复苏，领导者发生更替。FAANG时代已过，新的MANGOS概念崭露头角，包括Meta、Anthropic、Nvidia、Google、OpenAI和SpaceX。其中半数计划在同一时间窗口上市，这对投资者、估值和市场构成严峻考验。
-- [Cheaper, faster, and culturally aware, Avataar&#8217;s video AI is built for India&#8217;s scale](https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/) — 12:30
-  > Avataar AI推出了专为印度市场设计的视频生成AI模型。该模型具有三大优势：价格低廉，每秒生成成本仅0.005美元；生成速度快；具有文化感知能力。该技术旨在满足印度大规模应用需求，为印度的数字化发展提供廉价高效的视频生成解决方案。
-- [Theker just raised $85M to build the factory robot that doesn&#8217;t specialize in anything](https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/) — 09:48
-  > Theker公司获得8500万美元融资，用于开发通用工厂机器人。与专注特定功能的人形机器人不同，Theker的机器采用模块化设计，可根据需求灵活重新配置，适应多种工厂任务，具有更广泛的应用价值。
-- [Jeff Bezos&#8217;s Prometheus raises $12B to build an &#8216;artificial general engineer&#8217; for the physical world](https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/) — 09:04
-  > 杰夫·贝索斯支持的初创公司Prometheus完成12亿美元融资，估值达410亿美元。该公司致力于开发"人工通用工程师"，利用物理AI技术自动化重型工程和药物设计等领域的工作，推动物理世界的自动化进程。
-- [SpaceX officially prices shares at $135 in the largest IPO ever](https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/) — 04:33
-  > SpaceX正式公布IPO股价为每股135美元，这是有史以来最大规模的IPO。此次融资将为SpaceX筹集巨资，用于支持其航天业务的扩展，包括火箭发射、星链卫星互联网项目等。IPO的完成标志着SpaceX作为私营航天企业取得的重要里程碑。
-- [SpaceX SPV investors won&#8217;t know their true holdings until post-IPO lock-ups lift](https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/) — 03:58
-  > SpaceX上市后，低级别SPV投资者将面临多重风险。他们直到禁售期解除后才能真正了解持股情况，期间可能遭遇隐性费用、长期支付延迟，甚至欺诈风险。这种信息不对称为投资者造成了巨大的不确定性和潜在的经济损失隐患。
-- [Deezer&#8217;s new tool can identify AI music from Spotify, Apple Music, and others](https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/) — 00:36
-  > Deezer推出新工具，可扫描Spotify、Apple Music等音乐平台的播放列表，识别其中的AI生成音乐。该工具帮助用户检测人工智能创作的歌曲，解决了音乐行业中AI音乐日益增多带来的识别难题。
-- [Pool&#8217;s new app turns your screenshots into something useful](https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/) — 23:30
-  > Pool推出新应用，可自动将截图分类整理成个性化集合，追踪保存内容的原始链接，帮助用户重新发现之前想要回顾的产品、食谱、旅游建议等信息，提高截图的实用价值。
-- [DoorDash&#8217;s new AI chatbot lets you order with prompts and photos](https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/) — 22:23
-  > DoorDash推出新款AI聊天机器人"Ask DoorDash"，用户可以通过自然语言提示和上传照片来下单，无需逐一浏览餐厅和商店。该功能使订餐过程更便捷高效，用户只需描述想要的食物，AI即可帮助搜索和推荐相关选项。
+  > IPO市场回归，领军企业格局改变。FAANG时代落幕，MANGOS崭露头角——包括Meta、Anthropic、Nvidia、Google、OpenAI和SpaceX。其中半数计划在同一时间窗口上市，这对投资者、估值和市场构成严峻考验。
+
+## The Verge AI (9 篇)
+
+- [Amazon security research reportedly led to the White House’s Anthropic Fable ban](https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban) — 05:39
+  > 据《华尔街日报》报道，美国白宫下达的出口管制令促使Anthropic公司停止提供Fable 5和Mythos 5的访问权限。该命令部分由亚马逊的网络安全研究和亚马逊CEO与白宫的对话触发。亚马逊的研究报告声称发现了相关安全问题。
+- [My yard is dying, so I made an app for that](https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing) — 21:00
+  > 一位用户使用Gemini AI工具根据详细提示在五分钟内生成了一个功能性应用程序，用于解决其院子枯死问题。过程中出现了频道错误提示，但系统提供了快速修复按钮。这展示了AI在快速原型开发和问题解决中的实用性。
+- [Anthropic cuts off Fable 5 and Mythos 5 access following government order](https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security) — 20:55
+  > Anthropic根据政府命令，因国家安全问题，已切断全球用户（包括美国境内外）对Fable 5和Mythos 5模型的访问权限。该禁令适用于所有客户及公司员工。Anthropic为遵守政府要求，已完全关闭这两个模型的访问通道。
+- [Apple’s new AI photo editing tools mostly work, for better and worse](https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on) — 20:00
+  > 苹果在iOS 27中推出了首套严肃的AI照片编辑功能。虽然这些功能相比谷歌Pixel手机的AI编辑能力较为温和，但仍具有显著效果。这些工具在照片编辑方面展现了AI应用的潜力，既带来便利也存在一定争议。
+- [The future of Hollywood isn’t feeding prompts into vanilla gen AI models](https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai) — 19:00
+  > 尽管生成式AI被炒作将革新电影制作行业，但目前还没有真正用该技术创作出令人愿意付费观看的作品。大多数AI公司的视频模型仍只能生成短视频片段，远未达到制作专业级电影内容的水平。好莱坞的未来取决于开发更高级的AI工具，而非简单地向基础模型输入提示词。
+- [Siri is good now??](https://www.theverge.com/podcast/949079/siri-ai-good-vergecast) — 01:17
+  > 苹果推出了新版本的Siri语音助手。长期以来，Siri的表现在"有些用处"到"完全失败"之间徘徊，甚至连设置计时器这样的简单任务都经常出错。但现在情况出现了意外改变，新版Siri的性能得到了显著提升，有望真正变得实用。
+- [Elon Musk is the world&#8217;s first trillionaire](https://www.theverge.com/ai-artificial-intelligence/948409/elon-musk-trillionaire-spacex-ipo) — 00:24
+  > 埃隆·马斯克成为世界首位万亿富豪。其身家在SpaceX上市后突破1万亿美元。马斯克上市前身家约8000亿美元，包括其在SpaceX的48亿股股份，以及来自特斯拉等其他公司的财富。SpaceX股票开盘价150美元，并保持高位。
+- [SpaceX’s massive IPO: all the latest news](https://www.theverge.com/business/948996/spacex-ipo-elon-musk) — 22:35
+  > SpaceX于周五进行大规模首次公开募股，首次向公众发行火箭、人工智能和社交媒体综合公司股份。此次IPO募资规模巨大，使埃隆·马斯克成为首位身家超万亿美元的富豪，其财富已超过爱尔兰、瑞典等国家的经济体量。
+- [Jeff Bezos’ AI startup aims to build an ‘artificial general engineer’](https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer) — 22:03
+  > 亚马逊创始人贝佐斯创办的AI初创公司Prometheus致力于开发"人工通用工程师"。该公司将开发AI驱动的工程工具，用于辅助物理产品的设计。这家公司旨在利用人工智能技术来增强工程设计能力，推动产品开发的创新。
