@@ -2,79 +2,65 @@
 layout: default
 ---
 
-# AI 日报 2026-06-14
+# AI 日报 2026-06-16
 
-> 共收录 **32** 篇，来自 **3** 个源 · 生成于 08:58 AM EDT
+> 共收录 **25** 篇，来自 **3** 个源 · 生成于 12:13 PM EDT
 
 ## Hacker News (10 篇)
 
-- [The origins of the AI age /s](https://indiekartik.substack.com/p/the-origins-of-the-ai-age) — 20:47
-  > 暂无法总结。提供的内容仅包含文章链接、讨论页面地址及基本信息，缺少实际新闻正文。无法从URL链接或评论数据推断文章具体内容。如需总结，请提供完整的文章正文内容。
-- [Stop Monitoring AI Systems Like Web Services](https://www.newsletter.swirlai.com/p/stop-monitoring-ai-systems-like-web) — 20:27
-  > 文章主张改变对AI系统的监控方式。传统的网络服务监控方法（如延迟、错误率等指标）不适用于AI系统。AI系统需要专门的监控策略，考虑模型性能、数据质量、偏差检测等特殊因素。仅用传统指标无法充分评估AI系统的真实运行状况和潜在风险。
-- [Relent less AI self-evolution](https://github.com/001TMF/harness-forge) — 19:29
-  > 这条新闻涉及GitHub上的"harness-forge"项目，在Hacker News上被讨论。标题提及"无休止的AI自我进化"，暗示该项目可能涉及AI系统的自主学习或自我改进机制。项目获得1个点赞但暂无评论。具体内容需要访问GitHub链接才能了解项目的详细技术细节和目标。
-- [Has AI Killed How-To Nonfiction?](https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/) — 19:22
-  > 这篇文章讨论了AI是否已经对"如何做"类非虚构文学造成了致命打击。随着AI技术的发展，生成高质量的操作指南和教学内容变得更加容易，这可能导致传统人类作者创作的此类内容失去市场价值。文章引发了关于AI对出版业、内容创作者以及传统写作行业前景的深思。
-- [UK police officer under criminal investigation over alleged use of AI](https://www.ft.com/content/514bab88-788c-4d48-a140-03597860bdb6) — 18:53
-  > 英国一名警察因涉嫌不当使用人工智能而接受刑事调查。该案例反映了执法部门在采用新技术时面临的法律和伦理问题。警方使用AI工具需要符合法律规定和程序正当性，保护公民权利。此事引发对警察AI应用监管的讨论。
-- [Home Opus: Local Deployment of Frontier AI Weights (Post-Fable 5 Ban)](https://github.com/zanirou/home-opus-whitepaper) — 18:52
-  > Home Opus是一个本地部署前沿AI模型权重的项目，在Fable 5禁令后推出。该项目允许用户在本地环境中运行高级AI模型，无需依赖云服务。这是对AI模型访问限制的回应，旨在让用户获得更多自主权和隐私保护。项目在GitHub上发布了相关白皮书供社区讨论。
-- [Show HN: Velyr – an AI agent that finds and fixes conversion leaks on your site](https://velyr.io/) — 18:00
-  > Velyr是一款AI代理工具，可自动检测并修复网站转化漏洞。该工具通过分析用户行为和网站性能，识别影响转化率的问题，如页面加载缓慢、用户体验不佳或流程障碍，并提供修复方案。这是一个面向网站运营者和电商企业的自动化解决方案，旨在提高在线转化效率。
-- [Ask HN: What problem did AI create at your company that didn't exist before?](https://news.ycombinator.com/item?id=48525718) — 17:50
-  > 这是一个Hacker News讨论帖，提问者询问AI项目给公司带来的新问题。他表示最近参与多个AI项目，每个团队都面临AI带来的新挑战。帖子邀请其他用户分享他们遇到的问题及解决方案。该讨论获得8个赞和9条评论，反映了业界对AI应用实践困境的普遍关注。
-- [It Is Beginning: AI Improves Itself (auth: Sabine Hossenfelder) (+abridgement)](https://www.youtube.com/watch?v=QADKN3hantI) — 17:32
-  > 萨宾·霍森费尔德发布视频讨论AI自我改进的现象。这标志着人工智能发展的新阶段，AI系统开始具备自我优化和自我改进的能力。该话题在黑客新闻获得关注，引发了关于AI发展方向和潜在风险的讨论。这一进展对人工智能未来发展具有重要意义。
-- [Repo-Slopscore: Detecting AI Contributions in Git Repositories via Commit](https://slopscan.ava.pet/) — 17:27
-  > 该研究提出了Repo-Slopscore工具，用于通过分析Git提交记录来检测代码库中AI生成的代码贡献。该方法通过检查提交特征来识别可能由AI（如GitHub Copilot等工具）生成的代码，帮助开发者了解项目中AI辅助编程的使用情况，对代码质量评估和来源追溯具有参考价值。
+- [Show HN: We polled 2,122 Americans on AI and regulation, and built a visualizer](https://futurerealities.org/poll/2026/) — 00:05
+  > 约翰霍普金斯大学研究人员对2122名美国人进行民调，调查公众对AI监管的态度。研究涵盖民众对AI的信任度、AI对权力和不平等的影响等问题。团队开发了数据可视化工具供公众使用，支持按年龄、政治身份等维度分析结果。数据和问卷可供下载，还提供测验帮助用户了解自身AI态度。
+- [AI Slop Has Taken over LinkedIn](https://keegan.codes/blog/a-slop-has-taken-over-linkedin) — 00:01
+  > LinkedIn平台充斥AI生成内容。低质量、大量自动生成的AI文章和帖子正在泛滥LinkedIn，这些"AI垃圾"（AI Slop）由算法生成，缺乏原创性和真实价值。这种现象严重降低了平台内容质量，用户难以获取有意义的专业信息和真实讨论，破坏了LinkedIn作为专业社交网络的本质功能。
+- [AI GPUs probably live longer than three years](https://www.seangoedecke.com/ai-gpus-live-longer-than-three-years/) — 23:55
+  > 研究表明AI GPU的使用寿命可能超过三年。传统观点认为GPU的使用寿命较短，但新的分析数据显示，在适当的运维和散热条件下，AI GPU能够保持更长的工作周期。这对数据中心成本控制和硬件投资规划具有重要意义，延长设备寿命可以提高投资回报率。
+- [AI Won't Fix a Company That Can't Ship](https://agileproductdevelopment.substack.com/p/ai-wont-fix-a-company-that-cant-ship) — 23:50
+  > AI技术无法解决公司产品交付问题。文章指出，即使企业拥有先进的AI工具，如果在产品开发和交付流程上存在根本性缺陷，AI也无法弥补这些问题。公司需要先建立健全的产品交付能力和敏捷开发体系，才能有效利用AI技术提升竞争力。
+- [Growing the Cloudflare AI Team with Talent from Ensemble AI](https://blog.cloudflare.com/ensemble-ai-talent-joins-cloudflare/) — 23:45
+  > Cloudflare宣布从Ensemble AI招聘人才加入其AI团队。此举旨在增强Cloudflare在人工智能领域的技术实力。通过吸引Ensemble AI的专业人士，Cloudflare计划加速其AI产品开发和创新能力。这一举措反映了科技企业在AI竞争中争夺顶尖人才的趋势。
+- [Fun with an indecisive AI coding agent](https://benhoyt.com/writings/indecisive-ai-agent/) — 23:40
+  > 本文讨论了一个优柔寡断的AI编码代理的有趣案例。作者通过实验发现，某些AI代理在编程任务中存在决策不稳定的问题，会在多个方案之间反复摇摆，难以做出最终选择。这种行为降低了AI编码助手的实用性，提出了改进AI决策机制的重要课题。
+- [AI is saving office workers hours but stealing some time via 'botsitting'](https://tech.yahoo.com/ai/articles/ai-cutting-hours-office-creating-100000614.html) — 23:36
+  > AI技术正在帮助办公室工作人员节省时间，但同时也产生了新的"机器人看管"现象，即员工需要花费时间监督和管理AI工具的运行。这种现象在一定程度上抵消了AI带来的时间节省效益。总体而言，AI既提高了工作效率，又引入了新的时间成本问题。
+- [Anthropic Sued over Limits on Its $200-a-Month AI Plans](https://www.wsj.com/tech/ai/anthropic-sued-over-limits-on-its-200-a-month-ai-plans-e2a109e4) — 23:21
+  > Anthropic因其月费200美元的AI计划限制遭到诉讼。用户对该公司对高级订阅服务的使用限制提出法律异议，质疑其商业实践的合理性。此案涉及订阅服务的透明度和消费者权益问题。
+- [It Is Trivially Easy to Use Reddit to Manipulate AI Search, Research Suggests](https://www.404media.co/it-is-trivially-easy-to-use-reddit-to-manipulate-ai-search-research-suggests/) — 23:12
+  > 研究表明，利用Reddit平台极易操纵AI搜索结果。攻击者可通过在Reddit发布特定内容，诱导AI搜索引擎返回被篡改或虚假信息。这种操纵方式门槛低、成本小，反映出现有AI搜索系统对数据来源验证的不足，可能导致用户获取不实信息。
+- [My Homelab AI Dev Platform](https://rsgm.dev/post/ai-dev-platform/) — 23:09
+  > 作者分享了个人搭建的本地AI开发平台。该平台允许开发者在自己的家庭实验室环境中构建和测试AI应用。通过这个自托管的开发平台，用户可以避免依赖云服务，实现更灵活、经济高效的AI开发工作流。该项目在黑客新闻上获得11点赞和1条评论。
 
-## TechCrunch AI (13 篇)
+## TechCrunch AI (12 篇)
 
+- [Cybersecurity vets protest &#8216;dangerous&#8217; US government ban on Anthropic&#8217;s most powerful models](https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/) — 23:29
+  > 数十名网络安全专家敦促白宫撤销对Anthropic公司Fable和Mythos模型的出口管制限制。专家认为该禁令将限制网络安全防御人员保护软件和产品的能力，对国家安全造成危害。
+- [Salesforce acquires AI customer service platform Fin for $3.6 billion](https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/) — 22:34
+  > Salesforce以36亿美元收购AI客服平台Fin，计划将其团队和技术整合到企业平台Agentforce中，帮助企业构建定制化AI智能体以自动化执行任务，进一步强化其AI驱动的业务自动化能力。
+- [Sarvam becomes India&#8217;s newest AI unicorn with $234 million funding round led by HCLTech](https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/) — 21:46
+  > 印度IT服务公司HCLTech投资1.5亿美元，领投AI初创公司Sarvam的融资轮。该融资轮总额达2.34亿美元，使Sarvam成为印度最新的AI独角兽企业。这笔投资标志着HCLTech对人工智能领域初创企业的重视，同时也反映了印度AI产业的快速发展。
+- [As AI agents become employees, NewCore emerges with $66M to give them identities](https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/) — 21:00
+  > NewCore公司获得6600万美元融资，致力于为AI代理提供身份管理和企业安全解决方案。随着AI代理逐步成为职场员工，NewCore认为企业安全的下一个挑战将不再是管理人员，而是管理AI代理。该公司的融资将用于开发相关技术，应对AI时代企业安全新需求。
+- [A satellite just learned to find things on its own — here&#8217;s what that means](https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/) — 20:00
+  > 今年4月，一颗地球观测卫星首次独立发现了目标物体，无需地面控制。这标志着卫星自主能力的重大突破。该卫星搭载人工智能技术，能够自动识别和定位地表目标，无需依赖地面指令。这一进展将大幅提升卫星的工作效率和响应速度，在灾难监测、环境评估等领域具有重要应用价值。
+- [The AI layoff wave is becoming a powder keg](https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/) — 15:25
+  > 人工智能领域正经历大规模裁员浪潮，形成社会矛盾。数万名员工被裁退之际，少数AI业内人士却因该行业积累了难以想象的财富。这种贫富差距悬殊，引发了社会不满情绪，成为潜在的社会冲突引爆点。
+- [As AI companies race to go public, who else is along for the ride?](https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/) — 00:38
+  > 在AI公司争相上市的浪潮中，初创企业也试图搭便车。受到SpaceX等科技公司上市的启发，众多AI相关初创企业纷纷计划进行首次公开募股（IPO）。这些企业希望借助市场热情和投资者对AI领域的关注，实现融资和业务扩展。
 - [As Anthropic suspends access to new models, India debates its AI future](https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/) — 11:00
-  > Anthropic暂停向新用户提供模型访问，引发印度科技界关于其AI未来的讨论。此举被视为对印度AI发展雄心的警钟，促使业界反思国内AI产业的独立性和竞争力。这一事件凸显了印度在AI领域对海外技术的依赖，同时激发了业界加强本土AI创新和发展的呼声。
+  > Anthropic暂停向新模型的访问权限引发了印度关于其AI未来的讨论。科技领袖们将此事件视为对印度AI雄心的警醒。该事件凸显了印度在发展自主AI能力方面面临的挑战，以及对国际AI公司政策变化依赖的风险，促使印度加速推进本土AI产业发展。
 - [Meta reportedly moves to unwind $2B Manus deal after Beijing&#8217;s demand](https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/) — 08:03
-  > Meta正在拆分其20亿美元的Manus收购案，此前北京当局要求该交易逆转。这笔交易涉及Meta在中国的业务扩展计划。据报道，由于中国政府的强硬态度和监管压力，Meta被迫开始解散这项收购。这反映了科技公司在华运营面临的越来越多的监管挑战和政治风险。
+  > Meta因中国政府要求而开始解散其20亿美元的Manus收购。据报道，Meta正在推进该笔交易的撤销程序。Manus是一家重要的科技公司，此次收购被北京当局认为存在问题。该决定反映了中国对外资科技并购的严格监管态度，以及对数据安全和产业控制的关注。
 - [KPMG pulls report on AI usage due to apparent hallucinations](https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/) — 04:42
-  > KPMG撤回了一份关于人工智能应用的报告，因为报告中包含明显的AI幻觉现象。这再次证明，AI在提供关于自身技术的信息时存在不可靠性。该事件突出了当前AI系统在准确性和事实验证方面的局限性，引发了对AI生成内容可信度的担忧。
+  > KPMG撤回了一份关于AI使用情况的报告,原因是报告中存在明显的AI幻觉现象。这再次证明,人工智能在提供有关AI本身信息时并不可靠。该事件凸显了生成式AI在准确性和事实核实方面仍存在的重大问题,提醒人们在依赖AI生成内容时需谨慎。
 - [Amazon CEO reportedly raised Anthropic model concerns before government crackdown](https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/) — 03:11
-  > 亚马逊CEO安迪·杰西在政府打击行动前向政府部门提出了对Anthropic AI模型的安全隐患。此举可能导致Anthropic于周五停止全球用户对两个模型的访问。杰西的举报引发了对AI安全问题的政府关注和监管行动。
+  > 亚马逊CEO安迪·杰西在政府采取行动前向政府部门提出了对Anthropic模型的安全隐患。此举促使Anthropic于周五切断了全球用户对两个模型的访问权限。报道暗示杰西可能是引发这些安全担忧的信息来源，进而触发了政府的监管行动。
 - [OpenAI faces investigation from state attorneys general](https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/) — 00:47
-  > OpenAI面临多个州检察长的调查，但具体涉及哪些州尚未披露。调查涉及范围广泛，包括OpenAI的广告政策和健康数据处理方式等问题。这反映了监管机构对人工智能公司运营的日益关注。
-- [Andrew Yang thinks the next big startup opportunity is lowering the cost of living](https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/) — 12:14
-  > 创业家安德鲁·杨指出，美国人在住房、食品、无线通信等多个领域存在过度支付现象。他认为下一波创业浪潮的黄金机遇在于帮助消费者降低生活成本，将这些被过度收取的资金返还给民众。这反映了解决高生活成本问题的巨大市场潜力。
-- [Anthropic&#8217;s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI](https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/) — 10:26
-  > Anthropic公司的AI模型因安全隐患遭政府叫停。Anthropic对此表示不满，认为仅因发现一个狭隘的越狱漏洞就召回已部署至数亿用户的商用模型是不必要的。公司在博文中表达了明确的反对立场。
-- [SpaceX IPO: Live updates on everything you need to know](https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/) — 07:15
-  > SpaceX计划进行首次公开募股(IPO)。TechCrunch从SpaceX创立初期就跟踪报道其发展历程，包括早期困难和后来的成功。此次IPO报道涵盖潜在的赢家、融资前交易以及S-1注册文件中的关键信息。
-- [Meta&#8217;s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it](https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/) — 07:00
-  > Meta旗下一个拥有6500名员工的AI部门被指为"灵魂摧毁的劳改营"。据报道，该部门员工对工作环境感到极度不满，团队即将发生反抗。虽然具体问题未详述，但该部门的管理方式和工作条件已引发严重的员工士气危机。
-- [Chinese cybercrime operation that used AI to scam &#8216;hundreds of thousands of victims&#8217; sued by Google](https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/) — 04:38
-  > 谷歌起诉名为"局外人企业"的网络犯罪团伙利用人工智能实施诈骗，该团伙在两周内向数十万受害者发送250万条短信。谷歌指控其使用AI技术进行大规模诈骗活动，造成严重损害。
-- [Mistral is rumored to be raising €3B at €20B valuation](https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/) — 01:38
-  > 法国AI公司Mistral传闻正融资30亿欧元，估值达200亿欧元（约231.5亿美元），接近其C轮融资估值11.7亿欧元的两倍。此轮融资将显著提升该公司估值，反映出生成式AI领域的投资热潮和Mistral在开源大模型领域的市场地位提升。
-- [SpaceX, Anthropic, and OpenAI’s hot IPO summer](https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/) — 00:23
-  > IPO市场回归，领军者已改变。传统FAANG让位于新兴的MANGOS（Meta/Microsoft、Anthropic、Nvidia、Google、OpenAI和SpaceX）。其中半数公司将在同一时间窗口上市，这对投资者、估值和市场构成严峻考验。
-- [It’s hot IPO summer, and the MANGOS are ripe](https://techcrunch.com/podcast/its-hot-ipo-summer-and-the-mangos-are-ripe/) — 23:50
-  > IPO市场回归，领军企业格局改变。FAANG时代落幕，MANGOS崭露头角——包括Meta、Anthropic、Nvidia、Google、OpenAI和SpaceX。其中半数计划在同一时间窗口上市，这对投资者、估值和市场构成严峻考验。
+  > OpenAI面临多个州检察长的调查。调查涉及范围广泛，包括OpenAI的广告政策和健康数据处理等多个方面。目前尚不清楚具体涉及哪些州。
 
-## The Verge AI (9 篇)
+## The Verge AI (3 篇)
 
+- [Skydio CEO Adam Bry on why Silicon Valley shouldn’t draw red lines for drone use](https://www.theverge.com/podcast/949195/skydio-ceo-adam-bry-autonmous-drones-china-red-lines-military) — 22:00
+  > Skydio首席执行官亚当·布瑞表示，硅谷不应为无人机使用划定界限。Skydio是美国领先的自主无人机制造商。布瑞在播客中讨论了无人机技术的应用前景，并演示了其公司无人机的远程操控能力，该无人机可在室内灵活飞行。
+- [China may have accessed Mythos](https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos) — 02:27
+  > 据报道，白宫对Anthropic公司Mythos模型实施出口限制，部分原因是担心该模型被与中国有关的团体获取。若中国政府真的获得了Mythos 5或Fable 5的访问权限，将构成严重的国家安全威胁。
 - [Amazon security research reportedly led to the White House’s Anthropic Fable ban](https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban) — 05:39
-  > 据《华尔街日报》报道，美国白宫下达的出口管制令促使Anthropic公司停止提供Fable 5和Mythos 5的访问权限。该命令部分由亚马逊的网络安全研究和亚马逊CEO与白宫的对话触发。亚马逊的研究报告声称发现了相关安全问题。
-- [My yard is dying, so I made an app for that](https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing) — 21:00
-  > 一位用户使用Gemini AI工具根据详细提示在五分钟内生成了一个功能性应用程序，用于解决其院子枯死问题。过程中出现了频道错误提示，但系统提供了快速修复按钮。这展示了AI在快速原型开发和问题解决中的实用性。
-- [Anthropic cuts off Fable 5 and Mythos 5 access following government order](https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security) — 20:55
-  > Anthropic根据政府命令，因国家安全问题，已切断全球用户（包括美国境内外）对Fable 5和Mythos 5模型的访问权限。该禁令适用于所有客户及公司员工。Anthropic为遵守政府要求，已完全关闭这两个模型的访问通道。
-- [Apple’s new AI photo editing tools mostly work, for better and worse](https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on) — 20:00
-  > 苹果在iOS 27中推出了首套严肃的AI照片编辑功能。虽然这些功能相比谷歌Pixel手机的AI编辑能力较为温和，但仍具有显著效果。这些工具在照片编辑方面展现了AI应用的潜力，既带来便利也存在一定争议。
-- [The future of Hollywood isn’t feeding prompts into vanilla gen AI models](https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai) — 19:00
-  > 尽管生成式AI被炒作将革新电影制作行业，但目前还没有真正用该技术创作出令人愿意付费观看的作品。大多数AI公司的视频模型仍只能生成短视频片段，远未达到制作专业级电影内容的水平。好莱坞的未来取决于开发更高级的AI工具，而非简单地向基础模型输入提示词。
-- [Siri is good now??](https://www.theverge.com/podcast/949079/siri-ai-good-vergecast) — 01:17
-  > 苹果推出了新版本的Siri语音助手。长期以来，Siri的表现在"有些用处"到"完全失败"之间徘徊，甚至连设置计时器这样的简单任务都经常出错。但现在情况出现了意外改变，新版Siri的性能得到了显著提升，有望真正变得实用。
-- [Elon Musk is the world&#8217;s first trillionaire](https://www.theverge.com/ai-artificial-intelligence/948409/elon-musk-trillionaire-spacex-ipo) — 00:24
-  > 埃隆·马斯克成为世界首位万亿富豪。其身家在SpaceX上市后突破1万亿美元。马斯克上市前身家约8000亿美元，包括其在SpaceX的48亿股股份，以及来自特斯拉等其他公司的财富。SpaceX股票开盘价150美元，并保持高位。
-- [SpaceX’s massive IPO: all the latest news](https://www.theverge.com/business/948996/spacex-ipo-elon-musk) — 22:35
-  > SpaceX于周五进行大规模首次公开募股，首次向公众发行火箭、人工智能和社交媒体综合公司股份。此次IPO募资规模巨大，使埃隆·马斯克成为首位身家超万亿美元的富豪，其财富已超过爱尔兰、瑞典等国家的经济体量。
-- [Jeff Bezos’ AI startup aims to build an ‘artificial general engineer’](https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer) — 22:03
-  > 亚马逊创始人贝佐斯创办的AI初创公司Prometheus致力于开发"人工通用工程师"。该公司将开发AI驱动的工程工具，用于辅助物理产品的设计。这家公司旨在利用人工智能技术来增强工程设计能力，推动产品开发的创新。
+  > 据《华尔街日报》报道，亚马逊的网络安全研究以及CEO安迪·杰西与白宫的沟通，促使美国政府发布出口管制指令。该指令导致Anthropic公司限制访问Fable 5和Mythos 5模型。亚马逊的研究论文表明，这些AI模型存在安全隐患。
