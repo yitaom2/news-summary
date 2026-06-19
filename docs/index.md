@@ -2,95 +2,95 @@
 layout: default
 ---
 
-# AI 日报 2026-06-18
+# AI 日报 2026-06-19
 
-> 共收录 **40** 篇，来自 **3** 个源 · 生成于 10:01 AM EDT
+> 共收录 **40** 篇，来自 **3** 个源 · 生成于 09:59 AM EDT
 
 ## Hacker News (10 篇)
 
-- [Social media menagement tool with API for AI agents](https://schedpilot.com/) — 21:51
-  > SchedPilot是一款社交媒体管理工具，提供API接口支持AI代理。该工具允许用户通过API与AI代理集成，实现社交媒体内容的自动化管理和发布。在Hacker News上获得2分，1条评论，反映出开发者社区对这类AI辅助工具的关注。
-- [Manus original investors plan to buy back AI firm from Meta for $2B](https://www.reuters.com/world/asia-pacific/manus-original-investors-plan-buy-back-ai-firm-meta-2-billion-information-2026-06-18/) — 21:39
-  > Manus的原始投资者计划以20亿美元的价格从Meta手中回购这家AI公司。这笔交易反映了投资者对该公司独立发展潜力的信心。具体交易条款和时间表待定。此举可能标志着Manus在Meta收购后的重大转折。
-- [Agentic AI Comes to Medicine](https://erictopol.substack.com/p/agentic-ai-comes-to-medicine) — 21:32
-  > 医学领域迎来代理型AI。这类AI具备自主决策能力，可独立完成复杂医疗任务，如诊断分析、治疗方案制定等，无需人类逐步指导。代理型AI通过整合多种医学数据和知识库，能更高效地辅助医生工作，提升诊疗效率和准确性。这一技术进展有望革新现代医学实践。
-- [Where's the holistic AI productivity data?](https://rachelandrew.co.uk/archives/2026/06/11/wheres-the-holistic-ai-productivity-data/) — 21:01
-  > 本文讨论了人工智能生产力数据的缺失问题。作者指出，虽然许多公司声称AI能显著提升工作效率，但缺乏全面、系统的数据支持这些主张。文章质疑现有AI生产力研究的片面性，呼吁需要更加整体、科学的数据来准确评估AI对实际工作效率的真实影响。
-- [Show HN: Know which AI coding tools/MCPs/etc. are used to ship software](https://blog.codacy.com/the-visibility-problem-behind-ai-tool-adoption-in-engineering-teams) — 20:59
-  > 一款新型扫描工具帮助工程领导者了解软件开发中使用的AI编码工具和MCP等技术栈。该工具能在仓库级别提供具体证据，填补了工程团队对开发工具使用情况缺乏可见性的空白。
-- [AI Socratic Blog Posts](https://aisocratic.org/blog) — 20:56
-  > AI Socratic是一个博客平台，发布在Hacker News上。该文章链接指向AI Socratic官网的博客版块。文章在Hacker News获得2个点赞和1条评论。该平台似乎关注与AI相关的话题讨论。
-- [Improvements to Web for AI Should Benefit All Users](https://cloudfour.com/thinks/improvements-to-web-for-ai-should-benefit-all-users/) — 20:37
-  > 本文讨论了为人工智能优化网络的重要性。作者认为，改进网络以适应AI需求的同时，这些改进也应该惠及所有互联网用户。文章强调了在开发AI友好型网络标准和技术时，需要考虑普通用户的体验和隐私保护，确保优化措施不会对人类用户造成负面影响，实现AI发展与用户利益的平衡。
-- [The Roadmap to Mastering AI Agent Evaluation](https://machinelearningmastery.com/the-roadmap-to-mastering-ai-agent-evaluation/) — 20:30
-  > 本文介绍了AI智能体评估的发展路线图。智能体评估是衡量AI系统性能的关键环节，涉及多个维度的测试和指标。文章阐述了从基础评估方法到高级评估框架的演进过程，帮助开发者和研究人员全面掌握AI智能体的评估技术和最佳实践，推动AI系统的可靠性和有效性提升。
-- [Europe must choose between AI and climate goals, data center lobby says](https://www.politico.eu/article/europe-choose-ai-climate-goals-data-center-chief-warns/) — 20:22
-  > 欧洲数据中心游说团体警告，欧洲可能需在人工智能发展与气候目标之间做出选择。数据中心大量耗电，而AI应用的扩展将进一步增加能源需求，这与欧洲的碳中和目标存在矛盾。业界呼吁在制定政策时平衡两者需求。
-- [Rankpad – AI Visibility Tracking for Brands](https://www.rankpad.app/) — 20:20
-  > Rankpad是一个AI驱动的品牌可见性追踪工具。该平台帮助企业监测和分析其在网络上的曝光度和声誉表现。通过AI技术，Rankpad能够实时跟踪品牌在搜索引擎、社交媒体等多个渠道的排名和可见性指标，为企业提供数据驱动的营销决策支持。
-
-## The Verge AI (10 篇)
-
-- [Photoshop and Premiere now have AI assistants](https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch) — 21:00
-  > Adobe推出AI助手功能，已在Photoshop、Premiere、Illustrator、InDesign和Frame.io等Creative Cloud主要应用中部署。这些定制化AI助手作为公开测试版推出，标志着Adobe在创意软件中集成AI的计划进一步推进。
-- [Adobe’s redesigned AI studio remembers what your creations look like](https://www.theverge.com/tech/952104/adobe-firefly-ai-agent-elements-projects-update) — 21:00
-  > Adobe推出重新设计的AI创意工作室，配备改进的Firefly AI助手。新工作室在私测阶段推出，提供持久上下文记忆、可复用资源库和组织化工作流程，让用户能在统一界面中编辑和生成设计，提升创意项目的连贯性和效率。
-- [Midjourney goes from generating cat images to full-body ultrasound scans](https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan) — 11:12
-  > Midjourney首席执行官大卫·霍尔茨展示了公司首款硬件产品——Midjourney Scanner，这是一款基于超声波的全身扫描仪，采用传感器环采集垂直图像。公司还计划在旧金山建造温泉馆。这标志着Midjourney从AI图像生成工具向医疗硬件领域的扩展。
-- [Anthropic got hit by export rules nobody understands](https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls) — 02:28
-  > Anthropic因特朗普政府的出口管制措施陷入困境。该政府突然命令公司切断所有外国用户的访问权限，包括美国用户和自身员工，迫使Anthropic暂停Fable 5和Mythos 5两款新AI模型的全球访问。这些出口规则含糊不清，给公司运营造成严重影响。
-- [Two-thirds of Americans think AI is advancing too quickly](https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly) — 01:20
-  > 根据皮尤研究中心最新民调，49%的美国人至少偶尔使用聊天机器人，但63%认为AI发展过快。自2024年以来，AI聊天机器人使用率从33%大幅上升。其中，ChatGPT使用率自2023年以来翻倍，达44%。这反映了美国公众对AI快速发展既有接纳也有担忧。
-- [Vibe-decoding the White House-Anthropic fight over Fable](https://www.theverge.com/column/951516/trump-anthropic-feud-mythos-fable-white-house) — 00:27
-  > 本文介绍了白宫与人工智能公司Anthropic之间围绕Fable项目的争端。该争执可能对前沿AI领域的发展产生深远影响。文章属于Verge网站的"Regulator"专栏，关注科技、政治与科学交叉领域的议题。
-- [Can anyone look cool wearing Snap’s $2,000 glasses?](https://www.theverge.com/report/951481/snap-specs-wearables-smart-glasses-fashion) — 00:13
-  > Snap推出售价2195美元的新款Specs眼镜。CEO埃文·斯皮格尔表示，这款产品历时12年开发，旨在将计算融入现实世界，使技术更人性化。该设备被定位为帮助用户以更自然的方式与世界互动的工具。
-- [AI search grounded in Facebook posts? What could go wrong?](https://www.theverge.com/ai-artificial-intelligence/951099/meta-ai-mode-search-hands-on) — 21:30
-  > Meta推出新的AI搜索模式，利用Facebook帖子等信息帮助用户规划周末活动。但该功能准确性存疑，经常出错。虽然AI在日程安排等任务上表现可靠，但在处理复杂搜索查询时仍需改进，需要学会减少错误信息的输出。
-- [Google’s first smart speaker in six years arrives next week](https://www.theverge.com/tech/951147/google-home-speaker-gemini-launch-date-price-specs-features) — 21:00
-  > 谷歌首款新型智能音箱将于6月25日开始发货，为其六年来首次推出新品。该款Google Home Speaker售价99美元，采用圆形设计，配有触控按钮。预订已于6月17日开启。距离产品宣布已过九个月，硬件配置未有变化。
-- [The next humanoid robot might not look human at all](https://www.theverge.com/ai-artificial-intelligence/951283/genesis-ai-humanoid-robot-eno) — 17:46
-  > 法国创业公司Genesis AI推出的新型机器人Eno打破传统。该机器人无需具有人类外观，可能没有头部和腿部，而是采用轮式底座并能像躺椅一样折叠。这一设计理念表明，人形机器人不必在外形上模仿人类，更重要的是实现功能性和实用性。
+- [Why the Human Genome's Tangled Physicality May Confound AI](https://www.quantamagazine.org/why-the-human-genomes-tangled-physicality-may-confound-ai-20260618/) — 21:55
+  > 人类基因组的复杂物理结构可能会给人工智能带来挑战。DNA在细胞核内高度蜷缩和纠缠，形成复杂的三维结构。这种物理特性影响基因表达和调控，而现有AI模型主要基于线性序列分析，难以充分理解基因组的空间组织方式，可能限制AI在基因组研究中的应用效果。
+- [Ask HN: Can Monte Carlo Tree Search Improve AI Outputs?](https://news.ycombinator.com/item?id=48598562) — 21:49
+  > 开发者提问：蒙特卡洛树搜索（MCTS）是否能改进AI输出？提问者指出MCTS曾帮助AlphaGo战胜李世石，询问将MCTS与AI变换器架构结合是否能产生更有创意的结果。该话题在黑客新闻获得1点支持，暂无评论。
+- [Sashiko: AI code review system for the Linux kernel](https://www.theregister.com/software/2026/03/20/linux-kernel-engineer-introduces-sashiko-code-review-system/5223725) — 21:43
+  > Sashiko是一个针对Linux内核的AI代码审查系统。该系统由Linux内核工程师推出，旨在自动化和改进内核代码的审查流程。通过利用人工智能技术，Sashiko能够识别代码缺陷、安全漏洞和性能问题，提高审查效率和质量，减轻内核维护者的工作负担。
+- [I had an AI grade five real pitch decks as they stood the day they were sent](https://www.coworkers.global/blog/five-pitch-decks-before-anyone-knew) — 21:27
+  > 作者使用AI对五份真实的创业融资路演PPT进行了评估，这些PPT是在发送当天的原始状态。通过AI评分系统，作者分析了这些实际融资材料的质量和效果，为创业者提供了关于路演展示的客观反馈和改进建议。
+- [Matrix Scroll – sign AI-generated code changes with Ed25519](https://github.com/SSX360/matrixscroll) — 21:23
+  > Matrix Scroll是一个项目，能够使用Ed25519算法对AI生成的代码变更进行数字签名。该技术通过加密签名机制来验证和确保AI生成代码的真实性和完整性，增强了代码审计和安全性。这对于需要跟踪AI代码贡献来源的开发工作流具有重要意义。
+- [Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way](https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/) — 21:23
+  > AI智能体应被视为独立的身份，需要相应的安全管理。然而大多数企业组织未能认识到这一点，对AI智能体的身份验证、授权和访问控制措施不足。这可能导致安全漏洞和风险。企业应建立完善的AI智能体身份管理体系，确保其操作的可追踪性和可控性。
+- [Does your mom use AI?](https://handyai.substack.com/p/does-your-mom-use-ai) — 21:15
+  > 该文章讨论了母亲们对AI技术的使用情况。文章通过Substack平台发布，在Hacker News上获得1个赞，暂无评论。标题以提问形式探讨普通人群（特别是年长群体）对人工智能工具的接受度和使用现状，反映了AI技术在日常生活中的普及程度。
+- [Linux Maintainer Greg Kroah-Hartman Says AI Tools Now Useful, Finding Real Bugs](https://www.theregister.com/software/2026/03/26/linux-kernel-czar-says-ai-bug-reports-arent-slop-anymore/5226256) — 21:01
+  > Linux内核维护者Greg Kroah-Hartman表示，人工智能工具现已变得有用，能够发现真实的代码漏洞。曾经AI生成的bug报告被认为是垃圾信息，但现在AI已经能够识别和报告Linux内核中的实际问题，这表明AI在软件开发领域的应用已经取得实质性进展。
+- [UK's top data and AI regulator quits after 'inappropriate' humour](https://www.bbc.com/news/articles/c0eyq7rnn22o) — 20:49
+  > 英国数据和人工智能监管机构负责人因"不当"幽默言论而辞职。该高级官员因涉及不恰当的言论或幽默内容引发争议，最终决定离职。此事反映了对公共机构负责人言行规范的严格要求和监督力度。
+- [Home Office's AI age guesser for asylum-seekers branded biased and inaccurate](https://www.theregister.com/security/2026/06/19/rights-groups-brand-home-offices-ai-age-guesser-for-asylum-seekers-as-biased-and-inaccurate/5258892) — 20:39
+  > 英国内政部用于判断庇护申请者年龄的AI系统遭到质疑。人权组织指责该系统存在偏见且准确性不足，可能对年轻申请者造成不公正待遇。该AI工具用于判断申请人是否为未成年人，但其可靠性受到广泛批评。
 
 ## TechCrunch AI (20 篇)
 
+- [The CEO of Allbirds&#8217; new AI biz has a plan, but no employees](https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/) — 21:00
+  > Allbirds首席执行官启动新的AI业务，目前仅有创始人一人，获得巨额融资，但后续发展方向不明确。这是一个特殊的初创企业——拥有充足资金但缺乏员工团队，面临人员扩建和业务方向等挑战。未来能否有效利用融资并建立运营团队仍需观察。
+- [The US says ASML&#8217;s top chip tool may be in China. ASML says it isn&#8217;t](https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/) — 15:59
+  > 美国声称荷兰芯片设备制造商ASML的顶级芯片工具可能流入中国，但ASML否认了这一指控。ASML表示，从商业逻辑上讲，冒着失去出口许可的风险向中国客户供应设备是不划算的，暗示不太可能违反美国出口管制向中国提供敏感芯片制造设备。
+- [Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M](https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/) — 08:51
+  > Elastic公司同意收购AI初创企业DeductiveAI，交易价格最高达8500万美元。DeductiveAI成立仅三年，专门利用人工智能技术来发现和解决软件中的漏洞和错误。此次收购将帮助Elastic增强其AI驱动的软件质量保证和bug修复能力。
+- [AI inference startup Baseten reportedly raising $1.5B months after its last mega-round](https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/) — 05:20
+  > AI推理初创公司Baseten据报道正筹集15亿美元融资，公司估值达130亿美元。这次融资距其上一轮巨额融资仅相隔数月，反映出"推理淘金热"的持续升温。Baseten专注于AI模型推理领域，在该赛道融资热度持续高涨。
+- [Snap spins off AI video team into new company, Dotmo, due to costs](https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/) — 04:30
+  > Snap公司将其AI视频团队分拆成独立公司Dotmo。该团队由离职的Snap员工组成，专注于AI视频开发。此举旨在应对成本压力，通过分拆独立运营来优化资源配置。Dotmo将专门从事人工智能视频技术的研发与应用。
+- [OpenAI is bringing on some big guns in the lead-up to its IPO](https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/) — 03:59
+  > OpenAI为即将进行的首次公开募股做准备，在同一周内招聘了两位重量级人物：谷歌DeepMind的Transformer共同发明人诺姆·沙泽尔和特朗普政府前AI政策官员迪恩·鲍尔。这些高管的加入将加强OpenAI的技术和政策实力。
+- [Almost half of US singles feel negatively about AI in dating, Match says](https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/) — 02:51
+  > 美国约47%的单身人士对约会中使用AI持负面看法。然而，许多约会应用用户对AI帮助改进个人资料和提供聊天开场白持开放态度。这表明虽然部分人警惕AI在约会中的应用，但仍有用户愿意利用AI工具优化约会体验。
+- [Amazon hopes to challenge Nvidia more directly by selling its AI chips](https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/) — 02:22
+  > 亚马逊AWS部门计划向其他数据中心销售自主研发的AI芯片，以直接挑战英伟达的市场地位。公司首席执行官安迪·杰西表示，这代表着一个价值500亿美元的商业机会。此举意味着亚马逊将从仅供内部使用转变为向外部客户提供AI芯片。
+- [AI data centers just got a government-mandated fast lane to the grid](https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/) — 01:49
+  > 美国联邦能源监管委员会（FERC）要求电网运营商为数据中心的并网连接提供快速通道，优先处理其申请。这一措施旨在加速AI数据中心的电网接入。然而，该政策未能解决电力供应短缺的根本问题，仅是在现有电力框架下改进流程效率，无法从根本上缓解数据中心对电力日益增长的需求压力。
+- [The smartphone era created an attention crisis — slow tech is fixing it](https://techcrunch.com/2026/06/18/the-smartphone-era-created-an-attention-crisis-slowtech-is-fixing-it/) — 01:16
+  > 智能手机时代导致人类面临注意力危机。越来越多人开始采用"慢速技术"来重夺对时间、生活和注意力的控制权。这一趋势反映了公众对摆脱数字设备过度依赖的渴望，他们愿意接受任何能帮助恢复专注力、减少分心的解决方案，标志着科技使用方式的转变。
+- [&#8216;Queer Eye&#8217; life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone](https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/) — 00:55
+  > 《酷男改造》生活教练卡拉莫·布朗推出wellness应用Kē，该应用采用他的人工智能数字克隆。布朗花了一年半时间专注于自身健康成长，包括健身、营养、冥想、戒酒和人际关系等方面。如今他希望通过这款应用帮助他人实现类似的个人成长和健康改善。
+- [General Intuition in talks to raise $300M at around $2B valuation](https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/) — 23:20
+  > General Intuition公司正洽谈融资3亿美元，估值约20亿美元。该公司专注于训练具身人工智能和世界模型，利用Medal提供的数据集，包括来自1000万月活跃用户每年20亿段视频，用于AI模型的训练和优化。
+- [A tech worker-backed PAC is bringing a $5M knife to Big Tech’s $100M gunfight](https://techcrunch.com/2026/06/18/a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight/) — 23:13
+  > 一个由科技工作者支持的超级政治委员会（PAC）组织"Guardrails"筹集500万美元资金，用于对抗大科技公司的政治影响力。该组织定位为民粹政治运动，依靠来自AI产业一线工作者的小额捐款运作，与科技巨头动辄数亿美元的政治支出形成鲜明对比。
 - [Pixi&#8217;s new iOS app turns text messages into interactive AR experiences](https://techcrunch.com/2026/06/18/pixis-new-ios-app-turns-text-messages-into-interactive-ar-experiences/) — 20:00
-  > Pixi推出新的iOS应用，将短信转化为交互式AR体验。该应用摒弃了传统的贴纸、GIF和表情符号反应，致力于通过增强现实技术实现消息传递的新形式，使用户能够在短信中创建和分享交互式AR内容，代表了移动通讯应用的新发展方向。
+  > Pixi推出新iOS应用，将短信转换为交互式增强现实体验。该应用创新地摒弃了传统的贴纸、GIF和表情符号等消息反应方式，转而采用AR技术。用户可以通过该应用在短信中创建和分享交互式AR内容，实现更加沉浸式和创意性的消息交互。Pixi认为交互式AR是未来移动通讯的发展方向。
 - [How to turn off AI in your Google Docs](https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/) — 09:23
-  > 本文介绍了在谷歌文档中关闭人工智能功能的方法。谷歌文档中集成了Gemini AI助手，会弹出"使用Gemini写作"的提示框，这些弹窗可能会打扰用户。文章提供了具体步骤帮助用户禁用该功能，消除这些烦人的AI弹窗提示。
+  > 谷歌文档中集成的AI功能"Gemini写作"会以弹窗形式出现，有些用户觉得烦人。文章介绍了如何关闭这项功能，帮助用户消除这些弹窗提示。用户可以通过调整设置来禁用AI辅助写作功能，获得更清净的文档编辑体验。
 - [Roelof Botha joins SpaceX&#8217;s board of directors](https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/) — 04:32
-  > SpaceX董事会新增成员。前红杉资本领导人Roelof Botha加入SpaceX董事会，填补现有空缺。此举发生在SpaceX进行有史以来最大规模IPO上市几天后。
+  > SpaceX董事会迎来新成员。前红杉资本领导人Roelof Botha加入SpaceX董事会，填补现有空缺。此举发生在SpaceX完成历史上规模最大IPO上市之后不久。Botha将为这家航天公司的战略发展和决策提供支持。
 - [After unveiling ridiculously expensive AR glasses, Snap&#8217;s stock takes a dive](https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/) — 04:24
-  > Snap公司推出价格极其昂贵的增强现实眼镜后，股价应声下跌。这款备受期待的智能眼镜产品未能给公司带来正面影响。高昂的价格可能是导致市场反应冷淡的主要原因。投资者对该产品的商业前景表示担忧，认为其价格过高，市场需求有限，难以实现预期的销售目标和盈利目标。
+  > Snap公司推出高价增强现实眼镜后，股价下跌。这款长期期待的智能眼镜产品上市后，未能提振公司股价表现。分析人士认为，产品价格过高可能是导致市场反应不佳的主要原因。该消息反映出消费者和投资者对Snap新产品的担忧。
 - [NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI](https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/) — 04:17
-  > 今年硅谷曾流行"Token最大化"趋势，企业竞相推进AI应用。但随着成本账单到期，情况急转直下。Uber数月内花完全年AI预算，部分企业削减Claude许可，Meta关闭内部排行榜。企业正在重新评估AI投资回报率，从盲目扩张转向理性成本控制。
+  > NEA投资人Tiffany Luck表示，企业仍在探索AI的投资回报率。今年硅谷曾流行"代币最大化"趋势，CEO鼓励员工充分利用AI。但高昂成本随之而来：Uber数月内耗尽年度AI预算，部分企业削减Claude许可，Meta关闭内部排行榜。企业正面临如何平衡AI使用与成本效益的挑战。
 - [World leaders want American AI. They just don&#8217;t want America to be able to turn it off.](https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/) — 03:01
-  > 在G7峰会上，法国总统马克龙和印度总理莫迪表示担忧，美国可能随时切断对美国AI的访问权限。Anthropic的宕机事件使这一担忧成为现实。各国领导人希望使用美国AI技术，但不希望美国掌握"断网"的权力。这反映了全球对AI供应链安全和技术自主的关注。
+  > 法国总统马克龙和印度总理莫迪在七国集团峰会上表达担忧，认为美国可能随时切断对美国AI的访问权限。Anthropic的服务中断事件强化了这一恐惧。各国领导人渴望获得美国AI技术，但担心美国能够单方面控制其可用性，对国家战略自主权构成威胁。
 - [Anthropic becomes first AI startup to join the Frontier carbon removal coalition](https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/) — 02:30
-  > Anthropic成为首个加入Frontier碳清除联盟的AI初创公司。该联盟最新获得9.15亿美元承诺资金，用于资助碳清除项目。这反映了AI企业对气候变化的重视，以及通过支持碳移除技术来抵消其运营碳足迹的承诺。
-- [Social media’s next evolution: user-controlled algorithms](https://techcrunch.com/2026/06/17/social-medias-next-evolution-user-controlled-algorithms/) — 02:19
-  > 社交媒体平台正在推进算法民主化。Threads、Instagram和TikTok等平台推出新工具，使用户能直接控制和影响推荐算法，定制个性化信息流。这一趋势反映了用户对透明性和主动权的需求，标志着社交媒体发展迈向用户中心模式的新阶段。
-- [NEA&#8217;s Tiffany Luck on AI IPOs, personal agents, and the ROI reckoning](https://techcrunch.com/podcast/neas-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning/) — 02:00
-  > 硅谷今年早期盛行"Token最大化"趋势，企业鼓励员工尽可能使用AI。但随后成本账单到期，企业开始控制支出。Uber数月内耗尽年度AI预算，部分公司削减Claude许可，Meta关闭内部排行榜。企业面临AI投资回报率与成本控制的矛盾。
-- [World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names](https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/) — 01:43
-  > 专注于世界模型开发的AI初创公司Odyssey获得融资，估值达145亿美元，获得亚马逊等大型科技公司支持。世界模型被认为是继大语言模型之后的下一个AI发展方向。此融资彰显了Odyssey作为该领域关键初创企业的地位。
-- [Only 16 percent of Americans think AI will have a positive impact on society, a new study shows](https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/) — 01:00
-  > 皮尤研究中心最新报告显示，仅16%的美国人认为人工智能将对社会产生积极影响。尽管华尔街看好AI产业，但普通美国民众对AI的乐观态度正在下降，对该行业的前景持谨慎态度。
-- [Google bets on Gemini to reinvent the smart home speaker](https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/) — 00:30
-  > 谷歌推出售价99.99美元的新款Google Home智能音箱，搭载生成式AI助手Gemini，旨在革新智能音箱体验。相比传统Google Assistant的刻板命令式交互，Gemini支持更自然、更具对话性的人机互动，帮助谷歌重振智能音箱市场。
-- [The slowtech revolution is here to kill your phone addiction and rescue your attention span](https://techcrunch.com/2026/06/17/the-slowtech-revolution-is-here-to-kill-your-phone-addiction-and-rescue-your-attention-span/) — 23:24
-  > 慢速科技革命正在兴起，旨在帮助人们摆脱手机成瘾，保护注意力。越来越多消费者渴望重新掌控自己的时间、生活和注意力，他们愿意采用任何有助于实现这一目标的方法。这一趋势反映了人们对数字化生活过度侵占的深刻反思，寻求在科技与生活质量之间找到平衡。
-- [Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it.](https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/) — 23:00
-  > 物理AI发展面临数据瓶颈。为训练机器人，需要大量标注数据，这项工作脏乱且不起眼。一些AI实验室已开始付费委托XDOF公司收集机器人训练数据。该数据采集工作虽然繁琐，但对物理AI达到大语言模型的性能水平至关重要。
-- [Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI](https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/) — 22:15
-  > Pramaana Labs获得由Khosla Ventures领投的2700万美元种子轮融资。该公司致力于为人工智能引入形式验证技术，重点关注法律、药物发现和税务准备等对可靠性要求极高的敏感领域，以降低这些行业中AI应用可能造成的错误成本。
-- [Canadian pension giant joins race to fund India&#8217;s AI-fueled data center boom](https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/) — 20:38
-  > 加拿大养老金巨头进入印度数据中心融资竞争，计划收购印度科技公司CtrlS 8.2%的股份。CtrlS在印度运营超过15个数据中心，致力于支撑印度AI产业发展。此举反映了国际资本对印度数据中心和人工智能基础设施市场的看好。
-- [DeepL acquires Mixhalo for live-event audio streaming and translation](https://techcrunch.com/2026/06/17/deepl-acquires-mixhalo-for-live-event-audio-streaming-and-translation/) — 20:14
-  > DeepL收购Mixhalo公司，进军现场活动音频流媒体和实时翻译领域。此举标志着DeepL在扩展美国业务的战略举措，计划在旧金山开设办公室。通过整合Mixhalo的音频流技术，DeepL将增强其实时翻译能力，为全球用户提供更优质的现场活动体验。
-- [Pinterest launches an experimental AI shopping app called &#8216;Ask Pinterest&#8217;](https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/) — 19:00
-  > Pinterest推出实验性AI购物应用"Ask Pinterest"，该应用采用对话式界面，利用人工智能技术为用户提供购物建议和灵感。用户可以通过与AI进行自然交互，获取个性化的产品推荐，增强购物体验。
-- [Anthropic&#8217;s latest feud with the Trump admin may actually help it, sales data suggests](https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/) — 06:34
-  > Anthropic与特朗普政府的最新纠纷可能反而促进其业务增长。根据Ramp数据显示，Anthropic在商业用户中的受欢迎度持续增长。这次政府冲突可能会为该公司带来意外的市场利好。
-- [SpaceX valuation balloons to $2.6T, briefly passes Amazon](https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/) — 04:11
-  > SpaceX估值周五开始交易后激增1万亿美元，达到2.6万亿美元，一度超越亚马逊，成为全球市值最高公司。此次大幅增长反映投资者对该公司太空探索、卫星互联网等业务的强劲信心，标志着马斯克旗下公司估值的里程碑突破。
+  > Anthropic加入Frontier碳去除联盟，成为首个加入该联盟的AI初创公司。Frontier联盟旨在资助碳去除项目，近期又获得9.15亿美元新承诺。该联盟汇聚了致力于应对气候变化的企业和组织，通过资助创新碳去除技术项目，推动实现碳中和目标。
+
+## The Verge AI (10 篇)
+
+- [Barret Zoph is out at OpenAI again after just five months](https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab) — 12:49
+  > OpenAI企业AI销售负责人Barret Zoph在返回公司仅五个月后再次离职。Zoph今年1月回归OpenAI，之前曾在前OpenAI首席技术官Mira Murati创办的竞争对手公司Thinking Machines Lab担任联合创始人兼首席技术官。
+- [Amazon employees say they’re facing termination for backing data center limits](https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action) — 00:00
+  > 亚马逊三名软件工程师在西雅图市议会听证会上为数据中心限制措施作证后，指控公司因其政治言论而进行报复，包括面临解雇威胁。他们声称亚马逊违反了禁止因政治言论进行就业歧视的城市法律。此事引发了关于企业对员工言论自由权利的讨论。
+- [Who decides when AI is too dangerous?](https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump) — 22:00
+  > Anthropic发布新AI模型Fable 5引发争议。本期Decoder节目邀请The Verge资深AI记者Hayden Field讨论AI安全问题。话题涉及Anthropic公司、特朗普政府及其新模型在安全性方面的相关争议，探讨谁来决定AI何时过于危险。
+- [Photoshop and Premiere now have AI assistants](https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch) — 21:00
+  > Adobe在Creative Cloud套件中全面推进AI助手计划。Photoshop、Premiere、Illustrator、InDesign和Frame.io等核心应用现已推出定制化AI助手测试版。用户可通过这些助手获得编辑和设计支持，提升创意工作效率。
+- [Adobe’s redesigned AI studio remembers what your creations look like](https://www.theverge.com/tech/952104/adobe-firefly-ai-agent-elements-projects-update) — 21:00
+  > Adobe推出了重新设计的AI工作室，配备升级版Firefly AI助手。新工作室提供统一界面，支持设计编辑与生成功能，可在项目间保持持久化上下文、资产复用和工作流整理。该功能现已进入私测阶段，旨在提升创意工作效率。
+- [Midjourney goes from generating cat images to full-body ultrasound scans](https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan) — 11:12
+  > Midjourney首次推出硬件产品"Midjourney Scanner"，这是一款基于超声波的全身扫描仪，配备环形传感器用于垂直捕获。CEO大卫·霍尔茨还宣布计划在旧金山建造水疗中心。这标志着Midjourney从AI图像生成器向医疗硬件领域的重大转变。
+- [Anthropic got hit by export rules nobody understands](https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls) — 02:28
+  > Anthropic的最新AI模型因特朗普政府出口管制令被迫下线。政府要求该公司限制外国人访问权限，包括美国用户和员工，导致Fable 5和Mythos 5模型对所有人关闭。该出口规则执行仓促，内容模糊不清，引发业界困扰。
+- [Two-thirds of Americans think AI is advancing too quickly](https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly) — 01:20
+  > 最新皮尤研究调查显示，49%的美国人至少偶尔使用聊天机器人，但63%认为AI发展速度过快。自2024年以来，AI聊天机器人使用率从33%大幅增至49%。其中，ChatGPT的使用率自2023年以来翻倍增长，达44%。美国人对AI技术的采用率虽在上升，但对其发展速度的担忧也在增加。
+- [Vibe-decoding the White House-Anthropic fight over Fable](https://www.theverge.com/column/951516/trump-anthropic-feud-mythos-fable-white-house) — 00:27
+  > 本文报道了白宫与人工智能公司Anthropic之间围绕Fable项目的争执。该争议涉及科技监管、政治利益与前沿AI发展的交集。文章属于科技政策评论栏目，深入探讨了这场看似小规模的纠纷如何可能对整个AI领域产生深远影响。
+- [Can anyone look cool wearing Snap’s $2,000 glasses?](https://www.theverge.com/report/951481/snap-specs-wearables-smart-glasses-fashion) — 00:13
+  > Snap推出售价2,195美元的新款Specs眼镜，CEO埃文·斯皮格尔称该产品经过12年开发，旨在将计算融入日常生活，使技术更人性化。该设备被定位为帮助人们与世界互动的工具。
