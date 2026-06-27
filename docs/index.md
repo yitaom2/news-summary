@@ -2,66 +2,73 @@
 layout: default
 ---
 
-# AI 日报 2026-06-26
+# AI 日报 2026-06-27
 
-> 共收录 **27** 篇，来自 **2** 个源 · 生成于 09:06 AM EDT
+> 共收录 **29** 篇，来自 **3** 个源 · 生成于 08:05 AM EDT
 
-## TechCrunch AI (20 篇)
+## Hacker News (10 篇)
 
+- [Gnome AI Assistant Adds Image Generation Support](https://www.phoronix.com/news/GNOME-Newelle-Image-Gen) — 19:59
+  > GNOME AI助手增加图像生成功能。该AI助手现已支持通过集成的图像生成能力，用户可以直接在GNOME环境中生成图像，无需调用外部工具。这一更新扩展了GNOME AI助手的功能范围，使其从文本处理工具进一步演进为多模态AI助手，提升了用户的生产力和创意能力。
+- [India: Factory workers told to film themselves for AI/robot training](https://www.theguardian.com/global-development/2026/jun/24/indian-factory-workers-told-film-themselves-for-ai-robots) — 19:37
+  > 印度工厂工人被要求自行拍摄视频用于人工智能和机器人培训。此举旨在收集数据训练AI系统和机器人执行工厂工作。这一做法引发关于工人隐私、数据所有权和自动化对就业影响的担忧。工人在不清楚完整用途的情况下被要求参与，可能面临被机器人取代的风险。
+- [Everyone Will Have an AI Coding Agent](https://github.com/HoratiuCode/Clawie) — 19:04
+  > AI编码助手将成为普遍工具。根据GitHub上的讨论，未来每个开发者都将拥有个人AI编码代理。这些智能助手能够自动化编程任务、加速开发流程、降低技术门槛。该趋势反映了AI技术在软件开发领域的深度融合，预示着编程工作方式将发生重大变革。
+- [How a New York race became the first front in the AI industry's midterm war](https://www.washingtonpost.com/politics/2026/06/25/how-new-york-race-became-first-front-ai-industrys-midterm-war/) — 19:04
+  > 纽约的一场竞选成为AI产业在中期选举中的首个战场。这次选举反映了AI行业与政策制定者之间的重要冲突，涉及AI监管、产业发展等关键议题。AI企业通过资金支持和游说活动积极参与政治进程，试图影响有利于自身发展的政策制定。该事件标志着AI产业开始在美国政治中发挥更大作用。
+- [U.S. government restricts access to OpenAI's new AI model](https://www.zeit.de/digital/2026-06/openai-gpt-5-6-ki-modell-sol-usa) — 18:44
+  > 美国政府限制了对OpenAI新型AI模型的访问。这反映了美国政府对先进人工智能技术的管控态度，出于国家安全等考虑对高性能AI模型的使用进行了限制。此举可能影响OpenAI最新模型的商业应用和研究用途。
+- [Show HN: PreFlight – A local AST background daemon to catch AI code drift](https://preflight-vibe.vercel.app/) — 18:43
+  > PreFlight是一个本地AST后台守护程序，用于检测AI生成代码的漂移问题。通过抽象语法树分析，该工具能够实时监控代码质量变化，防止AI辅助编程导致的代码偏离预期规范。这是一个针对AI编码工具副作用的解决方案，帮助开发者维持代码一致性。
+- [Properties of AI](https://claude.com/resources/tutorials/the-4-properties-of-ai) — 18:28
+  > 无法生成摘要。提供的内容仅包含文章标题、URL链接和评论数据，缺乏实质性正文内容。该资源介绍了AI的四个特性，但具体内容未给出。建议提供完整的文章正文以便进行准确总结。
+- [AI data centers are supercharging a new battery market](https://wpintelligence.washingtonpost.com/topics/energy-climate/2026/06/24/ai-data-centers-are-supercharging-new-battery-market/) — 18:22
+  > AI数据中心推动电池市场快速增长。随着人工智能应用扩展，数据中心对电力需求剧增，驱动对先进电池技术的投资。新型电池用于储能和备用电源，满足数据中心的高功率需求。这一趋势促使电池制造商创新技术，降低成本，拓展市场规模。AI产业的能源需求成为电池行业发展的重要推动力。
+- [Ask HN: What GUI/desktop app do you use to keep track of different AI sessions?](https://news.ycombinator.com/item?id=48696704) — 17:44
+  > 用户在Hacker News上提问如何管理多个AI对话会话。他表示虽然命令行工具有效，但难以追踪不同会话，已尝试官方应用如Codex和Claude桌面版，寻求更好的解决方案。该帖获得2分，有3条评论。
+- [What Everyone Gets Wrong About AI and Learning [video]](https://www.youtube.com/watch?v=0xS68sl2D70) — 16:48
+  > 这则新闻是关于一个视频内容，标题为《关于人工智能与学习，每个人都理解错了》。该视频发布在YouTube平台上，在Hacker News上获得1个赞。视频讨论了人们对AI和学习之间关系的常见误解，但具体内容未详细说明。目前该话题在Hacker News上暂无评论。
+
+## TechCrunch AI (15 篇)
+
+- [Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies](https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/) — 09:01
+  > 特朗普政府向超过100家美国公司和政府机构发布Anthropic公司的Mythos AI模型，允许其使用，包括非美国员工也可使用。这一举措扩大了该AI模型的应用范围，使更多政府部门和商业机构能够获得先进AI技术。
+- [OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm](https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/) — 02:32
+  > OpenAI因政府要求限制了GPT-5.6的推出。OpenAI表示不应将政府审查过程作为长期默认做法，因为这会阻止用户、开发者、企业、网络防御人员和全球合作伙伴获得最佳工具。OpenAI强调应在安全与可访问性之间找到平衡。
+- [OpenAI poaches Uber India chief to lead its biggest market outside the US](https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/) — 02:19
+  > OpenAI聘请Uber印度前负责人领导其印度业务。这体现了OpenAI在印度市场的战略扩张。此前，OpenAI已通过扩大办公室规模、建立合作伙伴关系和增加人员编制等举措加强在印度的布局。印度是OpenAI美国外最大的市场，这一人事任命凸显了公司对该地区发展的重视。
+- [Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)](https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/) — 01:43
+  > OpenAI、Google、Apple和SpaceX等科技巨头正自主研发AI芯片，打破Nvidia对芯片市场的垄断。OpenAI与Broadcom合作推出定制推理芯片Jalapeño，旨在降低单一供应商依赖风险。这一趋势标志着AI芯片市场格局正发生重大转变。
+- [It&#8217;s not about Anthropic vs. OpenAI anymore](https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/) — 00:24
+  > 随着AI模型能力的不断提升，这些技术已产生真实的政治影响。AI竞争不再仅限于Anthropic和OpenAI等企业间的较量，而是涉及更深层的社会政治问题。应对这些后果需要各方携手采取集体行动，共同管理AI技术带来的广泛影响。
+- [OpenAI&#8217;s Jalapeño chip is Big Tech&#8217;s spiciest move away from Nvidia](https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/) — 22:00
+  > OpenAI与Broadcom联合开发推理芯片Jalapeño，打破Nvidia在AI芯片市场的垄断地位。这一举措与Google、Apple、SpaceX等科技巨头类似，旨在降低供应链风险，实现芯片自主可控。Jalapeño芯片的推出标志着大科技公司逐步摆脱对Nvidia单一供应商的依赖。
+- [Early Bird pricing ends tonight for TechCrunch Founder Summit](https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/) — 21:00
+  > TechCrunch创始人峰会2026的早鸟票价今晚截止。用户可在太平洋时间今日晚上11:59之前注册，享受最多省190美元的优惠。过期后票价将上涨。
 - [The White House is asking OpenAI to slow roll the release of its new model over safety concerns](https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/) — 07:34
-  > 白宫要求OpenAI减缓新模型发布进度，出于安全考虑。OpenAI计划将最新的GPT 5.6模型仅与选定的合作伙伴分享，而非向公众开放。这是根据特朗普政府的指示做出的决定。
+  > 白宫要求OpenAI放缓新模型发布。OpenAI计划将最新模型GPT 5.6仅与少数合作伙伴分享，而非向公众发布。原因是特朗普政府出于安全考虑，要求OpenAI减速推出。这反映了政府对人工智能安全风险的担忧。
 - [Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents](https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/) — 04:19
-  > Patronus AI是由前Meta AI研究人员创办的AI代理测试初创公司，近日获得5000万美元融资。该公司致力于构建"数字世界"来压力测试AI代理，面临几乎难以满足的市场需求。这笔资金将用于开发更先进的AI测试技术，帮助企业评估和改进其AI系统的性能和可靠性。
+  > Patronus AI是一家由前Meta AI研究人员创办的初创公司，已获得5000万美元融资。该公司专门为AI代理创建"数字世界"进行压力测试，旨在验证AI系统的可靠性和安全性。据投资者表示，该公司面临巨大的市场需求。
 - [Anthropic&#8217;s Claude is winning over paid consumers, a market owned by ChatGPT](https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/) — 01:38
-  > Anthropic公司开发的Claude AI助手正在付费用户市场中获得越来越多关注。尽管OpenAI的ChatGPT在整体市场中保持领先地位，但数据显示，选择付费AI服务的消费者越来越倾向于使用Claude。这表明Claude在付费市场中的竞争力不断增强。
+  > Anthropic旗下的Claude正在付费AI市场中获得越来越多消费者的青睐。尽管ChatGPT占据市场主导地位，但数据显示，选择付费AI服务的消费者中，越来越多人转向使用Claude。这表明在高端AI服务市场中，Claude正在逐步蚕食ChatGPT的市场份额。
 - [General Intuition&#8217;s $2.3B bet that video games can train AI agents for the real world](https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/) — 00:55
-  > General Intuition融资3.2亿美元，押注利用数百万小时的视频游戏数据训练AI智能体。该公司认为游戏中的行动数据能帮助AI开发更接近人类直觉的能力，进而应用于现实世界。这反映了游戏作为AI训练高效模拟环境的重要价值。
+  > 通用直觉公司融资3.2亿美元，用于扩展基于数百万小时游戏数据训练的人工智能。该公司认为，游戏中的行动数据能帮助AI开发接近人类直觉的能力，用于现实世界应用。公司估值达23亿美元。
 - [Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x](https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/) — 00:48
-  > Databricks前AI负责人创办的Un-0开发了一款图像生成系统工具,首次展示了其技术如何能以1000倍的效率优势复制传统AI系统,大幅降低AI的功耗成本。这项技术突破有望显著改善AI系统的能源消耗问题,推动更高效的人工智能发展。
+  > Databricks前AI首席认为可将AI电力成本降低1000倍。该公司推出Un-0图像生成系统工具，首次展示其技术如何复制传统AI系统。这项技术突破有望显著降低AI运营成本，解决当前AI系统能耗高的问题。
 - [Netris raises $15M Series A from a16z to help AI neoclouds go live faster](https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/) — 22:55
-  > Netris获得a16z领投的1500万美元A轮融资。该公司开发在网络交换机上运行的软件，为新型云计算运营商提供平台，帮助他们加快上线速度，简化网络基础设施部署。
+  > Netris公司完成1500万美元A轮融资，投资方为a16z。该公司提供运行在网络交换机上的软件，通过其平台帮助新云计算运营商加快上线速度，缩短部署周期。
 - [2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit](https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/) — 22:00
-  > TechCrunch创始人峰会2026即将启动早鸟优惠。参会者需在6月26日晚11:59前注册，可享受最高190美元的折扣。该峰会吸引超1000位创始人和投资者参加，是创业生态交流的重要平台。
+  > TechCrunch创始人峰会2026即将开幕，Early Bird早鸟票价将于6月26日晚11:59分PT截止，参与者可节省最高190美元。超过1000位创始人和投资者将参加此峰会。活动报名已开放。
 - [Adobe acquires image and video enhancement tool maker Topaz Labs](https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/) — 21:30
-  > Adobe宣布收购图像和视频增强工具制造商Topaz Labs。Adobe计划将Topaz Labs的工具集成到其应用程序中。此次收购旨在增强Adobe在图像和视频处理领域的能力，为用户提供更强大的编辑和增强功能。
-- [Amazon ups India bet with fresh $13B AI infrastructure investment](https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/) — 20:00
-  > 亚马逊宣布在印度追加投资130亿美元用于人工智能基础设施建设。此举是在全球科技公司竞相在印度扩展AI基础设施之际做出的。这笔投资反映了亚马逊对印度市场的长期承诺和看好该国AI发展潜力的战略决策。
-- [Europe is pushing back on Washington&#8217;s chip war](https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/) — 08:08
-  > 欧洲芯片制造商ASML首席执行官表示，中国目前只能购买十年前的紫外光刻机等旧型设备。美国的MATCH法案试图禁止此类机器对华出口，但欧洲对美国的"芯片战争"政策提出反对，认为限制过度。欧洲寻求在科技竞争中保护自身利益。
-- [Former Infosys chief has a new startup that wants to challenge the IT services world](https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/) — 07:26
-  > 印孚瑟斯前首席执行官维沙尔·西卡创办新初创公司，欲挑战IT服务行业。该公司获得Mayfield风投和沙特阿美风险投资公司支持，汇集了来自SAP、Infosys和VianAI等公司的资深人才。
-- [Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood](https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/) — 06:41
-  > Cerebras在上市后首份财报中预计核心业务毛利率将下降，导致股价大幅下跌。公司CEO表示投资者误解了其利润前景。这家AI芯片制造商的毛利率预期下调引发市场担忧，投资者对其盈利能力的前景感到失望。
-- [AI was supposed to kill engineering jobs, but new data suggests they&#8217;re the most resilient](https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/) — 05:56
-  > 尽管AI导致大规模裁员，但最新数据显示工程师职位表现出色。根据SignalFire数据，在新增招聘中，工程师的比例实际上在上升，成为最具韧性的职位。这与AI将消灭工程工作的预期相悖，反映出市场对AI人才的强劲需求。
-- [AI researchers continue to leave Google for its rivals](https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/) — 05:42
-  > 谷歌顶级AI研究员乔纳斯·阿德勒和亚历山大·普里策尔相继离职加入Anthropic公司。这是继诺姆·沙泽尔和约翰·朱珀之后，又一批顶级科学家离开谷歌。该动向反映出谷歌在AI领域面临的人才竞争压力加大，竞争对手Anthropic等公司正吸引谷歌的顶尖研究人才。
-- [The memory chip crunch is paying off for this US company](https://techcrunch.com/2026/06/24/the-memory-chip-crunch-is-paying-off-for-this-u-s-company/) — 05:30
-  > 一家美国公司因芯片短缺获益匪浅。该公司营收同比增长四倍至414.5亿美元，利润更是大幅增长，从18.8亿美元跃升至282亿美元，增幅达到15倍。芯片供应紧张推高了产品价格，使该公司获得了惊人的利润增长。
-- [Companies are scrambling to stop employees from maxing out AI budgets with small tasks](https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/) — 04:09
-  > 企业正采取措施限制员工过度使用AI工具执行小任务而导致预算耗尽。随着AI应用普及，大量员工用AI完成琐碎任务，造成代币（使用额度）快速消耗。企业因此转向实施配额制度和使用限制，从"代币最大化"时代进入"代币配给"时代，以控制AI成本并确保合理使用。
-- [Facebook rolls out an AI companion app for creators](https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/) — 01:16
-  > Facebook推出AI伴侣应用供创作者使用。该应用目前正在部分创作者中进行测试，内置了Facebook最近推出的AI创作者助手功能。这个工具旨在帮助内容创作者提高工作效率，借助人工智能技术辅助创意创作和内容管理工作。
-- [Agility Robotics plans to go public via SPAC in a $2.5B deal](https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/) — 00:48
-  > 美国人形机器人创业公司Agility Robotics计划通过特殊目的收购公司(SPAC)上市，交易估值25亿美元。该公司2015年从俄勒冈州立大学分离独立，预计将筹集6.2亿美元资金。此举反映了人形机器人领域的快速发展和市场对该技术的看好。
-- [Figma adds code layers, support for animations, more AI features in new update](https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/) — 00:15
-  > Figma发布新版本更新，新增代码图层功能，支持运动和着色器效果。同时，该平台增强了AI功能，用户可以利用AI创建自定义插件来处理各种设计任务，进一步提升设计工作效率和创意表现力。
-- [OpenAI unveils its first custom chip, built by Broadcom](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/) — 22:54
-  > OpenAI推出首款自研芯片"Jalapeño"，由博通代工制造。该芯片专为OpenAI推理系统的特殊需求而设计。这标志着OpenAI在降低计算成本、提升运行效率方面的重要举措，有助于其在AI芯片领域实现更大自主权。
+  > Adobe宣布收购图像和视频增强工具制造商Topaz Labs。Adobe将把Topaz Labs的工具集成到其各项应用程序中。此次收购旨在增强Adobe在图像和视频编辑领域的功能，为用户提供更强大的AI驱动增强工具。
 
-## The Verge AI (7 篇)
+## The Verge AI (4 篇)
 
+- [Anthropic&#8217;s Mythos 5 is back](https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations) — 08:33
+  > Anthropic的Mythos 5经过与特朗普政府为期两周的复杂谈判后，已重新启动。根据政府致Anthropic的信函，该模型目前仅向特定组织开放使用。而面向公众的Fable 5仍处于受限状态。
+- [OpenAI unveils GPT-5.6 amid US AI regulatory drama](https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview) — 01:00
+  > OpenAI在美国政府要求下，宣布分阶段发布新模型。该公司推出GPT-5.6模型套件，包括旗舰版Sol、中端版Terra和Luna三个版本。这是在特朗普政府介入后的快速回应，反映了当前美国AI监管的复杂局面。
+- [Anthropic&#8217;s Mythos mess is only getting worse](https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations) — 22:07
+  > Anthropic在特朗普政府的最后期限后下线了Mythos级模型已两周。公司迅速派遣高管赴华盛顿应对,但更新信息缺失,问题未见解决。该公司多次拒绝对此事置评。事态持续恶化,前景不明。
 - [OpenAI will delay GPT-5.6 after Trump administration request](https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request) — 05:57
-  > 据报道，特朗普政府因安全隐忧要求OpenAI延迟发布新模型GPT-5.6。OpenAI首席执行官Sam Altman在员工会议上表示，将以限制预览形式发布GPT-5.6，仅向小部分用户开放，而非直接向公众推出。
-- [Ford had to hire back former engineers to fix mistakes made by its automated systems](https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes) — 20:00
-  > 福特汽车因过度依赖自动化系统在生产和设计中出现问题，不得不重新聘用退休工程师来修复错误。尽管福特在JD Power初始质量排名中排名第一，但该公司承认自动化系统不如预期稳定，这反映了完全自动化面临的现实挑战。
-- [Facebook’s Creator Studio has been revived as an AI companion app](https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch) — 17:06
-  > Meta将Facebook创意工作室改造成独立的AI伴侣应用程序，帮助创作者与观众互动。新应用的AI助手功能可指导创作者如何在Facebook上增长粉丝。这是Meta加强AI工具在内容创作领域应用的最新举措。
-- [Congresswoman denies staff used AI to write defense funding amendment](https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude) — 03:36
-  > 美国众议院议员卢娜否认其工作人员用人工智能撰写国防拨款修正案。她称AI仅用于"拼写检查"修正案摘要，否认用于法案文本，强调"任何立法都不会用AI起草"。此声明是在社交媒体X上有账户分享修正案摘要截图后发布的。
-- [The $27 million Al proxy war over Alex Bores ends in a draw](https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results) — 01:25
-  > 纽约州众议院议员亚历克斯·博雷斯在州第12国会选区民主党初选中以微弱劣势落败。这场耗资2700万美元的政治代理战争涉及Anthropic和OpenAI两家AI公司，通过支持的超级政治行动委员会参与。博雷斯因成为亲AI超级政治行动委员会的攻击目标而获得关注，但最终未能赢得提名。
-- [Figma now has AI motion graphics and shader tools](https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements) — 00:15
-  > Figma在年度Config大会上推出了新的设计和编码工具更新，包括AI动作图形和着色器工具。这些创新旨在帮助创意工作者推进创意并用AI自动化繁琐任务。Figma还重新设计了画布，针对全栈开发进行了优化，将团队、AI代理、工具和资源整合在一个平台上。
-- [OpenAI reveals its first AI processor: Jalapeño](https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno) — 22:36
-  > OpenAI与Broadcom合作推出首款AI处理器芯片"Jalapeño"。该芯片是专为AI推理设计的应用专用集成电路(ASIC)，旨在为当前和未来的大型语言模型提供动力，用于AI服务器。这标志着OpenAI在芯片设计领域的重要进展。
+  > OpenAI将按特朗普政府要求推迟发布GPT-5.6。特朗普政府因安全隐患担忧，要求OpenAI错开新模型发布时间。OpenAI CEO萨姆·奥特曼在员工大会上宣布，GPT-5.6将以限制预览形式发布，仅向小范围用户开放。
