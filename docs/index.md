@@ -2,67 +2,55 @@
 layout: default
 ---
 
-# AI 日报 2026-06-28
+# AI 日报 2026-06-29
 
-> 共收录 **26** 篇，来自 **3** 个源 · 生成于 08:14 AM EDT
+> 共收录 **20** 篇，来自 **3** 个源 · 生成于 10:44 AM EDT
 
 ## Hacker News (10 篇)
 
-- [Nearly Three-Quarters of Dutch Responses to EU Tobacco Rules Were AI-Generated](https://pointer.kro-ncrv.nl/meerderheid-nederlandse-inspraak-op-strengere-eu-tabakswet-afkomstig-van-ai-tool-philip-morris) — 20:04
-  > 荷兰近四分之三的欧盟烟草法规意见反馈系AI生成。调查发现，在荷兰针对更严格的欧盟烟草法规的公众意见中，绝大多数来自人工智能工具，而非真实公众声音。这引发了关于民主参与和政策制定透明度的重要问题。
-- [Show HN: Genius AI Detector](https://geniusaidetector.com/) — 19:43
-  > Genius AI Detector是一款AI检测工具，可识别由人工智能生成的文本内容。该项目在黑客新闻平台分享，旨在帮助用户区分人类撰写和AI生成的文字。工具提供在线检测服务，具有实用价值，特别是在应对AI内容泛滥的时代。目前该项目获得关注但讨论有限。
-- [Pelican playing a violin. How to create SVGs with AI](https://furstenheim.substack.com/p/creating-svgs-with-ai) — 19:24
-  > 本文介绍如何利用人工智能生成SVG矢量图。作者通过AI技术创建了一幅鹈鹕拉小提琴的图像，展示了AI在矢量图形设计中的应用潜力。该方法结合了AI图像生成与SVG格式的优势，为数字艺术创作提供了新的可能性。
-- [Cate Blanchett is taking on AI](https://www.euronews.com/culture/2026/06/24/cate-blanchett-launches-free-tool-to-help-people-protect-identity-from-ai) — 19:09
-  > 凯特·布兰切特推出免费工具，帮助人们保护身份免受人工智能威胁。该工具旨在让用户能够防止自己的个人信息和形象被AI不当使用或复制。这一举措反映了公众对AI技术带来的隐私和身份安全问题日益增长的关注。
-- [Show HN: AgentWatch – Prevent runaway AI agents with runtime budget enforcement](https://agent-watch.dev/) — 19:09
-  > AgentWatch是一个开发者工具，用于防止AI代理失控和控制大模型成本。它可以集成到OpenAI、Anthropic、Gemini等多个AI平台前端，通过强制执行预算和运行时策略来防止代理陷入死循环和产生意外费用。该项目由独立开发者创建，旨在解决构建AI代理时的常见问题。
-- [YC AI Investment Trends 2026: Where the US AI Market Is Heading](https://medium.com/@aishwaryaadyanthaya1994/yc-ai-investment-trends-2026-where-the-us-ai-market-is-heading-07ea828cecf8) — 18:54
-  > YC发布2026年AI投资趋势报告，分析美国AI市场发展方向。根据数据，该行业投资持续增长，关键领域包括大语言模型优化、AI芯片研发、企业级应用开发等。预计生成式AI将加速商业化落地，初创企业在垂直领域应用和成本优化方面竞争加剧。
-- [Show HN: role-model, a router for hybrid local/cloud AI](https://github.com/try-works/role-model) — 18:46
-  > role-model是一个混合本地/云端AI路由协议和运行时系统。它通过为模型分配域和角色，根据请求的任务类型进行确定性路由，支持本地和云端模型。该系统能够基于速度、质量和成本等指标进行基准测试，评估路由决策效果，并通过难度评估优化路由策略选择。
-- [Cambium AI](https://github.com/pkjaslam/Cambium_AI) — 18:24
-  > Cambium AI是一个GitHub项目，在Hacker News上被分享。该项目获得1个赞，暂无评论。具体项目内容涉及人工智能领域的开发工作。由于信息有限，无法获知该项目的详细功能和技术特点。
-- [China Has Matched Anthropic in Cybersecurity, Resetting AI Race](https://www.wsj.com/tech/ai/chinese-ai-anthropic-mythos-cybersecurity-574b02c2) — 18:22
-  > 中国在网络安全领域的AI能力已与Anthropic相当，重新定义了AI竞争格局。根据华尔街日报报道，中国AI企业在网络安全应用方面的技术水平已达到与美国领先企业Anthropic相同的水平，打破了美国在该领域的技术优势，标志着全球AI竞争态势的重大调整。
-- [Software Taste vs. Slop in the Age of AI – TWSoftwareDev26](https://blog.herlein.com/post/wisdom-in-specs/) — 17:51
-  > 本文讨论了人工智能时代软件开发中"品味"与"垃圾代码"的区别。作者强调在AI辅助编程背景下，优质软件设计与低质量代码的分化愈发明显。高质量软件需要深思熟虑的架构和规范设计，而非仅依赖AI自动生成。文章呼吁开发者在利用AI工具时保持专业判断力和审美标准。
+- [Gen Z's AI problem isn't about AI](https://www.computerworld.com/article/4189645/why-spacex-is-the-mcdonalds-of-ai.html) — 22:33
+  > 该文章讨论了Gen Z与AI的关系问题。文章指出，Z世代面临的AI问题本质上并非源于AI技术本身，而是由更深层的社会和经济因素导致。文章可能涉及AI应用带来的工作机会、教育需求、伦理问题等方面，强调问题根源在于社会结构和政策环境，而非技术本身。
+- [Show HN: Uselink – publish and collaborate on AI-generated HTML](https://uselink.app:443/) — 22:25
+  > Uselink是一个AI驱动的HTML发布与协作平台。用户可以利用人工智能生成HTML代码，实现快速创建网页内容。该平台支持多人协作功能，便于团队共同编辑和改进生成的HTML页面。这种工具结合了AI生成能力与协作编辑的优势，为网页开发和内容发布提供了新的解决方案。
+- [Ask HN: How to use AI to learn faster but effectively?](https://news.ycombinator.com/item?id=48719671) — 22:23
+  > 用户在Hacker News上提问如何利用AI更快速有效地学习。讨论中有人指出LLM存在数据不可信的问题，这引发了人们对LLM是否适合学习新概念或复杂概念的思考。该问题引发了关于使用人工智能进行有效学习的探讨。
+- [Show HN: Klorn–I built an email firewall because every AI inbox made mine louder](https://github.com/k08200/klorn) — 22:18
+  > 开发者Klorn创建了一个电子邮件防火墙工具，用于解决AI应用导致收件箱邮件泛滥的问题。随着越来越多AI服务的使用，大量自动生成的邮件充斥用户邮箱，严重影响信息管理效率。该工具通过过滤和管理这些AI生成的邮件，帮助用户保持收件箱的整洁和有序。
+- [Why did one day of AI cost more than a month of servers?](https://junueno.dev/en/retry-storm-rebilled-llm-cost/) — 22:16
+  > 一个开发者遭遇AI成本激增问题。由于代码中的重试机制与API调用的相互作用，导致一天的LLM(大语言模型)成本超过一个月的服务器成本。该事件反映了AI服务高昂的使用成本，以及开发者在集成AI模型时需要谨慎处理错误重试机制，避免意外的成本爆增。
+- [Once, cyber-attacks required great skill. AI is changing that](https://www.theguardian.com/commentisfree/2026/jun/29/cyber-attacks-ai) — 22:10
+  > 人工智能正在降低网络攻击的门槛。曾经，发动网络攻击需要高超的技术水平，但随着AI技术的发展，即使缺乏专业知识的人也能利用AI工具发动复杂的网络攻击。这使网络安全面临新的威胁，恶意行为者可以更容易地实施攻击，增加了对企业和个人的风险。
+- [I built an anime-style UI for watching AI coding agents review each other's code](https://old.reddit.com/r/codex/comments/1uit86f/i_built_an_animestyle_ui_for_watching_ai_coding/) — 22:03
+  > 一位开发者创建了一个动漫风格的用户界面，用于观看AI编码代理相互审查代码的过程。该项目在Reddit和Hacker News上获得关注，展现了创意的UI设计与AI技术的结合。该应用允许用户以视觉化方式监控AI代理之间的代码审查互动，融合了日本动漫美学与现代AI开发工具。
+- [Show HN: AI Music Generator Free and No Signup](https://music0.org/) — 21:55
+  > 一款免费无需注册的AI音乐生成器上线。用户可直接访问music0.org网站使用该工具，无需注册账户或付费订阅即可生成音乐。该项目在黑客新闻平台分享，旨在为音乐创作者和爱好者提供便捷的AI音乐创作解决方案。
+- [CoreWeave ARIA: AI Research and Iteration Agent](https://wandb.ai/wandb/aria/reports/Introducing-CoreWeave-ARIA-AI-Research-and-Iteration-Agent--VmlldzoxNzM1MzA4Mg) — 21:54
+  > CoreWeave推出ARIA（AI研究与迭代代理），这是一款专为AI研究设计的智能代理工具。ARIA能够自动化执行AI研究工作流程，包括实验设计、模型训练、结果分析和迭代优化等任务。该工具旨在加速AI研究效率，通过智能化流程管理帮助研究人员快速验证假设、优化模型性能，推动AI研究发展。
+- [Teaching AI how people work is fraught with problems](https://www.economist.com/business/2026/06/25/teaching-ai-how-people-work-is-fraught-with-problems) — 21:39
+  > 人工智能学习人类工作方式存在多重问题。训练AI理解职场环境、人际关系和工作流程面临数据隐私、伦理和准确性挑战。AI可能无法完全掌握人类工作的复杂性、创意和情感因素，导致自动化决策存在偏见风险。同时，这也引发就业替代和工人权益保护等社会问题。
 
-## TechCrunch AI (11 篇)
+## TechCrunch AI (6 篇)
 
+- [Robot hand company settles Tesla trade secret suit and announces $11M raise](https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/) — 22:00
+  > 机器人手部公司Proception与特斯拉的商业秘密诉讼达成和解，并宣布完成1100万美元融资。该创业公司采用独特方法收集训练数据，以解决机器人领域最复杂的难题之一——机器人手部控制和操作技术。
+- [Omen AI&#8217;s plan to optimize data centers is all wet](https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/) — 21:00
+  > Omen AI公司完成3100万美元A轮融资，致力于优化数据中心运营。该公司开发技术监测芯片冷却液，防止数据中心内细菌爆发。通过实时监测冷却系统，可及时发现问题，提高数据中心效率，降低故障风险。
+- [Ford rehires ‘gray beard’ engineers after AI falls short](https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/) — 03:05
+  > 福特汽车因AI效果不佳而重新聘用资深工程师。公司高管承认，他们误以为仅通过引入人工智能就能产出高质量产品，但实际结果不如预期。这反映出在产品开发中，经验丰富的工程师的专业知识仍然不可或缺，AI无法完全替代人类的专业判断和技术积累。
+- [Why Wall Street thinks US memory maker Micron is the next Nvidia](https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/) — 23:00
+  > 华尔街投资者看好美国芯片制造商美光科技，认为其可能成为下一个英伟达。在寻找更多能够表现出色的AI相关上市公司之际，投资者将目光投向美光，期望其在人工智能芯片市场中获得类似英伟达的成功。美光作为存储芯片制造商，被认为具有巨大增长潜力。
 - [SoftBank’s CEO isn’t the only one with questions about Elon Musk&#8217;s orbital data center hype](https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/) — 04:42
-  > 埃隆·马斯克提出的轨道数据中心概念引发质疑。软银CEO及业界人士对其可行性持怀疑态度。这一设想涉及在太空部署数据中心以提供计算能力，但专家对其经济效益、技术难度和实际应用提出了顾虑。马斯克的太空愿景虽然雄心勃勃，但并未获得业界普遍认可。
+  > 埃隆·马斯克提出的轨道数据中心计划引发质疑。软银首席执行官并非唯一对该项目持怀疑态度的人。业界人士对马斯克关于在太空建设数据中心的设想存有疑虑，认为其可行性和经济性需要进一步证明。该项目在技术和商业前景方面面临广泛的业界关注和批评。
 - [Apple Vision Pro exec is reportedly leaving for OpenAI](https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/) — 00:45
-  > Apple Vision Pro产品负责人保罗·梅德(Paul Meade)离职加入OpenAI。梅德担任Apple副总裁，主管Vision Pro头显项目。他将加入OpenAI的硬件团队。这一人事变动显示顶级科技人才在AI公司和传统科技巨头之间的流动，反映了OpenAI在硬件领域的扩张野心。
-- [The fittest founder in the room got cancer. Here&#8217;s how he used AI to fight back.](https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/) — 22:00
-  > 健身创业者康纳·克里斯图确诊癌症后，将自己的血液检查结果、扫描数据、可穿戴设备数据和日记等所有健康信息输入AI助手Claude，利用人工智能帮助自己对抗癌症。这展示了AI在个人健康管理中的创新应用。
-- [Asian AI startups launch Mythos-like  models as Anthropic&#8217;s export ban drags on](https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/) — 20:00
-  > 亚洲AI创业公司推出与Mythos相似的模型，以绕过Anthropic的出口禁令。这些新模型承诺提供类似Mythos的功能，但不受出口限制。美国AI实验室可能因此失去亚洲这一巨大市场。
-- [Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies](https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/) — 09:01
-  > 特朗普政府发布Anthropic公司的Mythos模型，授权超过100家美国企业和政府机构使用。该模型Mythos 5可被这些机构的员工（包括非美国籍员工）使用。此举旨在促进AI技术在美国商业和公共部门的应用和发展。
-- [OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm](https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/) — 02:32
-  > OpenAI因政府要求限制了GPT-5.6的发布。OpenAI表示，不相信政府审查应成为长期常态，认为这种做法会阻止最佳工具被用户、开发者、企业、网络防御人士及全球合作伙伴使用，呼吁避免将此作为标准流程。
-- [OpenAI poaches Uber India chief to lead its biggest market outside the US](https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/) — 02:19
-  > OpenAI聘请印度优步前首席执行官领导其在美国外最大市场。这一举措标志着OpenAI在印度的新进展，包括扩大办公室规模、深化合作伙伴关系和加强招聘力度。OpenAI正加快在印度市场的布局，以巩固其在全球的竞争地位。
-- [Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)](https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/) — 01:43
-  > OpenAI、Google、Apple和SpaceX等科技巨头纷纷开发自主芯片，打破英伟达在AI芯片市场的垄断地位。OpenAI与博通合作推出推理芯片Jalapeño，这一趋势反映出企业欲摆脱单一供应商依赖、降低成本、增强自主能力的战略考量。
-- [It&#8217;s not about Anthropic vs. OpenAI anymore](https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/) — 00:24
-  > 人工智能模型已发展到具有真实政治影响的阶段。不同AI公司间的竞争已不是核心议题，如何应对AI带来的政治后果才是关键。这需要社会各界的集体行动，包括政府、企业和公众的共同努力，以确保AI技术朝着安全、负责任的方向发展。
-- [OpenAI&#8217;s Jalapeño chip is Big Tech&#8217;s spiciest move away from Nvidia](https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/) — 22:00
-  > OpenAI推出自主设计的推理芯片Jalapeño，与Broadcom合作制造。此举标志着科技巨头逐步摆脱对英伟达芯片的依赖，降低单一供应商风险。谷歌、苹果和SpaceX等公司已走上类似道路，打破英伟达对AI芯片市场的长期垄断。
-- [Early Bird pricing ends tonight for TechCrunch Founder Summit](https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/) — 21:00
-  > TechCrunch创始人峰会2026年早鸟票价今晚截止。购票者可享受最多190美元折扣，截止时间为太平洋时间今日23:59。错过此期限后票价将上涨，建议立即注册。
+  > 苹果Vision Pro项目负责人、副总裁保罗·米德即将离职，加入OpenAI硬件团队。米德在苹果负责Vision Pro头显设备的开发工作。此举反映出OpenAI在硬件领域的布局和人才争夺，同时也表明苹果在该领域可能面临人才流失。
 
-## The Verge AI (5 篇)
+## The Verge AI (4 篇)
 
+- [China’s Z.ai claims it can match Mythos on cybersecurity](https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity) — 05:42
+  > 中国智谱AI发布开源权重模型GLM-5.2，研究人员称其在漏洞发现和网络安全场景中可与Mythos相媲美。虽然GLM在其他通用任务上落后于Anthropic和OpenAI的模型，但中国在自有模型与国外先进模型的性能差距上已显著缩小。
+- [Suno launches Spark incubator program to feed independent artists to its AI machine](https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine) — 04:27
+  > Suno推出Spark孵化计划，旨在扶持独立音乐人。该计划为未签约歌手、词曲作者等提供资金补助、导师指导和营销支持。Suno希望超越AI音乐生成工具的定位，打造流媒体平台，并发掘培养新兴艺术家。
+- [Prosecutors used ChatGPT logs as evidence in the Palisades fire trial](https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial) — 22:12
+  > 检察官在帕利塞德斯大火案件中使用ChatGPT日志作为证据。被告乔纳森·林德克内希特因2025年元旦纵火被控，该火灾成为洛杉矶历史上最致命的野火之一。控方除利用iPhone位置数据、安全摄像头录像和证人证词外，还使用了其ChatGPT使用记录作为控罪证据。
 - [Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;](https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out) — 02:39
-  > 《使女的故事》作者玛格丽特·阿特伍德在葡萄牙波尔图文学节接受采访时，直言不讳地批评人工智能。她指出AI的核心问题是"垃圾进，垃圾出"，暗示AI的输出质量取决于其训练数据的质量。阿特伍德表示曾使用过AI工具，但对其局限性持谨慎态度。
-- [Why is Apple asking me to pay more for Big Tech’s AI obsession?](https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech) — 21:30
-  > 苹果公司CEO蒂姆·库克表示价格上涨"不可避免"，称当前定价"不可持续"。苹果近期大幅提价：16英寸MacBook Pro上涨300美元，11英寸iPad Air从599美元涨至749美元，HomePod Mini也涨价30美元至129美元。库克将涨价归咎于科技行业对AI的痴迷所带来的成本压力。
-- [Anthropic&#8217;s Mythos 5 is back](https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations) — 08:33
-  > Anthropic的Mythos 5经过与特朗普政府长达两周的谈判后，已重新启动。根据政府致Anthropic的信函，该模型目前仅向部分组织开放。而面向公众的Fable 5仍在受限状态中。协议涉及AI模型的政策调整和监管框架。
-- [OpenAI unveils GPT-5.6 amid US AI regulatory drama](https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview) — 01:00
-  > OpenAI在美国AI监管风波中推出GPT-5.6。该公司应特朗普政府要求分阶段发布新模型，不到24小时后便发布了GPT-5.6。新模型套件包括旗舰版Sol、中端版Terra（用于大规模工作）和Luna三个版本，目前以限量预览形式发布。
-- [Anthropic&#8217;s Mythos mess is only getting worse](https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations) — 22:07
-  > Anthropic因特朗普政府的最后通牒，在两周前将Mythos级模型下线。公司紧急派遣高管赴华盛顿应对，但至今未见实质进展，多次拒绝就此事发表评论。问题悬而未决，局势持续恶化。
+  > 著名作家玛格丽特·阿特伍德在葡萄牙波尔图文学节采访中评价人工智能，认为其存在"垃圾进垃圾出"的问题。这位《使女的故事》和《盲刺客》的作者直言不讳地表达了对AI的看法，指出其核心缺陷在于数据质量决定输出质量。
