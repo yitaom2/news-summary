@@ -2,55 +2,52 @@
 layout: default
 ---
 
-# AI 日报 2026-06-29
+# AI 日报 2026-06-30
 
-> 共收录 **20** 篇，来自 **3** 个源 · 生成于 10:44 AM EDT
+> 共收录 **20** 篇，来自 **2** 个源 · 生成于 09:07 AM EDT
 
-## Hacker News (10 篇)
+## The Verge AI (7 篇)
 
-- [Gen Z's AI problem isn't about AI](https://www.computerworld.com/article/4189645/why-spacex-is-the-mcdonalds-of-ai.html) — 22:33
-  > 该文章讨论了Gen Z与AI的关系问题。文章指出，Z世代面临的AI问题本质上并非源于AI技术本身，而是由更深层的社会和经济因素导致。文章可能涉及AI应用带来的工作机会、教育需求、伦理问题等方面，强调问题根源在于社会结构和政策环境，而非技术本身。
-- [Show HN: Uselink – publish and collaborate on AI-generated HTML](https://uselink.app:443/) — 22:25
-  > Uselink是一个AI驱动的HTML发布与协作平台。用户可以利用人工智能生成HTML代码，实现快速创建网页内容。该平台支持多人协作功能，便于团队共同编辑和改进生成的HTML页面。这种工具结合了AI生成能力与协作编辑的优势，为网页开发和内容发布提供了新的解决方案。
-- [Ask HN: How to use AI to learn faster but effectively?](https://news.ycombinator.com/item?id=48719671) — 22:23
-  > 用户在Hacker News上提问如何利用AI更快速有效地学习。讨论中有人指出LLM存在数据不可信的问题，这引发了人们对LLM是否适合学习新概念或复杂概念的思考。该问题引发了关于使用人工智能进行有效学习的探讨。
-- [Show HN: Klorn–I built an email firewall because every AI inbox made mine louder](https://github.com/k08200/klorn) — 22:18
-  > 开发者Klorn创建了一个电子邮件防火墙工具，用于解决AI应用导致收件箱邮件泛滥的问题。随着越来越多AI服务的使用，大量自动生成的邮件充斥用户邮箱，严重影响信息管理效率。该工具通过过滤和管理这些AI生成的邮件，帮助用户保持收件箱的整洁和有序。
-- [Why did one day of AI cost more than a month of servers?](https://junueno.dev/en/retry-storm-rebilled-llm-cost/) — 22:16
-  > 一个开发者遭遇AI成本激增问题。由于代码中的重试机制与API调用的相互作用，导致一天的LLM(大语言模型)成本超过一个月的服务器成本。该事件反映了AI服务高昂的使用成本，以及开发者在集成AI模型时需要谨慎处理错误重试机制，避免意外的成本爆增。
-- [Once, cyber-attacks required great skill. AI is changing that](https://www.theguardian.com/commentisfree/2026/jun/29/cyber-attacks-ai) — 22:10
-  > 人工智能正在降低网络攻击的门槛。曾经，发动网络攻击需要高超的技术水平，但随着AI技术的发展，即使缺乏专业知识的人也能利用AI工具发动复杂的网络攻击。这使网络安全面临新的威胁，恶意行为者可以更容易地实施攻击，增加了对企业和个人的风险。
-- [I built an anime-style UI for watching AI coding agents review each other's code](https://old.reddit.com/r/codex/comments/1uit86f/i_built_an_animestyle_ui_for_watching_ai_coding/) — 22:03
-  > 一位开发者创建了一个动漫风格的用户界面，用于观看AI编码代理相互审查代码的过程。该项目在Reddit和Hacker News上获得关注，展现了创意的UI设计与AI技术的结合。该应用允许用户以视觉化方式监控AI代理之间的代码审查互动，融合了日本动漫美学与现代AI开发工具。
-- [Show HN: AI Music Generator Free and No Signup](https://music0.org/) — 21:55
-  > 一款免费无需注册的AI音乐生成器上线。用户可直接访问music0.org网站使用该工具，无需注册账户或付费订阅即可生成音乐。该项目在黑客新闻平台分享，旨在为音乐创作者和爱好者提供便捷的AI音乐创作解决方案。
-- [CoreWeave ARIA: AI Research and Iteration Agent](https://wandb.ai/wandb/aria/reports/Introducing-CoreWeave-ARIA-AI-Research-and-Iteration-Agent--VmlldzoxNzM1MzA4Mg) — 21:54
-  > CoreWeave推出ARIA（AI研究与迭代代理），这是一款专为AI研究设计的智能代理工具。ARIA能够自动化执行AI研究工作流程，包括实验设计、模型训练、结果分析和迭代优化等任务。该工具旨在加速AI研究效率，通过智能化流程管理帮助研究人员快速验证假设、优化模型性能，推动AI研究发展。
-- [Teaching AI how people work is fraught with problems](https://www.economist.com/business/2026/06/25/teaching-ai-how-people-work-is-fraught-with-problems) — 21:39
-  > 人工智能学习人类工作方式存在多重问题。训练AI理解职场环境、人际关系和工作流程面临数据隐私、伦理和准确性挑战。AI可能无法完全掌握人类工作的复杂性、创意和情感因素，导致自动化决策存在偏见风险。同时，这也引发就业替代和工人权益保护等社会问题。
-
-## TechCrunch AI (6 篇)
-
-- [Robot hand company settles Tesla trade secret suit and announces $11M raise](https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/) — 22:00
-  > 机器人手部公司Proception与特斯拉的商业秘密诉讼达成和解，并宣布完成1100万美元融资。该创业公司采用独特方法收集训练数据，以解决机器人领域最复杂的难题之一——机器人手部控制和操作技术。
-- [Omen AI&#8217;s plan to optimize data centers is all wet](https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/) — 21:00
-  > Omen AI公司完成3100万美元A轮融资，致力于优化数据中心运营。该公司开发技术监测芯片冷却液，防止数据中心内细菌爆发。通过实时监测冷却系统，可及时发现问题，提高数据中心效率，降低故障风险。
-- [Ford rehires ‘gray beard’ engineers after AI falls short](https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/) — 03:05
-  > 福特汽车因AI效果不佳而重新聘用资深工程师。公司高管承认，他们误以为仅通过引入人工智能就能产出高质量产品，但实际结果不如预期。这反映出在产品开发中，经验丰富的工程师的专业知识仍然不可或缺，AI无法完全替代人类的专业判断和技术积累。
-- [Why Wall Street thinks US memory maker Micron is the next Nvidia](https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/) — 23:00
-  > 华尔街投资者看好美国芯片制造商美光科技，认为其可能成为下一个英伟达。在寻找更多能够表现出色的AI相关上市公司之际，投资者将目光投向美光，期望其在人工智能芯片市场中获得类似英伟达的成功。美光作为存储芯片制造商，被认为具有巨大增长潜力。
-- [SoftBank’s CEO isn’t the only one with questions about Elon Musk&#8217;s orbital data center hype](https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/) — 04:42
-  > 埃隆·马斯克提出的轨道数据中心计划引发质疑。软银首席执行官并非唯一对该项目持怀疑态度的人。业界人士对马斯克关于在太空建设数据中心的设想存有疑虑，认为其可行性和经济性需要进一步证明。该项目在技术和商业前景方面面临广泛的业界关注和批评。
-- [Apple Vision Pro exec is reportedly leaving for OpenAI](https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/) — 00:45
-  > 苹果Vision Pro项目负责人、副总裁保罗·米德即将离职，加入OpenAI硬件团队。米德在苹果负责Vision Pro头显设备的开发工作。此举反映出OpenAI在硬件领域的布局和人才争夺，同时也表明苹果在该领域可能面临人才流失。
-
-## The Verge AI (4 篇)
-
+- [Meet the lawyer who beat Elon Musk — twice](https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter) — 20:00
+  > 律师比尔·萨维特在"马斯克诉奥特曼案"中成功对阵埃隆·马斯克。该案涉及马斯克起诉山姆·奥特曼和OpenAI。庭审中，马斯克对萨维特的质询表现出不满，认为问题是"设计陷阱"。萨维特已两次击败马斯克，展现出卓越的律师能力。
+- [Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright](https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label) — 03:47
+  > Tidal发布AI生成音乐政策：自即日起，平台停止对100%由AI生成的音乐支付版税；自7月15日起，将对此类音乐添加标签标识。Tidal未完全禁止AI音乐，但通过取消其变现资格来保护艺术家权益并向听众示警。
+- [OpenAI is teasing new hardware… for Codex](https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder) — 02:52
+  > OpenAI将于7月15日发布与其AI编码工具Codex相关的设备。该公司在X平台发布视频展示了一款方形设备，配有多个按钮，并配文称"您喜爱的Codex快捷方式将升级"。这是OpenAI为增强Codex编码功能而推出的新硬件产品。
+- [Lawmakers want to ban AI companies from selling your health data](https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon) — 00:00
+  > 美国议员计划推出新法案，禁止AI公司向数据经纪人出售美国人的健康和位置信息，包括用户在ChatGPT等AI聊天机器人上透露的信息。参议员沃伦和众议员斯坎隆将在近期推出该法案的新版本，旨在保护公民隐私权，防止敏感个人数据被滥用。
 - [China’s Z.ai claims it can match Mythos on cybersecurity](https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity) — 05:42
-  > 中国智谱AI发布开源权重模型GLM-5.2，研究人员称其在漏洞发现和网络安全场景中可与Mythos相媲美。虽然GLM在其他通用任务上落后于Anthropic和OpenAI的模型，但中国在自有模型与国外先进模型的性能差距上已显著缩小。
+  > 中国智谱AI发布开源模型GLM-5.2，在漏洞发现和网络安全场景中的表现据称与Mythos相当。虽然GLM在通用任务上仍落后于Anthropic和OpenAI的模型，但中国在缩小自身模型与国外先进模型性能差距方面取得显著进展。
 - [Suno launches Spark incubator program to feed independent artists to its AI machine](https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine) — 04:27
-  > Suno推出Spark孵化计划，旨在扶持独立音乐人。该计划为未签约歌手、词曲作者等提供资金补助、导师指导和营销支持。Suno希望超越AI音乐生成工具的定位，打造流媒体平台，并发掘培养新兴艺术家。
+  > Suno推出Spark孵化器计划，为独立音乐人提供支持。该计划旨在帮助Suno从单纯的AI工具转变为流媒体平台和新人发现地。Spark为未签约歌手、词曲作者等提供资金补助、导师指导和营销支持，帮助独立艺术家通过AI音乐技术发展事业。
 - [Prosecutors used ChatGPT logs as evidence in the Palisades fire trial](https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial) — 22:12
-  > 检察官在帕利塞德斯大火案件中使用ChatGPT日志作为证据。被告乔纳森·林德克内希特因2025年元旦纵火被控，该火灾成为洛杉矶历史上最致命的野火之一。控方除利用iPhone位置数据、安全摄像头录像和证人证词外，还使用了其ChatGPT使用记录作为控罪证据。
-- [Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;](https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out) — 02:39
-  > 著名作家玛格丽特·阿特伍德在葡萄牙波尔图文学节采访中评价人工智能，认为其存在"垃圾进垃圾出"的问题。这位《使女的故事》和《盲刺客》的作者直言不讳地表达了对AI的看法，指出其核心缺陷在于数据质量决定输出质量。
+  > 检察官在帕利塞德火灾案中使用ChatGPT聊天记录作为证据。被告乔纳森·林德克内希特因2025年元旦纵火被控纵火罪，该火灾成为洛杉矶历史上最致命的野火之一。检察官除了利用他的iPhone位置数据、安全摄像头录像和证人证词外，还使用了其ChatGPT日志记录来指控被告。
+
+## TechCrunch AI (13 篇)
+
+- [Crypto exchange OKX wants AI agents to hire and pay each other](https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/) — 17:00
+  > 加密货币交易所OKX推出AI代理市场，整合支付、身份认证和信誉系统。该平台使AI代理能够相互雇佣和支付，创建自主运作的经济生态。这一举措旨在促进AI代理之间的协作与交易，推动区块链技术在人工智能领域的应用发展。
+- [The AI jobs debate just got messier](https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/) — 12:01
+  > 最新报告显示，高强度人工智能应用企业员工总数增长10.2%，其中初级员工增长12%。这与"AI消灭初级岗位"的论调相矛盾，表明AI采用并未导致初级岗位大幅减少，反而促进了这些企业的招聘增长。
+- [Vibe coding platform Base44 launches own model as AI startups seek defensibility](https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/) — 10:28
+  > Wix旗下的Vibe编码平台Base44推出自有AI模型。该公司希望该模型最终能超越前沿模型的性能。这反映了AI初创企业寻求差异化竞争的趋势，通过开发专有模型来增强防御能力，减少对大型AI厂商的依赖。
+- [Gemini&#8217;s personalized AI image generation is now free for US users](https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/) — 04:12
+  > Google将其Gemini聊天机器人的个性化AI图像生成功能扩展至美国符合条件的免费用户。该功能利用用户兴趣和连接的Google应用数据，让聊天机器人能根据个人偏好生成图像。这一举措使更多用户无需付费即可使用该功能。
+- [Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price](https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/) — 02:10
+  > Anthropic与加州州长纽森达成协议，允许加州政府以半价使用Claude人工智能模型。此举加强了Anthropic与加州的合作关系，同时也凸显了其与联邦政府在人工智能政策上的对立立场，相比之下OpenAI则处于不同境地。
+- [South Korean tech giants commit over $550B to ease &#8216;RAMageddon&#8217;](https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/) — 02:07
+  > 韩国两大芯片巨头承诺投资超5500亿美元，增建内存芯片实验室和晶圆厂，以应对芯片短缺问题。此举旨在缓解全球内存芯片供应危机，同时巩固韩国作为人工智能科技强国的地位。
+- [Arena, the AI leaderboard everyone uses, is now a $100M business](https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/) — 01:39
+  > Arena是一个受欢迎的免费AI排行榜平台，最近成为估值1亿美元的商业公司。该初创企业于去年9月推出商业服务，通过提供AI模型评估和排名工具，迅速获得市场认可。平台帮助用户比较不同AI模型的性能，已成为AI行业的重要参考工具。
+- [Cursor now has a mobile app for guiding your coding agent on the go](https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/) — 01:03
+  > Cursor推出了新的移动应用程序，允许用户在移动设备上远程监督和指导编码代理。该应用旨在让开发者即使在外出时也能管理和控制他们的编码助手，提供了更加灵活便捷的开发体验。这一功能扩展了Cursor作为AI驱动编程工具的应用场景。
+- [TIDAL cracks down on AI music by cutting off monetization](https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/) — 00:29
+  > TIDAL宣布将打击AI音乐，通过切断变现渠道来限制AI生成音乐的传播。公司将使用自动化工具移除试图模仿真实艺术家或乐队的AI生成音乐。此举旨在保护原创艺术家的权益，防止AI生成内容对音乐产业的冲击。
+- [Robot hand company settles Tesla trade secret suit and announces $11M raise](https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/) — 22:00
+  > Proception是一家机器人手公司，专注于解决机器人手控制这一难题。该公司已与特斯拉就商业秘密诉讼达成和解，并宣布完成1100万美元融资。公司采用独特方法收集训练数据，以推进机器人手技术发展。
+- [Omen AI&#8217;s plan to optimize data centers is all wet](https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/) — 21:00
+  > Omen AI完成3100万美元A轮融资，专注于数据中心芯片冷却液监测技术。该公司开发的解决方案可以监控冷却系统，防止细菌滋生引发的故障。通过优化数据中心冷却效率，帮助企业降低运营成本并提高系统可靠性。
+- [Ford rehires ‘gray beard’ engineers after AI falls short](https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/) — 03:05
+  > 福特汽车在AI技术未能达到预期后，重新聘用了经验丰富的资深工程师。福特此前误认为仅通过引入人工智能就能生产高质量产品，但实践证明这一想法不可行。该决定反映出传统制造业在应用新技术时，仍需要结合人类经验和专业知识，才能保证产品质量。
+- [Why Wall Street thinks US memory maker Micron is the next Nvidia](https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/) — 23:00
+  > 华尔街投资者看好美国内存芯片制造商美光科技，认为其可能成为下一个英伟达。在寻求更多可能表现与英伟达相当的AI相关上市公司时，华尔街发现美光科技是一个有前景的投资对象。
