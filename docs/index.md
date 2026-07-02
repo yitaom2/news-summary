@@ -2,70 +2,87 @@
 layout: default
 ---
 
-# AI 日报 2026-07-01
+# AI 日报 2026-07-02
 
-> 共收录 **29** 篇，来自 **2** 个源 · 生成于 09:32 AM EDT
+> 共收录 **36** 篇，来自 **3** 个源 · 生成于 08:54 AM EDT
 
-## The Verge AI (9 篇)
+## Hacker News (10 篇)
 
-- [Google built a great smart speaker, but Gemini isn’t ready for it](https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home) — 20:00
-  > Google推出新款智能音箱，搭载Gemini AI助手。虽然硬件设计出色，但Gemini功能尚未完全就绪。智能音箱多年来难以超越音乐、定时器等基础功能，AI被寄予厚望改变现状。Amazon已推出升级版Alexa硬件，Google紧随其后发布新品，但软件准备仍需完善。
-- [Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return](https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back) — 08:03
-  > Anthropic经过数周与特朗普政府协商，获准重新启用Claude Fable 5模型。该公司在X平台发文表示，计划从周三开始在全球范围内恢复用户对Claude平台的访问权限，并将在AWS、谷歌云和微软等平台重新启用该服务。
-- [Google’s NotebookLM can sum up your research in a TikTok-style clip](https://www.theverge.com/tech/959778/google-notebooklm-ai-clips) — 03:24
-  > Google NotebookLM推出新功能，可根据用户上传的资料生成TikTok风格的竖屏AI视频摘要。该功能正向Google AI Ultra和Pro订阅用户推出，能生成60秒的竖屏AI视频剪辑，帮助用户快速了解研究笔记内容。
-- [Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show](https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder) — 01:19
-  > Netflix推出《黄金票》真人秀节目，将于9月23日首映。节目采用真实场景布景，但使用AI生成的Gene Wilder声音作为旁白。这是继《鱿鱼游戏》真人秀后，Netflix又一部改编自虚拟作品的真人竞技节目。
-- [Libby will filter out AI content, kind of](https://www.theverge.com/column/959433/libby-ai-filter) — 23:30
-  > OverDrive首席执行官Marc DeBevoise表示，人工智能是公司新的发展方向。OverDrive运营的电子书借阅应用Libby将采取措施过滤AI生成内容。这反映了出版业对AI生成作品日益增长的关注，以保护传统作者权益和内容质量。
-- [Meet the lawyer who beat Elon Musk — twice](https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter) — 20:00
-  > 律师比尔·萨维特两次在法庭上战胜了埃隆·马斯克。在马斯克诉奥特曼案中，马斯克起诉山姆·奥特曼和OpenAI，但在萨维特的质证下表现不佳，如同幼童在幼儿园老师面前发脾气。萨维特的提问让马斯克感到被设计陷阱，显示出这位律师高超的法庭技巧和应对能力。
-- [Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright](https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label) — 03:47
-  > Tidal宣布了AI生成音乐的新政策。从7月15日起，平台将标记100%AI生成的音乐。同时，这类音乐将不再产生版税收入。Tidal没有完全禁止AI音乐，但通过取消其收益来保护人类艺术家的利益，并让听众了解音乐的来源。
-- [OpenAI is teasing new hardware… for Codex](https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder) — 02:52
-  > OpenAI将于7月15日发布与其AI编程工具Codex相关的硬件设备。在发布的视频中，该设备呈方形，配有多个按钮。OpenAI表示"您最喜欢的Codex快捷方式即将升级"。这是OpenAI开发的新款AI硬件产品。
-- [Lawmakers want to ban AI companies from selling your health data](https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon) — 00:00
-  > 美国参议员沃伦和众议院代表斯坎伦提出新提案，拟禁止人工智能公司向数据经纪人出售美国人的健康和位置信息，包括用户向ChatGPT、Claude等AI聊天机器人披露的信息。该提案旨在保护用户隐私数据。
+- [Companies Are Throttling Employees' AI Use Because It's Too Expensive](https://www.404media.co/companies-are-throttling-employees-ai-use-because-its-too-expensive/) — 20:51
+  > 许多企业开始限制员工使用人工智能工具，主要原因是AI服务成本过高。随着员工对AI工具需求增加，企业面临日益增长的使用费用，因此采取措施控制支出，包括限制访问频率、使用时长或功能范围。这反映出企业在平衡技术创新与成本控制之间的挑战。
+- [SAP Restricts Hiring, Travel to Fund 'Significant' AI Push](https://www.bloomberg.com/news/articles/2026-07-02/sap-restricts-hiring-travel-to-fund-significant-ai-push) — 20:49
+  > SAP公司为支持重大AI战略投资，决定限制招聘和出差。该公司将通过削减这些运营成本来筹集资金，以加速其人工智能业务发展。这一举措反映出SAP在AI领域的战略优先级，同时也表明公司需要在现有预算框架内重新配置资源以支持技术转型。
+- [Foreign Influence in the Campaign Against American AI](https://www.btcpolicy.org/articles/foreign-influence-campaign-against-american-ai-part-ii-singham-ground-game) — 20:45
+  > 本文讨论了针对美国AI产业的外国影响力活动。文章发表于比特币政策研究所网站，作者为Singham。内容涉及外国势力如何通过各种手段对美国AI发展进行干扰和影响，包括舆论宣传、政策游说等地面活动。该议题引发关注，反映了国际竞争中信息战和政策影响的复杂性。
+- [AI fake news complaining about how AI fake news is the death of real news](https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/) — 20:40
+  > 一篇讽刺性新闻报道称，AI生成的虚假新闻开始抱怨AI虚假新闻如何摧毁真实新闻。这则报道发表在尼曼实验室网站上，反映了当前AI生成内容泛滥带来的荒诞现象——虚假信息本身成为评论虚假信息危害的主角，揭示了信息真伪难辨的严峻局面。
+- [Show HN: Open-Source AI Native IDE Cursor Alternative](https://github.com/neuralinverse/neuralinverse) — 20:37
+  > 一个开源的AI原生集成开发环境（IDE）项目在GitHub上发布，作为Cursor的替代方案。该项目旨在提供类似的AI辅助编程功能，但采用开源模式。该项目在Hacker News上获得了4个赞同，目前还没有评论讨论。这反映了开发者对开源AI编程工具的兴趣。
+- [LLM Fine-Tuning and Model Iteration Loop: Improve AI Apps in Production](https://www.youtube.com/watch?v=Um7sjLEhaQM) — 20:36
+  > 本文讨论了大语言模型（LLM）微调和模型迭代循环的重要性，旨在改进生产环境中的AI应用。通过持续的微调和迭代优化，可以增强模型的性能和适用性，使AI应用更好地满足实际生产需求。
+- [US companies are losing 2.4% of revenue on failed AI projects](https://www.ciodive.com/news/wasted-tech-spend-AI-governance/824275/) — 20:31
+  > 美国企业因失败的AI项目损失了2.4%的收入。据报道，许多公司在AI项目上投入巨资，但由于治理不善、缺乏明确战略和技术挑战等原因，导致项目失败。这反映出企业在AI实施过程中存在的管理问题和资源浪费现象，需要加强AI治理和规划。
+- [Cloudflare wants to build the economic layer of the AI web](https://thenewstack.io/cloudflare-ai-web-economics/) — 20:29
+  > Cloudflare致力于为AI网络构建经济层。该公司希望通过其基础设施和服务，为AI应用提供计费、支付和经济激励机制，建立AI生态系统的商业基础。这将使开发者能够更好地货币化AI服务，推动AI网络经济的发展。
+- [Supreme Court says AI-generated hallucinated precedents 'catastrophic'](https://www.thehindu.com/news/national/methyl-isocyanate-of-law-supreme-court-quashes-verdict-based-on-ai-generated-precedents/article71173725.ece) — 20:26
+  > 印度最高法院撤销了基于人工智能生成虚假判例的判决，认为AI生成的虚假法律先例是"灾难性的"。该案涉及一起甲基异氰酸盐案件，律师使用AI工具生成了不存在的法律判例作为辩护依据。法院强调，依赖虚假的AI生成内容做出的法律判决严重威胁司法正义，并对法律专业人士提出警告，要求在法庭上使用的所有法律文献必须经过核实。
+- [Show HN: A free agentic AI security reference (CC BY-NC-ND 4.0)](https://www.nextkicklabs.com/p/agentic-ai-security-stack-book-release) — 20:02
+  > 一个免费的代理型AI安全参考资源发布，采用CC BY-NC-ND 4.0许可证。该资源旨在提供关于代理型AI系统安全方面的指导和最佳实践，帮助开发者和组织更好地理解和应对代理型AI带来的安全挑战。这是一份开放获取的学习资源，旨在推进AI安全领域的知识共享和行业标准化。
 
 ## TechCrunch AI (20 篇)
 
+- [Yep, we&#8217;re using OpenClaw to date now](https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/) — 20:00
+  > Ben Guez利用OpenClaw和Claude代码创建自动化脚本，在Instagram上自动发送信息。这个脚本帮助他在DMs中积累了大量潜在的国际伴侣。该方案展示了AI工具被用于自动化社交媒体互动的新方式，虽然效率高，但可能涉及自动化社交互动的伦理问题。
+- [Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office](https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/) — 13:30
+  > 印度科技大亨巴温·图拉基亚投入3000万美元自有资金创办AI企业软件公司Neo，这是他的第五家创业公司。Neo旨在开发人工智能驱动的办公软件，直接对标微软Office和谷歌Apps，进入企业应用市场竞争。
+- [SpaceX has an AI device prototype, and it sure sounds phone-ish](https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/) — 02:54
+  > SpaceX向投资者展示了一款类似手机的AI设备原型。这表明SpaceX可能计划进军无线通信领域。此举延续了该公司此前通过Starlink卫星互联网扩展业务范围的战略，进一步拓展其在通信和技术领域的影响力。
+- [Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller](https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/) — 02:47
+  > 艾什顿·库彻将离开Sound Ventures创投公司，与摩根·贝勒合作创办新的风投基金。Sound Ventures以在领先AI公司的高风险投资著称，而库彻的新基金瞄准的是这些公司下层的基础设施和能源领域，采取不同的投资策略。
+- [Cloudflare&#8217;s new policy pushes AI companies to pay for publishers&#8217; content](https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/) — 01:48
+  > Cloudflare推出新政策，要求AI公司在9月15日前将用于搜索的网络爬虫与用于AI训练和代理的爬虫分离，否则将被许多出版商网站默认阻止。此举旨在推动AI公司为出版商内容付费，保护内容创作者权益。
+- [Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off](https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/) — 22:25
+  > Venice AI获得6500万美元A轮融资，成为独角兽公司。该隐私优先的AI平台快速增长，首席执行官Erik Voorhees表示公司已实现盈利，年化经常性收入超过7000万美元。
+- [Gemini Spark, Google&#8217;s agentic assistant, is now available on Mac](https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/) — 22:20
+  > 谷歌推出Gemini Spark代理助手，现已登陆Mac平台。该助手支持全天候服务，具备实时追踪功能，并兼容更多应用程序。这一更新为Mac用户提供了更强大的AI助手体验，能够在日常工作中提供更广泛的支持和协助。
+- [Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026](https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/) — 22:00
+  > TechCrunch Disrupt 2026将举办建设者舞台活动,汇聚超过10000名创始人、初创公司运营者和投资者,开展关于如何建立和扩展成功企业的实用对话和问答环节。现已开放注册,可享受最高330美元的优惠。
+- [Meta, like SpaceX, looks to turn excess AI compute into cash](https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/) — 21:43
+  > Meta计划建立云基础设施业务，向客户出租多余的AI计算能力和模型，将AI资源转化为收入。此举将使Meta与亚马逊云服务、谷歌云和微软Azure等大型云服务商展开竞争，类似于SpaceX利用多余资源变现的模式。
 - [The &#8216;Father of the Internet&#8217; is finally retiring](https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/) — 11:15
-  > 互联网协议的主要创造者之一、被誉为"互联网之父"的文顿·瑟夫将于下周从谷歌首席互联网传教士的职位退休。瑟夫在互联网发展史上做出了重大贡献，此举标志着互联网早期开拓者时代的又一个里程碑。
+  > 互联网先驱文顿·瑟夫（Vinton Cerf）将于下周从谷歌首席互联网传播官的职位上退休。瑟夫是互联网基础协议的创造者之一，被誉为"互联网之父"，他在谷歌担任该职务多年，致力于推广互联网技术和政策倡议。
 - [Trump drops restrictions on Anthropic&#8217;s Mythos and Fable models](https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/) — 10:16
-  > 特朗普政府取消了对Anthropic公司Mythos和Fable模型的限制。特朗普政府在人工智能政策制定中态度不一致，导致业界对未来模型发布的监管规则缺乏明确了解。此举反映出政府AI政策的摇摆性，给企业带来困扰。
+  > 特朗普政府对人工智能政策的摇摆态度使业界困惑。政府放宽了对Anthropic公司Mythos和Fable模型的限制。这种不稳定的政策立场导致AI企业对未来模型发布的监管要求缺乏清晰认识，增加了行业的不确定性。
 - [Wayve launches $85M employee tender offer at $8.5B valuation](https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/) — 10:04
-  > Wayve以85亿美元估值推出8500万美元员工股票收购计划。此举是AI初创公司用员工股票收购作为战略工具吸引和留住人才的趋势体现。员工股票收购为员工提供了流动性机会，帮助公司在激烈的人才竞争中保持竞争力。
+  > Wayve启动8500万美元员工股份回购计划，公司估值达85亿美元。这是AI初创企业利用员工股份回购作为人才吸引和留存战略工具的趋势体现，帮助员工变现股权，同时强化团队凝聚力。
 - [OpenClaw is finally available on Android and iOS](https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/) — 05:53
-  > OpenClaw是一款免费开源的智能代理程序，现已登陆Android和iOS平台。这款应用允许用户在手机上使用该开源项目，标志着其功能范围的重要扩展，使更多用户能够通过移动设备便捷地访问和使用这一智能工具。
+  > OpenClaw是一款免费开源的智能代理程序，现已登陆Android和iOS平台。该应用允许用户在移动设备上使用这款功能强大的开源工具。OpenClaw的推出为移动用户带来了便利，使他们能够在智能手机上访问和使用这个自动化代理应用，进一步扩展了其使用范围和用户群体。
 - [The DeepMind trio who built a poker AI are now making money for quant hedge funds](https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/) — 04:33
-  > EquiLibre Technologies是由三位前DeepMind研究员在布拉格创立的AI实验室，该公司专门为量化对冲基金开发AI技术。这三位研究员曾为DeepMind开发过扑克AI。目前，EquiLibre Technologies估值已超过5亿美元，展示了AI在金融领域应用的巨大商业价值和市场前景。
+  > 三位前DeepMind研究人员创办的布拉格AI实验室EquiLibre Technologies估值超过5亿美元。该公司由开发扑克AI的研究团队创立，现已为量化对冲基金创造收益。这反映了DeepMind先进AI技术向金融领域的成功转化，展示了AI在复杂决策领域的商业应用前景。
 - [Google introduces a faster, cheaper image generator with Nano Banana 2 Lite](https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/) — 03:02
-  > Google推出更新版图像生成器，新增Nano Banana 2 Lite版本，具有更快的生成速度和更低的成本，旨在为内容创作者提供更实用的AI工具，使创作者能够更高效、经济地生成AI图像内容。
+  > Google推出了新的图像生成工具Nano Banana 2 Lite，具有更快速和更低成本的特点。该工具旨在为内容创作者提供更实用的AI生成解决方案，使创作者能够更高效、更经济地制作AI内容。
 - [Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip](https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/) — 02:13
-  > Nvidia竞争对手Etched公司融资达到50亿美元估值，年销售额突破10亿美元。该公司推出的推理芯片系统已获得10亿美元合同订单，正在挑战Nvidia在AI芯片市场的主导地位。
+  > Nvidia竞争对手Etched宣布已获得50亿美元估值，其推理系统芯片已预订10亿美元销售额。这标志着该初创公司在AI芯片市场中的快速成长，与Nvidia等established players竞争，为数据中心推理任务提供专门优化的芯片解决方案。
 - [Anthropic launches Claude Sonnet 5 as a cheaper way to run agents](https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/) — 02:00
-  > Anthropic推出Claude Sonnet 5模型，具有更强的代理能力、更低的价格和改进的安全性。该模型定位为比Opus、GPT-5.5和Gemini Pro更经济的选择，为用户提供更具成本效益的AI解决方案，特别适合运行代理任务。
+  > Anthropic推出Claude Sonnet 5模型，具备更强的智能体能力、更低的价格和改进的安全性，定位为Opus、GPT-5.5和Gemini Pro的更廉价替代方案。该模型旨在为用户提供性价比更高的智能体运行解决方案。
 - [Acti puts AI agents directly into your smartphone keyboard](https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/) — 01:52
-  > Acti推出新型智能手机键盘应用，在iOS和Android平台上运行。该键盘可跨应用使用，用户可通过自然语言创建自定义AI助手快捷方式。Acti认为智能手机键盘将成为AI助手的新阵地，通过这一创新方式将AI功能直接集成到日常输入工具中。
+  > Acti推出新型智能手机输入法，将AI助手直接集成到键盘中。该输入法支持iOS和Android系统，可在各类应用间无缝运行。用户可通过自然语言创建自定义AI快捷方式，无需复杂编程。这标志着AI助手与移动设备交互方式的创新突破。
 - [Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists](https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/) — 01:00
-  > Anthropic推出Claude Science工作台，为科学家提供统一研究环境。该平台整合了数据库、处理管道和各类工具，让研究人员无需在多个系统间切换，从而提高计算研究效率。这是Anthropic基于现有Claude模型进行的工作流优化，而非发布新模型。
+  > Anthropic推出Claude Science工作台，为科学家提供统一研究环境，整合数据库、流程和工具，避免频繁切换不同平台。该产品不依赖新模型，而是通过优化工作流程来吸引科学研究人员，提高计算研究的效率和便利性。
 - [X now offers an MCP server to make its platform easier for AI tools to use](https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/) — 23:08
-  > X推出托管MCP服务器，便于开发者将AI应用与X平台API连接。该服务器简化了AI工具接入X平台的流程，使开发者能更轻松地构建利用X数据和功能的AI应用程序，降低了集成难度，有助于扩展X平台在AI生态中的应用范围。
-- [Podcasting platform Riverside enters the newsletter publishing game](https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/) — 23:00
-  > 播客平台Riverside推出新闻通讯发布功能。用户可利用AI技术，根据自己的录音内容自动生成新闻通讯。该功能整合了音频制作与文字内容发布，为创作者提供了一种新的内容分发方式，有助于扩大受众范围和提升用户粘性。
-- [Amazon launches new $1 billion FDE org, following OpenAI and Anthropic](https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/) — 23:00
-  > 亚马逊推出新的前沿开发工程(FDE)部门，获得10亿美元投资，跟进OpenAI和Anthropic的步伐。该团队工程师将深入企业内部，部署定制化代理，强调快速部署和提升客户自给自足能力。
-- [Lumo, Proton&#8217;s privacy-focused AI chatbot, gets an upgrade](https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/) — 22:00
-  > Proton公司的隐私保护型AI聊天机器人Lumo推出2.0版本。新版本将为用户提供更广泛的功能和能力。该升级预计本周推出，继续保持Lumo对用户隐私保护的核心特性，进一步增强其实用性和应用范围。
-- [Crypto exchange OKX wants AI agents to hire and pay each other](https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/) — 17:00
-  > 加密货币交易所OKX推出AI代理市场，整合支付、身份和信誉功能。该平台允许AI代理相互雇佣和支付，创建自主运作的生态系统。通过结合区块链技术和人工智能，OKX旨在建立一个去中心化的AI经济体系，使AI代理能够独立交易和协作。
-- [The AI jobs debate just got messier](https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/) — 12:01
-  > 最新报告显示，高强度采用人工智能的企业员工总数增长10.2%。其中，初级职位员工增长12%，这与"人工智能消灭初级岗位"的言论相悖，表明AI的实际就业影响比预期更为复杂。
-- [Vibe-coding platform Base44 launches own model as AI startups seek defensibility](https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/) — 10:28
-  > Wix旗下的代码生成平台Base44推出自有AI模型，期望未来能超越业界先进模型。这反映了AI创业公司寻求竞争优势的趋势。通过开发专属模型，Base44试图在激烈的AI市场中获得差异化竞争力，实现自我防护和长期可持续发展。
-- [Gemini&#8217;s personalized AI image generation is now free for US users](https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/) — 04:12
-  > 谷歌扩展Gemini的个性化AI图像生成功能，现已向美国符合条件的免费用户开放。该功能允许聊天机器人根据用户兴趣和连接的谷歌应用数据生成图像。
-- [Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price](https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/) — 02:10
-  > 人工智能公司Anthropic与加州州长纽森达成协议，允许加州政府以半价使用Claude服务。此举加强了Anthropic与加州的合作关系，同时也引发了与联邦政府的对立，特别是与OpenAI竞争对手之间的紧张局势。
-- [South Korean tech giants commit over $550B to ease &#8216;RAMageddon&#8217;](https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/) — 02:07
-  > 韩国两大存储芯片巨头承诺投入超5500亿美元，建设更多芯片制造工厂，以应对全球芯片短缺问题。韩国正努力将自己定位为人工智能技术强国，通过增加内存芯片生产能力来满足全球AI产业的芯片需求。
+  > X推出了一个托管型MCP服务器，使开发者能够更便捷地将AI应用与X平台的API相连接。该服务器简化了AI工具与X平台的集成流程，有助于扩展第三方AI应用在X平台上的功能应用，为开发生态系统提供了更便利的接口支持。
+
+## The Verge AI (6 篇)
+
+- [OpenAI floats giving Trump administration 5 percent cut of AI boom](https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump) — 18:23
+  > OpenAI向特朗普政府提议将公司5%的所有权股份转让给美国政府，以缓解与政府的紧张关系并应对日益增长的公众反对。CEO萨姆·奥特曼认为，让公众在公司获得经济利益是分享AI发展成果的最佳方式。
+- [Google built a great smart speaker, but Gemini isn’t ready for it](https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home) — 20:00
+  > Google推出了性能出众的智能音箱，但其Gemini助手尚未完全就绪。智能音箱近年来一直在寻找新的应用场景，除了音乐、计时器和灯光控制外，其实用性有限。AI技术被寄予厚望改变现状。亚马逊去年发布了采用全新Alexa的硬件，现在轮到Google推出产品。
+- [Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return](https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back) — 08:03
+  > Anthropic与特朗普政府进行数周谈判后，宣布将恢复其被搁置的Claude Fable 5模型。该公司计划于周三在全球范围内恢复用户访问权限，并在AWS、谷歌云和微软等云平台上重新启用该服务。
+- [Google’s NotebookLM can sum up your research in a TikTok-style clip](https://www.theverge.com/tech/959778/google-notebooklm-ai-clips) — 03:24
+  > Google NotebookLM推出新功能，可为Pro和Ultra订阅用户生成TikTok风格的竖屏AI视频。该功能基于用户上传的资料源，自动生成60秒的竖屏视频摘要。这为用户提供了一种新颖的方式来快速了解研究笔记内容，使信息获取更加便捷高效。
+- [Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show](https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder) — 01:19
+  > Netflix推出《金票》真人秀，将于9月23日首映。该节目基于《查理和巧克力工厂》打造，采用真实布景。节目采用AI生成的基因·怀尔德配音，这是Netflix继《鱿鱼游戏》真人秀后又一部虚构IP改编的真人竞技秀。
+- [Libby will filter out AI content, kind of](https://www.theverge.com/column/959433/libby-ai-filter) — 23:30
+  > OverDrive公司新任CEO Marc DeBevoise宣布，该公司旗下电子书借阅应用Libby将对AI生成内容进行筛选。OverDrive将AI视为新的发展方向，这一举措旨在保护用户体验，区分人工创作与AI生成的内容。
