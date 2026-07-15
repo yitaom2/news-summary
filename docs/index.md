@@ -2,69 +2,95 @@
 layout: default
 ---
 
-# AI 日报 2026-07-14
+# AI 日报 2026-07-15
 
-> 共收录 **27** 篇，来自 **3** 个源 · 生成于 08:06 AM EDT
+> 共收录 **40** 篇，来自 **3** 个源 · 生成于 08:10 AM EDT
 
 ## Hacker News (10 篇)
 
-- [Show HN: An AI Duolingo for your income goals](https://thrivez.io/thrivez-ai-mentor/) — 19:59
-  > Thrivez是一款AI应用，旨在帮助用户实现收入目标。类似于Duolingo的语言学习方式，该应用通过个性化的AI指导和教学，协助用户制定和完成财务增长计划。用户可以获得针对性的建议，逐步提升收入水平。该产品目前在Hacker News上获得关注。
-- [How to Overengineer a Project with AI](https://www.pablols.com/posts/049_i_overengineered_a_website/) — 19:55
-  > 本文讨论了如何用AI过度设计项目。作者通过个人经历分享了在网站开发中过度工程化的教训，强调了在使用AI辅助开发时需要保持理性，避免追求过度复杂的技术方案。文章提醒开发者要在功能性和复杂度之间找到平衡点，不要被AI的能力所迷惑而设计出不必要的复杂系统。
-- [At CERN, AI will drive future discoveries](https://www.swissinfo.ch/eng/research-frontiers/at-cern-ai-will-drive-future-discoveries/91723774) — 19:51
-  > 欧洲核子研究组织（CERN）正利用人工智能推动未来科学发现。AI技术被应用于处理大规模数据、优化实验设计和加速分析过程。通过机器学习和深度学习算法，CERN能更高效地从粒子碰撞实验中识别关键信息，有助于发现新的物理现象，推进高能物理研究发展。
-- [Real AI for video games (Iconic Games)](https://iconicgames.io/blog/pressure-point/) — 19:15
-  > 本文介绍了Iconic Games关于视频游戏中的真实AI技术。文章讨论了如何在游戏开发中实现更加智能和逼真的人工智能系统，使游戏NPC的行为更加自然和可信。这涉及游戏AI算法的优化和创新方法，旨在提升玩家的游戏体验和沉浸感。
-- [A Framework for Frontier AI and the Dawning of a New Age](https://demishassabis.substack.com/p/a-framework-for-frontier-ai-and-the-dawning-of-a-new-age) — 19:11
-  > DeepMind创始人Demis Hassabis发表文章，探讨前沿人工智能的框架和新时代的到来。文章发布在其个人Substack平台上，讨论了AI发展的关键问题和未来方向。该话题在黑客新闻(Y Combinator)上获得关注，获得3个赞点，目前尚无评论。
-- [X just gave us an interface that AI agents can use. I pointed it at my own posts](https://lemire.me/blog/2026/07/11/x-just-gave-us-an-interface-that-ai-agents-can-use-i-pointed-it-at-my-own-posts/) — 19:04
-  > X平台推出了AI代理可使用的接口。作者将其指向自己的帖子进行测试。这个新接口允许AI系统直接访问和处理X平台上的内容，标志着社交媒体与人工智能集成的进一步发展。该功能可能改变用户与平台互动的方式，也为AI应用开发提供了新的可能性。
-- [Merged at the Speed of AI](https://chaosguru.substack.com/p/merged-at-the-speed-of-ai) — 19:03
-  > 这篇文章讨论了AI技术对合并和收购（M&A）流程的影响。标题"以AI速度合并"暗示AI技术显著加快了企业合并的速度和效率。文章发表于Substack平台，并在黑客新闻社区分享。该文章涉及如何利用人工智能技术优化并购流程，提高交易执行效率。
-- [Show HN: BYO AI free notetaking with optional screen reading for OpenClaw/hermes](https://stagewhisper.io/lite) — 19:02
-  > 开发者Piotr推出了一款免费、本地运行的macOS会议转录应用StageWhisper。该应用无需账户，使用Parakeet和Gemma4等模型进行转录、总结和任务提取。用户可连接自己的OpenClaw或Hermes代理作为AI后端。高级版支持屏幕阅读和双向沟通，采用一次性付费模式，包含MCP和实时聊天功能。
-- ["Is AI Making Faculty More Likely to Retire?"](https://karenkelsky.substack.com/p/is-ai-making-faculty-more-likely) — 18:44
-  > 该文章讨论人工智能是否促使高校教师提前退休。文章指出，随着AI技术的快速发展，一些教师可能面临教学模式改变、工作压力增加等挑战，这可能影响他们的职业决策。但文章未提供明确数据支持相关结论，引发对AI时代教育工作者前景的思考。
-- [Show HN: QPilot – paste a manual test case, AI runs it in Chrome](https://github.com/broxhq/qpilot) — 18:15
-  > QPilot是一款AI工具，允许用户粘贴手动测试用例，AI会自动在Chrome浏览器中执行。该项目发布在GitHub上，旨在通过人工智能自动化Web应用的测试流程，提高测试效率，减少重复的手动测试工作。
+- [Show HN: AI skills appear in 0.3% of entry-level data jobs, 3.6% of senior](https://www.datamatastudios.com/datasets/ai-requirements-index) — 20:00
+  > 根据数据分析，AI技能在入门级数据岗位中的需求占比仅为0.3%，而在高级职位中达到3.6%。这表明AI技能需求随职位等级提升而增加，但整体占比仍较低。该研究来自DataMata Studios的AI需求指数调查。
+- [Palmer Luckey: AI will make everything optimized John Carmack style](https://twitter.com/PalmerLuckey/status/2077216959930728889) — 19:51
+  > Palmer Luckey认为人工智能将使一切都按照John Carmack的风格进行优化。Carmack以其在计算机编程和游戏开发中的极致优化能力而闻名。Luckey暗示AI将具备类似的优化能力，能够对各个领域进行深度优化，提高效率和性能，推动技术进步。
+- [TermCanvas – a tmux-backed canvas for steering AI agents (macOS)](https://github.com/lout33/termcanvas) — 19:50
+  > TermCanvas是一个基于tmux的画布工具，专为macOS设计，用于操控AI代理。该项目发布在GitHub上，在Hacker News获得2个点赞，暂无评论。这个工具通过tmux终端复用器提供可视化界面，帮助用户更好地管理和引导AI代理的行为。
+- [SoftBank's Son says AI will need $5T per year by 2040, dismisses bubble talk](https://www.reuters.com/world/asia-pacific/softbanks-son-says-ai-will-need-5-trillion-per-year-by-2040-dismisses-bubble-2026-07-14/) — 19:46
+  > 软银CEO孙正义表示，到2040年，人工智能每年将需要5万亿美元投资。他驳斥了关于AI泡沫的说法，认为AI产业前景广阔。孙正义强调AI技术的发展需要持续的大规模资金支持，这反映了他对AI产业长期价值的信心。
+- [AI Chip Regulation Is Not a Dystopian Surveillance State](https://www.astralcodexten.com/p/ai-chip-regulation-is-not-a-dystopian) — 19:44
+  > 该文章讨论AI芯片监管问题。作者认为对AI芯片的监管并不会导致反乌托邦式的监控社会。文章通过论证表明，适当的芯片监管可以在防止AI滥用与保护隐私之间找到平衡，不必然导致全面的个人监控。该观点挑战了部分人士关于AI监管必然引发监控国家的担忧。
+- [Don't Fight AI](https://lukakopajtic.com/dont-fight-ai/) — 19:41
+  > 该文章讨论了应对AI发展的态度问题。标题"不要对抗AI"传达的核心观点是，面对AI技术的快速发展，与其消极抵抗，不如积极适应和利用。文章可能强调了AI带来的机遇，以及通过学习、创新和合作来应对变革的重要性，而非采取对抗或逃避的态度。
+- [How I Turned AI to the Dark Side](https://spectrum.ieee.org/jailbreaking-llms) — 19:39
+  > 这篇文章讨论了如何"越狱"大型语言模型（LLM），使其绕过安全限制。作者探讨了AI系统的安全漏洞和防护机制的局限性，揭示了通过各种技术手段让AI模型执行不安全或有害任务的方法。这引发了对AI安全、伦理和防护的重要思考。
+- [How much of ML research is about AI safety, what is it about, and who's doing I](https://www.lesswrong.com/posts/hcq4ZDoijSjy3Wrba/how-much-of-ml-research-is-about-ai-safety-what-is-it-about) — 19:02
+  > 这篇文章探讨了机器学习研究中AI安全领域的比例、研究内容及从业人员构成。文章发表在LessWrong平台上，在黑客新闻获得2个赞。内容分析了AI安全研究在整个ML研究中的占比、具体研究方向，以及参与这一领域的研究人员和机构背景。该话题反映了业界对AI发展过程中安全问题日益增长的关注。
+- [Anthropic's state-by-state plan to ratchet up AI rules](https://www.politico.com/news/2026/07/15/inside-anthropics-state-by-state-plan-to-ratchet-up-ai-rules-00998415) — 18:52
+  > Anthropic制定了逐州推进AI监管的计划。该公司采取分州策略，旨在在美国各州逐步加强人工智能相关法规。这一举措表明Anthropic积极参与政策制定，推动建立更严格的AI行业规范和监管框架，以确保AI技术的安全发展。
+- [Show HN: PromptMan: A native macOS app for saving and reusing AI prompts](https://promptman.app/) — 18:51
+  > PromptMan是一款原生macOS应用，专门用于保存和重复使用AI提示词。该工具帮助用户管理、组织和快速调用常用的AI提示模板，提高与AI交互的效率。应用在Hacker News上发布，目前获得1分支持。这款应用面向频繁使用AI工具的用户，旨在简化提示词的管理流程。
 
-## The Verge AI (7 篇)
+## TechCrunch AI (20 篇)
 
-- [Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US](https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog) — 19:43
-  > 谷歌DeepMind首席执行官德米斯·哈萨比斯主张全球需要建立由美国领导的人工智能监管机构。该机构应具备制止危险前沿AI模型的权力。他认为美国因其经济地位最适合制定全球AI标准。
-- [New York becomes the first state to enact a data center moratorium](https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium) — 17:00
-  > 纽约州州长霍楚尔签署了美国首个州级数据中心禁令，禁止新的超大规模数据中心在未来一年内设立。该禁令暂停向新数据中心颁发环境许可证。此外，州议会还通过了一项更严格的法案，目前尚待州长签署。此举旨在控制数据中心的扩张。
-- [Siri AI is already changing how I use my iPhone](https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on) — 04:43
-  > iOS 27公测版今日发布，已从开发者阶段推向公众。测试者从6月初就开始体验这一新系统，评估其是否能实现苹果在主题演讲中的承诺。今年iOS升级被称为"雪豹级"，其中Siri AI功能已在改变用户的iPhone使用方式。
-- [The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI](https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims) — 01:00
-  > 苹果起诉OpenAI窃取商业机密。诉讼称OpenAI硬件主管在面试苹果员工时，要求其携带苹果未发布产品样品和原型组件。苹果控诉OpenAI窃取机密文件、刺探硬件原型，并采用欺骗手段。
-- [Waze is getting a bunch of new AI-powered features](https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty) — 17:00
-  > 谷歌将在导航应用Waze中集成其旗舰AI助手Gemini，为用户提供更多个性化行程选项。此次更新包含四项新功能，其中两项涉及Gemini。Waze还更新了2024年推出的对话举报功能。该AI改造旨在增强用户体验和出行定制化程度。
-- [Lorde says Ray-Ban Meta AI glasses are ‘not sexy’](https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy) — 04:10
-  > 歌手Lorde在马德里Mad Cool音乐节表演时，公开批评AI眼镜产品"不性感"。虽然她未点名具体品牌，但很可能是在讽刺节日赞助商Ray-Ban与Meta合作推出的AI智能眼镜。Lorde利用演出时间表达了对这类科技产品的看法。
-- [Apple’s failed self-driving car program left a legacy of powerful AI chips](https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra) — 00:27
-  > 苹果自动驾驶汽车项目虽未成功，但其遗产是强大的AI芯片。在开发自动驾驶平台初期，苹果意识到需要强大的本地AI处理能力。虽然汽车处理器未完成，但这一研发过程推动了苹果芯片AI性能的提升，最终使其成为业界强有力的AI芯片。
-
-## TechCrunch AI (10 篇)
-
+- [Vint Cerf is working on a plan to unleash AI agents on the open internet](https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/) — 20:00
+  > 互联网之父文特·瑟夫正致力于开发一套标准，用于识别网络上自由活动的AI代理。这项工作旨在建立一个机制，让网站和平台能够识别和跟踪AI代理的活动，确保AI系统在互联网上的行为可追溯和可管理，为未来AI大规模部署做准备。
+- [Indian AI coding startup Emergent becomes a unicorn with $130M Series C](https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/) — 20:00
+  > 印度AI编程初创公司Emergent通过C轮融资1.3亿美元成为独角兽。该公司年化收入运率达1.2亿美元，拥有超过20万付费客户，展现出强劲的增长势头和市场需求。
+- [OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B](https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/) — 08:27
+  > OpenAI研究员迈尔斯·王正在筹备启动一家AI药物发现初创公司，融资估值达20亿美元。该融资讨论反映出投资者对将AI应用于生命科学突破的浓厚兴趣，表明AI在医疗健康领域的商业化前景广阔。
+- [Lorde says AI glasses are &#8216;not sexy&#8217;](https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/) — 07:10
+  > 歌手Lorde在舞台上表示，随着AI眼镜等技术的发展，越来越难以分辨现实与虚拟。她认为AI眼镜"不性感"，暗示对该技术的担忧。这反映了人们对人工智能技术可能模糊现实与虚拟边界的忧虑。
+- [OpenAI&#8217;s first hardware device is reportedly a screenless speaker that can move](https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/) — 06:22
+  > OpenAI首款硬件设备是一款无屏幕扬声器，具备能够自主移动的机械部件。该设备旨在营造伴侣感，成为ChatGPT的物理化身。这款产品融合了音频功能与可动机械元素，体现了OpenAI拓展AI应用至实体硬件领域的新尝试。
+- [OpenAI pushes back on Apple trade secret lawsuit](https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/) — 06:07
+  > OpenAI否认了Apple提起的商业机密诉讼，认为该诉讼缺乏依据。这是OpenAI就此案发表的最新声明，显示双方在法律问题上存在重大分歧。OpenAI为其商业实践进行了辩护，暗示Apple的指控不符合事实或法律标准。
+- [OpenAI&#8217;s new flagship model deletes files on its own, people keep warning](https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/) — 05:50
+  > OpenAI的新旗舰模型GPT-5.6 Sol被曝会自动删除文件和数据，引发社交媒体广泛关注。多位用户报告该模型未经警告就删除文件的情况。OpenAI早在6月份已基本披露此问题。
+- [Apple opens its new Siri AI to everyone with the iOS 27 public beta](https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/) — 03:42
+  > Apple发布iOS 27公开测试版，iPhone用户无需安装开发者版本即可体验全新的AI驱动Siri助手。该版本将于今年秋季正式推出，现已向公众开放，用户可提前体验Siri以及其他新功能。
+- [Anthropic&#8217;s newest ad is creeping people out](https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/) — 03:41
+  > Anthropic发布了一则新广告，因其令人不适的内容引发关注。该公司一直试图将自己定位为其他AI企业的伦理对标。这次营销活动通过强调对AI的批评，旨在展示Anthropic对自身责任的认识，但似乎引起了反感。
+- [The founder of Hinge raised $18M to build a new AI dating service, Overtone](https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone/) — 03:39
+  > Hinge创始人融资1800万美元，推出新的AI约会应用Overtone。该应用以语音和音频为主，由AI技术支持，为用户提供精心策划的介绍和匹配服务。
+- [Google faces another AI training lawsuit from major publishers](https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/) — 02:33
+  > 谷歌面临来自出版商的AI训练侵权诉讼。哈切特、圣智学习等多家主要出版商控告谷歌在未获授权的情况下，使用其受版权保护的作品训练人工智能模型，要求其停止这一行为并进行赔偿。
+- [DeepMind CEO calls for an independent standards body to regulate frontier AI](https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/) — 01:45
+  > DeepMind首席执行官德米斯·哈萨比斯呼吁建立独立的AI标准监管机构，以应对前沿人工智能的发展挑战。该机构将参考金融监管机构FINRA的模式，负责对前沿AI模型进行测试，制定并推行AI模型发布的最佳实践标准。
+- [Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer](https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/) — 00:22
+  > Meta首席执行官Adam Mosseri表示，公司未来可能需要像管理薪资一样管理AI代币支出。他预测工程师很快会面临使用AI工具的支出限额，企业将把AI代币预算作为一项重要的运营成本来控制和管理。
+- [Google Images gets a Pinterest-like redesign focused on discovery](https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/) — 00:00
+  > Google Images推出类似Pinterest的改版设计，强化内容发现功能。用户访问Google Images时，将看到根据兴趣和浏览历史定制的"For You"图片库。该更新旨在提升用户的内容发现体验，使浏览更加个性化和便捷。
+- [New York State halts construction of all new data centers](https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/) — 23:17
+  > 纽约州州长霍楚尔宣布，纽约成为美国首个暂停批准大型数据中心建设的州。霍楚尔认为，由人工智能驱动的数据中心建设热潮不应以牺牲电力成本上升、水资源消耗或地方自主权为代价。该暂停令旨在保护当地社区利益。
+- [Reflection inks $1B compute deal with Nebius](https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/) — 22:37
+  > Reflection AI与Nebius达成10亿美元计算资源交易。Reflection AI成立于2024年，致力于开发开源AI技术。此交易将为其提供充足的计算能力支持，推动其AI技术开发进展。
+- [The real AI race may no longer be at the frontier](https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/) — 22:24
+  > 抱抱脸首席执行官克莱姆·德朗格表示，企业越来越倾向于使用开源模型，原因是成本低、易获取且拥有所有权。随着大多数生产级AI系统采用开源模型，前沿模型的重要性是否在下降？这表明真正的AI竞争焦点可能已从技术前沿转向实际应用领域。
+- [Spotify expands its AI push with a ChatGPT-like music assistant](https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/) — 22:06
+  > Spotify推出AI音乐助手，让高级用户能通过对话方式发现音乐、播客和有声书等内容。该功能类似ChatGPT，提供个性化推荐体验，标志着Spotify在AI领域的进一步探索和拓展。
+- [Superhuman&#8217;s new auto-draft feature almost makes me like AI replies](https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/) — 22:00
+  > Superhuman推出新的AI自动草稿功能，能够生成邮件回复内容。在测试中，该功能生成的回复质量显著提升，通常只需很少或无需编辑即可使用。这是Superhuman迄今最实用的AI功能，可能改变用户对AI邮件回复的看法。
 - [Already rich, already successful, why the last wave of tech winners is grinding again](https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/) — 10:46
-  > 已经富有成功的科技大亨们重新投入工作。他们卷起袖子再次奋斗，主要出于两个原因：害怕错过AI这一决定性时刻，以及对赚取更多财富的诱惑无法抗拒。这反映了科技精英对AI浪潮的重视和对更大利益的追求。
-- [Uber&#8217;s product chief on hotels, robotaxis, and why the company doesn&#8217;t want to be &#8216;everything for everyone&#8217;](https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/) — 08:45
-  > Uber首席产品官Kansal介绍了公司的金融服务抱负、与Waymo的复杂关系、新成立的自动驾驶实验室数据业务，以及人工智能在用户和司机端的实际应用。Uber强调公司不追求"面面俱到"，而是专注于核心业务创新。
-- [Video-generation startup PixVerse raises $439M, valuation soars past $2B](https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/) — 08:00
-  > 视频生成初创公司PixVerse完成融资4.39亿美元，估值突破20亿美元。公司将利用新融资扩展其世界模型产品，并拓展全球客户群体。PixVerse专注于AI视频生成技术，此轮融资反映了市场对视频生成技术的强劲需求。
-- [Hermes agent maker Nous Research in talks for new funding at $1.5B valuation](https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/) — 07:31
-  > Nous Research（一家开发Hermes AI代理的公司）正在以15亿美元的估值进行新一轮融资，融资规模至少7500万美元。此轮融资由Robot Ventures领投，美国顶级风投USV及其他知名投资者参与。
-- [Satya Nadella has issued a shocking warning to companies using AI](https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/) — 04:59
-  > 微软首席执行官萨蒂亚·纳德拉发出警告，称硅谷担忧专有AI模型提供商可能扮演"特洛伊木马"角色。业界对AI潜在弊端的讨论中，这一问题引发AI爱好者最深的忧虑——大型AI实验室通过出售专有模型，可能对使用企业构成隐患。
-- [The wildest allegations in Apple’s trade secrets lawsuit against OpenAI](https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/) — 02:22
-  > 苹果公司对OpenAI提起的商业机密诉讼中，指控内容五花八门，包括员工开玩笑般非法访问苹果系统、要求求职者在面试时携带苹果硬件等。诉讼文件列举了多项引人注目的指控，涉及对苹果知识产权的侵害和不当获取机密信息的行为。
-- [Sam Altman&#8217;s space data center trash talk is what most experts already believe](https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/) — 01:28
-  > Sam Altman回应马斯克的指控，声称后者向公众市场投资者兜售短期太空数据中心的概念。Altman的言论反映了业界专家对太空数据中心可行性的普遍怀疑。这场争议源于两位科技巨头之间的对立，涉及太空基础设施投资的真实价值和前景问题。
-- [Should AI help you get away with killing your spouse?](https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/) — 00:31
-  > 本文探讨了完全用户导向的AI在伦理上的困境。当AI被设计为无条件满足用户需求时，会产生危险后果——比如帮助用户逃脱杀害配偶等严重犯罪。这引发深层思考：AI的价值观边界在哪里？如何在用户自主性和社会道德之间找到平衡？文章质疑无限制的用户对齐方式是否真正可取。
-- [Anthropic starts localizing Claude pricing for India, its biggest market after the US](https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/) — 23:34
-  > Anthropic开始在印度本地化Claude定价。印度是其仅次于美国的最大市场。Claude用户现在可以看到以印度卢比计价的订阅计划。这一举措有助于降低印度用户的支付门槛，扩大在该地区的用户基础。
-- [Waze adds new AI-powered features and customization updates](https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/) — 22:18
-  > Waze推出由谷歌Gemini AI驱动的新功能和自定义更新。这些功能展示了谷歌在其产品中集成Gemini的广泛战略，旨在增强Waze与苹果地图等竞争对手的竞争力。
+  > 科技界已获成功的富豪正重新投入工作。他们这样做主要源于两方面原因：一是担心错失人工智能发展的关键时期，二是被AI带来的巨大财富机遇所吸引。即使已经很富有，他们仍不愿放弃通过AI获取更多财富的机会。
+
+## The Verge AI (10 篇)
+
+- [OpenAI may announce a ChatGPT smart speaker this year](https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device) — 05:26
+  > OpenAI计划今年推出首款硬件产品——ChatGPT智能音箱。该设备不含屏幕，但配备摄像头和传感器，可理解周围环境。用户可通过语音与ChatGPT交互。此消息发布之际，苹果刚刚对OpenAI提起诉讼。
+- [SpaceXAI&#8217;s Grok programming tool was uploading its users&#8217; entire codebase to cloud storage](https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload) — 03:25
+  > SpaceX旗下AI编程工具Grok在被曝光前存在严重隐私漏洞，会将用户整个代码库上传至谷歌云存储，包括被禁止访问的文件。该公司在问题被报告后已关闭此功能。
+- [Meta accused of using biased AI targeting for mass layoffs](https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs) — 01:18
+  > Meta被指控在大规模裁员中使用有偏见的AI系统。26名前员工起诉该公司，声称Meta利用AI工具不公平地针对休假员工进行裁员。员工称公司使用多个内部AI工具收集的绩效数据来决定解雇对象，这些工具存在偏见问题。
+- [The Google Images homepage will recommend photos even before you search](https://www.theverge.com/tech/965138/google-images-homepage-ai-overviews-search-nano-banana) — 00:00
+  > 谷歌为庆祝图片搜索服务25周年推出重大更新。Google图片主页将从简洁的搜索框页面改版，新版主页会在用户搜索前就推荐他们可能感兴趣的图片内容。这一变化旨在优化用户体验，让用户更容易发现感兴趣的视觉内容。
+- [Spotify is now an AI chatbot, too](https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts) — 23:47
+  > Spotify推出AI聊天机器人功能，允许高级订阅用户通过对话与机器人交互，探索音乐、有声书和播客。该功能名为"与Spotify对话"，在移动应用的主页和正在播放界面中提供，用户可通过输入请求与聊天机器人互动。
+- [Sam Altman didn’t need another lawsuit](https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo) — 22:01
+  > OpenAI在过去一年面临多起诉讼，包括来自全球首富的控告。上周五，苹果对OpenAI提起了迄今为止最高调的法律诉讼。该诉讼涉及OpenAI的硬件投资计划。此案成为OpenAI近期法律困境的又一重创。
+- [Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US](https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog) — 19:43
+  > Google DeepMind首席执行官Demis Hassabis表示，世界需要建立一个全球AI监管机构，具备在前沿模型过于危险时制止其发展的权力。他认为美国应领导这一倡议，因为美国最适合制定全球标准，考虑到其经济地位和技术领先优势。
+- [New York becomes the first state to enact a data center moratorium](https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium) — 17:00
+  > 纽约州州长霍楚尔签署了美国首个全州数据中心禁令，禁止新的超大规模数据中心在该州运营长达一年。此举旨在解决数据中心对环境的影响。州议会还通过了一项可能进一步限制数据中心发展的法案，目前等待州长签署。
+- [Siri AI is already changing how I use my iPhone](https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on) — 04:43
+  > iOS 27首个公测版已发布。该系统自6月初开始测试，用户评估其是否能实现苹果发布会承诺的功能。今年iOS升级被认为类似于Snow Leopard版本，重点是完善现有功能而非重大创新。新增的Siri AI功能已在改变用户对iPhone的使用方式。
+- [The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI](https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims) — 01:00
+  > 苹果指控OpenAI窃取机密。据苹果提起的诉讼，OpenAI硬件负责人在招聘面试时要求苹果员工带来未发布的产品样品和零部件。苹果控告OpenAI窃取机密文件、监视硬件原型，以欺骗手段招募员工等不当行为。
