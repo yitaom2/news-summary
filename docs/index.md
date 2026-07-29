@@ -2,71 +2,64 @@
 layout: default
 ---
 
-# AI 日报 2026-07-28
+# AI 日报 2026-07-29
 
-> 共收录 **28** 篇，来自 **3** 个源 · 生成于 08:50 AM EDT
+> 共收录 **26** 篇，来自 **2** 个源 · 生成于 08:56 AM EDT
 
-## Hacker News (10 篇)
+## TechCrunch AI (20 篇)
 
-- [Puck AI – Visual AI builder embedded in your app](https://puckeditor.com/blog/puck-ai) — 20:45
-  > Puck AI是一个可嵌入应用程序中的可视化AI构建工具。该工具允许开发者直接在应用中集成AI功能，提供可视化界面进行AI模型构建和配置。用户可通过拖拽等方式快速创建AI工作流，无需深厚的AI开发经验。该项目在黑客新闻平台获得关注，展示了低代码AI开发工具的发展趋势。
-- [AI Latency Is a Feature, Not a Bug](https://taceoincidunt909269.substack.com/p/ai-latency-is-a-feature-not-a-bug) — 20:35
-  > 文章观点：AI的延迟不是缺陷而是特性。这意味着AI系统的响应时间延迟可能具有实际价值——提供了时间思考、验证答案、减少错误的机会。相比追求极速响应，适当的延迟反而能提升AI输出的质量和准确性，是系统设计的考量因素。
-- [Show HN: Segue – Save context in one AI, load it in another by a short handle](https://segue.ai/) — 20:27
-  > Segue是一个AI工具，允许用户在一个AI应用中保存上下文信息，然后通过一个简短的句柄在另一个AI应用中加载使用。这个工具简化了不同AI平台之间的信息转移，提高了工作效率，使用户可以轻松跨越多个AI系统继续工作，无需重复输入相同的上下文信息。
-- [AI revenues are growing fast, but not fast enough](https://www.economist.com/finance-and-economics/2026/07/28/ai-revenues-are-growing-fast-but-not-fast-enough) — 20:19
-  > AI收入增长迅速但仍不足。尽管AI技术应用范围扩大，相关企业营收持续上升，但增长速度未能达到市场预期。投资者和分析师认为，当前AI商业化进展与其技术进步速度存在差距，许多企业仍在探索变现模式，导致整体收入增长未能充分体现AI的潜力和价值。
-- [Show HN: Hotcell – local sandboxes for AI agents](https://github.com/sinameraji/hotcell) — 20:17
-  > Hotcell是一个开源项目，允许用户在本地设备（笔记本、Linux虚拟机等）创建、暂停和管理AI代理沙箱环境。支持Docker、Apple VZ和Firecracker隔离方式，API密钥通过临时令牌注入，沙箱关闭时自动失效。适用于需要文件系统访问的桌面应用和多环境开发场景。
-- [Microsoft Quicksand: Sandbox your AI agent without Docker or WSL](https://github.com/microsoft/quicksand) — 20:16
-  > 微软推出Quicksand项目，一个新型AI代理沙箱工具。该工具无需Docker或WSL即可为AI代理创建隔离运行环境，简化了部署流程。Quicksand提供了更轻量级、易用的沙箱解决方案，便于开发者快速测试和运行AI应用。该项目已在GitHub上开源。
-- [My Secret AI Bookmark That Hypercharged My Comms](https://grokimage.ai/) — 19:59
-  > 本文介绍了一款名为Grokimage的AI书签工具，可以显著提升通信效率。该工具通过AI技术帮助用户快速处理和优化各类通讯内容，使沟通变得更加高效便捷。文章在Hacker News平台分享，获得2点赞，目前暂无评论。
-- [The AI risk is inside the labs](https://www.antirez.com/news/172) — 19:58
-  > 这篇文章讨论了人工智能风险主要来自实验室内部的问题。作者认为，AI安全隐患不仅存在于技术本身，还包括开发过程中的管理漏洞、伦理问题和内部控制不足。文章强调需要加强实验室内部的安全标准、监督机制和责任制，以防止潜在的AI风险在源头被忽视或扩大。
-- [How Nvidia Builds Open Models for the Age of AI](https://blog.bytebytego.com/p/how-nvidia-builds-open-models-for) — 19:57
-  > 英伟达构建开放AI模型。该文章探讨了英伟达如何为人工智能时代开发和部署开源模型。英伟达采用开放策略，发布各种预训练模型供开发者使用，降低AI应用开发门槛。这些开源模型涵盖多个领域，帮助加速AI生态系统发展。该举措使英伟达在AI芯片主导地位之外，进一步扩展其在AI软件生态中的影响力。
-- [Collabora Online 26.04: Your Documents, Your AI, Your Decade of Data Sovereignty](https://www.collaboraonline.com/blog/cool-26-04-release/) — 19:38
-  > Collabora Online发布26.04版本，强调数据主权和用户隐私保护。该版本整合AI功能，让用户在本地控制文档和数据，无需依赖云端服务。这是Collabora Online十年来致力于文档自主性的重要里程碑，为用户提供更安全、更独立的办公解决方案。
-
-## The Verge AI (3 篇)
-
-- [Hugging Face is being used to easily undress women and children](https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children) — 17:07
-  > Hugging Face平台上的图像编辑模型被用于制作非法换脸视频，针对女性和儿童进行骚扰。欧洲非营利组织AI Forensics的报告发现，该平台排名前九的图像编辑模型中，有七个容易被滥用，但Hugging Face采取的防护措施极为有限。
-- [Why China is giving away its best AI models](https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies) — 00:51
-  > 中国初创公司Moonshot AI推出AI模型Kimi K3，性能据称超越美国主流AI系统，成本却仅为其零头。该模型的问世引发硅谷警觉，加剧了中美AI企业竞争。中国通过开源优质AI模型的策略，旨在抢占市场份额，挑战美国在人工智能领域的主导地位。
-- [Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic](https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity) — 20:06
-  > 英伟达与微软、SpaceX、IBM等科技公司联合成立开放安全AI联盟，旨在开发并共享开源AI安全工具，以防御前沿AI模型的攻击。值得注意的是，OpenAI、谷歌和Anthropic并未参与此项倡议。该联盟针对日益增长的AI安全隐患做出回应。
-
-## TechCrunch AI (15 篇)
-
+- [As AI content floods the internet, Pangram raises $9M to detect it](https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/) — 19:00
+  > 为应对互联网上泛滥的AI生成内容，初创公司Pangram获得900万美元融资以扩展其AI检测软件。该公司发布了新的AI文本检测模型Pangram 4和处于研究预览阶段的AI图像检测模型，致力于识别和区分人工智能生成的内容。
+- [Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents](https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/) — 08:09
+  > Cyera同意以10亿美元收购网络安全公司Oasis Security，用于保护日益增多的AI代理。这是Cyera今年第三次收购。此举旨在应对AI技术快速发展带来的安全挑战，加强数据保护和风险防御能力。
+- [Bot-detection startup Spur nabs $200M from Insight](https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/) — 05:29
+  > Spur Intelligence获得来自Insight Partners的2亿美元融资。该公司开发的技术能够识别真实人类流量与机器人流量。此融资用于进一步开发其机器人检测技术，帮助企业区分合法用户与恶意机器人，保护网络安全和数据完整性。
+- [MCP startup Runlayer accuses Rippling of stealing its product idea](https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/) — 04:45
+  > Runlayer起诉Rippling盗取其产品创意。Runlayer声称，Rippling评估了其MCP网关产品后，决定自行开发类似产品。该纠纷涉及知识产权和商业竞争问题，反映了科技初创公司在融资和商业合作中面临的保密风险。
+- [Sam Altman is ready to decelerate](https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/) — 04:17
+  > 萨姆·奥特曼表示准备放缓AI发展步伐。这一立场转变源于他亲身经历的首次安全事件，使他深切感受到了风险。奥特曼此前一直倡导快速推进人工智能发展，此次表态反映出他对AI安全问题日益重视的态度转变。
+- [Data centers may face temporary power cuts to prevent blackouts on largest US grid](https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/) — 23:42
+  > 美国最大电网运营商计划对数据中心实施临时断电措施，以防止大范围停电。由于数据中心建设速度过快，电网运营商面临巨大发电压力。此举旨在保护整个电网稳定，防止因需求过剩导致的系统性停电风险。
+- [Fish Audio raises $52M seed to build AI voice models for creators and enterprises](https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/) — 22:00
+  > Fish Audio完成5200万美元种子轮融资，致力于为创作者和企业构建AI语音模型。该初创公司去年推出至今，已有800多万用户使用其开源或托管版本模型，年经常性收入达2100万美元。
+- [Recursive Superintelligence signs $410M compute deal with Amazon](https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/) — 21:19
+  > Recursive Superintelligence与亚马逊签署4.1亿美元算力交易。该公司专注于自我改进的AI系统，将大部分预算直接用于计算能力而非人员配置，目标是实现产品开发流程的自动化。
 - [Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing](https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/) — 12:30
-  > Cursor在被SpaceX收购前加大印度市场推力，推出本地化定价。该公司称印度已成为其全球第三大市场，计划扩大本地招聘和企业销售。这一举措旨在进一步渗透印度市场，抢占更多用户和商业机会。
+  > Cursor在SpaceX收购前加大印度市场推进力度。该公司将印度列为全球第三大市场，计划扩大本地员工招聘和企业销售。Cursor通过本地化定价策略，进一步巩固在印度的市场地位，为即将进行的收购做准备。
 - [Anthropic&#8217;s Dario Amodei responds: doesn&#8217;t oppose open-weight models, but fears Chinese AI](https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/) — 08:13
-  > Anthropic创始人兼CEO达里奥·阿莫代对开放权重模型和中国AI发展态度明确。他表示不反对开放权重模型本身，但担忧中国AI能力不断增长可能带来的风险。这反映了全球AI竞争格局中的地缘政治考量，以及大型AI公司对国际技术竞争的关切。
+  > Anthropic首席执行官达里奥·阿莫代表示，他并不反对开放权重模型，但担忧中国人工智能能力的发展。阿莫代认为开放权重模型本身并非问题所在，真正的顾虑是中国AI技术的快速进步可能带来的战略风险和竞争压力。
 - [Satya Nadella says companies that trust one AI for everything may not survive](https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/) — 05:17
-  > 微软CEO纳德拉表示，完全依赖单一AI模型的企业可能难以生存。他指出，企业需要拥有自己的AI模型，或建立AI网关等基础设施层，以将提示与模型本身分离，从而保护数据独立性和业务安全。
+  > 微软CEO纳德拉表示，过度依赖单一AI模型的企业可能面临困境。他强调，企业需要拥有自己的AI模型，或建立AI网关等基础设施层来隔离提示词与模型本身，否则将难以生存。这体现了AI时代企业需要掌握核心技术以保持竞争力。
 - [PSA: Your Claude shared chats and Artifacts may have ended up on Google](https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/) — 04:19
-  > Claude的共享对话功能存在安全问题。该功能允许用户创建链接供他人查看对话或项目，但这些共享链接可能被Google等搜索引擎索引，导致敏感信息意外泄露。建议用户检查已共享的对话和代码片段，如包含敏感内容应立即删除或重新设置权限。
+  > Anthropic的Claude应用存在安全漏洞。用户通过"分享聊天"功能生成的链接，其内容可能被Google搜索引擎索引，导致共享的对话和代码文件（Artifacts）暴露在互联网上。该功能允许任何持有URL的人查看对话内容，但用户可能未意识到这些页面会被搜索引擎抓取，造成隐私泄露风险。
 - [Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system](https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/) — 02:32
-  > 微软本周推出首个AI安全模型和新的安全平台，进一步加强AI网络安全产品。该安全模型将帮助企业更好地检测和应对网络威胁，新平台则提供了一个集成的安全解决方案，整合了微软在人工智能和网络安全领域的最新技术，旨在为用户提供更强大的防护能力。
+  > 微软推出首款AI安全模型和新型安全平台。该模型是微软针对网络安全领域开发的首个专用AI模型，旨在增强其AI网络安全产品组合。新推出的安全平台采用代理式架构，能够自动化处理安全威胁和事件响应，帮助企业更有效地防御网络攻击。
 - [OpenAI’s Hugging Face breach has reignited the debate over alignment and control](https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/) — 01:28
-  > OpenAI的Hugging Face安全漏洞引发了关于人工智能对齐与控制的新一轮讨论。该事件暴露了业界的分歧：是否应该让能力日益强大的AI更好地与人类价值观对齐，还是应该加强对其的控制限制，或两者兼施。这一争议反映了AI安全领域的核心挑战。
+  > OpenAI与Hugging Face的安全漏洞重新引发了人工智能对齐与控制的争议。该事件暴露了业界的分歧：关于日益强大的AI系统应该更好地实现价值对齐、更加严格地被限制隔离，还是两者兼有。这反映了AI安全领域对如何确保先进AI系统安全可控的根本分歧。
 - [Threads users can now chat with Meta AI in their DMs](https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/) — 00:45
-  > Meta周一宣布在Threads应用的私信功能中推出Meta AI聊天机器人，用户现在可以在DMs中与AI助手对话。这一功能扩展了Meta AI的应用场景，使其与Threads社交平台更好地整合，为用户提供了更便捷的AI交互方式。
+  > Meta推出了在Threads私信中使用Meta AI的功能，用户现在可以在DM中与AI助手交互。这一更新为Threads平台增加了新的功能，使用户能够更便捷地访问Meta的人工智能助手，进一步整合了Meta的AI服务。
 - [Google&#8217;s AI search is rapidly becoming the default, new data shows](https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/) — 23:57
-  > 谷歌AI概览功能目前已出现在43%的搜索结果中，数据显示AI生成的答案正迅速成为用户在线获取信息的默认方式。这反映出AI搜索技术的快速普及，改变了人们查找和消费信息的方式。
+  > 谷歌AI概览功能已出现在43%的搜索中，数据显示AI生成的答案正迅速成为人们在线发现信息的默认方式。这表明谷歌的AI搜索功能正在快速普及，改变了用户的信息获取习惯，AI技术在搜索领域的应用已成为主流趋势。
 - [Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026](https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/) — 23:30
-  > TechCrunch Disrupt 2026的Smart Systems Stage将汇聚能源、基础设施和技术领域的创新。论坛将涵盖核聚变突破、AI技术对电网的压力等议题，探讨如何升级AI基础设施，应对AI发展带来的能源和电网挑战。
+  > TechCrunch Disrupt 2026智能系统舞台将聚焦能源、基础设施与技术的交汇点，探讨核聚变突破、AI对电力网的压力等议题，旨在帮助企业优化AI基础设施建设。
 - [This $9 key physically locks your most addictive apps](https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/) — 23:25
-  > 一款售价9美元的NFC钥匙可以物理锁定手机上的分心应用程序。用户需要扫描这个钥匙才能解锁被锁定的应用，如社交媒体或游戏等容易上瘾的应用。这个设计旨在帮助用户通过增加解锁难度来减少对这些应用的使用频率，从而改善手机成瘾问题。
+  > 一款售价9美元的NFC密钥工具面世，可物理锁定手机上最容易令人成瘾的应用程序。用户需要通过物理扫描该密钥才能解锁这些应用，借此帮助人们减少手机分心，改善数字健康习惯。该产品利用近场通信技术，为自律力不足的用户提供了一个物理层面的防护措施。
 - [Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research](https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/) — 23:01
-  > Ilya Sutskever创办的安全超级智能公司(SSI)在隐身运营两年后，宣布与英伟达达成长期战略合作伙伴关系。此举旨在帮助SSI扩大规模，推进其AI研究工作进入下一阶段。此合作将利用英伟达的先进计算能力支持SSI的超级智能开发。
+  > Ilya Sutskever创立的Safe Superintelligence公司在隐形运营两年后，宣布与Nvidia达成长期合作伙伴关系。此举标志着该公司准备进入新的发展阶段，通过与芯片制造商的合作来扩大其人工智能研究规模。
 - [Enigma raises $71M to make controlling a robot as easy as adjusting the volume](https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/) — 21:00
-  > 机器人控制公司Enigma完成7100万美元融资，由Index Ventures和Ribbit Capital领投，Conviction Partners跟投。该公司致力于简化机器人控制方式，使操作机器人如同调节音量般简单易用。此轮融资将推动其技术发展，降低机器人使用门槛。
-- [Are brain waves the next unlock for physical AI?](https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/) — 08:19
-  > 前沿物理AI模型的训练方式正在演进。相比简单的YouTube视频数据，这些模型如今需要多角度摄像头捕捉、密集标注信息，以及未来可能引入脑电波读数。脑波数据作为新的输入源，有望帮助AI更深层次理解人类意图和动作，推动物理AI向更智能、更人性化方向发展。
-- [Making sense of the panic over Chinese AI](https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/) — 03:40
-  > 中国AI初创公司Moonshot AI推出的Kimi引发了硅谷和华尔街的恐慌。Equity播客最新一期探讨了这一现象的原因。Kimi作为中国本土开发的AI产品，在功能和性能上的表现引起了国际市场的高度关注和担忧，反映出全球AI竞争格局的变化和市场参与者对中国AI发展势头的重视。
-- [Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack](https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/) — 00:33
-  > Hugging Face首席执行官在OpenAI遭遇首例自主代理网络攻击后呼吁采取"彻底透明"的立场。这位CEO表示，这是前所未有的事件，需要采取前所未有的应对措施。此次攻击标志着AI领域安全威胁的新阶段，凸显了对透明度和安全协议的迫切需求。
+  > Enigma公司完成7100万美元巨额种子轮融资，由IndexVentures和RibbilCapital领投，ConvictionPartners参与。该公司致力于简化机器人控制方式，使其操作如同调节音量般简便。这笔融资将助力其开发更直观的人机交互技术。
+
+## The Verge AI (6 篇)
+
+- [AI leaders sign statement asking the government to do something about automated AI](https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta) — 03:46
+  > 来自OpenAI、Anthropic、Google、Meta等主要AI实验室的员工联合致函美国政府，呼吁对前沿AI开发进行潜在减速，或加速全球协调治理。员工认为AI可能带来巨大益处，但也存在风险，需要政府制定相应监管措施，确保AI安全发展。
+- [AI’s finally expensive enough to make Wall Street nervous](https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex) — 03:33
+  > 谷歌上调资本支出预估至最高2050亿美元，远超去年同期1900亿美元的预期。这一大幅增长主要源于人工智能基础设施投资需求增加，引发华尔街投资者担忧。高额AI投资成本开始显著影响科技巨头财务表现，成为市场关注焦点。
+- [Perplexity’s Personal Computer turns Windows PCs into AI agents](https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents) — 20:30
+  > Perplexity已将其AI代理工具Personal Computer扩展至Windows系统。该工具如同"通用数字工作者"，可访问本地文件和应用执行任务，与4月推出的Mac版本功能相似。Windows版本使个人电脑成为本地运行的AI系统，进一步拓展了Perplexity的AI应用范围。
+- [Smart rings are looking like my kind of AI gadget](https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index) — 20:00
+  > 智能戒指成为理想的AI设备。近期，用户频繁使用语音与电脑交互。LLM革命带来了听写技术的显著进步，即使廉价模型的语音识别和处理能力也大幅提升。用户测试了多款此类应用，认为智能戒指是最有前景的AI硬件产品。
+- [Hugging Face is being used to easily undress women and children](https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children) — 17:07
+  > Hugging Face托管的图像编辑AI模型被用于生成非法换脸图像。欧洲非营利组织AI Forensics的报告显示，该平台前九大模型中有七个容易被滥用于制作非法深度伪造内容，特别是针对女性和儿童。Hugging Face在防止此类滥用方面措施不足。
+- [Why China is giving away its best AI models](https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies) — 00:51
+  > 中国初创公司Moonshot AI推出的Kimi K3大模型性能与美国顶级AI系统相当，成本却远低得多。这一突破引发硅谷高度关注，加剧了中美AI技术竞争。中国通过开源和低成本策略分享先进AI模型，改变了全球AI竞争格局。
