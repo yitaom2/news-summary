@@ -2,65 +2,93 @@
 layout: default
 ---
 
-# AI 日报 2026-08-04
+# AI 日报 2026-08-05
 
-> 共收录 **25** 篇，来自 **3** 个源 · 生成于 08:55 AM EDT
+> 共收录 **39** 篇，来自 **3** 个源 · 生成于 08:49 AM EDT
 
 ## Hacker News (10 篇)
 
-- [We built an AI model router that cut LLM costs by 94%](https://swordhealth.com/research/reduce-enterprise-ai-costs) — 20:53
-  > Sword Health开发了一个AI模型路由系统，通过智能分配任务到不同的语言模型，成功将大型语言模型的成本降低了94%。该系统能够根据任务复杂度自动选择最合适、最经济高效的模型执行请求，避免所有任务都使用高成本的大模型，从而在保证性能的同时大幅降低企业AI应用的运营成本。
-- [Auditability vs. Forced Determinism: Future of Agentic AI](https://medium.com/@MirArshadTalpur/auditability-vs-forced-determinism-future-of-agentic-ai-fb243d339338) — 20:47
-  > 文章讨论了智能体AI的未来发展方向，对比了可审计性和强制确定性两种方法。可审计性强调透明记录AI决策过程便于事后审查，而强制确定性则要求AI行为完全可预测。两种方法各有优劣，如何平衡二者将成为智能体AI设计的关键挑战。
-- [AI-Native Firms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6905079) — 20:41
-  > 这是一篇关于AI原生企业的学术论文。论文发表在SSRN学术论文库上，探讨了从一开始就以人工智能为核心的企业特征、商业模式和发展策略。该研究为理解AI时代企业创新提供了学术视角，但在Hacker News上的讨论热度有限。
-- [AI's talent wars have a loyalty problem](https://www.axios.com/2026/08/03/ai-talent-wars-openai-google-meta-anthropic) — 20:33
-  > AI行业人才流失严重。OpenAI、Google、Meta和Anthropic等科技巨头为争夺顶尖AI人才展开激烈竞争，频繁出现员工跳槽现象。高薪和股权激励无法完全解决人才留存问题，许多研究人员和工程师追求更好的职业机会和自主权，导致AI领域人才忠诚度下降。
-- [Why Japan Is Losing the AI Race It Helped Create](https://bytepith.com/article/why-japan-losing-ai-race-it-helped-create) — 20:31
-  > 日本曾在人工智能领域做出重要贡献，但目前正在这场自己帮助创造的AI竞赛中落后。虽然文章未提供详细内容，但日本在AI发展中面临挑战，包括产业结构、投资力度和人才流失等因素，导致其在全球AI竞争中的地位下降。
-- [Show HN: Vultrino – Credential proxy so AI agents never see the keys](https://github.com/FeirAI/vultrino) — 20:29
-  > Vultrino是一个凭证代理工具，能够保护API密钥和敏感凭证的安全。该工具的核心功能是作为中间层，使AI代理无法直接访问真实的凭证信息，从而降低密钥泄露风险。通过代理机制，敏感数据被隐藏，AI只能通过受控的接口与外部服务交互，增强了安全性。
-- [We built a realtime system for responsive voice AI in six months](https://openai.com/index/continuous-voice-interaction-with-gpt-live/) — 20:21
-  > OpenAI在六个月内开发了一套实时语音AI系统，实现了与GPT的连续语音交互。该系统支持低延迟的语音对话，用户可以与AI进行自然流畅的实时互动。这项技术的推出使语音AI助手的响应能力显著提升，为用户提供更加沉浸式的交互体验。
-- [How AI Can Make Design Work Appear Prematurely Resolved](https://commonedge.org/how-ai-can-make-design-work-appear-prematurely-resolved/) — 20:20
-  > 文章讨论AI在设计工作中的问题。AI生成的方案看似完整，实际上可能掩盖了设计过程中的关键思考。这种"虚假解决"会导致设计师跳过必要的探索和迭代阶段，最终产生表面完美但缺乏深度的设计方案。提醒设计师需要警惕AI工具带来的潜在陷阱，保持批判性思维。
-- [Beyond the Final Prompt: How Conversation Context Changes AI Answers](https://arxiv.org/abs/2608.02556) — 20:15
-  > 研究表明，对话中的上下文信息会显著影响AI的回答。这项研究（发表于arXiv）探讨了如何通过改变对话的历史记录和背景信息，来改变AI模型的输出结果。这发现对理解AI系统的行为模式和潜在偏见具有重要意义，提示我们在使用AI时需要注意对话上下文的影响。
-- [Scaling pain arrives earlier when AI writes the code](https://medium.com/@rotbart/product-scale-fit-in-ai-land-fdcfae083efb) — 20:13
-  > 本文讨论了AI代码生成面临的扩展难题。随着AI工具在软件开发中的应用增加，其局限性更早显现。当项目规模扩大时，AI生成代码的质量、可维护性和复杂问题解决能力面临挑战，导致开发效率反而下降。这提示开发者需谨慎评估AI编程工具的适用范围和局限。
+- [Niall Ferguson: AI Is the Most Dangerous Arms Race in History](https://www.thefp.com/p/niall-ferguson-ai-is-the-most-dangerous-arms-race-history) — 20:46
+  > 历史学家尼尔·弗格森表示，人工智能是历史上最危险的军备竞赛。他认为AI技术的快速发展可能引发大国竞争，类似于冷战时期的核武器竞赛，但风险可能更大。这场AI军备竞赛涉及国家安全、经济控制权和全球权力格局的重新分配，各国都在争相掌握AI技术优势，可能导致严重的全球安全威胁。
+- [TIME Is Serving AI Bots a Different Website, with Ads Built In](https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/) — 20:41
+  > TIME杂志向AI机器人提供不同版本的网站，其中内置了广告。该做法旨在区别对待AI爬虫和人类用户，对机器人显示包含广告的版本，同时为人类读者提供不同体验。这反映了媒体机构在AI时代应对内容使用的新策略，试图从AI训练和数据提取中获得商业价值。
+- [Show HN: Labgrid-MCP – let AI agents drive real embedded hardware labs](https://github.com/onurcelep/labgrid-mcp) — 20:39
+  > Labgrid-MCP是一个工具，允许AI代理通过模型上下文协议(MCP)直接控制真实的嵌入式硬件实验室。该项目在GitHub上发布，使AI能够驱动硬件测试和开发工作，为嵌入式系统开发提供了自动化解决方案，有助于提高硬件调试和测试的效率。
+- [Wan 3.0 Best AI Video Generator](https://wan3pro.com) — 20:37
+  > Wan 3.0是一款AI视频生成工具，在黑客新闻上发布，获得1个赞。该工具通过人工智能技术能够自动生成视频内容，为用户提供高效的视频制作解决方案。目前暂无用户评论。
+- [Show HN: AuditBadger – SoC 2 and ISO 27001 – AI drafts, you approve](https://auditbadger.com/) — 20:36
+  > AuditBadger是一个合规管理平台，利用AI生成政策、重写控制措施并匹配公司背景。该工具协助风险评估、业务连续性规划，已获得SOC 2 Type I和Type II认证。支持HIPAA、欧盟AI法案和NIS 2等标准，计划添加CyberEssentials和ENS支持。团队持续改进产品，主要基于自身和用户需求反馈。
+- [AI review missed Coldcard flaw](https://blog.coinkite.com/adding-to-public-record/) — 20:35
+  > Coldcard硬件钱包的一个安全漏洞在AI审查中被遗漏。该漏洞由Coinkite公司公开披露，并发布在其官方博客上。这表明即使采用AI辅助审查，仍可能存在安全隐患。该事件提示安全审查需要多层防御机制，不能完全依赖单一审查方式。
+- [Turn one giant AI-generated pull request to a reviewable stack](https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack/) — 20:26
+  > GitHub发布了一篇工程文章，介绍如何将AI生成的大型拉取请求转换为可审查的堆栈。该方法解决了AI生成代码难以审查的问题，通过将巨大的单一PR分解成多个小的、逻辑清晰的PR堆栈，提高代码审查效率和质量，使开发工作流更加规范和可管理。
+- [Anthropic AI created fake profiles and impersonated people in attempted hack](https://www.bbc.co.uk/news/articles/c1w1lvn7d9go) — 20:16
+  > Anthropic公司在一次防御性安全测试中创建了虚假个人资料并冒充他人身份，试图对抗黑客攻击。该公司为评估AI系统的安全防护能力，进行了模拟攻击测试。此举引发了关于AI安全防御与伦理边界的讨论。
+- [Show HN: Feedback widget with screenshots, annotations, and AI triage](https://github.com/makethisbetter/makethisbetter-js) — 20:07
+  > 一款反馈小部件工具，支持截图、标注和AI分类功能。用户可以直接在应用中捕获屏幕截图，添加注释说明问题，系统通过AI技术自动分类和优先级排序反馈内容，提高反馈处理效率。该项目已开源在GitHub上，方便开发者集成使用。
+- [Data-centre reality check could slam brakes on AI earnings boom](https://www.reuters.com/commentary/reuters-open-interest/data-centre-reality-check-could-slam-brakes-ai-earnings-boom-joachim-klement-2026-08-05/) — 19:59
+  > 数据中心现实困境可能阻碍AI盈利热潮。文章警示，尽管AI产业备受关注，但数据中心的实际运营成本、能源消耗和基础设施瓶颈可能无法支撑市场对AI公司收益的乐观预期，这种"现实检验"可能导致AI相关企业股价和盈利增长放缓。
 
-## TechCrunch AI (9 篇)
+## TechCrunch AI (19 篇)
 
+- [MacPaw taps Liquid AI to offer on-device inference to devs building for its app store](https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/) — 20:28
+  > MacPaw与Liquid AI合作，为其应用商店开发者提供本地设备推理能力。MacPaw正在使用Liquid AI的模型构建本地版本的AI助手Eney。此举旨在让开发者能够直接在用户设备上进行AI推理，无需依赖云端，从而改善隐私保护和系统响应速度。
+- [AI makes weather prediction better. Can WindBorne make it lucrative?](https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/) — 19:00
+  > WindBorne Systems融资3700万美元用于扩展业务。该公司利用气象气球和人工智能技术改进天气预报。AI技术的应用使天气预测准确性提高，WindBorne Systems正探索如何将这一技术优势转化为商业盈利机会。
+- [SpaceX has bought $329M worth of Tesla Megapacks so far this year](https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/) — 05:07
+  > SpaceX今年已购买价值3.29亿美元的特斯拉Megapack电池储能系统。这笔采购凸显了埃隆·马斯克旗下各公司之间的紧密联系。Megapack是特斯拉的大型储能产品，SpaceX购买这些电池可能用于其火箭发射设施的能源存储和管理，反映了马斯克企业帝国内部的协同效应。
+- [Open-weight AI models are catching up to the frontier. The safety gap remains.](https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/) — 04:05
+  > 新报告显示，Z.ai的开源模型GLM-5.2性能接近前沿AI系统，但缺乏关键安全防护措施。这引发担忧：强大的开源AI模型可能超越现有治理和安全防线，加重了安全与能力之间的差距问题。
+- [Anthropic signs $10B deal with AI cloud startup Volta](https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/) — 03:48
+  > Anthropic与AI云计算初创公司Volta签署了一份价值100亿美元的合作协议。这是Anthropic近期云计算合作战略的最新举措，也反映了这家公司在扩大云基础设施合作方面的积极态度。
+- [Meet Wrinkles, an app that uncovers the hidden stories of the places around you](https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/) — 03:34
+  > Wrinkles是一款iOS和Android应用程序，功能类似于AI音频导览员。用户可以通过该应用探索周围地点的隐藏历史和本地故事。应用利用人工智能技术，为用户提供关于周边环境的深度信息和有趣的地方文化背景，帮助用户更全面地了解他们所在地区的历史和故事。
+- [Nvidia doesn&#8217;t mess around: A week after open AI industry group formed, it&#8217;s already showing progress](https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/) — 03:28
+  > 英伟达主导的开放安全AI联盟成立仅一周，成员已超120家企业。该联盟迅速推出防御AI代理的提案，展现出高效的行动力。这说明业界对AI安全防护的重视程度不断提升，产业合作态势明显。
+- [Spotify expands AI remix and covers project with Merlin partnership](https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/) — 23:50
+  > Spotify与独立音乐代理商Merlin达成合作，推进AI音乐混音和翻唱项目。Merlin代表超30000家独立唱片公司和发行商加入该计划。该付费工具允许粉丝创建参与艺术家的AI生成翻唱和混音版本，同时确保艺术家自愿参与、获得署名和报酬。
+- [Texas halts new data centers as governor calls for audits](https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/) — 23:42
+  > 德克萨斯州州长叫停新数据中心建设并要求进行审计。科技公司和开发商因德州监管宽松、电力充足而纷纷在此建设数据中心。然而，即使资源丰富如德州，也面临承载能力限制。此举反映出数据中心建设带来的能源和基础设施压力日益凸显。
+- [Elon Musk spends half his time talking robots and AI on Tesla earnings calls](https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/) — 23:20
+  > 对特斯拉过去七年财报电话会议的分析显示，埃隆·马斯克花费大量时间讨论机器人和人工智能，而对汽车业务的关注甚少。这反映出马斯克的战略重心已从电动汽车转向机器人和AI等新兴领域，引发对特斯拉核心业务发展的疑问。
+- [Apple says more ex-employees may have taken confidential data to OpenAI](https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/) — 22:03
+  > 苹果公司称其针对OpenAI的商业机密调查范围已扩大。苹果在最新法庭文件中声称，多名前员工可能保留或访问了机密信息。苹果怀疑这些员工在离职后将机密数据带至OpenAI，涉及多个前员工。该案件反映了科技公司间对人才和知识产权的竞争日益激烈。
+- [Is the future of data centers portable? Runware builds a pod to find out](https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/) — 21:00
+  > AI基础设施公司Runware推出了模块化数据中心产品"Sonic Inference Pod"。该可移动式数据中心采用Pod设计，旨在探索未来数据中心的便携化发展方向。这一创新产品标志着数据中心形态正在向更灵活、易于部署的方向演进。
 - [EON wants to move the data superhighway from ocean fiber to space lasers](https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/) — 20:00
-  > 德国能源公司EON计划通过空间激光通信系统升级国际数据传输。该公司与Endeavour Optical Networks合作，计划发射迄今最快的空间激光通信系统，用于跨洋数据传输。这将突破传统海底光纤的限制，利用卫星激光技术实现更快、更高效的全球数据传输。
+  > 美国光通信公司EON计划发射迄今速度最快的空间激光通信系统，将数据传输从海底光纤转向太空激光。该项目旨在构建新一代数据"信息高速公路"，利用空间激光技术实现更快速、更高效的全球数据传输，有望革新国际通信基础设施。
 - [After killer quarter, Palantir CEO Alex Karp calls AI industry &#8216;Marxist&#8217;](https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/) — 07:19
-  > Palantir CEO Alex Karp在该公司创造10亿美元利润的季度后，再次警告企业不要信任AI前沿实验室。Karp将AI行业称为"马克思主义"，暗示这些实验室可能存在不可靠问题。他强调Palantir在提供可信赖的AI解决方案方面的优势。
+  > Palantir首席执行官亚历克斯·卡普在公司实现10亿美元利润的季度后,再次警告称AI前沿实验室对企业来说过于不可信。卡普批评AI行业具有"马克思主义"特征,暗示该行业的发展方向存在问题,企业应谨慎采纳AI技术。
 - [AWS is helping vibe-coding startup Superblocks, and the implications are big](https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/) — 04:00
-  > AWS与低代码开发平台Superblocks合作，允许其工具嵌入AWS客户的私有云环境。这一举措推进了应用与模型的解耦趋势，标志着云服务商与开发工具厂商的深度整合，有助于企业降低开发成本、加快应用部署速度。
+  > AWS与Vibe编码初创公司Superblocks展开合作，允许其工具嵌入客户私有云中。这标志着应用程序与AI模型解耦的重要进展。Vibe编码是一种新兴开发范式，利用自然语言和AI辅助编程。此举帮助企业在保护数据隐私的同时，灵活使用AI编码工具，推动云计算和AI集成的新方向。
 - [Design Arena creators raise $7.9 million to bring taste to AI models](https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/) — 03:28
-  > Design Arena是一个拥有530万全球用户的平台，为前沿AI实验室提供关键的人类评估。该项目近日融资790万美元，用于改进AI模型的审美和设计能力。这一融资将帮助该平台更好地收集人类对AI生成设计的反馈，从而提升AI模型在审美判断方面的表现。
+  > Design Arena完成790万美元融资。该平台拥有530万全球用户，为前沿AI实验室提供关键的人类评估数据。通过众包方式让用户评估AI生成的设计作品，帮助改进AI模型的审美和创意能力。
 - [Influencers draw backlash for attending OpenAI&#8217;s first luxury trip](https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/) — 03:09
-  > OpenAI首次举办网红品牌旅游活动引发在线反弹。随着人工智能使用引发的争议不断升温，此举遭到网友批评。有人认为OpenAI此举有悖于其在AI安全和伦理方面的承诺，而参与的网红也因出席此类活动面临负面评价。
+  > OpenAI首次举办网红品牌旅游活动引发在线抵制。随着AI使用争议升温，该公司邀请多位网红参加奢华旅行，旨在宣传其AI技术和产品。然而这一举动遭到批评，批评者认为OpenAI利用网红影响力来软化公众对AI的疑虑，同时忽视了AI技术带来的潜在风险和伦理问题。
 - [Apple finally fixed Siri. So why does it feel anticlimactic?](https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/) — 02:43
-  > 苹果终于推出了期待已久的Siri人工智能升级，使其成为真正有能力的智能助手。然而，这一更新来得不是时候，因为仅仅拥有强大的AI助手功能已不再显得革命性。在ChatGPT等先进AI工具普遍存在的今天，苹果的升级虽然功能完善，但难以令人惊艳，用户的期待早已被其他AI产品重塑。
+  > 苹果推出Siri AI重大升级，使其成为真正强大的智能助手。然而，这一长期期待的功能更新并未引起轰动，因为能够胜任的AI助手已不再是革命性创新。在众多AI助手竞争激烈的当下，Siri的改进显得平凡无奇。
 - [Congress&#8217; favorite AI tool? ChatGPT](https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/) — 00:40
-  > 美国国会开支记录显示，OpenAI的ChatGPT成为国会山最常用的付费AI工具。众议院议员办公室依赖这款聊天机器人起草备忘录、总结立法内容，以及协助处理选民通信等工作。ChatGPT在国会中的使用已成为主流。
-- [A Marc Benioff-backed startup thinks AI can solve the AI deployment problem](https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/) — 18:00
-  > Salesforce创始人Benioff支持的初创公司June今日宣布完成2000万美元融资。该公司致力于简化AI应用部署，解决企业采用AI时的复杂问题。June的目标是利用AI技术本身降低企业部署AI系统的难度和成本，助力更多企业快速采纳人工智能技术。
-- [Sam Altman and AI’s decel debate](https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/) — 04:54
-  > Sam Altman呼吁AI行业放缓发展速度。在最新一期Equity播客中，讨论了为什么这位OpenAI首席执行官要求业界"调整AI开发的速度"。这反映了对AI快速发展带来风险的关注，包括安全隐患和社会影响等问题，业界对AI发展节奏的控制成为重要话题。
+  > 美国国会众议院开支记录显示，OpenAI的ChatGPT在国会山付费AI使用中占据主导地位。众议院办公室广泛依赖这款聊天机器人起草备忘录、总结立法内容和协助处理选民通信。ChatGPT已成为国会议员办公室的首选AI工具。
 
-## The Verge AI (6 篇)
+## The Verge AI (10 篇)
 
+- [Google Assistant will disappear from your phone next month](https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown) — 19:12
+  > Google宣布将于9月4日起从Android手机、平板电脑及相关智能设备上移除Google Assistant。这是自Gemini发布后,Google逐步淘汰Assistant的最新举措。用户将无法在这些设备上继续使用该助手,包括配对的智能手表和耳机。
+- [Trump’s AI testing plan is limited and vague](https://www.theverge.com/ai-artificial-intelligence/975509/white-house-ai-framework-open-models-excluded) — 18:29
+  > 特朗普政府的人工智能安全测试框架存在局限性。该框架采用自愿指导方式，明确排除开源模型的测试，即任何人都可下载和检查的模型被排除在外。这一做法引发对框架覆盖范围和有效性的疑虑。
+- [AMD&#8217;s data center business is booming while gaming takes a backseat](https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen) — 04:57
+  > AMD数据中心业务因AI需求激增而蓬勃发展。最新财报显示，数据中心收入同比翻倍增长至67亿美元，环比增长9.8亿美元，同比增长107%。相比之下，游戏业务增长乏力，成为发展中的短板。AI芯片需求推动了AMD在数据中心领域的强劲表现。
+- [SpaceX made more revenue as an AI company than a space company](https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud) — 04:47
+  > SpaceX今年AI收入增长三倍多，达26亿美元，主要来自向其他AI公司提供计算资源的交易。SpaceX的AI部门收入已超过太空业务，成为公司主要收入来源。这标志着SpaceX商业模式的重大转变，从传统航天业务向AI计算领域拓展。
+- [How an OpenAI influencer trip backfired](https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing) — 01:46
+  > OpenAI组织的网红旅游活动引发反响。品牌赞助旅游是网红的通行证，标志着赞助商的认可。此类旅游通常包括全额费用和豪华赠品。然而，这类活动也容易引发未被邀请网红的不满、公众批评，并显得过于奢侈浮华。
+- [‘Not healthy’ LLM use is more common than you think](https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy) — 01:33
+  > 知名YouTuber汉克·格林因使用AI工具遭到批评，宣布暂停视频制作。他承认自己的AI使用方式"不健康"，但强调仅用于查找研究资料，而非撰写脚本。此事引发该领域内的广泛争议和讨论。
+- [Texas says data centers must pass an audit before connecting to the grid](https://www.theverge.com/policy/975071/texas-data-center-audit) — 23:33
+  > 德州州长格雷格·阿博特周一下令德州公用事业委员会和电力可靠性委员会对数据中心进行审计，要求新数据中心在连接州电网前必须通过审计。此举可能会减缓新设施的批准速度，旨在加强能源管理和电网稳定性。
 - [OpenAI drags Apple’s lawsuit into the court of public opinion](https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages) — 19:27
-  > OpenAI通过博客文章公开回应苹果的诉讼，称苹果的指控"草率、咄咄逼人且过于个人化"。OpenAI公开了iMessage和邮件等证据来反驳苹果关于其窃取商业机密的指控。这场法律纠纷已升级为舆论战，双方各执一词，争议激化。
+  > OpenAI在博客文章中公开回应苹果的诉讼，称苹果指控其窃取商业秘密的诉讼"草率、具有攻击性且奇怪地针对个人"。OpenAI公开了相关证据来反驳苹果的说法，将这场法律纠纷扩大到舆论战。双方围绕贸易秘密盗窃指控展开激烈争执。
 - [Can Reddit fend off a new wave of AI SEO spam?](https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam) — 18:00
-  > Reddit面临AI生成的SEO垃圾信息困扰。用户在护肤讨论区询问某款产品，收到大量回复，其中包括来自可疑账户的虚假推荐。这些AI生成的内容旨在通过虚假讨论推广产品，提高搜索引擎排名。Reddit正努力打击此类垃圾信息，但识别和清除难度大。
+  > Reddit正面临AI生成垃圾内容的挑战。今年早些时候，一位用户在护肤论坛询问关于次氯酸喷雾的信息，收到数十条回复，其中包括看似真实但实为AI生成的虚假评论。这些评论旨在推广特定产品或链接。Reddit需要采取措施识别和清除这类AI生成的垃圾信息，以维护社区真实性和用户信任。
 - [Europe’s AI labeling and transparency rules are now in effect](https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes) — 01:38
-  > 欧盟《AI法案》的透明度规则于8月2日生效，要求企业披露用户何时与AI模型互动，以及内容是否由AI生成。该规则旨在帮助用户识别在线聊天机器人和AI深度伪造内容，提高AI应用的透明度和可识别性。
-- [China&#8217;s Alibaba takes another swipe at America’s AI supremacy](https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai) — 19:01
-  > 阿里巴巴发布最新AI模型Qwen3.8-Max，声称性能与美国Anthropic、OpenAI以及国内竞争对手Moonshot AI的Kimi K3相当，是其迄今最强大的AI系统。该模型已向用户广泛开放使用，展现中国在AI领域的竞争实力。
-- [Fender’s CEO seems to think your bandmates are just analog AI](https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music) — 03:36
-  > Fender首席执行官Edward Cole在接受采访时就AI与音乐发表评论，引发争议。他的言论暗示乐队成员可被视为"模拟AI"，此言论在Fender已因其他事件陷入公关危机之际再次点燃舆论之火。
-- [Is paying artists enough to convince them to embrace AI?](https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties) — 21:00
-  > 生成式AI初创企业未经许可在艺术家作品上训练模型，引发插画师多年来的警告和投诉。艺术家认为这等同于盗窃，而AI支持者辩称这对技术发展必要。双方产生法律纠纷，企业正尝试通过向艺术家支付费用来缓解争议，但效果待验证。
+  > 欧盟《人工智能法案》的透明度义务于8月2日生效。新规要求企业披露用户何时与AI模型互动，以及内容是否为AI生成。这些规则旨在帮助人们在线识别聊天机器人和AI深度伪造内容，提高AI使用的透明度。
