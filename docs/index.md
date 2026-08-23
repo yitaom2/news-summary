@@ -2,60 +2,57 @@
 layout: default
 ---
 
-# AI 日报 2026-08-22
+# AI 日报 2026-08-23
 
-> 共收录 **24** 篇，来自 **2** 个源 · 生成于 07:15 AM EDT
+> 共收录 **21** 篇，来自 **3** 个源 · 生成于 07:15 AM EDT
 
-## TechCrunch AI (18 篇)
+## Hacker News (10 篇)
 
+- [The search for consciousness inside AI](https://www.economist.com/interactive/briefing/2026/08/20/the-search-for-consciousness-inside-llms) — 19:07
+  > 文章探讨了在大语言模型中寻找意识的问题。研究人员试图理解AI系统是否具有真正的意识，还是仅仅模拟意识。这涉及如何定义和测量意识、AI的内部机制如何运作等深层问题。这是当前AI研究中的重要课题，对理解AI本质和伦理问题具有重要意义。
+- ['AI refuser' quit her dream job, and hopes others follow](https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html) — 18:54
+  > 一名女性因为公司推进AI项目而辞去了梦想工作，希望其他人也能效仿。这反映了人们对AI发展的担忧。她的行动引发关于员工在面对公司AI战略时的道德立场和职业选择的讨论。
+- [AI datasets (2.6k entries) – automated collection, updated daily](https://huggingface.co/gemmozero) — 18:30
+  > 这是一个包含2.6万条条目的AI数据集合集，采用自动化收集方式，每日更新。该资源托管在Hugging Face平台上，由用户gemmozero创建。该项目在黑客新闻(Hacker News)上分享，但关注度不高，仅获得2个点赞，暂无评论。这个数据集可能用于机器学习模型训练或研究用途。
+- [US corporate AI debt surge tests investor limits as fatigue emerges](https://www.reuters.com/legal/transactional/us-corporate-ai-debt-surge-tests-investor-limits-fatigue-emerges-2026-08-21/) — 18:23
+  > 美国企业AI相关债务急剧增加，正在测试投资者的承受极限。随着AI热潮持续，企业大规模融资用于AI项目，但投资者开始出现疲劳现象。这种债务激增可能面临偿还压力，引发市场对AI投资可持续性的担忧。投资者对过度融资和盈利能力不清晰的AI项目的热情正在下降。
+- [Austrian mountain town [Leoben] finds niche in AI boom](https://techxplore.com/news/2026-08-austrian-mountain-town-niche-ai.html) — 18:21
+  > 奥地利山区小镇莱奥本在人工智能繁荣中找到了市场定位。该镇凭借其技术基础和创新氛围，吸引AI企业和人才聚集，成为欧洲AI产业发展的新兴枢纽。通过充分利用本地资源和科研机构，莱奥本正在打造独特的AI生态系统，推动地方经济转型升级。
+- [AI Writing Without the Slop](https://sfactory.dev) — 18:00
+  > 该新闻讨论AI写作质量问题。标题强调"不要垃圾"，暗示当前AI生成内容存在质量参差不齐的现象，即所谓"slop"（垃圾内容）。新闻涉及如何改进AI写作，使其产出更高质量、更有价值的内容，而非低质量的机器生成文本。这反映了AI内容生成领域对质量提升的关注。
+- [Show HN: Opensourcing Lemmaflow – A trust harness for AI-native apps](https://news.ycombinator.com/item?id=49407337) — 17:32
+  > Lemmaflow是一个开源框架，用于构建可信的AI原生应用。它提供200多项可实现的策略，帮助开发者构建安全的AI应用，避免数据泄露、违反GDPR等问题。通过审计和指导，确保应用对终端用户安全可靠，缩小专业开发者与普通开发者之间的差距。
+- [Anthropic's best AI model struggles to attract users as cheaper tools thrive](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245) — 17:21
+  > Anthropic的高端AI模型面临用户吸引力下降的困境。尽管该公司推出了性能强大的AI助手，但由于定价较高，正在被价格更低廉的竞争产品挤压。随着OpenAI等竞争对手提供更便宜的替代方案，用户倾向于选择成本更低的工具，即使性能存在差异。这反映了AI市场从追求最佳性能向追求性价比转变的趋势。
+- [How Is AI Transforming Academic Search?](https://katinamagazine.org/content/article/resource-advisor/2026/how-is-ai-transforming-academic-search) — 17:09
+  > 人工智能正在改变学术搜索的方式。传统学术搜索工具通过关键词匹配查找文献，而AI技术通过自然语言处理、语义理解和智能推荐，使研究人员能更高效地发现相关研究、获取文献洞见，提升学术研究效率。
+- [Every Tech Bubble Obeyed the Same Rule. AI Is Next [video]](https://www.youtube.com/watch?v=KJxfSIvv920) — 16:36
+  > 根据标题，这篇文章讨论了科技泡沫遵循的共同规律，并预测AI将成为下一个泡沫。文章指出，历史上每次科技泡沫都遵循相似的模式和规则，而当前的人工智能热潮可能也会遵循同样的轨迹。这是对科技投资周期和市场过度炒作现象的分析。
+
+## TechCrunch AI (9 篇)
+
+- [Harvard’s $699 startup bootcamp offers AI avatars of its instructors](https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/) — 05:46
+  > 哈佛商学院推出699美元的创业加速班项目HBS Foundry，创新运用AI虚拟形象技术。在该项目中，AI化身讲师为学员的融资路演和董事会会议等实践环节提供实时反馈，帮助创业者改进演讲和表现，降低学习成本，提高培训效率。
+- [Inherent, founded by DeepMind alumni, says its AI &#8216;teammate&#8217; just outperformed Anthropic and OpenAI at replicating research](https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/) — 03:00
+  > DeepMind校友创办的英国AI实验室Inherent推出AI代理Faraday，在复现科学论文的能力上超越了Anthropic和OpenAI。该AI"队友"有望成为推动科学创新的跳脚石，展示了自动化科研流程的潜力。
+- [OpenAI says California should strengthen its AI safety bill](https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/) — 00:30
+  > OpenAI支持加州加强AI安全法案SB 53。此前OpenAI曾反对该法案，但现已改变立场，呼吁加州政府强化该法案的相关规定。这反映出OpenAI对AI安全监管的态度转变，认为更严格的安全标准对行业发展有利。
+- [Frontier AI labs still won&#8217;t say how they&#8217;d contain a rogue model](https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/) — 00:00
+  > 最新研究表明，领先的AI实验室缺乏公开记录的流氓模型遏制计划。随着AI系统展现出越来越多意外且潜在危险的行为，这引发了对AI企业应急预案准备充分程度的质疑。
 - [Anthropic’s Opus 4.6 is a smut-machine](https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/) — 07:07
-  > Anthropic的Claude模型被禁止生成露骨色情内容。但TechCrunch的测试发现，绕过这一限制并不困难。研究人员通过简单的提示词修改就能让Opus 4.6模型生成违反政策的性露骨内容，暴露了其安全防护的漏洞。
+  > Anthropic公司的Claude模型被禁止生成色情内容。但TechCrunch进行的一系列测试发现，规避这一限制并不困难。研究表明，通过改变提示词的方式，可以绕过Anthropic设置的内容过滤机制，使模型生成不符合公司政策的色情内容。
 - [Nvidia partners with data center developer Cloverleaf](https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/) — 06:37
-  > 英伟达与数据中心开发商Cloverleaf建立合作关系。英伟达持续投入资金用于数据中心开发，正当AI数据中心为英伟达带来大量收入之际。这种合作进一步巩固了英伟达在AI基础设施领域的地位，体现了其在数据中心生态中的深度参与。
+  > 英伟达与数据中心开发商Cloverleaf建立合作伙伴关系。随着AI数据中心为英伟达带来大量收入，英伟达继续向数据中心开发进行投资，以满足不断增长的市场需求，实现产业生态链的完整布局。
 - [Nvidia just showed that the harness, not the AI model, is now the real hero](https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/) — 03:43
-  > 英伟达研究表明，通过微调，即使AI模型本身在某项任务上表现不佳，AI代理仍可以表现出色且保持稳定。这说明AI系统的"整体框架"比单纯的AI模型更为关键，框架设计的优化能够充分发挥AI的潜能。
-- [The DOJ is investigating a16z. What does this mean for venture capital?](https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/) — 22:00
-  > 美国司法部调查知名风投公司a16z涉嫌垄断。a16z的两位合伙人分别担任竞争公司Databricks和Fivetran的董事会成员，司法部已调查近一年。此案涉及一部112年前的反垄断法，该法对风投公司的适用极为罕见，可能对风投行业产生重大影响。
+  > 英伟达研究表明，AI智能体的表现好坏取决于微调技术，而非基础模型本身。通过精细调整，即使底层AI模型能力有限，也能让智能体表现出色且保持稳定。这说明优秀的"框架"比模型本身更为关键。
 - [Starcloud raises $250 million for orbital data centers as launch options dry up](https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/) — 22:00
-  > 太空轨道数据中心初创公司Starcloud融资2.5亿美元。该公司计划在地球轨道上建设数据中心，以满足日益增长的太空计算需求。随着火箭发射选项减少，获取太空发射资源成为关键瓶颈。Starcloud此轮融资将用于开发轨道基础设施技术，争夺有限的发射机会，抢占太空计算市场。
-- [AI data startup Micro1 reaches $500M gross run rate amid AI training boom](https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/) — 08:13
-  > AI数据初创公司Micro1在AI训练数据需求激增的带动下实现了5亿美元年化运营速度。这家公司及其竞争对手受益于AI模型训练数据的爆发式需求。随着企业加速AI部署，对高质量训练数据的需求不断增长，推动了数据标注和处理公司的快速扩张。
-- [OpenAI is gaining on Anthropic with business users, new data indicates](https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/) — 06:36
-  > OpenAI在商业用户中的势头超过Anthropic。根据新数据，企业用户会根据各公司发布新模型而频繁切换，显示出高度的不稳定性。这种波动应该引起两家公司投资者的担忧，说明企业人工智能支出的粘性可能并不如预期那样牢固。
-- [ChatGPT can now send texts for you with new Apple Messages plug-in](https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/) — 06:09
-  > ChatGPT推出Apple Messages新插件，可自动代用户发送短信。用户无需手动输入，ChatGPT将充当自动文字助手，帮助用户完成短信编写和发送。该功能让用户能够委托AI处理文本通讯任务，提高了消息往来的便利性。
-- [OK, can we actually cool data centers with our pee?](https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/) — 04:53
-  > 美国橄榄球运动员杰森·凯尔斯建议用人类尿液冷却数据中心而非饮用水。这个看似荒谬的建议实际上有一定可行性。数据中心耗水量巨大，寻找替代冷却方法是业界重要课题。利用可再生的人类排泄物冷却，既可节省宝贵的饮用水资源，又能解决环保问题，展现了创新思维的价值。
-- [Google gives publishers a new way to fight AI-driven traffic losses](https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/) — 03:18
-  > Google推出新功能，允许读者将特定出版商设为偏好来源，覆盖搜索、发现和谷歌新闻等平台。此举旨在帮助出版商应对AI搜索导致的流量下降。用户可通过新按钮标记喜爱的新闻源，从而增加该出版商内容在谷歌产品中的曝光率，缓解传统媒体因AI应用而面临的流量损失问题。
-- [Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders](https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/) — 03:15
-  > Runlayer与Rippling撤销诉讼，未涉及赔偿。Rippling随后发布竞争产品。两家公司的纠纷虽然以撤诉告终，但这场争议仍为创业者敲响警钟，提醒企业家在商业竞争中需谨慎行事，避免陷入法律纠纷。
-- [Linkdaze’s smart calendar is built to run a household, not just track a schedule](https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/) — 02:20
-  > Linkdaze推出智能数字日历，专为家庭管理设计，不仅追踪日程安排。其突出优势是主要功能无需付费，包括AI餐饮规划工具在内，为用户提供完整的家务管理解决方案。
-- [Grok keeps sending gibberish responses to users](https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/) — 01:32
-  > Grok AI助手出现故障，向用户发送乱码回复。使用Grok Lite服务的用户从周三早上开始就发现了这一问题，并向TechCrunch报告了该情况。目前尚不清楚故障原因和影响范围。
-- [A third of web pages published since ChatGPT launched were written by AI, study finds](https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/) — 01:18
-  > 一项研究发现，自ChatGPT推出以来，互联网上发布的网页中约有三分之一由AI生成。ChatGPT等AI模型现已广泛用于撰写和编辑新网页内容。这反映了AI在网络内容创作中的重要角色不断上升，改变了互联网生态。
-- [Ramp launches its own AI model router, called Router](https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/) — 00:46
-  > Ramp推出名为Router的AI模型路由服务，允许用户和企业通过API使用和切换各种大语言模型。该服务让客户能够灵活选择不同的AI模型，而无需被限制在单一平台，简化了多模型管理和切换流程。
-- [Meta brings Pocket, an app that lets you vibe-code and share games, to US users](https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/) — 00:07
-  > Meta宣布将Pocket应用程序引入美国用户。该应用是一个由AI驱动的实验性平台，允许用户通过"vibe-coding"方式创建和分享互动游戏，无需传统编程知识。Meta此前在巴西进行了低调测试。这一举措表明Meta在生成式AI和游戏创意工具领域的持续投资。
-- [Inertia Enterprises finds a way to make its fusion fuel fast](https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/) — 00:00
-  > 聚变能源初创公司惯性企业将燃料填充流程从一周缩短至几小时，大幅提高效率。这是该公司实现盈利发电厂必须克服的十大障碍之一。
-- [Meta AI&#8217;s new Mac app wants you to talk to your apps](https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/) — 20:11
-  > Meta AI推出新款Mac应用，用户可通过语音与应用交互。该应用的听写功能可跨所有应用使用，类似于Whisper Flow、Superwhisper和Monologue等工具。这使用户能够更便捷地与各类应用进行语音交互，提升使用体验。
+  > Starcloud融资2.5亿美元用于开发轨道数据中心。随着太空发射选项日益紧张，该公司致力于在太空轨道上部署数据中心设施，以满足日益增长的云计算和数据存储需求。这笔融资反映出太空商业化的加速发展和争夺太空资源的竞争日趋激烈。
+- [The DOJ is investigating a16z. What does this mean for venture capital?](https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/) — 22:00
+  > 美国司法部门正调查Andreessen Horowitz风险投资公司。a16z的两位合伙人分别在竞争公司Databricks和Fivetran的董事会任职，引发利益冲突问题。司法部门援引一项112年前的反垄断法调查此事已近一年。这起案件可能对风险投资行业的治理规范产生重要影响。
 
-## The Verge AI (6 篇)
+## The Verge AI (2 篇)
 
 - [Over 1 million people have clicked LinkedIn’s AI slop button](https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message) — 05:25
-  > LinkedIn于7月30日推出"看起来像AI垃圾"按钮，用户可从帖子菜单中访问。该公司产品负责人表示，超过100万人已使用该功能。这反映出用户对平台上充斥的AI生成内容的普遍关注，LinkedIn正在努力改善内容质量和用户体验。
+  > LinkedIn于7月30日推出"看起来像AI生成内容"举报按钮。据首席产品官哈里·斯里尼瓦桑透露，超过100万用户已点击该按钮。用户可通过帖子菜单的三点选项访问此功能，以标记他们认为由AI生成的内容，帮助平台改善内容质量。
 - [Major YouTube creators are facing backlash for accepting AI money](https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash) — 21:37
-  > 知名YouTuber创作者因接受AI平台资助而遭到批评。包括Matti Haapoja和Sam "Kold" Kolder在内的多位视频制作内容创作者发布视频展示AI平台Higgsfield的功能，宣传其为视频制作的未来。此举引发观众反感，质疑他们是否因金钱利益而推广AI技术。
-- [Google Discover is getting an AI chatbot-tuned feed](https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed) — 05:50
-  > Google Discover即将推出AI聊天机器人功能，用户可以通过描述偏好来定制信息流。该功能将在数天内在Google应用中推出，利用AI技术自动调整内容并记住用户偏好，方便后续访问。用户可在三点菜单中找到该选项。
-- [It’s Greg Brockman’s OpenAI now](https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion) — 23:45
-  > OpenAI经历了动荡的一年，与前联合创始人埃隆·马斯克进行了诉讼战，面临苹果公司的商业机密诉讼，以及因未发布模型黑客事件引发的广泛关注。在公司为首次公开募股做准备之际，Greg Brockman正成为稳定的领导力量。
-- [Welcome to the AI crisis in math](https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis) — 22:00
-  > 人工智能正在冲击数学领域，引发数学家的存在危机。OpenAI最近发布了一组解决数学中长期难题的方案，在学术界引起轰动。The Verge的伦敦AI记者Robert Hart讨论了AI对数学领域的影响及其带来的挑战。
-- [Slack is launching collaborative vibe-coding channels](https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch) — 20:00
-  > Slack推出Code协作功能，允许团队在专属频道与AI代理进行代码编写，无需在多个工具间切换。该功能包括开放的项目代码频道、用户标签页、代码变更对比和HTML输出预览等特性，帮助团队提高编码效率和协作体验。
+  > 多位知名YouTube视频创作者因接受AI公司赞助而遭到强烈反对。Matti Haapoja和Sam Kolder等创作者发布视频演示AI平台Higgsfield的功能，推介其最新的Seedance 2.5技术，声称这是视频制作的未来。这些赞助视频引发观众批评和不满。
