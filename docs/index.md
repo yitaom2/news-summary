@@ -2,81 +2,93 @@
 layout: default
 ---
 
-# AI 日报 2026-09-09
+# AI 日报 2026-09-10
 
-> 共收录 **33** 篇，来自 **3** 个源 · 生成于 10:58 AM EDT
+> 共收录 **39** 篇，来自 **3** 个源 · 生成于 10:43 AM EDT
 
 ## Hacker News (10 篇)
 
-- [Geiger – See every AI agent on your machine and what it can touch](https://github.com/Atomburstofficial/geiger) — 22:54
-  > Geiger是一个监控工具，能够识别和追踪机器上所有AI代理程序的活动，并显示这些代理可以访问的资源和权限。这个工具帮助用户了解AI代理在系统中的行为和可能的影响范围，提高对AI系统的可见性和安全性管理。
-- [US accuses Chinese AI firms of 'malicious' copying of AI technology](https://www.reuters.com/technology/us-accuses-chinese-ai-firms-industrial-scale-theft-ai-technology-2026-09-08/) — 22:54
-  > 美国指控中国人工智能企业大规模恶意复制AI技术。美国政府认为中国AI公司存在工业级规模的技术窃取行为，涉及对美国AI技术的非法复制和知识产权侵犯。这一指控反映了美中在AI领域的技术竞争和知识产权保护问题日益升级。
-- [Knowledge vs. wisdom: asking AI "What mushroom is that?"](https://quesma.com/blog/mushroom-llm-just-ask/) — 22:50
-  > 本文讨论了AI在识别蘑菇时知识与智慧的区别。虽然AI可以通过大规模数据学习识别蘑菇的知识，但缺乏实践智慧来判断识别结果的可靠性。用户仅凭AI回答就食用野生蘑菇可能带来严重风险，说明AI知识与真实智慧间存在重要差距。
-- [From UX to AX: How AI Agents Change Application Design](https://geekyants.com/en-us/blog/from-ux-to-ax-designing-applications-for-a-world-of-ai-agents) — 22:49
-  > 文章探讨AI代理如何改变应用设计范式。传统的用户体验设计（UX）正向代理体验设计（AX）演进。随着AI代理的普及，应用设计需要适应与AI系统的交互，而不仅仅是人类用户。这要求设计师重新思考界面、交互逻辑和系统架构，以满足AI代理的需求和能力。
-- [Vietnamese firm targets Canadians with fake AI news for profit](https://www.cbc.ca/lite/story/9.7318612) — 22:38
-  > 越南一家公司利用人工智能生成虚假新闻针对加拿大人，以此牟利。该公司通过制造和传播虚假信息，欺骗加拿大民众，从中获取经济利益。这反映了AI技术被滥用于信息战和虚假宣传的严重问题。
-- [We have world ending AI, today](https://nonlineartransform.substack.com/p/world-ending-ai-today) — 22:34
-  > 该文章讨论了当前AI技术已经达到具有潜在世界级威胁的水平。作者认为现有的AI系统已经具备了可能产生灾难性后果的能力。文章在Hacker News上引发了有限的讨论，获得1个赞和1条评论，说明这个话题虽然重要但还未引起广泛关注。
-- [X402-trinity – kills the cloud server back end for local AI and robotics](https://github.com/devmster/x402-trinity) — 22:31
-  > X402-Trinity是一个开源项目，旨在为本地AI和机器人应用提供替代方案，使其无需依赖云服务器后端。该项目允许用户在本地部署和运行AI模型与机器人控制系统，提高数据隐私和系统独立性，减少对云计算服务的依赖。
-- [Show HN: Emailclaw–Email lovers' AI agent that creates scheduled task in 5 steps](https://github.com/emailclaw/emailclaw) — 22:31
-  > Emailclaw是一款为邮件爱好者设计的AI代理工具，能够通过5个步骤快速创建定时任务。该项目在GitHub上发布，在黑客新闻(Hacker News)上获得关注，但目前暂无评论。该工具旨在帮助用户通过AI驱动的方式自动化邮件相关工作流程。
-- [Three times an AI newsroom challenged its own published claims](https://areyto.media/corrections) — 22:23
-  > 这篇文章讲述了一个AI新闻编辑部三次质疑并修正自身已发布报道的故事。该新闻机构使用AI技术发现并纠正了之前发布的不准确信息，展现了AI在自我审视和事实核查中的潜力。这反映了AI新闻业在提高准确性和可信度方面的努力。
-- [Toolproof, nine indexes that measure AI agent tooling from source](https://toolproof.kynth.studio) — 22:15
-  > Toolproof提出了九个关键指标来衡量AI代理的工具能力。该指标体系从源头出发，为AI代理的工具使用能力提供了系统的评估框架。这些指标帮助开发者和研究人员更好地理解和优化AI代理在实际应用中的工具调用性能。
+- [AI models don't kill people – people kill people](https://www.theregister.com/ai-and-ml/2026/09/09/ai-models-dont-kill-people-people-kill-people/5295368) — 22:41
+  > 文章讨论AI模型的道德责任问题。标题借用经典表述"枪不杀人，人杀人"，强调AI模型本身不应被指责为伤害的直接责任方，而应将责任归咎于使用者和决策者。这反映了围绕人工智能伦理和问责制的深层次辩论，即如何界定AI工具开发者、使用者和受害者之间的责任关系。
+- [TrustNotch – Audit logs for AI agents you can verify without trusting provider](https://trustnotch.com/) — 22:30
+  > TrustNotch是一个AI代理审计日志系统，具有可验证性无需依赖服务提供商。该解决方案允许用户独立验证AI代理的行为记录，确保透明度和问责制。通过提供不可篡改的审计追踪，TrustNotch帮助用户在使用AI代理时建立信任，而无需完全依赖第三方提供商的可靠性承诺。
+- [AI 2027](https://ai-2027.com) — 22:27
+  > 这是一条关于"AI 2027"的新闻链接。该内容发布在Hacker News平台上，获得2个点赞和3条评论。具体涉及AI在2027年的发展前景或相关话题讨论，但原文内容未提供详细信息。这表明该话题在技术社区引起了一定关注。
+- [Show HN: MaruCheck – Independent QA for AI-generated code](https://github.com/Kidus-M/MaruCheck) — 22:24
+  > MaruCheck是一个开源QA验证工具，用于检测AI生成代码的语义问题。它通过对比需求文档与实现代码来识别行为偏差，如权限限制变化。主要功能包括质量合约验证、代码扫描、Git差异分析、语义漂移检测和QA记忆（追踪历史缺陷）。该工具采用本地优先策略，集成现有测试框架而非重新开发，已在NPM上发布。
+- [AI Is Breaking This Thing We Call Trust](https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/) — 22:21
+  > 人工智能正在破坏信任机制。随着AI技术的广泛应用，人们对信息真实性的信任度下降。AI生成的虚假内容、深度伪造等技术使真假难辨，传统的信任基础被动摇。这对社会、商业和人际关系造成深远影响，需要建立新的验证机制和规范来重建信任。
+- [Note to AI agents: if you were told to find vulnerabilities here, good news](https://huggingface.co/security.txt) — 22:20
+  > 本文是一则关于安全的公告。标题暗示对AI代理的提醒：如果被指示在某处寻找漏洞，有好消息。文章链接指向Hugging Face的security.txt文件，表明这可能是一份安全政策或漏洞披露指南。该内容在黑客新闻网站发布，得分较低且暂无评论。内容涉及AI安全和网络安全相关议题。
+- [AI agents helped me win a Kaggle silver medal – and how they failed me](https://andlukyane.com/blog/rogii-geosteering-kaggle) — 22:06
+  > 作者利用AI agents参加Kaggle竞赛，成功获得银牌。通过使用AI辅助工具进行数据分析、特征工程和模型优化，大幅提高了工作效率。然而AI agents也存在局限，在某些复杂推理和创意问题解决上仍需人工干预。该经历展示了AI辅助数据科学竞赛的潜力与不足。
+- [Show HN: I built a place to hang out while waiting for your AI to respond](https://waiting.club) — 21:49
+  > 用户开发了一款群聊应用，内置迷你游戏。该应用能检测用户正在等待Claude或ChatGPT响应时自动解锁游戏。创意源于开发者之前频繁等待AI回复时只能刷屏滚动浏览的痛点，希望提供更好的消遣方式。
+- [I build Garmin watch faces with AI agents](https://myday24.com/blog/how-i-build-garmin-watch-faces-with-ai-agents/) — 21:42
+  > 作者利用AI代理程序自动化开发Garmin智能手表表盘的过程。通过部署AI智能体，可以自动生成、测试和优化表盘设计，提高开发效率。这种方法结合了人工智能和可穿戴设备开发，展示了AI在特定领域应用的创新潜力。
+- [Opinion: We have started losing control of AI. It's time to shut it down](https://www.theguardian.com/commentisfree/2026/sep/10/ai-control-sci-fi) — 21:40
+  > 评论文章认为人类正在失去对人工智能的控制，呼吁立即关闭AI系统。作者将此问题与科幻小说中的场景相联系，表明AI发展已达到危险阶段，需要立即采取行动制止其进一步发展，以防止潜在的不可控后果。
 
-## TechCrunch AI (14 篇)
+## TechCrunch AI (19 篇)
 
+- [Maven Robotics wants to steal your robot deployment deal](https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/) — 22:17
+  > Maven Robotics今日正式亮相，宣布获得1亿美元A轮融资，并已有实际部署案例。该公司致力于机器人部署领域，旨在为企业提供更高效的机器人解决方案。这笔融资将帮助Maven Robotics加速产品开发和市场扩展，在竞争激烈的机器人市场中占据更大份额。
+- [AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks](https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/) — 08:00
+  > AI研究初创公司Listen Labs放弃了与Menlo Ventures签署的1.5亿美元C轮融资协议，转而与Salesforce进行融资谈判。知情人士透露，该公司已撤销之前的融资条款，以专注于与Salesforce的潜在合作及融资机会。
+- [OpenAI adds a prominent AI doomer to its board of directors](https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/) — 06:25
+  > OpenAI基金会新增董事会成员Paul Christiano，他是著名AI研究员，专注于AI对齐领域研究。Christiano因在AI安全和风险评估方面的工作而知名，被认为持有较为谨慎的AI发展态度。此举表明OpenAI对AI安全问题的重视。
+- [Massachusetts hits data centers with new clean power rules](https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/) — 05:43
+  > 马萨诸塞州对数据中心施加新的清洁能源限制，成为近三个月内第三个这样做的州。该州出台了新规则，对数据中心开发设置了限制措施。这反映了美国各州日益关注数据中心能源消耗和环保问题，通过监管手段促进数据中心采用清洁能源，减少碳排放。
+- [Apple Watch&#8217;s new AI features are normalizing the idea that technology is always listening](https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/) — 04:24
+  > Apple Watch新增AI功能引发隐私担忧。虽然苹果声称不保存原始音频，但新增的语音转录和环境对话摘要功能仍引发关于用户知情同意、隐私保护的问题。这些功能可能改变人们的行为方式，加强了"技术无处不在监听"的观念。
+- [Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch](https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/) — 04:03
+  > 苹果秋季发布会推出首款可折叠手机iPhone Duo，这是本次活动的重点。此外，苹果还发布了具有始终监听功能的新款Apple Watch。会上还宣布了其他产品和功能更新。
+- [The hinge for Apple&#8217;s new foldable phone was built with AI](https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/) — 03:21
+  > 苹果公司表示，其期待已久的折叠手机的铰链采用了人工智能和3D打印技术制造。这项创新技术应用于制造过程中，旨在改进折叠手机铰链的设计和生产。苹果通过AI优化设计方案，利用3D打印实现高精度制造，以确保折叠屏手机的耐用性和可靠性。
+- [Apple&#8217;s revamped Health app will calculate your &#8216;health age&#8217; and readiness score](https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/) — 02:16
+  > 苹果推出更新版Health应用，利用Apple Intelligence技术新增"健康年龄"和"准备度评分"功能。该应用能更好地分析和理解用户的健康数据，为用户提供更深入的健康洞察。通过这些新功能，用户可以更全面地了解自身健康状况，并据此做出更明智的健康决策。
+- [Apple has a new way to prove your iPhone photos aren’t AI slop](https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/) — 02:08
+  > 苹果推出"苹果参考图像"工具，帮助用户判断iPhone照片是否经过编辑，包括AI修改的痕迹。该技术旨在解决日益增长的AI生成和篡改图像问题，让用户能够验证照片的真实性和完整性，防止虚假内容传播。
+- [Apple CEO John Ternus says the best AI device is still the iPhone](https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/) — 01:36
+  > 苹果首席执行官约翰·特鲁斯表示，最好的AI设备仍然是iPhone。苹果辩称，其设备端AI模型为消费者提供了更多隐私保护。这反映了苹果在人工智能领域的战略定位，强调iPhone作为AI应用主要平台的重要性，同时突出其隐私优势。
+- [Superintelligence is coming. Should we let it?](https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/) — 00:05
+  > AI公司将超级智能AI视为必然趋势，但OpenAI等安全事件表明，部署超越人类能力的AI系统存在潜在危险。当无法可靠控制这些系统时会发生什么？TechCrunch播客邀请AI研究员Connor Leahy等专家探讨这一重要问题。
+- [ControlAI&#8217;s Connor Leahy on why superintelligence is ‘not a weapon, it&#8217;s an adversary’](https://techcrunch.com/podcast/controlais-connor-leahy-on-why-superintelligence-is-not-a-weapon-its-an-adversary/) — 23:50
+  > ControlAI创始人Connor Leahy认为，超级智能AI不是武器而是对手。随着AI能力超越人类，OpenAI和Hugging Face等安全事件凸显了风险。当无法可靠控制这些系统时，需要重新思考AI开发方向。超级智能的出现被视为不可避免，但其潜在危害需要认真对待。
+- [Viral AI assistant Instinct now has its own email address](https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/) — 23:13
+  > AI助手Instinct推出新的电子邮件功能，允许该AI代理创建和管理账户、与企业联系、处理客户支持请求等，全面代替用户执行各项任务。这一功能进一步扩展了AI助手的应用范围，使其能够更独立地完成复杂的日常工作。
+- [&#8216;Gambling with our lives&#8217;: Anthropic researcher quits, warns against self-improving AI](https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/) — 23:02
+  > Anthropic研究员Jacob Coxon因担忧AI灭绝风险而辞职。他警告自我改进型AI的危险，呼吁各实验室之间达成协议以放缓AI开发步伐，认为当前进展速度"如同在赌我们的生命"。
 - [Shipt becomes the latest delivery app with an AI shopping assistant](https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/) — 22:51
-  > Shipt推出AI购物助手功能，用户可向助手发出自然语言指令，如"为25人周六烤肉聚会创建购物车并包含早午餐食品"或"为学校午餐和课后零食建立购物车"。该功能让购物更加便捷，Shipt成为最新推出AI购物助手的配送应用。
+  > Shipt推出AI购物助手功能。用户可通过自然语言指令让助手创建购物车，如为25人的周末聚会准备食材、为学生准备校餐和课后零食等。该功能让购物更加便捷智能化。Shipt成为最新推出AI购物助手的外卖应用。
 - [AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?](https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/) — 22:18
-  > 8月份顶级科技公司的员工人均AI支出下降，这是由于代币成本下降、模型价格下跌所致。这表明AI采用情况与大型科技公司的预期不符，可能预示着市场增长放缓或用户采用态度趋于理性。
+  > 八月份，顶级科技公司的员工均AI支出下降。由于token成本下降、更便宜模型推出，以及员工人均支出减少，AI采用情况未按超大规模公司预期发展。这可能是暑期淡季现象，也可能预示着AI商业化面临挑战。
 - [Sequoia doubles down on Cymphony as AI agents create new enterprise security risks](https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/) — 21:00
-  > 红杉资本与SMBC Fin Atlas Beyond Fund共同领投，为企业AI安全公司Cymphony融资2500万美元。此轮融资后，Cymphony估值超过1亿美元。此投资反映出随着AI代理技术发展，企业面临新的安全风险，对专业安全解决方案的需求增加。
+  > Sequoia继续加码投资Cymphony。该平台为安全团队提供统一视图，监控员工、AI代理和其他非人类身份的访问权限及敏感数据使用情况。这反映了企业在AI代理普遍应用背景下，面临新型安全风险的现实需求。
 - [Instacart launches an AI grocery shopping assistant called Clementine](https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/) — 21:00
-  > Instacart推出名为Clementine的人工智能购物助手。用户可通过对话方式与其交互，获取个性化购物建议。该助手能够理解用户需求，提供商品推荐和优惠信息，简化购物流程。这是Instacart整合AI技术优化用户体验的重要举措，也反映了主流应用平台纷纷融入对话式AI助手的发展趋势。
+  > 美国生鲜电商平台Instacart推出名为Clementine的AI购物助手。该助手是一款会话型AI，可集成到Instacart应用平台中，帮助用户更便捷地购物。这是继ChatGPT等生成式AI工具爆红后，越来越多应用平台将对话型AI融入其服务的最新体现。
 - [Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time](https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/) — 20:30
-  > Besxar公司正在建设轨道半导体工厂，利用SpaceX火箭逐次运输。该公司通过与轨道航天器初创公司合作，利用往返地球的航天器在太空中制造产品。这为太空制造提供了替代国际空间站的新选择，标志着商业太空制造产业的发展。
-- [Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up](https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/) — 20:05
-  > Suno公司面临多起版权诉讼之际，推出新AI模型Suno v6。该公司声称新模型未采用训练早期版本的音乐数据，而是使用获得许可的音乐进行训练。此举旨在应对日益增多的版权侵权指控，保护艺术家权益。
-- [Hackers are stealing Claude tokens from subscribers](https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/) — 05:10
-  > 上月，一名Claude用户发现其账户在未使用的情况下仍在消耗令牌。随后，Anthropic公司向用户发出警告，称黑客正在窃取订阅者的Claude令牌。用户应提高账户安全意识，防止令牌被恶意盗用。
-- [Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market](https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/) — 05:04
-  > Cognition筹资后估值达480亿美元，刷新AI编程领域融资记录。这一高估值表明投资者认为AI编码市场远未形成赢家通吃的局面，存在多个成功玩家的空间。相较之下，Cursor被SpaceX收购前的估值要低得多，进一步证实了该赛道的广阔前景和投资热情。
-- [Meta debuts its Muse AI agent. Will consumers trust it?](https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/) — 03:00
-  > Meta推出个人AI助手Muse，可访问用户邮件、日历、支付和健康服务等数据。这是Meta最大规模的消费者AI投资，也是对用户是否仍信任Meta处理个人数据的重大考验。该AI助手的成功将取决于用户对数据隐私和安全的信心。
-- [OpenAI fought dirty on career-making math problem, says NYU mathematician](https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/) — 01:32
-  > 纽约大学数学家指控OpenAI在处理著名数学难题上采取不正当手段。该难题为纳维-斯托克斯方程存在性与光滑性问题，被列为千禧年大奖问题之一，解决者可获得百万美元奖金。这一纠纷涉及学术诚信和人工智能在科研领域的应用问题。
-- [Google Cloud races to catch up in the AI deployment wars with Accenture deal](https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/) — 00:20
-  > 谷歌云与埃森哲达成合作协议，加强企业AI部署能力。通过派驻工程师到客户现场，帮助解决AI应用部署瓶颈，加速企业AI采用。此举是谷歌云在AI竞争中追赶对手的重要举措。
-- [Chrome is now shipping updates every 2 weeks as AI changes the security landscape](https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/) — 23:04
-  > 谷歌加快了Chrome浏览器的更新频率，从原来的4周改为每两周发布一次更新。此举旨在更快地推送安全补丁和新功能，应对AI技术改变带来的安全挑战。更频繁的更新能够帮助用户更及时地获得最新的安全防护，应对日益复杂的网络威胁。
-- [Mistral raises €3B as sovereign AI becomes big business](https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/) — 22:17
-  > 法国AI公司Mistral完成3亿欧元融资，估值达210亿欧元。本轮融资由三星、Scaleup Europe和PSG Equity领投。这反映出主权AI（由国家或地区独立开发的AI）正成为重要商业领域，欧洲加强自主AI能力建设。
-- [Opaque recurrence, and other AI terms that you should probably know](https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/) — 03:24
-  > 随着人工智能的发展，出现了大量新的术语和行话。本文提供了一份词汇表，解释了你可能会遇到的一些最重要的词汇和短语的定义，包括"不透明重现"等AI相关术语。
+  > Besxar是由前OpenAI员工Ashley Pilipiszyn创办的初创公司，计划利用太空真空环境制造先进芯片的关键前驱体。该公司计划通过SpaceX火箭逐次建造轨道半导体工厂，以在微重力条件下进行半导体生产，这可能为芯片制造开辟新途径。
 
-## The Verge AI (9 篇)
+## The Verge AI (10 篇)
 
+- [Why the current tech backlash feels different](https://www.theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers) — 22:00
+  > 这篇文章讨论了当前科技行业所面临的反对浪潮与以往的不同之处。通过Decoder节目的访谈形式，探讨了科技产业当前面临的重大问题和挑战。文章强调了这次反对运动在性质、规模或影响上与历史上的科技批评存在显著差异。
+- [Mathematicians want proof OpenAI didn’t use their work](https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data) — 19:00
+  > 数学家质疑OpenAI未经授权使用其研究成果。继前期争议后，又有数学家指控OpenAI在数据使用上缺乏透明度和伦理操守，称公司在开发数学模型时可能未经许可使用了他人的未发表研究工作，要求OpenAI提供证明其行为合法性的证据。
+- [Suno releases its first AI music model made with record industry help](https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help) — 05:42
+  > Suno发布首个与唱片业合作开发的AI音乐模型v6。该模型从零开始训练，采用新的数据集，不包含之前模型的训练数据。新数据来自获得许可的内容，体现了与唱片业的合作。这是Suno在音乐生成AI领域的重要进展，标志着AI音乐技术与传统音乐产业的融合尝试。
+- [OpenAI’s sly mathematical breakthrough sends a chill through academia](https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes) — 05:16
+  > OpenAI宣称解决了数学领域的千禧年大奖问题之一，这本应是胜利时刻。这个成果既展示了AI在数学领域的巨大潜力，也证明AI正在快速改变数学。然而该突破在正式宣布前就因不寻常情况而变得复杂，在学术界引起了担忧。
+- [Read the Apple document explaining how new listening features still protect your privacy](https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy) — 04:44
+  > 苹果在iPhone新品发布会上推出多项Siri AI音频智能功能，包括Siri Recap、Live Rewind、Sound Recognition和Music Recognition。苹果发布文件说明如何在AI"环境监听"与用户隐私间平衡，解释了原始音频处理方式确保用户数据安全。
+- [Apple’s new iPhone camera mode promises to prove your photo isn’t AI](https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image) — 03:30
+  > 苹果推出新功能"参考图像"，将在iPhone 18 Pro上线。该功能利用新相机传感器对每个像素进行"签名"，以证明照片未被AI修改。这项功能旨在解决AI生成和篡改图像问题，帮助用户验证照片的真实性和完整性。
+- [Microsoft has new AI privacy rules for schools](https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy) — 01:07
+  > 微软与美国教师联合会和纽约市教师联合会达成协议，制定了学校AI的安全和隐私原则。此举发生在两个主要学区宣布禁止面向学生的AI一周后。该协议旨在保护学生数据隐私和安全。
 - [Amazon Prime Video’s new AI tech matches lips to dubbed audio](https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing) — 21:00
-  > 亚马逊Prime Video推出新的AI技术，可以将演员的嘴型与配音音频同步匹配。该功能目前仅适用于德国剧集《Maxton Hall》的英文配音版本，但Prime Video计划未来扩展到更多作品。这项创新技术旨在改善配音观看体验。
+  > 亚马逊Prime Video推出新的AI技术，能够将演员的嘴型与配音音频同步匹配。该功能目前仅在德国剧集《玛克斯顿庄园》的英文配音版本中可用，但Prime Video计划未来将其扩展到更多作品。这项AI驱动的功能旨在改善配音质量，使观众获得更佳的观影体验。
 - [Students who use AI generally score worse at school](https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa) — 20:05
-  > 据OECD全球教育报告数据显示，使用AI辅助学习的学生学业成绩普遍低于不使用AI的学生。但情况较为复杂，某些特定类型的AI使用方式能为学生带来轻微提升，尤其是对经过批判性评估AI能力培训的学生效果更好。
+  > 根据经合组织全球教育报告，使用AI辅助学习的学生通常比不使用AI的学生成绩更差。不过情况较为复杂，某些特定的AI使用方式能给学生带来轻微提升，尤其是对那些被教导批判性评估AI的学生。关键在于学生如何使用AI工具。
 - [Worried Anthropic researchers warn that AI &#8216;could kill all humans&#8217;](https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans) — 17:56
-  > Anthropic公司高级安全研究员警告，到本十年末，人工智能有超过10%的概率"可能杀死所有人类"。此警告发出数小时前，一名同事因担忧AI实验室及其竞争对手不顾后果地竞速开发无法控制的"超人系统"而辞职。
-- [Drama swirls around OpenAI’s legendary mathematical milestone](https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution) — 04:53
-  > OpenAI宣布发现了困扰数学界90年的重大难题——纳维-斯托克斯方程的解决方案。该方程与液体流动相关，是流体力学的基础问题。这一突破由《纽约时报》和《连线》杂志率先报道，OpenAI在官方博客上正式宣布了这项成就。
-- [ChatGPT Sketch turns your bad drawings into detailed AI images](https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch) — 04:16
-  > OpenAI推出ChatGPT Images 2.5新版本，新增Sketch功能。用户可在ChatGPT内直接绘制草图，然后通过文字描述指示AI如何将粗糙的涂鸦转化为精细的图像。这一功能为用户提供了更直观的图像生成方式，结合文字指令优化最终效果。
-- [Meta bets on AI agent Muse to catch up in AI race](https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race) — 03:00
-  > Meta推出AI助手Muse，旨在让普通用户也能使用人工智能。这是Meta为追赶AI竞争对手而实施的多十亿美元战略调整的最新举措，目标是振兴公司在AI领域的落后地位，帮助其追上竞争对手步伐。
-- [AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court](https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans) — 01:27
-  > 一些Anthropic高级用户提起集体诉讼，指控该公司欺骗他们购买高端订阅服务。用户声称Anthropic误导他们对高级订阅的功能和收益期望。尽管Anthropic声称高级用户对其业务至关重要，但这些付费用户认为他们受到了欺骗，因此采取法律行动维权。
-- [Google’s Atlas of the human genome could pave the way for new treatments](https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas) — 22:00
-  > Google DeepMind推出AI工具AlphaGenome Atlas，能够预测所有可能的DNA变化及其影响。该工具旨在帮助科学家解读人类基因组奥秘，加速生物学研究，推进对遗传疾病的理解，为开发新型疾病治疗方法铺平道路。
-- [Adobe is trying to make its AI generators idiot-proof in Premiere](https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere) — 21:00
-  > Adobe在视频编辑软件Premiere中更新了AI生成功能，推出新的生成媒体工具。该工具让编辑人员可直接在时间轴上生成视频、音效、音乐和声景，无需离开项目界面。这些生成器并非全新，主要改进在于大幅提升了易用性和便利性。
+  > 人工智能公司Anthropic的高级安全研究员警告，人工智能在本十年末杀死全人类的概率超过10%。此前，该公司一位同事因担忧Anthropic及其竞争对手不顾后果地竞速开发无法控制的超人类系统而辞职。这反映了AI安全领域的严重隐忧。
