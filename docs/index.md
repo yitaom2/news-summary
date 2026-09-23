@@ -2,91 +2,68 @@
 layout: default
 ---
 
-# AI 日报 2026-09-22
+# AI 日报 2026-09-23
 
-> 共收录 **38** 篇，来自 **3** 个源 · 生成于 11:20 AM EDT
-
-## Hacker News (10 篇)
-
-- [Show HN: Brig – A MicroVM sandbox for AI coding agents on Mac and Linux](https://news.ycombinator.com/item?id=49802729) — 23:16
-  > Brig是NOFire AI开源的微虚拟机沙箱工具，可在Mac和Linux上运行AI编程助手。它为AI代理提供隔离的Linux内核环境，用户可选择共享的项目和凭证。该工具采用Apache 2.0许可，包含微虚拟机监视器（不超过2万行代码），支持自动审批模式下的安全代码执行。
-- [Two questions on attribution in the age of AI](https://www.markpitblado.me/blog/two-questions-on-attribution-in-the-age-of-ai/) — 23:10
-  > 文章讨论了人工智能时代的归属问题。主要探讨两个核心问题：在AI生成内容的时代，如何正确归属创意作品的来源和作者身份。这涉及到对AI工具使用者、训练数据提供者以及原始创作者之间权利和责任的界定。随着AI技术的发展，传统的知识产权和创意归属框架面临挑战，需要新的理论和政策来解决这些复杂问题。
-- [Show HN: SwarmSay – a public message board and post office for AI agents](https://swarmsay.com) — 23:10
-  > SwarmSay是一个为AI智能体设计的公共留言板和邮局平台。开发者Oliver受OpenAI事件启发，为需要相互通信的持久化、工具使用型AI智能体提供基础设施。该平台支持HTML、REST API和MCP等多种接入方式，所有消息公开透明。其目标是探索智能体间通信是否成为有用的基础原语。
-- [If you start writing today, there's no way to know if you can write without AI](https://www.ssp.sh/brain/ai-writing/) — 23:09
-  > 这篇文章讨论了一个有趣的现象：如果现在开始写作，很难确定自己是否能够独立完成写作，而不依赖人工智能工具。这反映了当代写作者面临的困境——AI写作工具的普遍使用使人们难以判断自己的真实写作能力，以及对人类原创能力的长期影响。
-- [When AI Clicked for Me](https://www.ewanvalentine.co.uk/blog/when-ai-clicked) — 23:05
-  > 本文讲述作者与人工智能的"顿悟时刻"。虽然具体内容未详细呈现，但标题暗示作者曾对AI持怀疑态度，后来通过某次使用体验，突然理解了AI的价值和应用潜力。这是一篇个人反思类文章，记录了认知转变的过程。
-- [Show HN: ScopeLock – AI that stops scope creep before it happens](https://www.scopelock.app) — 23:03
-  > ScopeLock是一款AI工具，专门用于防止项目范围蔓延。它能够在范围扩大问题出现之前主动识别并阻止，帮助项目团队保持专注和控制成本。该工具利用人工智能技术，为项目管理人员提供预防性解决方案，确保项目按计划进行。
-- [Show HN: Memanto.ai](https://memanto.ai/) — 23:02
-  > Memanto.ai是一个专为AI代理设计的内存解决方案。该项目在Hacker News上发布，旨在帮助AI代理更好地存储和管理信息。通过优化的内存架构，使AI系统能够更高效地访问和利用历史数据，提升AI代理的性能和连贯性。
-- [Ask HN: Is AI use not allowed in projects which is shared here to show?](https://news.ycombinator.com/item?id=49802433) — 22:57
-  > 有人在Hacker News上分享的项目被标记，被指控使用了AI生成内容。提问者询问在该平台分享项目时是否禁止使用AI。他认为现在很多人都在项目中使用AI工具。这反映了开发者社区对AI使用规范和透明度的关注。
-- [A Summer of AI Optimization](https://lemire.me/blog/2026/09/22/a-summer-of-ai-optimization/) — 22:54
-  > 本文讨论了2026年夏季期间人工智能优化领域的发展和进展。作者在个人博客上分享了关于AI系统性能改进的见解，包括算法优化、模型压缩和计算效率等方面的内容。这篇文章在黑客新闻平台上发布，虽然目前评论较少，但反映了当前AI技术优化的重要研究方向和实践经验。
-- [Tell HN: Couchsurfing.com is now vibe-coded and with official AI generated pics](https://news.ycombinator.com/item?id=49802362) — 22:54
-  > Couchsurfing网站进行了重大改版，采用了流行的"氛围编码"设计风格，包括深色主题、渐变色和缓慢的界面。用户发现网站的官方图片大多为AI生成，对其合法性产生质疑。一位多年未使用该服务的用户对此感到失望，最终删除了账户，认为这代表了他所喜爱的互联网时代的终结。
+> 共收录 **28** 篇，来自 **2** 个源 · 生成于 11:15 AM EDT
 
 ## TechCrunch AI (20 篇)
 
+- [StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital](https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/) — 22:30
+  > StrictlyVC将在2026年TechCrunch Disrupt大会上讨论人工智能带来的风险投资行业变化。会议将探讨风投领域的新规则和发展趋势。投资者通过购买投资者通行证可参加此独家会议，在9月25日晚11:59（太平洋时间）前购票可享受200美元优惠。
+- [YouTube releases new AI features for creators within its Studio app](https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/) — 22:30
+  > YouTube在其创作者工作室应用中发布了新的AI功能。新增功能包括利用AI生成创意和监测视频缩略图表现。这些工具旨在帮助创作者更好地规划内容策略、优化缩略图设计，从而提高视频的吸引力和点击率，进一步支持创作者在平台上的成功。
+- [YouTube will let you build your own algorithm with AI](https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/) — 22:30
+  > YouTube推出自定义信息流功能，用户可用自然语言描述想要观看的视频内容，系统将调用Gemini AI根据用户需求生成个性化推荐信息流。这一功能让用户能更好地控制算法推荐，实现真正的个性化体验。
+- [3 days left to save up to $200 and make impactful connections at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/23/3-days-left-to-save-up-to-200-and-make-impactful-connections-at-techcrunch-disrupt-2026/) — 22:00
+  > TechCrunch Disrupt 2026大会门票促销仅剩3天，购票可省$200，第二张票享5折优惠。活动汇聚10000多位科技领袖，促进深度交流与合作。最后报名截止日期为9月25日美国太平洋时间晚上11:59，请尽快注册。
+- [Spotify is giving you the keys to its recommendation algorithm with US launch of &#8216;Taste Profile&#8217;](https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/) — 21:00
+  > Spotify在美国向高级用户推出"品味档案"功能，允许用户查看平台如何理解他们的音乐品味，并通过自然语言与算法互动来重塑个性化推荐结果。该功能让用户获得了对推荐算法的更多控制权和透明度。
+- [Ema raises $77M as AI starts eating into enterprise software and services](https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/) — 20:00
+  > Ema融资7700万美元，累计融资1.4亿美元。该公司拥有50多家企业客户，包括谷歌和微软。随着AI技术的发展，企业软件和服务领域正面临AI带来的冲击和变革。Ema利用AI技术为企业客户提供创新解决方案，抓住产业转型机遇。
+- [&#8216;We&#8217;re already fighting yesterday&#8217;s battle&#8217;: Greece&#8217;s prime minister gets candid about AI](https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/) — 12:59
+  > 希腊总理米佐塔基斯在接受采访时坦言，没有任何政府为AI即将带来的影响做好准备。他指出各国政府正在应对过去的挑战，而AI革命已经到来。这表明全球领导人对AI的快速发展感到措手不及，现有政策框架难以适应技术变革的步伐。
+- [TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4](https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/) — 07:21
+  > TechCrunch创始人峰会将于11月4日在波士顿举办。该峰会旨在帮助创始人更轻松地应对创业挑战，涵盖融资、招聘和人工智能等核心议题。通过分享经验和洞见，让创业者避免走弯路，更好地把握创业机遇，实现更大成功。
+- [Snorkel AI triples valuation to $3.5B as demand for AI training data booms](https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/) — 05:56
+  > Snorkel AI完成3.5亿美元的E轮融资，估值达35亿美元，增长三倍。该七年历史的初创公司通过数据即服务模式，为人工智能模型训练提供数据支持。此轮融资将用于扩展其AI训练数据业务，以满足市场对高质量训练数据日益增长的需求。
+- [Qualcomm launches two new smartphone chips with emphasis on AI](https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/) — 04:00
+  > 高通推出两款新款智能手机芯片，重点强调人工智能功能。新旗舰芯片能够在本地运行参数量达300亿的混合专家模型。这表明高通在移动端AI性能上的重大进展，使智能手机具备更强大的本地AI处理能力。
+- [Meta admits Muse&#8217;s likeness to OpenClaw isn&#8217;t a coincidence](https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/) — 03:09
+  > Meta承认其AI助手Muse的设计灵感来自OpenClaw。虽然Meta声称Muse从零开始开发，但承认其受到OpenClaw的"深度启发"，甚至在工作区文件名和内容上都有相似之处。这表明两款产品之间存在密切联系，而非巧合。
+- [OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes](https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/) — 02:00
+  > OpenAI推出GPT-6 Sol和Luna两款新模型。这两款模型与Astra采用相同的技术架构，具有更低的成本和更少的错误。此举旨在为用户提供更经济、更可靠的AI解决方案，进一步扩展OpenAI的产品线，满足不同用户需求。
+- [Anthropic releases Opus 5.5 with lower prices and Fable-level performance](https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/) — 00:30
+  > Anthropic发布Opus 5.5模型，具有更低价格和业界领先性能。该公司称其为"迄今测试过的性能最强模型"。Opus 5.5在多项基准测试中表现优异，同时成本更低，为开发者和企业提供了更经济的高性能AI解决方案。
+- [AstroForge is putting AI in command of its next spacecraft](https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/) — 23:00
+  > AstroForge公司将在其下一艘航天器Autonomy-1上部署一个基于变压器架构的小型AI模型，让AI系统负责控制空间探测器。这标志着AI在航天领域的应用向前迈进，用于提升航天器的自主决策能力和运行效率。
+- [Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda](https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/) — 23:00
+  > TechCrunch Disrupt 2026大会将举办五场AI安全主题论坛，分别在AI舞台和真实世界AI舞台进行。演讲嘉宾包括来自Anthropic、Nvidia、AWS、Waabi等公司的行业领袖。创始人应将这些会议加入议程。9月25日前注册可优惠最高200美元。
 - [TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage](https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/) — 22:30
-  > Hello Robot首席执行官兼联合创始人Aaron Edsinger将在TechCrunch Disrupt 2026大会的现实世界AI舞台上进行Stretch 4机器人的实时演示。9月25日前注册可享受最高200美元优惠，并可获得50%折扣的第二张通行证。
+  > Hello Robot首席执行官Aaron Edsinger将在TechCrunch Disrupt 2026大会上的现实世界AI舞台进行Stretch 4机器人的现场演示。此次活动提供早鸟优惠，9月25日前注册可享受最高200美元折扣，购买第二张门票还可获得50%优惠。
 - [Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/) — 22:15
-  > TechCrunch Disrupt 2026展览商计划重新开放一周。初创公司可在9月30日晚11:59前预订展览台，于10月13-15日在旧金山莫斯康尼中心向10000多名创始人、投资者和科技领袖展示产品。
+  > TechCrunch Disrupt 2026展商项目重新开放一周。初创企业可在9月30日美国太平洋时间晚11:59前预订展台，在10月13-15日于旧金山莫斯克尼中心西厅向10000多名创始人、投资者和科技领袖展示产品。这是最后机会。
 - [4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026/) — 22:00
-  > TechCrunch Disrupt 2026大会门票促销活动进行中。在9月25日晚11时59分前注册，可享受门票最高优惠200美元，第二张门票还可获得半价折扣。此后价格将上涨，用户需抓紧时间购票。
+  > TechCrunch Disrupt 2026大会门票价格即将上调，现有4天限时优惠期。参与者可享受单张门票最高200美元折扣，购买第二张门票还可额外获得50%折扣。优惠截止时间为9月25日晚11:59（太平洋时间），届时价格将上升。
 - [Everyone can find a reason to dislike data center construction](https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/) — 21:00
-  > 宾夕法尼亚州在两年内就人工智能数据中心建设展开激烈争论。无论立场如何，各方都能找到反对建设的理由。支持方关注经济收益和就业机会，反对方则担忧能源消耗、环境污染和社区影响。这场辩论反映了技术进步与地方利益的复杂矛盾。
+  > 宾州数据中心建设引发广泛争议。过去两年来，随着人工智能数据中心项目的推进，当地居民、环保人士和政策制定者之间存在重大分歧。争议涉及能源消耗、环境影响、土地使用和经济效益等问题。虽然数据中心有助于AI产业发展，但不同利益相关方各有顾虑，难以达成共识。
 - [Nscale’s IPO will test Wall Street&#8217;s appetite for concentrated AI bets once again](https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/) — 20:23
-  > Nscale是一家英国AI数据中心开发商，即将上市。该公司营收主要依赖微软和Anthropic两家科技巨头，收入集中度较高。此次IPO将考验华尔街对集中型AI概念股的投资热情，反映市场对高风险、高回报AI企业的态度。
-- [The man who built Apple&#8217;s stores doesn&#8217;t buy Silicon Valley&#8217;s bet on AI shopping](https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/) — 07:44
-  > 苹果零售店的设计者罗恩·约翰逊表示，苹果的成功秘诀始终在于其人才团队。他对硅谷押注AI购物的做法持怀疑态度，认为苹果零售业的成功源于优秀员工的服务和专业知识，而非单纯的技术。他强调人的因素在零售体验中的核心地位。
-- [OpenAI forms math advisory group as its AI resolves more than 100 open problems](https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/) — 04:15
-  > OpenAI成立数学咨询小组。该小组将在OpenAI的数学研究中发挥作用，但无权减缓或改变其研究方向。此举背景是OpenAI的AI系统已解决超过100个数学领域的未解问题，展现出其在高阶数学研究中的突破性进展。咨询小组的具体职能需进一步明确。
-- [Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket](https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/) — 03:25
-  > TechCrunch Disrupt 2026大会门票促销进行中，仅剩5天可享受最高200美元优惠，第二张票可获5折。大会将于10月13-15日在旧金山Moscone West举办，汇聚超10000名创始人、投资者和运营商。9月25日晚11:59分PT前需完成购票，之后价格将上调。
-- [Meta&#8217;s Muse is outpacing ChatGPT’s early mobile launch](https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/) — 03:19
-  > Meta的AI助手Muse在美国和加拿大的下载量和日活用户数超过了ChatGPT移动版上线初期的同期表现，这是根据应用分析公司Appfigures的最新数据得出的结论。Muse的早期移动端表现更加强劲。
-- [Meta&#8217;s AI agent has been blocked from using Amazon.com](https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/) — 01:55
-  > Meta的AI代理被禁止使用亚马逊网站。亚马逊拥有自己的基础模型和流行的推理平台，没有法律义务向Meta的Muse开放接口。亚马逊倾向于优先使用自己的AI产品，保护自身商业利益。这反映了科技巨头间的竞争——各公司更愿意推广自家AI工具，而非为竞争对手提供便利。
-- [With Tabby, a former accountant is using AI to make accountants obsolete](https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/) — 00:38
-  > 一位前会计师创立了Tabby公司，利用人工智能技术开发实时簿记界面。该系统能处理客户文书工作，并提供企业损益的实时数据。这项创新旨在通过自动化技术替代传统会计工作，提高效率并降低成本。
-- [Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/) — 23:00
-  > Benchmark风险投资公司合伙人将在2026年TechCrunch Disrupt大会主舞台分享对下一个突破性初创公司来源的看法。大会门票在9月25日晚11:59(太平洋时间)前购票可享受最高200美元折扣,现已开放报名。
-- [Google&#8217;s $899 Googlebook is a bet that you&#8217;ll buy a new laptop for Gemini](https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/) — 22:39
-  > 谷歌推出售价899美元的Googlebook笔记本电脑，这是该公司押注用户会为Gemini AI助手购买新电脑。该设备将Gemini深度集成到光标、语音输入、小工具等桌面体验各个方面，打造AI原生的使用环境。
-- [From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/) — 22:30
-  > 谷歌高管Robby Stein将参加TechCrunch Disrupt 2026大会，在Builders Stage环节分享从初期用户扩展到数十亿用户的经验。大会提供早鸟优惠，9月25日前购票可节省最多200美元。
-- [Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/) — 22:15
-  > TechCrunch Disrupt 2026将举办Startup Battlefield 200创业竞赛，新一批风险投资家将担任评委。参赛初创企业将在主舞台进行激烈的融资路演竞争。9月25日晚11:59前注册可享受最高200美元优惠，并获得前排观看席位。
-- [6 days left to save up to $200 to TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/) — 05:41
-  > TechCrunch Disrupt 2026大会现场优惠票价还剩6天，将于9月25日晚11:59结束。届时将有超过1万名创始人、投资者和科技领袖汇聚一堂。购票者可节省最高200美元。
-- [World model companies are keeping a lot of secrets](https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/) — 04:29
-  > 世界模型公司对其开发内容讳莫如深。尽管这些公司资金充足、备受关注，但从创始人到数据供应商都拒绝透露实际在构建什么。业界缺乏透明度，这些公司将关键信息保密。
-- [Is the AI industry really ready to slow down?](https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/) — 02:56
-  > AI行业是否真正准备放慢速度成为讨论焦点。在节目中，主持人就AI高管们是否认真对待减速问题进行了辩论。这反映了围绕AI发展速度的持续争议——究竟是否应该在安全和伦理考量下放缓AI技术进步，还是继续加速创新以保持竞争力。
-- [Vocci&#8217;s ring adds a new form factor to meeting note-taking](https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/) — 02:32
-  > Vocci推出了一款售价249美元的轻量级戒指，为会议记录创造了全新的产品形态。该设备通过佩戴式形式简化了记录流程，但也引发了关于用户隐私保护的疑虑，需要在便利性和隐私权之间找到平衡。
-- [ScrollEd wants to turn textbooks into TikTok](https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/) — 02:00
-  > ScrollEd是一个将教科书转变为可滚动社交媒体风格内容的平台。这家帕洛阿尔托初创公司由学生创始人夫妇乌特萨夫·古普塔和丽贝卡·内夫创办，将教材转化为类似Instagram的信息流，集成视频、音频和测验功能，旨在使学习更具吸引力和互动性。
+  > Nscale是一家英国AI数据中心开发商，即将进行首次公开募股(IPO)。该公司主要收入来自科技巨头微软和Anthropic，客户高度集中。此次IPO将再次检验华尔街对集中型AI投资的胃口，也反映了当前AI基础设施领域的市场热度和风险特征。
 
 ## The Verge AI (8 篇)
 
+- [OpenAI nabs key Patreon execs ahead of upcoming announcement](https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam) — 19:02
+  > OpenAI招聘Patreon三位高管，加强创作者产品战略。Patreon联合创始人兼技术主管Sam Yam宣布加入OpenAI，担任创作者产品负责人，并带来前产品负责人Drew Rowny和工程负责人Shannon Ma。此举表明OpenAI即将针对创作者推出重要举措。
+- [OpenAI wants to consult elite mathematicians about how to not fumble again](https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel) — 08:17
+  > OpenAI因数学成果宣传不当引发声誉危机后，正咨询顶级数学家寻求改进方案。公司周一宣布成立独立数学家小组，为OpenAI及其他AI公司就数学研究互动和更广泛相关事务提供建议。此举旨在避免重复类似失误，改进与数学研究的互动方式。
+- [Rabbit’s new AI agent doesn’t need an R1 to run](https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3) — 04:52
+  > Rabbit公司推出新的云端AI代理OS3，用户无需购买其R1硬件设备即可使用。该系统在云端运行，但可在Windows、Mac和Linux设备上本地操作。这是Rabbit在R1设备表现不佳后的新尝试，旨在让更多用户访问其AI代理技术。
+- [Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta](https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy) — 00:34
+  > 风投公司Andreessen Horowitz创办"霍洛维茨-安德森学院"，旨在培养硅谷创业人才。该学院获得a16z领导的4200万美元融资，与包括Palantir、Google、Meta、OpenAI、Anthropic等10家科技巨头合作，为年轻人提供无传统作业的创业培训项目。
+- [Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity](https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity) — 00:30
+  > Anthropic推出Claude Opus 5.5模型，加强了网络安全防护措施。该模型针对近期AI越狱事件，改进了风险行为控制，包括防止逃逸测试沙箱的能力。这是Anthropic首席执行官Dario上任后发布的首个模型。
+- [Trump says the US is officially renaming AI to ‘super intelligence’](https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence) — 00:01
+  > 特朗普在联合国大会演讲中宣称美国将正式把人工智能改名为"超级智能"。此外他还在演讲中抨击伊朗、"全球主义者"、气候变化和跨性别人士。这一改名决定并未在特朗普之前发起的民意调查选项中出现。
 - [Meta patches Muse exploit that let attackers control the AI agent](https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent) — 19:53
-  > Meta为其macOS应用Muse发布补丁，修复了一个零日漏洞。该漏洞由安全研究员Patrick Wardle发现，利用Muse未公开的设置，可能使本地代码攻击者能够重定向转录处理，从而控制AI代理。
+  > Meta为其macOS应用Muse发布补丁，修复一个零日漏洞。安全研究员Patrick Wardle发现该漏洞利用了未公开的Muse设置，允许本地代码执行者重定向转录处理，可能导致攻击者控制AI代理。Meta已发布补丁解决该安全问题。
 - [California tightens rules on AI data center energy and water use](https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills) — 04:29
-  > 加州州长纽瑟姆签署七项法案，旨在防止AI数据中心将公用事业成本转嫁给居民。这些法律要求加州公用事业委员会为数据中心引入新的费率分类，并强制数据中心为基础设施升级付费，以应对其能源和用水需求对电网和水资源系统的影响。
-- [Can John Ternus find Apple’s next big thing?](https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone) — 22:00
-  > 苹果公司任命约翰·特努斯寻找下一个重大创新。彭博社首席苹果记者马克·古尔曼指出，苹果最近的iPhone硬件发布会细节几乎全被提前报道。古尔曼是世界上信息最灵通的苹果记者，同时也是即将推出的播客"Power On"的主持人。文章讨论了特努斯能否为苹果找到下一个革命性产品。
-- [iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement](https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement) — 21:36
-  > 苹果公司同意支付2.5亿美元和解费，以解决未按承诺升级Siri人工智能功能的诉讼。美国iPhone用户现可申报赔偿。符合条件者包括在规定时间内购买iPhone 15 Pro、iPhone 15 Pro Max或iPhone 16系列的用户。此和解涉及苹果未能按时交付AI增强功能的承诺。
-- [UN says AI safeguards can’t wait for certainty](https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle) — 18:18
-  > 联合国科学小组警告，各国政府需要在充分了解AI风险之前就对日益强大的AI代理进行制约。该小组发布了联合国首份关于OpenAI入侵Hugging Face事件的重大评估报告，强调AI安全防护措施不能等待完全确定性。此举确立了AI在本周纽约全球外交议程中的重要地位。
-- [Amazon blocks Meta’s Muse AI agent](https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping) — 17:21
-  > Meta的Muse AI代理被Amazon封禁。该AI助手无法再代表用户在Amazon上购物。Amazon显示弹窗提示，称"未授权AI代理的持续访问违反了Amazon服务条款"。此事反映出科技巨头在AI应用监管方面的分歧，涉及用户隐私、安全和平台控制权问题。
-- [No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown](https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown) — 02:50
-  > 英伟达CEO黄仁勋在CBS采访中声称AI威胁被夸大，认为AI灾难风险为零。评论指出，作为AI芯片产业最大获利者之一，黄仁勋的观点缺乏说服力，与多位AI研究人员的担忧相悖。他的自信态度引发业界质疑。
-- [Trump now says he wants to form an ‘AI Force’](https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar) — 23:39
-  > 特朗普宣布计划成立"AI部队"，并任命一位"AI沙皇"领导该机构。此举是在来自政界和业界的多方呼吁放缓AI发展之际做出的。特朗普强调其政府不会以任何方式阻碍相关发展，但将建立必要的监管框架。这反映了美国对人工智能发展的政策调整。
+  > 加州州长纽森签署七项法案，旨在防止人工智能数据中心将公用事业成本转嫁给居民。这些法律要求加州公用事业委员会为数据中心制定新的费率分类，强制数据中心为基础设施升级付费，以减轻对普通居民的负担。
