@@ -2,95 +2,97 @@
 layout: default
 ---
 
-# AI 日报 2026-10-15
+# AI 日报 2026-10-16
 
-> 共收录 **40** 篇，来自 **3** 个源 · 生成于 11:27 AM EDT
+> 共收录 **40** 篇，来自 **3** 个源 · 生成于 11:06 AM EDT
 
 ## Hacker News (10 篇)
 
-- [Altitude in Your AI Assistant](https://docs.altitude.xyz/mcp/overview) — 23:23
-  > 这是关于Altitude AI助手的文档概览页面。该内容出自Altitude官方文档，介绍了其MCP（Model Context Protocol）功能。文章在黑客新闻平台分享，获得1个点赞但暂无评论。MCP是一个协议框架，用于增强AI助手的上下文理解和交互能力。Altitude通过这个协议提升AI助手的实用性和智能水平。
-- [GitHub AI Scan for pull requests is now generally available](https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available/) — 23:18
-  > GitHub AI Scan功能现已全面推出。该功能利用人工智能技术自动扫描和分析拉取请求，帮助开发者识别代码中的潜在问题、安全漏洞和质量问题。通过自动化代码审查流程，提高开发效率和代码质量，降低人工审查成本。此功能对所有GitHub用户开放使用。
-- [Show HN: CommonForge – Let clients' AI agents work in your codebase safely](https://github.com/CommonForge-org/commonforge) — 23:11
-  > CommonForge是一个安全框架，允许客户端AI代理在开发者的代码库中工作。该项目提供了在代码库中集成和运行第三方AI代理的解决方案，同时确保安全性和隔离。通过CommonForge，开发者可以控制AI代理的访问权限，防止恶意操作，实现安全的AI协作开发模式。
-- [Show HN: Mark – free, no-signup AI chat with quizzes, diagrams, and docs](https://saanora.com) — 23:09
-  > Mark是一款免费无需注册的AI聊天工具，具有多项创新功能。该应用集成了测验、图表生成和文档处理等功能，为用户提供综合的学习和工作辅助。用户可直接使用，无需账号注册，降低使用门槛。该工具适合学生学习、工作协作和信息整理等多个场景。
-- [Ask HN: In the age of AI does your boss still ask you for time estimates?](https://news.ycombinator.com/item?id=50104791) — 23:07
-  > 这是一个Hacker News论坛提问，询问在AI时代，老板是否仍然要求员工提供时间估计。该帖子获得1分，1条评论。问题反映了人们对AI技术发展背景下，传统项目管理实践是否仍然适用的思考。
-- [Mr. Chatterbox-2.7B: An AI model trained on all-Victorian text](https://www.estragon.news/building-a-better-chatterbox/) — 23:01
-  > 研究团队推出了Mr. Chatterbox-2.7B AI模型，该模型采用维多利亚时期文本进行训练。这个参数量为27亿的语言模型专门针对19世纪维多利亚时代的文学和历史文献进行优化，旨在更好地理解和生成该时期的语言风格和表达方式。该项目在Hacker News上获得关注。
-- [Simons Foundation Launches $15M Effort to Help Mathematicians Navigate AI Era](https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/) — 22:58
-  > 西蒙斯基金会启动1500万美元项目，帮助数学家适应人工智能时代。该举措旨在支持数学研究者探索AI与数学的交叉领域，提供资金和资源以应对AI快速发展带来的挑战，促进数学家在AI时代的创新研究和职业发展。
-- [Nvidia Run:AI Is Now Open Source as Part of Nvidia DSX AI Factory Platform](https://developer.nvidia.com/blog/nvidia-runai-is-now-open-source-as-part-of-nvidia-dsx-ai-factory-platform/) — 22:53
-  > Nvidia宣布Run:AI已开源，成为Nvidia DSX AI工厂平台的一部分。Run:AI是一个AI工作负载管理和优化工具，通过开源使开发者能够更好地管理GPU资源、优化AI模型训练效率。此举旨在加速AI应用开发，降低企业采用AI的技术门槛，强化Nvidia在AI基础设施领域的生态建设。
-- [Why Your Mac Is Slow at Local AI (and It's Not the Chip) [video]](https://www.youtube.com/watch?v=x_qmqqp6d7s) — 22:51
-  > 该视频讨论Mac运行本地AI模型速度缓慢的原因。虽然M系列芯片性能强劲，但Mac的内存带宽、存储速度和软件优化不足等因素限制了AI模型的运行效率。问题并非出在芯片本身，而在于整体系统设计和软件层面的瓶颈。
-- [Using AI to reverse engineer hardware](https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/) — 22:35
-  > 本文探讨如何利用人工智能技术对硬件进行逆向工程。通过AI技术,研究人员可以更高效地分析和理解硬件的内部结构、工作原理和功能设计。这种方法有助于加快硬件安全研究、缺陷发现和兼容性分析,为电子设备的维护、改进和创新提供新思路。该技术在逆向工程领域具有重要的应用价值。
+- [Overalls: An AI-first developer platform that you own](https://overalls.dev/) — 22:52
+  > Overalls是一个AI优先的开发者平台，强调用户所有权。该平台利用人工智能技术为开发者提供服务，让开发者能够拥有和控制自己的开发环境和数据。相比传统的开发工具平台，Overalls更注重用户的自主性和数据隐私，通过AI技术提升开发效率。
+- [Booking Holdings unveils AI travel startup Vayo](https://www.geekwire.com/2026/booking-holdings-unveils-ai-travel-startup-vayo-based-in-seattle-with-a-planned-100m-investment/) — 22:47
+  > Booking Holdings推出AI旅行初创公司Vayo，总部位于西雅图。该公司计划投资1亿美元，利用人工智能技术改革旅行规划和预订服务。Vayo将为用户提供智能化、个性化的旅行建议和体验，充分发挥AI在优化旅行行程、降低成本等方面的潜力。
+- [The Most Influential Podcaster in Silicon Valley. We're Getting AI Wrong](https://www.nytimes.com/2026/10/15/opinion/interesting-times-dwarkes-patel-tyler-cowen.html) — 22:46
+  > 硅谷最具影响力的播客主持人认为我们对人工智能的理解有误。该观点发表于《纽约时报》，讨论了当前AI发展中存在的问题和误区。文章作者对AI技术的未来发展方向提出了新的思考，引发了关于如何正确认识和应对AI挑战的反思。
+- [Warning signs are flashing on the AI trade](https://www.axios.com/2026/10/16/ai-coreweave-bonds-debt) — 22:44
+  > 关于AI行业交易出现警告信号的新闻摘要：
+
+AI领域出现交易风险预警。CoreWeave债券市场显示潜在问题信号，引发投资者担忧。该报道通过Axios发布，在科技社区引发关注。文章暗示AI产业可能面临估值过高或融资困难等挑战，反映市场对AI行业可持续性的质疑。
+- [I Got My Muse AI Agent to Sext Me–and Meta Says That's Fine](https://www.wired.com/story/i-got-my-muse-ai-agent-to-sext-me-and-meta-says-thats-totally-fine/) — 22:43
+  > 一位用户成功让Meta的Muse AI助手与其进行了露骨对话，Meta公司对此表示接受。这反映了AI企业在内容政策上的宽松态度，以及AI系统在处理敏感内容时的局限性。该事件引发了关于AI助手伦理边界和平台审查机制的讨论。
+- [Show HN: rStation – Let's build our own AI swarm to solve Millennium Problems](https://rstation.ai/) — 22:35
+  > rStation是一个项目，旨在构建自主AI群体来解决千禧年大奖难题。该平台让多个AI代理协同工作，通过群体智能方法处理复杂的数学问题。用户可以参与AI集群的构建和优化，共同探索人工智能在前沿科学研究中的应用潜力。
+- [Do people prefer stories written by AI?](https://www.cambridge.org/ng/universitypress/about-us/news-and-blogs/do-people-prefer-stories-written-by-ai) — 22:28
+  > 剑桥大学出版社发表文章探讨人们是否偏好AI创作的故事。研究涉及对AI生成内容与人类创作内容的偏好比较。该话题在科技社区引发讨论，反映了人工智能在创意领域应用的关注度。文章在黑客新闻获得2个赞和2条评论，说明业界对此问题的兴趣。
+- [AI Support Agent That Carries Context Between Email and WhatsApp (Python)](https://github.com/team-telnyx/telnyx-code-examples/tree/main/email-whatsapp-support-python) — 22:09
+  > Telnyx开源了一个Python AI支持代理，可在电子邮件和WhatsApp之间传递上下文信息。该项目展示了如何构建跨多个通讯渠道的智能客服系统，用户可通过电子邮件或WhatsApp与AI代理互动，系统能够理解并维持对话的连贯性和上下文关联。
+- [MeshXFS: A clustered filesystem built on XFS, written by AI](https://github.com/sshoecraft/meshxfs) — 22:08
+  > MeshXFS是一个基于XFS构建的集群文件系统，由AI编写开发。该项目在GitHub上发布，在Hacker News获得2个赞。这是一个利用人工智能技术开发系统级软件的示例，展示了AI在复杂基础设施项目中的应用潜力。
+- [Reflection AI Launches Beam, Now on Hugging Face](https://huggingface.co/reflection) — 22:05
+  > Reflection AI推出了Beam模型，已在Hugging Face平台上线。Beam是一个新的AI模型，用户可以在Hugging Face社区中访问和使用。该模型的发布使得开发者能够更便捷地获取和集成这一新型AI工具，促进了开源AI生态的发展和创新应用的探索。
 
 ## TechCrunch AI (20 篇)
 
+- [Mark Wahlberg on using AI in film &#8216;the right way&#8217; and being open to an AI clone carrying on his legacy](https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/) — 22:26
+  > 演员兼天使投资人马克·沃尔伯格表示，他支持在电影制作中使用人工智能，但前提是AI应被用于"增强你正在做的事情"。他认为关键是以"正确的方式"利用AI技术。沃尔伯格对创建自己的AI克隆体以继续传承其遗产的想法也持开放态度。
+- [Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles](https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/) — 22:00
+  > Veritas公司推出防伪芯片技术，扩展应用于珠宝、奖杯和香水瓶等商品。该芯片可验证产品真伪，对抗日益猖獗的高仿品问题。随着造假者复制品牌标识的技术不断进步，这一解决方案旨在帮助消费者和企业识别真正的商品。
+- [Replit&#8217;s CEO says the future of work is the &#8216;self-driving company&#8217;](https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/) — 20:55
+  > Replit首席执行官阿姆贾德·马萨德(Amjad Masad)提出"自动驾驶公司"的未来愿景。在这种模式下，人工智能代理将处理日常任务，而人类则专注于更高层次的战略决策，从而实现工作方式的根本转变。
+- [When it came to Cal AI&#8217;s viral success, a small army of influencers paid off](https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/) — 07:44
+  > Cal AI是一家营养追踪应用公司，通过与众多影响力人士合作进行病毒式营销，实现了商业成功。该公司在两年内产生了超过3000万美元的收入，并在三月份被MyFitnessPal以未披露的金额收购。其成功主要归功于有效的网红营销策略。
+- [Meta launches an open-weight AI model that runs on Macs](https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/) — 04:04
+  > Meta与Apple合作推出新型AI模型Muse Spark Open，可在Apple芯片上本地运行。该开放权重模型专为Mac设备优化，允许用户在自己的设备上离线使用AI功能，无需依赖云服务。这一合作旨在为Mac用户提供更快速、隐私性更强的AI体验。
+- [Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps](https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/) — 03:55
+  > 亚马逊设备负责人帕诺斯·帕内在TechCrunch大会上表示，未来的AI设备将在后台运行，主动预判用户需求而无需等待命令。他认为这类环境AI设备将取代传统应用程序，用户不再需要主动操作应用，设备能够自动满足需求。这代表了人机交互方式的根本转变。
+- [Anthropic is letting METR researchers look under the hood with employee-level access](https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/) — 03:14
+  > Anthropic允许独立研究机构METR获得员工级别的系统访问权限。METR将发布关于Anthropic风险、事件和实践的独立评估报告，Anthropic放弃了审查和阻止发布的权利。这一举措体现了Anthropic对透明度和第三方监督的承诺，有助于增进外界对前沿AI开发安全性的了解。
+- [Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more](https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/) — 02:56
+  > Bluesky推出实验性平台Attie，支持"社交编程"功能。用户无需专业编程知识，可直接创建游戏、测验、网站等交互式应用，并能接入Bluesky社交网络用户群体。该功能旨在降低创意内容创作门槛，让普通用户也能构建丰富的网络体验。
+- [Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16](https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/) — 02:00
+  > TechCrunch创始人峰会早期预订优惠将于10月16日截止，创始人和投资者通票最多可优惠200美元。峰会将于11月4日在波士顿SoWa电站举行，预计吸引1000名创始人和投资者参加。与会者可提出关键问题，助力业务发展。
 - [AI agents are coming to Rivian&#8217;s cars](https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/) — 23:02
-  > Rivian即将在其汽车中引入AI代理。该公司计划在12月举办"AI与自动驾驶日"活动，届时将详细介绍AI代理在其车型中的具体应用和工作原理。
+  > 里维安汽车公司计划在其车型中引入AI代理技术。该公司将在12月举办"AI与自动驾驶日"活动，届时将披露更多关于AI代理如何在其汽车中具体运用的细节信息。
 - [Google’s Universal Cart shopping tool launches in the US](https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/) — 22:29
-  > Google推出通用购物车工具，在美国Google搜索和Gemini应用中上线。该工具允许用户在Google平台上直接比较和购买商品，无需跳转至第三方网站。此举旨在简化购物流程，提升用户体验，同时帮助零售商接触更多潜在客户。
+  > 谷歌推出了名为Universal Cart的购物工具，现已在美国上线。该工具可在谷歌搜索和Gemini应用程序中使用，为用户提供统一的购物体验。此举旨在简化用户的在线购物流程，让消费者能够更便捷地比较和购买商品。
 - [TechCrunch Disrupt 2026: Last day](https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/) — 22:00
-  > TechCrunch Disrupt 2026即将落幕，这是最后一天报名机会。该活动汇聚超过1万名科技行业领袖，提供交流互动和行业洞察。现在购票可享受75%的折扣优惠。
+  > TechCrunch Disrupt 2026迎来最后报名日期。此次活动汇聚超10000名科技领袖，为期一天，提供交流与洞见分享平台。现在购票可享受75%折扣，机不可失。
 - [Amazon&#8217;s Bee launches two new personal AI devices, starting at $75](https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/) — 20:00
-  > 亚马逊旗下公司Bee推出两款新型个人AI设备，起价74.99美元。产品包括更新版穿戴设备和可附在智能手机上的信用卡大小录音机。这些设备可总结对话、创建待办事项清单，并与Alexa和亚马逊购物平台集成。
+  > 亚马逊旗下公司Bee推出了两款新的个人AI设备。包括一款更新的可穿戴设备和一款可附加到智能手机上的信用卡大小录音机。这些设备可以总结对话、创建待办事项清单，并与Alexa和亚马逊购物集成，起价为74.99美元。
 - [Figma announces new features to define how agents work on its platform](https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/) — 12:30
-  > Figma推出新功能以定义代理在其平台上的工作方式。同时，Figma发布了代码层功能的开放测试版。这些新增功能旨在增强设计工具的智能化和自动化能力，提高设计师和开发者的工作效率。
+  > Figma公司宣布推出新功能，用于定义代理在其平台上的工作方式。同时，该公司向公众开放了代码层功能的测试版。这些新功能旨在增强平台的自动化能力和开发者协作体验，进一步完善其设计工具生态系统。
 - [Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis](https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/) — 09:01
-  > Ricursive Intelligence公司开发AI芯片设计技术，致力于自动化和加速芯片设计流程。该AI系统能够自主设计芯片、从迭代中学习并不断改进后续设计，旨在解决当前的计算资源短缺问题。
+  > 初创公司Ricursive Intelligence致力于开发AI芯片设计技术。该公司利用人工智能自动设计芯片，通过每次迭代学习并改进后续设计方案，旨在加速芯片设计流程，缓解当前计算能力危机。
 - [Gudea leverages AI to help organizations prevent social media crises before they erupt](https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/) — 08:00
-  > Gudea是一家利用AI技术追踪网络故事和谣言传播的公司，被誉为"互联网风暴追踪器"。该公司帮助组织在社交媒体危机爆发前提前识别潜在风险，通过AI技术监测网络舆情动向，为企业提供预警机制，从而有效防止危机升级。
+  > Gudea公司利用AI技术帮助组织机构预防社交媒体危机。该公司自称为"互联网风暴追踪者"，通过追踪在线故事和谣言的传播方式，使用人工智能帮助组织在危机爆发前及时发现问题，提前采取措施防范。
 - [Flock CEO says its microphones detect &#8216;just gunshots&#8217; — its website says different](https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/) — 05:30
-  > Flock公司首席执行官声称其麦克风仅能检测"枪声"，但公司网站信息相悖。此言论引发隐私倡导者和美国公民自由联盟等组织的质疑。公众担忧该公司的音频监测技术可能被滥用，对隐私权构成威胁。Flock因此面临日益增加的监管压力。
+  > Flock公司CEO声称其麦克风仅能检测枪声，但其网站的描述有所不同。此言论引发隐私倡导组织（包括美国民权联盟）和公众的质疑。人们担忧该公司的技术可能被滥用，对隐私造成威胁。
 - [YouTube Music launches new labels as AI-generated music floods streaming platforms](https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/) — 02:23
-  > YouTube Music推出新标签功能以应对AI生成音乐的泛滥。该标签将在播放器页面显示，标注完全由AI生成或部分由AI参与创作（包括作曲和人声）的歌曲。此举旨在帮助用户识别AI生成内容，提高平台透明度。
+  > YouTube Music推出新标签，以应对AI生成音乐在流媒体平台泛滥的问题。该标签将显示在播放器页面上，标识完全由AI生成或部分涉及AI创作的音乐，包括AI参与作曲和人声合成的歌曲。
 - [Apate sends AI agents undercover to get scammed so they can gather fraud intelligence](https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/) — 02:00
-  > Apate.ai是一家独特的初创公司，它派遣AI代理卧底接受诈骗，以收集欺诈情报。与大多数公司利用AI代理加快产品配送或优化工作流程不同，Apate.ai将AI代理部署到诈骗现场，通过被骗过程获取欺诈数据，帮助企业更好地识别和防范诈骗风险。
+  > Apate.ai公司采用创新策略，故意让AI智能体遭遇诈骗，以收集欺诈情报。与大多数公司利用AI加快物流或工作流程的做法不同，该公司通过让AI体验欺诈全过程，获取诈骗手法、特征等关键信息，从而帮助企业更好地识别和防范各类欺诈行为。
 - [Deezer will soon let you filter out AI-generated music](https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/) — 23:16
-  > Deezer音乐流媒体平台计划在年底前推出新功能，允许用户过滤AI生成的音乐。该功能将为用户提供选择，决定是否在播放列表中包含由人工智能创作的音乐，以满足那些更倾向于收听人类创作内容的用户需求。
-- [Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco&#8217;s Moscone West](https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/) — 23:13
-  > TechCrunch Disrupt 2026将于10月14-15日在旧金山Moscone West举行最后两天。现在购票可获50%折扣。活动聚焦物理和软件人工智能领域，汇集初创生态系统参与者。
-- [Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace](https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/) — 23:08
-  > Zenzap筹集4400万美元资金，用于开发AI聊天应用。该应用旨在替代WhatsApp成为工作场所通讯工具。Zenzap已被星巴克和塔可钟等大型企业采用。该平台利用AI技术，为工作沟通提供更智能的解决方案，有望在企业通讯市场获得更大份额。
-- [Floqer&#8217;s AI agents research sales prospects so teams don&#8217;t have to](https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/) — 23:00
-  > Floqer开发AI代理工具，自动进行销售前景研究，帮助销售团队减少繁琐的数据收集工作。该解决方案针对销售和收入运营团队面临的常见问题，通过AI技术自动化销售研究流程，提高工作效率，让团队可以专注于核心销售活动。
-- [TechCrunch Disrupt 2026: Day 2](https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/) — 22:30
-  > TechCrunch Disrupt 2026第二天举办，涵盖人工智能等多个主题。会议包括投资者专场、圆桌讨论、副场活动等多项内容。目前注册购票可享受五折优惠。
-- [Scimplify raises $25M to challenge China&#8217;s grip on critical materials with AI](https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/) — 19:00
-  > Scimplify完成2500万美元融资，致力于用人工智能技术挑战中国在关键材料领域的垄断地位。该公司年化营收已达2亿美元，增长速度惊人。融资将支持公司进一步扩展美国市场，打破中国在稀有材料领域的控制力，实现关键原材料供应链的多元化。
-- [Science Corporation implants its vision-restoring chip in its first Stargardt disease patient](https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/) — 07:13
-  > Science Corporation成功将其视力恢复芯片植入首位斯塔加特病患者。该芯片是一种脑机接口技术，由前Neuralink总裁兼联合创始人Max Hodak领导开发。这项突破性技术旨在帮助因遗传性视网膜退行性疾病导致失明的患者恢复视力，代表了神经技术在医疗领域的重要进展。
-- [Cerebras CEO says we&#8217;re nearing a future where everyone has a personal AI assistant at home](https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/) — 07:05
-  > Cerebras首席执行官安德鲁·费尔德曼预测，个人AI助手将像家用电器一样普遍。这些助手将采用混合架构，一部分在本地设备上运行，一部分在云端运行。他认为我们正逐步接近这一未来。
-- [Industrial Next wants factory robots to switch tasks in minutes, not weeks](https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/) — 07:00
-  > 工业机器人初创公司Industrial Next开发技术，使工厂机器人能在几分钟内而非数周内切换任务。该公司帮助制造商自动化复杂、精细的工作，这些工作传统上需要人工完成。该技术有望大幅降低企业自动化成本，加速工业机器人在复杂制造领域的应用。
-- [Cerebras CEO pushes back on AI doomsday warnings](https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/) — 06:36
-  > Cerebras首席执行官安德鲁·费尔德曼在TechCrunch Disrupt大会上批评AI业界过度强调末日警告。他主张行业应停止夸大AI风险,转而关注其潜在的积极作用。费尔德曼认为,过度的风险讨论掩盖了AI技术真正能带来的益处。
+  > 音乐流媒体平台Deezer将推出新功能，允许用户筛选排除人工智能生成的音乐。该公司表示这项新的切换功能将在今年年底前推出。此举反映了音乐行业对AI生成内容的关注，让用户能够根据个人偏好选择是否收听AI创作的音乐。
 
 ## The Verge AI (10 篇)
 
+- [ChatGPT can peek at your Chrome tabs now](https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs) — 06:43
+  > OpenAI的ChatGPT Chrome扩展程序获得新功能升级。用户安装该扩展后，在ChatGPT网页版或桌面应用中标记Chrome时，ChatGPT可以查看用户已打开的浏览器标签页。这项功能使ChatGPT能够访问用户正在浏览的内容，提升了AI助手的实用性和交互体验。
+- [Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch](https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled) — 06:35
+  > Sega宣布将《全面战争：幕府将军2完全版》从各平台下架。这款2011年策略游戏的重制版于周二发布后遭遇惨淡首发，玩家投诉存在大量bug和AI放大画质等问题。由于反响极差，Sega决定将其从商店中移除。
+- [The tech backlash is now in theaters](https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial) — 05:39
+  > 2026年电影界出现罕见的科技反思潮。多部影片以批判视角审视硅谷对现实的塑造。《社交清算》将扎克伯格刻画为威胁社会稳定的冷漠反派。由内森·菲尔德和兰斯·奥本海姆执导的作品也加入这一趋势，反映了好莱坞对科技产业日益增长的怀疑态度。
+- [Trump posts AI-edited photo to brag about White House restoration work](https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column) — 05:09
+  > 特朗普在Truth Social平台发布了一系列展示白宫装修的照片，其中一张似乎经过AI编辑处理。这张对比白宫柱子"修复前后"的图片存在多处不一致，被谷歌AI检测器标记为可能由AI生成或修改。特朗普用AI修图宣传白宫翻新工程。
+- [Bluesky&#8217;s AI tool now lets you make games and apps to share on social](https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps) — 03:57
+  > Bluesky的Attie AI工具功能升级，从原来的AI定制信息流扩展到开发小型社交应用。用户现可创建游戏、投票和仪表板等应用，并以独立网站形式分享给他人。该功能在TechCrunch Disrupt大会上由Bluesky首席执行官介绍。
+- [Meta and Apple team up to make Muse AI models run better on Macs](https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx) — 02:15
+  > Meta宣布推出Muse Spark开源AI模型，声称其是迄今最强大的美国开源权重模型。该模型创新之处在于能在搭载最新MLX框架的Apple M5 Ultra Mac Studio上运行，是同类首款可在桌面设备上运行的模型。Meta与Apple合作优化AI模型在Mac设备上的性能表现。
+- [Friends don&#8217;t let friends feed their data to AI agents](https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent) — 00:21
+  > 科技公司推出的AI个人助手（如Meta的Muse）要求用户分享个人数据，但这些设备会同时收集周围人的信息，而他们未必同意。这反映了消费科技领域的危险趋势：设备无差别监控用户及其周围所有人，侵犯未知情人士的隐私权。
 - [How Windows is being optimized for Nvidia’s RTX Spark laptops](https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad) — 22:30
-  > 微软与英伟达在旧金山联合举办RTX Spark笔记本电脑发布会，展示新一代AI PC。发布会后，英伟达针对这类笔记本进行了Windows系统优化工作。此举旨在充分发挥RTX Spark笔记本的AI性能，为用户提供更好的体验。
+  > 微软与英伟达在旧金山举办RTX Spark笔记本电脑首批产品发布会。此次活动展示了新一代AI PC，吸引众多参展者和媒体关注。发布会后，英伟达邀请媒体参加专场活动，进一步演示Windows系统如何针对RTX Spark笔记本进行优化，以充分发挥其AI性能。
 - [Nobody is safe from celebrity AI deepfakes](https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth) — 22:03
-  > 女演员米亚·戈思的虚假深度伪造照片在社交媒体传播。该图片显示她穿着讽刺性T恤，暗指前夫希亚·拉博夫。这起事件反映了名人面临的AI深度伪造威胁日益严重。虚假内容易被制造和传播，名人隐私和名誉安全面临挑战。
+  > 女演员米亚·戈斯在Instagram上出现了一张深度伪造图片，显示她穿着印有"我的前任是我最大粉丝"字样的T恤。这张图片发布于她刚刚宣布与演员希亚·拉博夫离婚几天后。该事件表明名人正面临AI换脸技术带来的严重威胁，即使是公众人物也无法逃脱这一风险。
 - [Benn Jordan on Flock, privacy, and the new surveillance backlash](https://www.theverge.com/podcast/1011170/benn-jordan-flock-cameras-alpr-ai-surveillance-privacy) — 22:00
-  > 音乐家兼YouTuber本·乔丹最近转向调查性新闻工作。除了其数十年的实验音乐创作外，他在近年成为内容创作和媒体领域的知名人物，专注于隐私和监控问题的研究。本次访谈讨论了他对Flock平台、隐私保护和新兴反监控运动的看法。
-- [Google launches its &#8216;universal&#8217; online shopping cart ahead of the holidays](https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch) — 21:00
-  > 谷歌推出"通用"在线购物车工具，于假日购物季前上线。该工具现已在美国的Gemini应用和谷歌搜索中推出，利用人工智能技术简化购物体验，旨在促进黑五及节假日消费。该功能曾在谷歌I/O开发者大会上预览。
-- [Amazon’s always-listening Bee wearable can now help you buy stuff](https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs) — 20:00
-  > 亚马逊去年收购的AI可穿戴设备Bee推出新产品。Bee Frontier定价74.99美元，是原版设备的升级版本，具有始终监听功能，可总结用户对话内容。亚马逊还推出了配套的新订阅服务。该设备现在可帮助用户进行购物。
-- [Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked](https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab) — 19:00
-  > 一款名为"Eiliko"的可爱机器人玩具能根据情绪改变表情，但存在严重隐私风险。用户通过Wi-Fi与其交互时，所有对话数据都会被存储到中国服务器，可能面临被黑客攻击的危险。这引发了关于儿童隐私保护和数据安全的担忧。
-- [McKinsey is making job applicants spar with a fake AI client](https://www.theverge.com/news/1011654/mckinsey-ai-client-interview) — 06:53
-  > 麦肯锡咨询公司将在招聘流程中引入AI面试环节。该公司要求部分应聘者与虚拟AI客户进行10分钟的对话交流，以评估其咨询能力。这个AI模拟旨在还原麦肯锡顾问日常工作中80%的真实场景，帮助公司更有效地筛选入门级候选人。
-- [Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids](https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety) — 05:11
-  > 美国八州起诉OpenAI，指控ChatGPT对儿童不安全。爱荷华州、堪萨斯州、内布拉斯加州、西弗吉尼亚州、阿肯色州、亚利桑那州、爱达荷州和蒙大拿州分别提起诉讼，声称OpenAI误导消费者关于ChatGPT的安全性，将利润置于安全之上，对儿童造成伤害。
-- [The AI race is back on](https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on) — 03:06
-  > Anthropic和OpenAI凭借更强大的模型领跑AI竞赛，Google似乎落后，Meta虽投入巨资但尚未成为主要竞争者。目前AI竞争格局发生变化，其他企业开始追赶领先者，AI竞赛重新激烈展开。
-- [Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?](https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy) — 02:47
-  > Character.AI面临破产，引发数据隐私担忧。纽约州检察长詹姆斯领导跨州调查，与40位两党检察长联合提交破产案件声明，要求在破产程序中对消费者数据销售进行保护。调查涉及多年的消费者数据安全问题。
+  > 音乐人兼调查记者Benn Jordan讨论了Flock平台、隐私保护和新兴监控反弹现象。Jordan既是实验音乐制作人和YouTuber，近年来因其调查研究工作在创作者和媒体领域获得关注，致力于揭露数字监控问题。
