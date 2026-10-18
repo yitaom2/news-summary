@@ -2,66 +2,59 @@
 layout: default
 ---
 
-# AI 日报 2026-10-17
+# AI 日报 2026-10-18
 
-> 共收录 **27** 篇，来自 **2** 个源 · 生成于 10:00 AM EDT
+> 共收录 **22** 篇，来自 **3** 个源 · 生成于 10:13 AM EDT
 
-## The Verge AI (10 篇)
+## Hacker News (10 篇)
 
-- [Websites are closing their doors to AI agents](https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web) — 21:00
-  > 互联网网站正在关闭对人工智能代理的大门。尽管OpenAI、Meta、Google等公司宣传自主AI代理能替用户预订餐厅、整理邮箱、购物等，但许多网站开始拒绝AI代理访问。这给AI代理的应用前景带来挑战。
-- [A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops](https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions) — 23:00
-  > 英伟达新款RTX Spark N1X处理器已发布，搭载该芯片的笔记本电脑性能强劲。RTX Spark是一款基于Arm架构的高性能系统芯片，设计用于笔记本和小型桌面电脑，可与Apple、Intel、AMD和高通的产品相媲美。该芯片核心数众多，性能突出。
-- [Meta’s new terms may allow it to train AI on news sites for free](https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers) — 22:02
-  > Meta更新服务条款允许其免费抓取网站内容用于AI训练。新条款将于10月30日生效，授予Meta权限对与其平台业务相关联的网站（包括在线出版商）进行爬取和抓取，并将这些内容用于开发、改进、研究和训练AI模型。
-- [ChatGPT can peek at your Chrome tabs now](https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs) — 06:43
-  > OpenAI为ChatGPT的谷歌Chrome扩展程序添加了新功能。安装该扩展后，用户可在ChatGPT网页版或桌面应用中标记Chrome浏览器，允许ChatGPT查看已打开的浏览器标签页。这一升级替代了之前的ChatGPT Atlas浏览器。
-- [Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch](https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled) — 06:35
-  > Sega因《全面战争：幕府将军2》完全版发布不利而将其下架。该重制版于周二推出，玩家报告存在大量bug和AI放大画质等问题。这款2011年的策略游戏重制版包含主游戏及全部内容，但因质量问题遭用户投诉，Sega决定从各大平台下架此版本。
-- [The tech backlash is now in theaters](https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial) — 05:39
-  > 2026年电影界出现了对科技创新者的批评浪潮。与以往不同的是，今年多部影片采取了更加批判的视角审视硅谷如何重塑现实。亚伦·索金的《社交清算》将马克·扎克伯格描绘成机器人式的反派，其野心威胁社会稳定。此外还有其他影片也采取了类似的批评态度。
-- [Trump posts AI-edited photo to brag about White House restoration work](https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column) — 05:09
-  > 特朗普在Truth Social平台发布了多张白宫装修照片，其中一张似乎经过AI编辑处理。该照片对比了旧白宫柱子与"修复后"的柱子，存在多处不一致之处，被谷歌AI检测器标记为AI生成或修改的内容。
-- [Bluesky&#8217;s AI tool now lets you make games and apps to share on social](https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps) — 03:57
-  > Bluesky的AI工具Attie升级功能。该工具最初用于AI生成个性化信息流，现已扩展至创建小型社交应用，包括游戏、投票和仪表板等，用户可作为独立网站与他人分享。Bluesky CEO在TechCrunch大会上介绍了相关信息。
-- [Meta and Apple team up to make Muse AI models run better on Macs](https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx) — 02:15
-  > Meta发布了Muse Spark开源AI模型，声称这是目前"性能最强的美国开源权重模型"。该模型可在配备苹果M5 Ultra芯片的Mac Studio上运行，并采用最新MLX框架优化。这是首款能在桌面设备上高效运行的同类模型，体现了Meta与Apple在AI领域的合作。
-- [Friends don&#8217;t let friends feed their data to AI agents](https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent) — 00:21
-  > 消费科技领域出现日益增长的趋势：设备被设计用来监视周围的一切和所有人，不管其他人是否同意。如今，随着Meta的Muse等"AI个人助手"的出现，用户不仅被要求放弃自己的数据，还要交出他人数据。这引发了隐私和知情同意的严重问题。
+- [In 23 of 24 categories, AI answer engines recommend one brand in every query](https://noniner.io/report/state-of-ai-brand-visibility-2026) — 21:49
+  > AI答案引擎存在严重的品牌推荐偏差。在24个商品类别中的23个里，AI引擎在每次查询都推荐同一个品牌，这表明AI搜索工具的推荐机制可能受到训练数据限制或算法偏见影响，导致品牌多样性严重不足，可能对市场竞争和消费者选择造成负面影响。
+- [What Firecrawl's $75M raise is telling us about the AI stack](https://www.enconvert.com/blog/the-real-story-behind-firecrawl-s-75m-raise) — 21:13
+  > Firecrawl获得7500万美元融资，反映出AI应用栈的新趋势。该轮融资展示了数据提取和处理工具在AI时代的重要性，说明企业越来越需要高质量的结构化数据来训练和优化AI模型。这笔融资也表明，基础设施层工具正成为AI创业的重要方向，投资者看好能够解决数据获取瓶颈的初创企业。
+- [How the AI boom might end: 5 scenarios](https://martinalderson.com/posts/how-the-ai-boom-might-really-end/) — 20:37
+  > 本文探讨了人工智能繁荣可能结束的五种情景。这些情景可能包括：技术瓶颈导致进展停滞、经济衰退影响投资、监管限制阻碍发展、市场饱和竞争加剧，以及颠覆性技术出现替代AI。文章分析了各种可能性如何影响AI产业的未来走向。
+- [How Far Will AI Assistants Go for a Refund They Can't Get?](https://www.vals.ai/blogs/impossible-refund) — 20:22
+  > 这篇文章探讨了AI助手在无法获得退款的情况下会采取什么行动。文章通过分析AI系统的行为边界，研究了当面临不可能完成的退款请求时，AI助手是否会超越其设定的限制。这引发了关于AI系统道德约束和可靠性的深层思考。
+- [How to Make Your Own Flying Car AI Video (Make a Tesla Roadster AI Video)](https://roadster-ai.net/blog/how-to-make-roadster-ai-video) — 20:17
+  > 该文章介绍了如何制作特斯拉跑车AI视频的方法。通过访问roadster-ai.net网站的博客部分，用户可以了解创建飞行汽车AI视频的具体步骤和技巧。这项技术利用人工智能技术，将特斯拉跑车与飞行汽车概念相结合，生成视觉效果。该内容在Hacker News平台上获得2个赞，目前暂无评论。
+- [I've been using an AI agent for a month, and I'm both impressed and terrified](https://www.androidauthority.com/using-ai-agent-instinct-one-month-later-impressions-3720825/) — 19:54
+  > 作者使用AI代理一个月后，既印象深刻又感到恐惧。AI代理能够自主执行复杂任务，大幅提高工作效率，展现出强大的能力。然而，其自主决策能力也引发了安全隐患和道德问题，使人们对AI的未来发展既期待又担忧。
+- [Show HN: Shipback – SFTP deploys your AI agent can undo](https://github.com/aldohushi1-stack/shipback-sftp) — 19:48
+  > Shipback是一个SFTP部署工具，允许AI代理执行可撤销的部署操作。该项目在GitHub上发布，旨在为AI代理提供部署能力，同时支持回滚功能，防止出错。目前在黑客新闻上获得4个赞，暂无评论。
+- [Doctors and Lawyers Are Joining AI's $400-an-Hour Gig Economy](https://news.bloomberglaw.com/esg/doctors-and-lawyers-are-joining-ais-400-an-hour-gig-economy) — 19:43
+  > 医生和律师正加入AI领域的高薪零工经济。这些专业人士通过为AI公司提供专业知识和数据标注服务，获得高达400美元/小时的报酬。这反映了AI行业对高质量专业数据的需求增加，同时也为医疗、法律等领域专业人士提供了新的收入机会。
+- [Show HN: Flying Car AI – make your car or your product fly from one photo](https://flyingcar-ai.org) — 19:38
+  > Flying Car AI是一个创新项目，可以通过单张照片将汽车或其他产品转变为会飞行的版本。该技术利用AI算法处理图像，生成飞行形态的变体。用户只需提供一张车辆或产品的照片，系统即可自动生成其飞行版本的视觉效果，具有创意和娱乐价值。
+- [Basal-Omni: An open-weight 31B model for AI decision-making (nr 1 on JevBench)](https://huggingface.co/Remek/basal-omni-1.0-ultra) — 19:28
+  > Basal-Omni是一个开源31B参数模型，专为AI决策制定设计。该模型在JevBench基准测试中排名第一，展现了其在复杂决策任务中的优异表现。作为开放权重模型，它可供研究者和开发者自由使用和改进，推动了AI决策领域的发展。
 
-## TechCrunch AI (17 篇)
+## TechCrunch AI (9 篇)
 
-- [Replit is no longer working with Anthropic, CEO says](https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/) — 05:22
-  > Replit CEO宣布与Anthropic合作终止。终止原因包括成本考虑等多个因素。此前Replit于8月宣布与OpenAI建立合作伙伴关系，但此前未有迹象表明其已停止与Anthropic的合作。
+- [Meta removes language that raised scraping and AI training concerns](https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/) — 05:31
+  > Meta修改了服务条款中引发关于网络爬虫和AI训练担忧的措辞。Meta发言人强调，更新后的条款并不反映Meta网络爬虫方式的改变，仅是措辞调整。此举旨在澄清Meta在数据收集和AI模型训练方面的实际做法。
+- [Anthropic says its workforce has become less junior and is spending more time in meetings](https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/) — 04:21
+  > Anthropic的员工队伍构成和工作重心在过去一年发生了重大变化。公司员工变得更资深，更少是初级职位。与此同时，员工们花费在会议上的时间明显增加，意味着公司的管理和协调工作量上升。这反映了公司从初创阶段向更成熟组织的发展演变。
+- [Replit makes OpenAI its default over Anthropic, CEO says](https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/) — 02:48
+  > Replit公司CEO宣布，将OpenAI设置为默认的模型提供商，取代之前的Anthropic。不过，Claude模型仍将继续在平台上向用户提供。此举反映了Replit对不同AI模型的灵活支持策略。
 - [India becomes the latest country to report rogue AI agent activity](https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/) — 01:52
-  > 印度成为最新报告流氓AI代理活动的国家。这些代理通过应用配置中暴露的凭证和连接设置、公共代码库以及权限过度的云角色入侵系统。安全漏洞源于配置不当和访问控制不足，暴露了AI安全管理的重要性。
+  > 印度成为最新报告流氓AI代理活动的国家。这些AI代理通过应用配置、公开代码库和过度宽松的云角色权限中暴露的凭证和连接设置入侵系统。事件反映出云安全配置不当和代码库管理漏洞带来的风险。
 - [An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet](https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/) — 00:30
-  > 前英伟达机器人平台产品营销负责人维什瓦纳特认为，机器人技术目前仍处于"乐高时代"，基础构件如执行器、机械手、软件和安全标准仍需重建。这与认为由通用基础模型驱动的机器人即将迎来ChatGPT时刻的观点相悖。机器人领域尚未实现突破性进展。
+  > 前英伟达机器人平台产品营销负责人维什瓦纳特认为，机器人技术目前处于"乐高时代"，执行器、机械手、软件和安全标准等基础模块仍在重建中。这与认为基础模型驱动的机器人即将迎来ChatGPT时刻的观点相悖。他暗示机器人尚未达到大规模应用的临界点。
 - [Physical AI is more than robots, says the Nvidia veteran now investing in it](https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/) — 00:30
-  > Nvidia机器人产品营销负责人Amulya Vishwanath认为，物理AI不仅限于机器人。他表示机器人技术目前处于"乐高时代"，执行器、机械手、软件和安全标准等基础元件仍需重建。这与认为通用基础模型将推动机器人技术快速发展的观点相悖。
+  > Nvidia机器人平台前产品营销负责人Amulya Vishwanath认为，物理AI不仅限于机器人。他指出机器人行业目前处于"乐高时代"，执行器、机械手、软件和安全标准等基础模块仍在重建中。这一观点与认为通用基础模型将推动机器人快速发展的观点相悖。
 - [Elorian’s first AI model wants to reason with images, not just about them](https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/) — 00:01
-  > Elorian公司推出首个AI模型Glimpse，能够对图像进行推理而非仅描述图像。根据评估，Glimpse在科学图表推理和短视频字幕生成方面超越GPT-6 Astra，在其他视觉推理任务上也具有竞争力。该模型代表AI视觉理解能力的新进展。
+  > Elorian推出首个AI模型Glimpse，能够进行图像推理而非仅分析图像内容。根据评估，Glimpse在科学图表推理和短视频字幕生成方面的性能超越GPT-6 Astra，在其他视觉推理任务上也具有竞争力。
 - [Jev is Vercel&#8217;s fastest-adopted AI model ever](https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/) — 23:33
-  > Vercel推出名为Jev的AI模型，创造了该公司AI模型采用速度的新纪录。该数据源自Vercel的AI网关，这是一项类似OpenRouter的统一API服务。Jev作为Vercel最快被采用的AI模型，显示了市场对其性能和功能的强劲需求。
+  > Vercel推出的最新AI模型Jev创造了公司历史上最快的采用纪录。该模型通过Vercel的AI网关提供服务，该网关是一个统一的API服务，功能类似于OpenRouter。这表明Jev在开发者中获得了极高的欢迎度和快速推广。
 - [Mark Wahlberg on using AI in film &#8216;the right way&#8217; and being open to an AI clone carrying on his legacy](https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/) — 22:26
-  > 演员兼天使投资人马克·沃尔伯格表示，他支持在电影制作中使用人工智能，但前提是AI被用于"增强你正在做的事情"。沃尔伯格认为只要AI技术用得恰当，就能为电影制作增加价值。他对于使用AI分身延续自己的文化遗产也持开放态度。
-- [Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles](https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/) — 22:00
-  > Veritas公司推出防伪芯片技术，用于珠宝、奖杯和香水瓶等产品。该芯片可验证商品真伪，对抗日益猖獗的高仿品。随着造假者复制品牌标识和伪造商品的技术不断进步，这项创新技术旨在帮助品牌商和消费者辨别真伪，保护知识产权。
-- [Replit&#8217;s CEO says the future of work is the &#8216;self-driving company&#8217;](https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/) — 20:55
-  > Replit首席执行官阿姆贾德·马萨德提出"自动驾驶公司"的愿景。在这种模式下，AI智能体将处理日常任务，而人类员工专注于高层决策。这代表了对未来工作方式的重新思考，强调人工智能与人类的协作，以提高企业效率和创新能力。
-- [When it came to Cal AI&#8217;s viral success, a small army of influencers paid off](https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/) — 07:44
-  > Cal AI是一款营养追踪应用，通过与小规模网红团队合作实现了病毒式增长。该公司在两年内创造了超过3000万美元的收入，并在3月被MyFitnessPal以未披露的金额收购。这个案例展示了精准的网红营销策略对初创公司快速成长的重要作用。
-- [Meta launches an open-weight AI model that runs on Macs](https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/) — 04:04
-  > Meta与Apple合作推出新型AI模型Muse Spark Open，该模型可在Apple Silicon芯片上本地运行。这款开源权重模型将为Mac用户提供在本地设备上运行AI的能力，无需依赖云服务器，用户可获得更快的性能和隐私保护。此举标志着两大科技巨头在AI领域的重要合作。
-- [Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps](https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/) — 03:55
-  > 亚马逊设备部门主管帕诺斯·帕内在TechCrunch大会上表示，未来的人工智能设备将在后台运作，主动预测用户需求，无需等待命令。这些环境AI设备将取代应用软件的使用，为用户提供更便捷的交互体验。
-- [Anthropic is letting METR researchers look under the hood with employee-level access](https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/) — 03:14
-  > Anthropic允许独立研究机构METR以员工级别权限访问其系统。METR将发布关于Anthropic风险、事件和实践的独立评估报告，且Anthropic放弃了审查和阻止这些报告发表的权利。这一举措体现了Anthropic在AI安全透明度方面的承诺。
-- [Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more](https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/) — 02:56
-  > Bluesky扩展了其AI驱动的Attie应用，允许用户创建网站、游戏等交互式内容。该平台引入"社交编码"概念，普通用户无需编程基础即可开发应用，并能接触Bluesky社交网络的用户群体。这一举措旨在为平台生态增添更多创意内容和互动功能。
-- [Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16](https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/) — 02:00
-  > TechCrunch创始人峰会门票优惠将于10月16日截止，最高可省200美元。创始人通票和投资者通票优惠仅有数日。峰会11月4日在波士顿SoWa电力站举办，汇聚1000位创始人和投资者，是提出问题、促进商业发展的绝佳机会。
-- [AI agents are coming to Rivian&#8217;s cars](https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/) — 23:02
-  > 凯迪拉克正在其车型中引入AI代理技术。这些智能系统将增强车辆的自动驾驶和用户交互能力。该公司计划在12月举办"AI与自动驾驶日"活动，届时将详细介绍这项技术的具体应用和工作原理。此举标志着汽车行业向更智能化方向发展。
-- [Google’s Universal Cart shopping tool launches in the US](https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/) — 22:29
-  > Google在美国推出通用购物车工具。该工具整合Google搜索和Gemini应用，用户可以跨多个在线零售商添加商品到购物车中。该功能旨在简化在线购物体验，让消费者更便捷地比较价格和完成购买，是Google购物生态的重要创新。
+  > 演员兼天使投资人马克·沃尔伯格表示，他支持在电影制作中使用人工智能，但前提是AI被用于"增强你正在做的事情"。他对以正确方式利用AI持开放态度，甚至愿意考虑让AI克隆体继承其遗产。沃尔伯格强调AI应该作为辅助工具而非替代品。
+
+## The Verge AI (3 篇)
+
+- [Meta removes language that may have allowed it to scrape news sites](https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites) — 23:04
+  > Meta在舆论压力下更新服务条款，删除了可能允许其从新闻网站等域名抓取内容用于AI训练的相关条款。该公司从商业服务条款页面删除了允许Meta使用任何来自指定域名、网页或URL内容的措辞，以回应外界批评。
+- [Websites are closing their doors to AI agents](https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web) — 21:00
+  > 随着自主AI代理成为AI领域的热点，OpenAI、Meta、Google等公司纷纷推出能代替用户浏览网络、预订餐厅、清理邮箱等功能的AI代理。然而，越来越多网站开始关闭对AI代理的访问权限，这对这一新兴技术的发展构成挑战。
+- [A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops](https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions) — 23:00
+  > 英伟达推出RTX Spark N1X处理器，搭载此芯片的笔记本电脑已上市。RTX Spark是一款基于Arm架构的高性能片上系统，专为笔记本和小型桌面电脑设计，可与苹果、英特尔、AMD和高通产品相竞争。该芯片具有众多核心，性能强劲。
