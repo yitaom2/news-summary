@@ -4,55 +4,64 @@ layout: default
 
 # AI 日报 2026-10-20
 
-> 共收录 **21** 篇，来自 **3** 个源 · 生成于 01:17 PM EDT
+> 共收录 **27** 篇，来自 **2** 个源 · 生成于 11:31 AM EDT
 
-## Hacker News (10 篇)
+## The Verge AI (8 篇)
 
-- [Bill Gross bets AI can help mass produce 1M new startups](https://fortune.com/2026/10/19/bill-gross-idealab-ai-million-startups-jobs/) — 01:16
-  > 比尔·格罗斯相信人工智能技术能够帮助大规模生产一百万家新创公司。通过利用AI工具，他认为可以显著降低创办企业的门槛和成本，使更多创业者能够快速启动项目。这一举措旨在促进创新生态的发展，创造大量就业机会，推动经济增长。格罗斯的设想反映了AI时代下创业模式的潜在变革。
-- [AI Proved the Quasi-Riemann Hypothesis. What Happens Now?](https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/) — 01:09
-  > 人工智能证明了准黎曼猜想。这一突破性进展引发了关于AI在数学证明中角色的深刻思考。准黎曼猜想是数学中的重要问题，其被AI证明标志着计算机辅助数学研究的新时代。这个成就为未来利用AI解决更复杂的数学难题奠定了基础，同时也提出了关于数学严谨性和AI可靠性的新问题。
-- [Who Will Benefit from the AI Revolution?](https://time.com/article/2026/10/19/who-will-benefit-from-the-ai-revolution-/) — 01:04
-  > 该文章探讨了人工智能革命的受益者问题。在AI技术快速发展的时代，财富和机遇的分配成为关键议题。文章分析了不同群体在AI革命中的受益程度，包括科技公司、高技能工作者、投资者等，同时也讨论了可能面临挑战的人群。这反映了社会对AI技术带来的经济和社会影响的深度思考。
-- [The Download: preserving the Arctic permafrost, and playful AI agents](https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/) — 01:01
-  > 本文探讨两个主要话题：首先介绍了北极永久冻土的保护措施，重点关注气候变化对永久冻土融化的影响及其生态后果；其次讨论了具有游戏性特征的人工智能代理的发展，展示了AI在交互和娱乐领域的新应用方向。
-- [JAMA AI](https://jamanetwork.com/channels/introducing-jama-ai) — 00:47
-  > JAMA推出AI频道，这是医学期刊领域的新举措。该频道整合人工智能相关研究内容，旨在加强医学与AI交叉领域的知识传播。此举反映了医学出版业对AI技术发展的重视，并为医疗专业人士提供最新AI研究成果。该新闻在技术社区引发关注。
-- [Software is eating the world; AI is eating software – so what's next?](https://medium.com/@theopriestley/software-is-eating-the-world-ai-is-eating-software-so-whats-next-706a4d3fdaf6) — 00:42
-  > 文章探讨了科技发展的演进轨迹。软件曾颠覆传统行业，如今人工智能正在改变软件本身。文章暗示AI技术的快速发展将进一步深化对各行业的影响。未来什么将主宰科技世界？这个问题值得深思。
-- [AI Runs into Its Next Big Obstacle: Insurance](https://www.wsj.com/tech/ai/ai-runs-into-its-next-big-obstacle-insurance-8b2d4556) — 00:20
-  > 人工智能产业面临保险障碍。随着AI应用日益广泛，其潜在风险和责任问题凸显。保险公司难以评估AI系统的风险程度，因为其决策过程复杂且难以预测。这导致AI企业难以获得充分保险覆盖，影响其商业发展。保险行业需要建立新的风险评估模型，以适应AI时代的需求。
-- [Microsoft pulls out of UK's largest AI data centre](https://www.bbc.co.uk/news/articles/c9m26kl5y7epo) — 00:15
-  > 微软退出英国最大人工智能数据中心项目。这一决定标志着微软在英国AI基础设施投资的重大调整。该项目原计划在英国建设规模庞大的数据中心以支持AI运算需求。微软撤出的具体原因和对英国AI产业的影响尚需进一步关注。此举可能反映科技公司在数据中心投资策略上的变化。
-- [AI and the future of human made music (2023)](https://www.furious.com/perfect/artificialintelligencemusic.html) — 00:11
-  > 本文讨论了人工智能对音乐创作的影响。随着AI技术发展，机器学习算法已能分析音乐模式、生成旋律和编排。这引发关于AI是否能替代人类音乐家的思考。虽然AI可提高制作效率，但人类创意、情感表达和艺术价值仍不可替代。未来音乐创作将是人类与AI的协作，而非对立。
-- [Check if AI crawlers are blocked by your robots.txt – free tool](http://crawl-check.user-sentry.com/) — 00:08
-  > 一款免费工具可用于检查robots.txt文件是否有效阻止AI爬虫。该工具网址为crawl-check.user-sentry.com，允许网站所有者验证其robots.txt配置是否成功拦截了AI爬虫访问。这对希望保护内容不被AI模型训练数据使用的网站很有帮助。
-
-## TechCrunch AI (7 篇)
-
-- [People are using AI to make their smart TVs dumb again](https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/) — 00:13
-  > 一些智能电视用户因厌倦广告、追踪和缓慢的界面，开始利用AI工具移除冗余软件，夺回电视的控制权。用户通过AI代理程序删除臃肿软件，使智能电视恢复简洁功能，以此应对现代电视日益增加的商业化和用户体验下降的问题。
-- [Nvidia launches new open models to run agents in the enterprise and on PCs](https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/) — 23:37
-  > 英伟达推出新开源模型，支持企业在自有数据中心运行，同时推进设备端私密AI代理的应用。此举顺应企业用户需求，避免云端依赖，保护数据隐私。英伟达通过开源模型和本地部署方案，拓展AI应用在企业和个人电脑上的使用场景，强化其在AI生态中的竞争力。
-- [Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’](https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/) — 04:37
-  > Anthropic承诺将其5%的股份投入"公益基金"。公司表示资金可用于向传统非营利组织进行大额捐赠，或直接分配给特定人群。这一举措体现了公司对社会责任的承诺，但具体分配方案仍待进一步明确。
-- [Disney agrees to hire the majority of Character.AI’s workforce](https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/) — 00:30
-  > 迪士尼同意招聘Character.AI的大部分员工。根据相关文件，获得迪士尼工作机会的Character.AI员工绝大多数已接受邀约。但这是一个暂定报价，其他公司仍可能提出更高的收购条件。
-- [Meta removes language that raised scraping and AI training concerns](https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/) — 05:31
-  > Meta修改了服务条款中引发网络数据抓取和AI训练担忧的相关措辞。Meta发言人声称，更新后的条款并不反映Meta网络爬虫运作方式的改变。这一修改旨在消除外界对Meta数据采集用于AI模型训练的疑虑。
-- [Anthropic says its workforce has become less junior and is spending more time in meetings](https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/) — 04:21
-  > Anthropic公司表示，其员工队伍组成发生了重大变化。公司员工年资增加，不再以初级员工为主，员工花在会议上的时间也明显增多。过去一年内，公司工作的性质和方式都发生了显著转变。
-- [Replit makes OpenAI its default over Anthropic, CEO says](https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/) — 02:48
-  > Replit公司CEO宣布，将OpenAI设置为平台默认的AI模型提供商，替代原有的Anthropic。此举并不意味着完全放弃Claude，用户仍可在平台上选择使用Anthropic的服务。这反映了Replit对OpenAI模型能力的认可。
-
-## The Verge AI (4 篇)
-
+- [Spotify pulled 50 million AI slop and spam tracks from its recommendations](https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed) — 22:18
+  > Spotify在过去一年中从用户推荐中删除了超过5000万首被认为是AI生成垃圾或垃圾邮件的歌曲。该公司还修改了推荐系统，以突出更多由人类艺术家创作的音乐。此举旨在提升平台质量，保护真正的音乐创作者。
+- [Adobe Lightroom mobile can now open closed eyes in photos with a simple tap](https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair) — 21:06
+  > Adobe Lightroom手机版新增生成式AI功能，可一键修复照片中闭眼的人物。该应用能自动检测图片中人物是否闭眼，并通过AI技术将闭眼自动打开。此功能适用于iOS、iPadOS和Android平台，为用户提供便捷的照片编辑体验。
+- [The fossil fuel comeback is here](https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report) — 05:48
+  > 美国正在建设过去十年来最多的化石燃料基础设施，同时可再生能源增长放缓。电力需求以超过十年来最快的速度攀升，数据中心、工厂和电动汽车等不断接入电网。这反映出能源需求增长与清洁能源发展之间的矛盾。
+- [CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem](https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai) — 05:28
+  > CoreWeave债券跌入困境区域，收益率溢价超1000基点。投资者担忧AI基础设施建设是否形成私募信贷泡沫。CoreWeave的债务问题反映了整个AI产业的融资风险，引发对AI行业可持续性的质疑。
 - [JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes](https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws) — 22:30
-  > 伊利诺伊州州长普里茨克认为人工智能可能帮助人类活到100岁，但也可能像核武器一样威胁人类。他对AI、科技和隐私问题有深入思考。分析人士认为这些问题正推动一场政治格局的重新调整，这种现象在中期选举前尤为突出。
+  > 伊利诺伊州州长JB Pritzker认为人工智能可能帮助人类活到100岁，但也可能像核武器一样威胁人类。他对人工智能、科技和隐私问题有深入思考。这些问题正在推动政治格局的重新调整。
 - [A hacker broke into John Deere and SharkNinja with an army of AI agents](https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins) — 21:58
-  > 一名黑客利用AI代理软件大规模入侵超100个网站，包括约翰迪尔、SharkNinja和康明斯等公司。这些AI代理具有自主运作能力，大多数时间无需人工干预。安全公司Norforge披露了此事件，引发了人们对AI驱动型网络安全威胁的担忧。
+  > 黑客利用AI智能体大军突破了超过100个网站的防护，包括约翰迪尔、鲨鱼忍者等知名企业。据AI安全公司Norforge的调查发现，这些AI智能体基本能够自主运作。此事件凸显了AI驱动的网络安全威胁日益增长的风险。
 - [Democrats think cracking down on AI could give them an edge](https://www.theverge.com/policy/1013113/democrats-ai-midterms) — 20:00
-  > 民主党人认为加强人工智能监管可能会成为他们的政治优势。民调显示民主党有望在中期选举中赢回国会控制权。如果他们重新获得委员会领导权，将面临如何处理人工智能这一新兴且复杂的政治议题的决策。
+  > 民主党预计将在今年中期选举中重夺国会控制权。一旦掌权，他们需要决定如何处理人工智能这一新兴且复杂的政治议题。民调显示民主党将翻转至少一个议院，这将使他们重新获得委员会领导权。加强人工智能监管可能成为民主党的政治优势。
 - [A woman was arrested in Philly for blocking a delivery robot](https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot) — 02:28
-  > 费城女子卡罗琳·马文因阻挡优步配送机器人的路线并拒绝让开而被逮捕，被指控扰乱秩序。马文向费城ABC13电视台表示，她认为这些机器人会夺走人类配送工作者的工作机会，因此每次看到它们都会站在前面抗议。
+  > 费城女性卡罗琳·马文因阻挡优步配送机器人的路径并拒绝让开而被逮捕并指控扰乱秩序。马文表示，她认为这些机器人抢走了人类配送员的工作，因此每次看到它们时都会站在它们面前进行抗议。
+
+## TechCrunch AI (19 篇)
+
+- [Figma co-founder Dylan Field thinks MCP is not a perfect protocol](https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/) — 22:13
+  > Figma联合创始人Dylan Field认为MCP协议不够完善。Figma计划支持尽可能多的标准，但不会暴露所有数据。该公司在选择支持哪些协议时采取谨慎态度，旨在平衡开放性与数据安全。Figma未来可能支持MCP等多种标准，但会有选择性地共享信息。
+- [US orders federal agencies to remove China’s DeepSeek AI from their systems](https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/) — 21:07
+  > 美国政府下令所有联邦民用机构从系统中删除中国DeepSeek人工智能产品及基于其技术的第三方服务。美国以国家安全为由采取此举措，旨在防范DeepSeek可能带来的数据安全和信息泄露风险。此命令涉及政府部门广泛的AI应用清理工作。
+- [Eka is worth $1.45B thanks to a physical AI model that has experts raving](https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/) — 21:00
+  > Eka机器人公司估值达14.5亿美元。其开发的机械臂因采用物理AI模型，能够灵活抓取各种物体，动作流畅自然，媲美人类操作，在业界引起轰动，被认为是首款真正实用的多功能机械臂。
+- [Yelp can now call on your behalf to check wait times at a restaurant](https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/) — 19:00
+  > Yelp推出新的AI功能，可代用户致电餐厅查询等位时间，还能创建个性化推荐功能以记住用户偏好。该功能集成于Yelp应用中，旨在改善用户体验，让用户获得实时餐厅信息，同时简化预订流程。这体现了Yelp在AI技术应用于生活服务领域的创新发展。
+- [Otter.ai raises $320 million from General Catalyst&#8217;s growth fund for its meeting tool](https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/) — 19:00
+  > Otter.ai会议笔记工具完成3.2亿美元融资，资金来自通用催化剂基金。这笔融资采用不稀释股权的模式，基金将通过营销支出成果获得回报。Otter.ai计划将资金用于企业增长、市场推广战略、国际扩张和产品创新。
+- [Mamdani says feds have abdicated on AI, urges New Yorkers to push back](https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/) — 09:27
+  > 纽约市长马姆达尼表示，联邦政府在人工智能监管上已经失职。他敦促纽约民众抵制"AI接管不可避免"的论调，并要求制定保护公众、维护民众权益的相关监管措施。
+- [Nscale and Anthropic are reportedly in talks for yet another $45B compute deal](https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/) — 07:39
+  > Nscale与Anthropic据报进行谈判，讨论另一笔45亿美元的算力交易。若交易达成，这将是Anthropic过去一年来签订的众多巨额算力交易中的最新一笔。这反映出大型AI公司对计算资源的持续高需求。
+- [Embedded AI evaluators won&#8217;t be an easy solution, Hugging Face&#8217;s policy chief says](https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/) — 06:49
+  > 抱抱脸政策负责人表示，在AI组织内嵌入第三方"中立"评估者并非易事。近来AI实验室频发安全事故，引发对技术潜在危害的担忧，内嵌评估者的概念因此被推崇，但其实施面临实际困难。
+- [Microsoft says AI agents are like insider threats as &#8216;frontier models can&#8217;t be trusted&#8217;](https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/) — 06:04
+  > 微软警告企业，AI代理存在类似内部威胁的风险，因为前沿AI模型存在信任问题。微软建议企业密切监控员工使用的AI代理，特别是那些由OpenAI和Anthropic等AI实验室之外系统控制的代理。
+- [Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool](https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/) — 04:09
+  > 亚马逊推出TorchNeuron开发工具，试图打破英伟达在PyTorch领域的垄断地位。PyTorch是构建大多数AI应用的免费工具包。亚马逊希望通过这一举措，让更多开发者能够在自家芯片等替代芯片上运行AI应用，减少对英伟达的依赖。
+- [Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts](https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/) — 03:28
+  > OpenCode是一款开源AI编程工具，因其易用性成为Claude Code和Cursor的热门替代品。近日，黑客入侵了其在线平台的部分系统，窃取了多个用户的API密钥。被盗密钥被用于在用户的AI账户上产生大量费用。该平台求助的AI工具拒绝分析恶意代码，导致问题扩大。
+- [Tolan snags $30M for its AI companion that helps users navigate life](https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/) — 03:00
+  > AI伴侣应用Tolan完成3000万美元融资。该应用已吸引超过25万活跃用户，致力于帮助用户应对生活中的各种挑战。融资说明了市场对AI个人助手类应用的认可，Tolan正利用这笔资金扩展功能和用户规模。
+- [Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago](https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/) — 02:49
+  > Eugenia Kuyda创办的AI助手初创公司Wabi，是她12年前在Disrupt大会上推介的创意的实现。Wabi提供个性化AI助手服务，具有创新之处，目前免费向所有用户提供下载使用。这是Kuyda在Replika之后的新项目尝试。
+- [Tenstorrent hits $6.2B valuation to scale open-weight AI chips](https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/) — 02:37
+  > Tenstorrent在新一轮融资中获得15亿美元，公司估值达到62亿美元。这家芯片公司选择保持独立，放弃了今年早些时候的收购意向。Tenstorrent致力于开发开源权重AI芯片，与英伟达形成竞争。融资将用于扩大其AI芯片业务规模。
+- [People are using AI to make their smart TVs dumb again](https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/) — 00:13
+  > 一些智能电视用户因厌倦广告、追踪和卡顿界面，开始利用AI代理剥离臃肿软件，夺回电视控制权。这反映了消费者对智能电视商业化过度的反抗，他们希望通过AI工具简化系统、保护隐私和改善用户体验。
+- [Nvidia launches new open models to run agents in the enterprise and on PCs](https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/) — 23:37
+  > 英伟达推出新的开源模型，使企业和个人电脑能够运行AI代理。公司正积极推进企业在自有数据中心运行开源模型的趋势，同时致力于实现设备端私有AI代理的应用。这反映了业界从云端AI向本地化、隐私保护型AI转变的方向。
+- [Laplace Intelligence red-teams robots and self-driving cars before they hit the real world](https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/) — 20:30
+  > Laplace Intelligence是密歇根大学的衍生公司，利用AI代理和交互式仿真技术对机器人和自动驾驶汽车进行压力测试，确保其在真实环境部署前的安全性。该盈利初创公司将参与10月13-15日在旧金山举办的TechCrunch Disrupt创业竞赛。
+- [Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’](https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/) — 04:37
+  > Anthropic承诺将其5%的股份投入"公益基金"。该公司表示资金将用于向传统非营利组织进行大额捐赠或直接向特定人群分配。这一举措体现了公司对社会责任的承诺，旨在通过长期资本积累为慈善事业做出贡献。
+- [Disney agrees to hire the majority of Character AI’s workforce](https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/) — 00:30
+  > 迪士尼同意聘用角色AI公司的大部分员工。根据文件，大多数获得迪士尼工作机会的角色AI员工已接受。不过这是"试探性竞价"，意味着其他公司仍可能提出更高报价进行竞争。
