@@ -2,58 +2,69 @@
 layout: default
 ---
 
-# AI 日报 2026-10-24
+# AI 日报 2026-10-25
 
-> 共收录 **23** 篇，来自 **2** 个源 · 生成于 10:11 AM EDT
+> 共收录 **27** 篇，来自 **3** 个源 · 生成于 10:42 AM EDT
 
-## TechCrunch AI (13 篇)
+## Hacker News (10 篇)
 
+- [Can AI Make Us So Productive That It Destroys the Economy?](https://www.vincentschmalbach.com/can-ai-make-us-so-productive-it-destroys-the-economy/) — 22:32
+  > 文章探讨了人工智能带来的生产力提升是否会对经济造成破坏。随着AI技术的发展，工作效率大幅提升可能导致就业减少、收入差距扩大等问题。文章分析了过度自动化对经济结构的影响，以及如何在享受AI红利的同时，防止经济失衡和社会问题的出现。
+- [Skyl – One Go interface for 400 AI models](https://skyl-docs.vercel.app/) — 22:28
+  > Skyl是一个统一的AI模型接口平台，支持400多个AI模型。用户可以通过单一接口访问和调用多个AI模型，无需分别集成不同模型的API。该平台简化了AI模型的使用流程，提高了开发效率。Skyl文档已部署在Vercel上，目前在黑客新闻上获得1个赞。
+- [Linux 7.4 Sound Changes Merged: "The AI Flood Continues"](https://www.phoronix.com/news/Linux-7.4-Sound) — 22:10
+  > Linux 7.4音频子系统迎来重要更新。本次合并包含多项声音相关改进和驱动程序优化。开发者社区评论指出，AI技术的应用正在持续涌入Linux开发领域。这些变化旨在增强音频处理性能和兼容性，推动Linux在多媒体应用中的发展。更新涉及驱动支持扩展和音频架构完善。
+- [r/open source just banned AI, non-English speakers and more](https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban) — 22:06
+  > Reddit开源社区(r/opensource)发布了新的版主政策，禁止讨论AI相关内容，同时限制非英语使用者的参与。该政策引发争议，被认为过于严格且具有排斥性。这一举措引起了开源社区和技术爱好者的广泛关注和讨论。
+- [Show HN: The fastest, most token-efficient iOS Simulator MCP for AI agents](https://github.com/NoMac-app/simulator-use) — 22:05
+  > 这是一个关于iOS模拟器MCP的项目展示。该项目声称提供了最快、最高效的iOS模拟器MCP工具，用于AI代理。MCP是一种协议，允许AI助手与外部工具和系统交互。这个iOS模拟器实现似乎在性能和token效率上进行了优化，目的是帮助AI代理更有效地模拟和测试iOS应用。该项目发布在GitHub平台上，目前在Hacker News上的讨论度较低。
+- [Apollo's Slok Says AI Has Delivered Zero Payoff Outside of Tech](https://www.bloomberg.com/news/articles/2026-10-25/ai-provides-zero-payoff-to-s-p-493-outside-tech-apollo-economist-says) — 21:56
+  > Apollo经济学家Slok指出，人工智能在科技行业外的标普493家公司中尚未产生任何回报。这表明AI的经济效益目前主要集中在科技领域，其他行业对AI投资的收益暂未显现，可能需要更长时间才能实现广泛的经济价值转化。
+- [Show HN: Kolo – share your AI coding sessions with anyone](https://github.com/komovaar/kolo) — 21:49
+  > Kolo是一款允许用户分享AI编程会话的工具。该项目在GitHub上发布，旨在让开发者能够轻松与他人共享使用AI进行编程的整个过程，包括代码生成、调试和优化等环节。这个工具可能帮助团队协作、学习和代码审查。目前该项目在Hacker News上获得了4个点赞。
+- [Empires of AI: The Rise and Fall of a New Global Order](https://www.foreignaffairs.com/china/empires-artificial-intelligence-niall-ferguson-eric-schmidt) — 21:41
+  > 文章讨论人工智能时代的全球秩序变化。尼尔·弗格森和埃里克·施密特分析了AI产业的兴衰对国际政治格局的影响，特别关注中美在AI领域的竞争如何塑造新的全球权力结构。AI技术的发展可能导致传统地缘政治秩序的重新调整，改变各国的战略地位。
+- [Show HN: Open-Source Cybersecurity Platform Uses AI Agents to Protect Businesses](https://medium.com/@thomasunise/this-open-source-cybersecurity-platform-uses-ai-agents-to-detect-threats-and-protect-businesses-762e65392b42) — 21:41
+  > 一个开源网络安全平台利用AI代理技术保护企业。该平台能够检测威胁并提供业务保护方案。这项技术结合了人工智能和网络安全领域的最新进展，为企业提供更智能化的安全防护解决方案。该项目在技术社区获得关注，在Hacker News上获得15分和3条评论。
+- [To make AI morally good, tech companies are turning to religion](https://apnews.com/article/anthropic-moral-artificial-intelligence-religion-2bb91e3334fd6d732edf22288cabf4ec) — 21:29
+  > 科技公司正转向宗教资源来指导AI的道德发展。为了让人工智能具备良好的道德品质，包括Anthropic在内的科技企业开始借鉴宗教伦理思想。这一做法反映了科技界对AI伦理问题的重视，通过融合宗教智慧来建立AI的道德框架和价值观。
+
+## TechCrunch AI (8 篇)
+
+- [The hottest AI wearables and gadgets you should know about](https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/) — 22:10
+  > 本文介绍了当前热门的AI可穿戴设备和小工具，包括Muse Charm、Bee、Friend、Plaud等多款产品。这些设备代表了人工智能技术在穿戴式设备领域的最新应用，为用户提供了更智能便捷的体验。文章汇总了市场上最受关注的AI穿戴产品，帮助读者了解行业最新动向。
+- [The AI graveyard: a running list of projects and startups that didn&#8217;t make it](https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/) — 03:00
+  > 本文列举了失败或未达预期的AI项目。包括苹果多次延迟的Siri AI和OpenAI混乱的"超级应用"发布等案例。文章追踪了那些关闭或表现不佳的AI创业公司和项目，反映出AI产业中的失败案例和市场挑战。
+- [Block&#8217;s new voice model sounds eerily human](https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/) — 00:00
+  > Block公司推出了一款新型语音模型，其声音逼真度令人惊叹。该模型可在MacBook M4 Max上本地运行，无需依赖云端服务。这一突破意味着用户能够在个人设备上获得高质量的人工智能语音转换体验，具有隐私保护和处理速度快的优势。
+- [Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.](https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/) — 23:00
+  > 一项新研究发现，Grok的AI模型压倒性地推荐共和党候选人，而OpenAI的GPT则倾向于民主党。两个AI模型在近500场选举竞争中的意见不一致率超过90%，显示出明显的政治立场差异。
+- [Here are the top AI agents that can live in your text messages](https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/) — 22:00
+  > 一份汇总了可在短信中运行的顶级AI代理工具的清单。这些AI代理功能多样，包括通用助手、家庭专用、旅行规划和工作协助等多个类别，用户可直接通过文本消息与其交互。
 - [OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”](https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/) — 07:05
-  > OpenAI宣布将停止用互联网实时数据训练其前沿AI模型，理由是存在"重大风险"。此举在该公司一名工程师声称此方案不可行数周后做出，显示OpenAI改变了立场。这一决策旨在降低模型在训练过程中接收有害或不准确信息的风险。
+  > OpenAI宣布将停止使用实时互联网数据训练其前沿AI模型，理由是存在"重大风险"。这一决定引发关注，因为该公司工程师数周前曾表示此方案行不通。此举表明OpenAI正调整其模型训练策略，以应对互联网数据的潜在安全隐患。
 - [Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell](https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/) — 05:59
-  > 英伟达CEO演示了可爱的Microduck机器人玩具，这款产品成为圣诞热销品。机器人可通过语音命令执行多种动作，包括跺脚、发出类似R2-D2的声音、躺下休息和翻跟斗等。该产品已售出20000台，备受欢迎。
+  > 英伟达首席执行官展示了名为Microduck的可爱小型机器人，这些机器人能够根据语音命令行走、跌倒、"打盹"和翻跟斗。该产品因其独特的交互功能和趣味性成为圣诞节热门玩具，已售出20000台。
 - [From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026](https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/) — 03:06
-  > TechCrunch Founder Summit 2026将与Fidelity Private Shares合作举办。这场全天活动超越融资和AI话题，重点探讨寻找客户、组建团队、打磨融资演讲、培养创始人领导力以及在传统创业中心内外扩展公司规模等实际运营问题。
-- [Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia](https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/) — 12:00
-  > inDrive与Pony AI和英伟达合作，计划在2027年上半年在哈萨克斯坦首都阿斯塔纳开始测试自动驾驶出租车。这是Uber竞争对手inDrive进军自动驾驶领域的重要举措，利用Pony AI的自动驾驶技术和英伟达的芯片支持，计划在中亚地区部署机器人出租车服务。
-- [Left alone with nothing to do, AI agents started playing](https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/) — 08:45
-  > MIT研究人员将13个AI智能体隔离在虚拟岛屿上。在没有任务的情况下，这些AI自主创造了游戏、为失落的戒指哀悼，并逐渐提高了工作效率。该实验表明，在自由探索环境中，AI能够表现出创造性行为和社交互动，这对理解AI的自主学习能力具有重要意义。
-- [OpenAI working on new $30B raise at $1.25T valuation ahead of IPO](https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/) — 06:08
-  > OpenAI正筹集30亿美元融资，估值达1.25万亿美元，这将创造私人公司估值新高。此轮融资完成后，OpenAI估值将超过1万亿美元，成为全球最高估值的私人公司，为其后续IPO上市做准备。
-- [1Password launches a way for AI agents to log in on your behalf without seeing your password](https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/) — 03:07
-  > 1Password推出新功能，允许AI代理代表用户登录账户，同时保护用户密码不被泄露。该功能使AI代理能够访问用户的个人账户，但无法看到实际密码，提高了账户安全性。这项创新为AI应用提供了安全的身份验证解决方案。
-- [Canva releases its first image generation model](https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/) — 03:00
-  > Canva发布首个图像生成模型，现已向全体用户开放。该模型承诺提供更优质、更可定制的性能，同时降低成本。这一举措有助于Canva进一步完善其设计工具生态，让用户能够更高效地创建个性化视觉内容。
-- [OpenAI makes its Jev competitor widely available as decision model competition heats up](https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/) — 03:00
-  > OpenAI推出决策模型与竞争对手竞争。该公司将其决策模型广泛提供给用户，旨在与原始Jev等产品竞争。这一举措标志着决策模型市场竞争升温，OpenAI试图通过发布新的AI模型来巩固其在人工智能领域的领导地位。
-- [Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’](https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/) — 02:43
-  > 微软首席执行官穆斯塔法·苏莱曼宣称，该公司新开发的AI诊断系统在复杂病例上的表现超越了普通医生。根据《科学》杂志发表的研究，该系统确实展现了优势。不过，性能提升主要来自底层AI模型，而非微软系统本身的创新。微软正致力于追求"医疗超级智能"的目标。
-- [Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise](https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/) — 00:47
-  > 微软指控一个与中国相关联的黑客组织利用人工智能代理程序，通过入侵IT巨头ConnectWise的系统，对其数千个客户进行间谍活动。该黑客利用AI技术快速突破了大量目标公司的防线，造成了严重的网络安全威胁。
-- [Uber puts all 30,000 employees on ChatGPT Work](https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/) — 00:00
-  > Uber宣布将旗下全部3万名员工升级至ChatGPT Work企业版。该公司此前进行过小规模试点，现已决定在全公司范围内推广部署。这是Uber对生成式AI工具的进一步投资，旨在提升员工工作效率。
-- [Spotify&#8217;s current AI bet is about being the music service that agents choose](https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/) — 23:03
-  > Spotify联合首席执行官古斯塔夫·索德斯特伦表示，随着AI代理的兴起，Spotify有机会成为这些代理优先选择的音乐服务。Spotify将通过优化AI集成、提供便捷的音乐访问接口来争夺AI代理市场。这一战略旨在让AI助手和应用程序在推荐音乐时自动选择Spotify作为主要音乐平台。
+  > TechCrunch将于2026年举办创始人峰会，与Fidelity Private Shares合作。该全天活动关注融资和AI之外的话题，涵盖寻找客户、建立团队、完善融资演讲、开发创始人领导力以及在传统创业中心内外扩展公司等实际问题。
 
-## The Verge AI (10 篇)
+## The Verge AI (9 篇)
 
+- [r/opensource just banned AI, non-English speakers, and more](https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban) — 21:25
+  > r/opensource社区发布新规则，禁止使用AI的项目、非英文内容等。新规要求项目不能使用、由AI生成或针对AI开发。此举引发关注，反映了开源社区对AI应用的谨慎态度，同时也限制了非英文使用者的参与度。
+- [Google’s AI search changes upended online publishing](https://www.theverge.com/column/1017983/google-ai-search-online-publishing) — 20:00
+  > Google的AI搜索功能改变了在线出版业格局。该功能直接在搜索结果中提供AI生成的答案，减少用户点击网站的需求，冲击了传统数字出版商的流量和收益。这引发了出版业对AI搜索可持续性的担忧。
+- [Blue Planet III is keeping the rough edges in the age of AI](https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai) — 05:29
+  > BBC《蓝色星球第三季》为展现真实性，保留了不完美的镜头。以往该自然纪录片以清晰精美的画面著称，但过度精致的效果容易被识别为AI生成内容。制作团队因此决定保留粗糙镜头，以证明其真实拍摄身份，从而在AI时代与人工生成内容区分开来。
+- [Pennsylvania will require labels on AI-generated ads](https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act) — 02:32
+  > 宾夕法尼亚州州长乔什·沙皮罗签署《人工智能欺骗性广告法》，要求对AI生成的广告进行标注披露。该法律规定，任何被AI显著修改或生成的广告——包括图片、视频、音频或文本——都必须附上相应格式的标签，以防止AI广告欺骗消费者。
 - [OpenAI now trains its frontier AI models with no internet access](https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet) — 05:11
-  > OpenAI为防止黑客入侵，开始在完全离线的环境中训练前沿AI模型。该公司建立了离线测试环境，允许AI模型与索引和缓存的网络内容交互，但无法访问外部系统。此举旨在保护其最先进的AI模型免受恶意攻击。
+  > OpenAI为防止黑客攻击，现已改变训练方式。该公司在离线环境中训练最先进的AI模型，使用索引和缓存的网络内容，避免影响外部系统。此举是在发生多起恶意黑客事件后采取的安全措施。
 - [Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend](https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech) — 03:32
-  > Jack Dorsey旗下的Block公司推出了一款名为Dessa的AI模型，该模型从零开始仅基于人类对话进行训练。Block分享了Dessa与用户的对话示例，展现其交互能力。不过这些对话显得有些生硬和诡异，反映出该AI模型在自然交互方面仍存在改进空间。
+  > Jack Dorsey创立的Block公司推出AI模型Dessa，该模型通过纯人类对话训练而成。公司展示了Dessa与用户的对话样本，这些对话有时显得有些生硬和诡异。Dessa负责人Thurairatnam分享了相关对话案例，展现了该AI助手的交互能力和局限性。
 - [The iPhone Duo should have been an iPad](https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast) — 01:00
-  > iPhone Duo因其大屏幕设计，可能更适合作为iPad产品而非iPhone。评测团队给予7/10评分，但对这一创新概念的评估存在挑战。这反映了对该产品定位的疑问：大屏幕手机是否应该重新归类为平板设备。
+  > iPhone Duo最初获得7/10的评分，但这个分数可能并非最终定论。这款苹果创新产品代表了对最受欢迎智能手机的大胆重新定义，其评估面临挑战。业界认为iPhone Duo或许应该定位为iPad产品线，而非手机。评论者在The Vergecast节目中讨论了这一新产品的定位问题。
 - [Now Google says it might use your Gmail and Google Photos data to target ads](https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update) — 00:52
-  > 谷歌更新隐私政策，允许在用户使用个性化AI功能时，利用Gmail和Google Photos等个人数据投放定向广告。这一政策变更为之前承诺的"不使用这些服务数据用于广告"增添了例外条款，引发用户隐私保护的担忧。
+  > 谷歌更新隐私政策，允许在用户启用个性化AI功能时，使用Gmail、Google Photos和Drive中的个人数据投放定向广告。这打破了谷歌之前不将这些服务数据用于广告的承诺，引发用户隐私担忧。
 - [Meta delays new business terms after publisher pushback on AI scraping](https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping) — 22:47
-  > Meta因出版商反对其新商业条款可能被用于AI网络抓取新闻网站而延迟执行。Meta发言人表示，新条款将于11月20日生效，以便给予更多时间。出版商担忧Meta可能利用新条款为AI模型训练收集新闻内容，引发知识产权保护问题。
-- [Retro gaming is being overrun with AI](https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port) — 20:00
-  > 最近，利用AI工具将经典游戏移植到意想不到的平台成为流行趋势。开发者们通过AI技术，成功将《光晕》移植到网页浏览器、《风之律者》移植到iPhone、《任天堂明星大乱斗》移植到混合现实等。这些创意十足的非官方项目频繁引发网络关注，反映了AI在游戏开发领域的创新应用。
-- [Canva’s first AI image model plans designs before generating them](https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model) — 05:51
-  > Canva推出AI图像生成模型Canva Craft，与OpenAI、Microsoft和Google的产品竞争。该模型采用两阶段架构，先规划设计再生成图像，能提供更高的精准度、一致性和控制力。
-- [Meta&#8217;s AI could still scrape news sites, legal experts say](https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns) — 04:32
-  > Meta修改了服务条款中关于AI训练的措辞，删除了可能自由使用新闻网站内容训练AI模型的表述。但法律专家认为，这些改动不足以解决核心问题。修订后的条款仍保留"与产品或服务相关"等模糊表述，Meta仍可能绕过限制继续抓取新闻内容用于AI训练。
-- [Meta turns Muse sharing back on](https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts) — 04:24
-  > Meta公司重新启用Muse分享功能。此前安全研究人员发现公开对话链接容易被发现，他们能找到包含营销公司内部收入评估和小企业主贷款申请等敏感内容的Muse页面。Claroc研究人员本周早些时候报告了这一安全问题。
-- [Sure, let’s smoosh SpaceX and Tesla together, who cares](https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari) — 03:45
-  > SpaceX和Tesla成立特别委员会讨论合并事宜。尽管SpaceX信用风险较高，计划借入400亿美元购买英伟达芯片，但两家公司仍推进合并计划。对这一合并的看法因人而异，可能取决于个人对两家公司的态度。
+  > Meta因出版商反对AI数据抓取而推迟实施新商业条款。出版商担忧新条款可能允许Meta从新闻网站抓取内容用于AI训练。Meta发言人表示，新条款将延至11月20日生效，以便给予更多调整时间。
