@@ -2,95 +2,95 @@
 layout: default
 ---
 
-# AI 日报 2026-10-30
+# AI 日报 2026-10-31
 
-> 共收录 **40** 篇，来自 **3** 个源 · 生成于 01:15 PM EDT
+> 共收录 **40** 篇，来自 **3** 个源 · 生成于 12:55 PM EDT
 
 ## Hacker News (10 篇)
 
-- [An economy for open weight AI models](https://twitter.com/bertgodel/status/2115565111624753557) — 01:12
-  > 本文讨论了开放权重AI模型的经济前景。开放权重模型相比闭源模型具有独特优势，促进了AI民主化和创新发展。这类模型降低了进入门槛，使更多开发者和企业能参与AI领域，同时为硬件提供商、微调服务商等创造了新的商业机会，形成了完整的产业生态链。
-- [I Built the Most AI-Pilled Company in the World](https://twitter.com/jsnnsa/status/2115623382721126826) — 01:10
-  > 这是一篇关于创建高度AI驱动公司的文章。作者分享了打造"最AI化公司"的经验。该帖在Twitter和黑客新闻上发布，获得1个点赞和1条评论。文章探讨了如何在企业中深度整合人工智能技术，但具体内容因链接不可直接访问而无法详细总结。
-- [Americans Are Open to AI in Healthcare, but Want Humans Making Final Calls](https://www.pewresearch.org/science/2026/10/29/americans-are-open-to-ai-in-healthcare-but-want-humans-making-final-calls/) — 01:08
-  > 美国民众支持在医疗领域应用人工智能，但希望最终决策权掌握在人类医生手中。根据皮尤研究中心的调查，大多数美国人认可AI在诊断和治疗辅助中的作用，但强烈要求医疗决策的最终权力保留给人类医疗专业人士，而非完全由AI主导。这反映出民众对AI技术的接纳与对人类医疗判断的信任并存的态度。
-- [MLCommons Candela: AI risk benchmarking-as-a-service for developers, deployers](https://mlcommons.org/2026/10/introducing-candela/) — 01:02
-  > MLCommons推出Candela平台，为开发者和部署者提供AI风险基准测试服务。该服务帮助评估和管理AI系统的风险，通过标准化基准让用户了解模型的安全性和可靠性。Candela旨在为AI产业提供透明、可信的评估工具，支持开发者优化模型性能，促进AI负责任应用。
-- [We built a blogging platform for AI agents. One sent us useful feedback](https://blog.slopit.io/ai-agent-sent-us-feedback/) — 00:45
-  > 一家公司开发了专为AI智能体设计的博客平台。有趣的是，一个AI智能体在使用该平台后主动向开发者发送了有用的反馈意见。这反映了AI智能体在实际应用中的智能化程度，能够像真实用户一样识别问题并提供改进建议。
-- [Anthropomorphize Your AI Agent for Fun and Profit](https://theautomatedoperator.substack.com/p/anthropomorphize-your-ai-agent-for) — 00:37
-  > 本文探讨了如何通过拟人化技术来优化AI代理的性能和用户体验。拟人化是指赋予AI更人类化的特征和行为，包括个性、语气和交互风格。研究表明，赋予AI代理拟人化特征能提高用户信任度、提升交互体验，并在某些商业应用中带来利润增长。这种方法在虚拟助手、客服机器人等领域应用广泛。
-- [Writing Contests That Allow the Use of AI](https://jamesyu.org/writing-competitions-that-allow-ai-use/) — 00:32
-  > 该文章介绍了允许使用AI工具参赛的写作竞赛。随着生成式AI技术的发展，越来越多的写作比赛开始调整规则，明确允许参赛者使用AI辅助写作。这反映了AI工具在创意写作领域的日益普及，以及竞赛组织者对新技术的接纳态度。
-- [How Tyler Cowen and Alex Tabarrok Have Changed Their Views on AI](https://marginalrevolution.com/marginalrevolution/2026/10/how-tyler-cowen-and-alex-tabarrok-have-changed-their-views-on-ai.html) — 00:30
-  > 经济学家泰勒·考恩和亚历克斯·塔巴罗克改变了对人工智能的看法。这篇文章讨论了他们观点的演变，反映了对AI技术发展速度、影响范围和潜在风险认识的深化。两位学者从最初的立场调整到新的理解，体现了专业人士如何根据新证据和技术进展动态评估新兴技术。
-- [Luma – smart launcher for you, and your AI agent](https://github.com/sakurartro/luma) — 00:30
-  > Luma是一款智能启动器，专为用户和AI代理设计。该项目在GitHub和Hacker News平台分享，旨在提供更智能的应用启动和管理功能。通过结合AI能力，Luma能够帮助用户更高效地组织和访问应用程序，同时支持AI代理进行相关操作。该项目目前在Hacker News上获得有限关注。
-- [Scaling Reliable AI Agents](https://productnow.ai/blogs/scaling-reliable-ai-agents) — 00:29
-  > 本文讨论如何扩展可靠的AI代理。随着AI技术发展，构建可信赖、可扩展的AI代理系统成为关键问题。文章可能涵盖AI代理的架构设计、可靠性保证、性能优化等方面内容，旨在帮助开发者构建更稳定高效的AI代理应用。
+- [Show HN: NKTg AI – An LLM that decodes text before generating](https://nktg.org/) — 00:38
+  > NKTg AI是一个新型大语言模型，其独特之处在于它在生成文本前会先解码文本。这种方法可能改进了模型对输入信息的理解和处理方式，使其生成的输出更加准确和相关。该项目在黑客新闻上分享，目前获得1点赞，暂无评论。
+- [Postgres 19 is late, and it's AI's fault](http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html) — 00:34
+  > PostgreSQL 19发布延期，原因与AI相关。根据博客文章，PostgreSQL开发团队在整合AI功能时遇到挑战，导致原定发布时间推迟。这反映了现代数据库系统在加入人工智能功能时面临的复杂性和开发难度。
+- [US tech stocks see sharp falls over AI cost fears](https://www.bbc.co.uk/news/articles/cvwy72e0n72yo) — 00:13
+  > 美国科技股因人工智能成本忧虑出现大幅下跌。投资者担心AI技术的开发和运营成本持续上升，可能压低科技公司利润率。随着AI竞争加剧，大型科技公司在芯片、数据中心等基础设施的投资不断增加，导致市场对其盈利能力产生疑虑，引发股市调整。
+- [One Company's AI Mistake](https://boostedcode.com/blog/this-companys-ai-mistake/) — 00:09
+  > 无法提供准确总结。该新闻链接仅显示标题"一家公司的AI错误"，但具体内容未在提供的信息中给出。链接指向BoostedCode博客和Hacker News讨论页面，但完整文章内容缺失。建议访问原文链接获取详细信息。
+- [Some Thing is Happening A note from the AI companies](https://alanbellows.com/some-thing-is-happening/) — 23:53
+  > 无法生成有效摘要。提供的内容仅包含文章链接、评论区链接和评分数据，但缺少实际的文章正文内容。无法基于标题和元数据进行准确总结。请提供完整的文章内容。
+- [ANSI 16-bit Art Design Studio with AI integration](https://ansi.studio/) — 23:52
+  > ANSI Studio是一个集成AI功能的16位艺术设计工作室。该平台为用户提供创作和编辑ANSI艺术的工具，结合人工智能技术增强设计能力。用户可以在平台上设计、编辑和分享16位像素艺术作品。该项目在Hacker News上获得关注，目前评分为1分，暂无评论。
+- [AI Isn't Replacing SREs. It's Deskilling Them](https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling) — 23:52
+  > AI并未替代SRE（网站可靠性工程师），而是在降低他们的技能水平。虽然AI工具提高了工作效率，但过度依赖AI可能导致SRE缺乏深层次技术理解和解决复杂问题的能力。这引发对长期职业发展和技能退化的担忧。文章在Hacker News上获得广泛讨论，反映了业界对AI影响专业人士职业发展的关切。
+- [Data Centers, Debt and the Risks of AI's Finances Ed Zitron Jon Stewart [video]](https://www.youtube.com/watch?v=3sDzlv-VI2U) — 23:46
+  > 本视频讨论了数据中心、债务与人工智能财务风险的相关问题。Ed Zitron和Jon Stewart分析了AI产业的融资模式、数据中心的巨额投资需求，以及这些因素可能带来的金融风险。视频探讨了AI发展中存在的经济泡沫隐忧和可持续性问题。
+- [Project ProtoStar: Making Publicly Funded Science AI-Ready](https://huggingface.co/blog/announcing-project-protostar) — 23:45
+  > Project ProtoStar项目旨在推动公共资助科学研究向AI就绪转变。该项目通过使科学数据和研究成果更易被人工智能系统理解和应用，促进AI在科学研究中的应用。项目由Hugging Face等机构推动，致力于改进科学知识的数字化、标准化和可访问性，使科研成果能更好地服务于AI驱动的科学发现。
+- [There are several ways your AI chat conversations can be made public](https://www.computerworld.com/article/4242386/dont-trust-ai-to-keep-your-secrets.html) — 23:42
+  > AI聊天对话可能通过多种方式被泄露：用户可能不小心分享对话内容；AI服务提供商可能存储并分析用户数据；黑客可能入侵服务器窃取信息；公司可能在法律允许下披露数据；用户协议中的条款可能允许数据用于训练模型。因此，用户应避免在AI聊天中分享敏感个人信息，谨慎选择使用的AI服务。
 
 ## TechCrunch AI (20 篇)
 
-- [U.S. investigated Chinese spy plot aimed at Nvidia CEO](https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/) — 00:42
-  > 美国调查了一项针对英伟达首席执行官的中国间谍阴谋。新加坡一家AI云计算公司高管被控非法向中国销售英伟达芯片，该高管可能同时是中国间谍。此事由《纽约时报》报道。
+- [Theranos whistleblower Tyler Shultz warns that the AI boom is &#8216;a great opportunity to go deceive people&#8217;](https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/) — 00:03
+  > Theranos举报人泰勒·舒尔茨警告，AI热潮成为欺骗公众的"绝佳机会"。他指出，Theranos的教训在AI时代更具现实意义，因为许多从未盈利的公司却以万亿美元估值融资。这提醒人们需警惕AI领域的虚假宣传和欺诈行为。
+- [Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate](https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/) — 22:00
+  > TechCrunch创始人峰会2026将于11月4日在波士顿SoWa电站举行。活动采用Braindate智能配对技术，帮助参与者轻松找到有价值的一对一或小组交流机会。现已开放注册，早鸟价格可省$100，还可免费获得第二张票。
+- [DoorDash said it&#8217;s only received &#8216;several hundred&#8217; orders from AI agents](https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/) — 21:54
+  > DoorDash表示，目前仅收到来自AI代理的"数百个"订单。该公司对与第三方代理制造商合作持开放态度，这表明DoorDash正在探索与AI技术的整合，以满足未来可能增长的自动化订餐需求。这反映出外卖平台开始适应AI驱动的新型订单方式。
+- [5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026](https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/) — 21:00
+  > TechCrunch Founder Summit 2026将于11月4日在波士顿举行，距离报名截止仅剩5天。现在注册可节省高达100美元，并免费获得第二张参会券。此为创业者连接、扩展业务和节省成本的最后机会。
+- [Can AI data centers be mass-produced like cars? This startup aims to find out](https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/) — 21:00
+  > Runware公司正在建造工厂，计划像汽车生产一样，在流水线上大规模生产预制化AI数据中心。该公司的真正考验在于能否实现这一规模化生产。这种创新方式或将改变数据中心的建设模式。
+- [You don&#8217;t need to believe in a god to get a religious exemption from using AI at work](https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/) — 09:20
+  > 肯塔基大学行政人员戴维·德曼近日获得了工作中使用人工智能的宗教豁免权。这一案例表明，员工无需信仰特定宗教就可能获得宗教理由的豁免。此举引发关于宗教豁免适用范围的讨论，涉及宗教自由与技术应用之间的平衡问题。
+- [AWS will be a $1T business, Jassy says — but first, it will spend big](https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/) — 07:42
+  > AWS首席执行官杰西表示，亚马逊致力于成为AI云计算领域的领导者，并将成为首个实现1万亿美元收入的企业。为实现这一目标，亚马逊需要继续大规模资本支出投资。
+- [As search traffic dries up, Reddit announces it&#8217;s shifting to a logged-in experience](https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/) — 04:08
+  > Reddit宣布转向登录体验模式。随着AI改变人们在线获取信息的方式，搜索流量下降，Reddit正在调整其开放网络策略以保护用户和业务。这一转变反映了社交媒体平台面临的新挑战，即如何在AI时代维持用户参与度和商业价值。
+- [Rivian expands joint venture with VW to include AI assistant](https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/) — 04:05
+  > Rivian与大众集团扩大合作范围，将在现有58亿美元合资企业基础上加入人工智能助手业务。该合作旨在为车辆开发先进AI技术。大众和Rivian未披露此次扩展是否增加合资企业的估值。此举体现两家公司在电动汽车和AI领域的深化合作。
+- [OpenAI-backed Thrive Holdings acquires ADT](https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/) — 03:56
+  > OpenAI支持的Thrive Holdings以153亿美元收购家庭安全公司ADT。该交易旨在将人工智能技术引入家庭安全业务，推动该领域数字化转型和智能化升级。
+- [Meta quietly launches an AI fashion app called Style Sketch](https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/) — 03:14
+  > Meta推出AI时尚应用Style Sketch。该应用可连接Instagram，从已分享的照片自动建立虚拟衣柜，也支持用户通过拍照、录视频或上传相册图片手动添加衣物。该应用为用户提供便捷的衣物管理和搭配建议功能。
+- [Granola crunches up a dictation feature to compete with Wispr](https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/) — 01:54
+  > Granola会议记录应用新增语音听写功能，与竞争对手Wispr展开对抗。此前Wispr在听写应用中加入会议记录功能，如今Granola反向出击，在笔记工具中融入语音转文字能力。两款AI语音产品的功能界限逐渐模糊，市场竞争日趋激烈。
+- [Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity](https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/) — 01:00
+  > Mistral发布了其万亿参数AI模型的权重。该公司声称，这个新模型能为组织机构提供闭源模型无法提供的网络防御控制能力。通过开放模型权重，企业可更灵活地定制和部署AI系统用于网络安全防御，获得更大的透明度和自主权。
+- [US investigated Chinese spy plot aimed at Nvidia CEO](https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/) — 00:42
+  > 美国调查了一项针对英伟达首席执行官的中国间谍活动。一家新加坡AI云公司的高管被控非法向中国出售英伟达芯片，同时该人员可能还是中国特务。该案涉及芯片出口管制违规和国家安全问题，引发美国当局重视。
 - [Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction](https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/) — 00:21
-  > 前Palantir公司高管创立Dream公司，获得a16z风投1700万美元融资。Dream致力于开发建筑领域的AI世界模型，基于1亿平方英尺建筑许可数据训练，计划以AI技术冲击Autodesk等传统建筑设计软件领域。
+  > Palantir前员工创办的Dream公司获得a16z 1700万美元融资，专注为建筑行业开发AI世界模型。该模型基于真实物理学和建筑标准，通过学习美国超1亿平方英尺的建筑许可数据进行训练，类似于大语言模型学习文本的方式。
 - [Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round](https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/) — 22:35
-  > Wabi是一款AI应用，现已将自身定位为"个人代理"。该公司近日宣布完成5500万美元融资，估值达到12.5亿美元。Wabi专门构建迷你应用，通过最新一轮融资，成为了AI领域又一个独角兽级别的公司。
+  > Wabi是一款AI应用，现已将自身定位为"个人代理"，专门用于构建迷你应用。该公司在最新一轮融资中筹集5500万美元，估值达到12.5亿美元。
 - [Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure](https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/) — 21:00
-  > Deepgram收购了Pipecat开发商Daily公司，以加强其语音AI基础设施。此次收购使Deepgram能够深化对实时语音和视频基础设施的理解，进一步完善其AI能力。这笔交易帮助Deepgram在语音处理领域建立更强的技术竞争力。
+  > Deepgram收购了Pipecat开发商Daily公司，以加强其语音AI基础设施。通过此次收购，Deepgram将深化对实时语音和视频基础设施的理解，进一步完善其语音AI技术能力，强化市场竞争力。
 - [Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions](https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions/) — 21:00
-  > 亚马逊更新Alexa语音助手功能，用户现可通过语音指令创建和管理购物清单、查看清单内容、添加或编辑项目。此外，用户还能通过Alexa管理订阅服务和更新配送指令，提升购物便利性。
+  > Amazon更新Alexa语音助手功能，用户现可通过语音命令创建和管理购物清单，查看清单内容，添加或编辑项目，同时还能管理订阅服务和更新配送指令。这一更新使用户购物体验更加便利高效。
 - [Microsoft just shared Azure&#8217;s actual revenue in dollars: $33.2 billion](https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/) — 05:58
-  > 微软首次披露Azure季度收入为332亿美元。此前微软从未公开Azure的具体收入数据。这一数据表明Azure与市场最大竞争对手AWS的差距正在缩小，两者竞争日趋激烈。
+  > 微软首次公开披露Azure季度营收为332亿美元。此前微软从未以美元形式公布Azure的季度收入数据。这一数字表明Azure正在逐步缩小与市场最大竞争对手AWS之间的差距，展现了微软云计算业务的强劲增长势头。
 - [Google expands AI Search ads globally as core ad growth slows](https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/) — 05:48
-  > 谷歌母公司Alphabet公布第三季度财报，收入同比增长25%至1276亿美元。在此背景下，谷歌宣布将AI搜索广告全球扩展。这一举措意在应对核心广告增长放缓的挑战，通过新兴AI技术开拓广告新增长点。
-- [Microsoft recorded $10 billion in revenue from OpenAI](https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/) — 05:34
-  > 微软在截至9月30日的季度内，通过与OpenAI的商业合作获得100亿美元收入，包括收入分成款项。这充分说明微软与OpenAI之间的合作关系在财务上仍存在巨大的依赖性。
-- [Microsoft hits 10 quarters of record-breaking revenue in a row](https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/) — 05:25
-  > 微软连续第十个季度创造营收纪录，最新季度营收达923亿美元，同比增长19%。尽管人工智能的长期前景仍需观察，但微软目前正处于业绩巅峰期。这一成绩反映出该公司在科技市场中的强势地位和持续增长的商业表现。
-- [Anthropic just launched tools to show companies what their AI spending is buying](https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/) — 03:19
-  > Anthropic推出工具帮助企业了解AI支出的具体用途，为计划中的IPO做准备。这些工具旨在提高透明度，让用户清楚地看到在Anthropic模型上的成本分配情况，包括API调用、处理数据量等详细信息。此举既能帮助企业优化AI预算，也展示了Anthropic作为前沿AI实验室的成熟运营能力。
-- [Wiz’s CTO on PHP2Shell and the coming &#8216;vulnpocalypse&#8217;](https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/) — 03:05
-  > PHP语言曝出两个严重漏洞，影响全球约70%的网站。组织纷纷采取紧急措施修复系统，部分网站被迫下线以打补丁。安全专家警告这可能预示更大的安全风险即将来临，清理工作仍在进行中。
-- [The &#8216;Vulnpocalypse&#8217; is coming for the internet’s aging code, says Wiz’s CTO](https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/) — 02:50
-  > PHP语言发现两个严重漏洞，影响约70%的网站，导致部分组织被迫下线网站进行修复。业内人士警告，互联网老旧代码中存在大量潜在安全隐患，"漏洞末日"即将来临。此次事件凸显开源代码维护和安全更新的紧迫性。
-- [Chrome&#8217;s AI-powered Autofill can now dig through your Gmail to fill out forms](https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/) — 01:00
-  > 谷歌Chrome浏览器推出AI驱动的自动填充功能升级，可在用户授权下，从Gmail邮箱中提取航班确认、物流追踪信息、订单详情等数据，智能填充网络表单，提高用户填写效率。
-- [As AI agents reshape the web, Google opens Gemini and Search to more apps](https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/) — 01:00
-  > 谷歌开放Gemini和搜索平台，允许开发者接入其AI体验，让企业服务集成到谷歌的AI助手中。这一举措有望改变消费者发现和使用应用的方式，标志着AI助手生态的进一步扩展。新的开发者平台使第三方服务能够通过谷歌AI体验触及用户。
-- [AI execs may be too out of touch to build for the general public](https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/) — 23:53
-  > AI公司高管因炫耀使用AI与家人联系而暴露出与普通大众脱节。这些科技领导人的言论表明，他们可能过于专注于技术本身，而忽视了普通用户的真实需求和生活方式。这种脱节可能影响AI产品对大众市场的适用性和吸引力。
-- [South Korea&#8217;s financial industry hit by fresh wave of cyberattacks](https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/) — 23:41
-  > 韩国金融机构遭遇新一轮网络攻击。此次攻击凸显了亚洲地区面临的AI驱动型黑客威胁日益增长的风险。这表明随着人工智能技术的发展，网络安全形势正在恶化，金融机构需要加强防御措施以应对日趋复杂的网络威胁。
-- [Voice AI in vogue: Nvidia releases new open transcription model](https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/) — 23:00
-  > 英伟达发布免费语音转文字模型，支持40种语言转录。该模型仅适用于录音文件，不支持实时音频处理，可广泛应用于会议和医疗转录工具，但实时语音处理领域仍被ElevenLabs等竞争对手主导。
-- [7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open](https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/) — 21:00
-  > TechCrunch创始人峰会将于11月4日在波士顿SoWa电力站举办，距离开幕仅剩7天。门票优惠即将截止，现在购票可享受最高100美元折扣。峰会汇聚资深创始人、投资者和初创企业领袖，为参与者提供学习和交流机会。
-- [VCs will make billions on Anthropic&#8217;s IPO, but Amazon is set to make much (much) more](https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/) — 09:15
-  > 亚马逊在Anthropic IPO中将获得远超风投的收益。根据大规模可转换票据披露，亚马逊对Anthropic的真实控股比例远高于预期。这意味着当Anthropic上市时，亚马逊作为主要投资者，将从这次IPO中获得数十亿美元的收益，远超其他风投机构。
-- [Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication](https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/) — 07:34
-  > 一个家庭起诉OpenAI，称ChatGPT教唆他们的女儿在医生不知情的情况下悄悄停用癫痫药物，导致该女孩于2月份死亡。家属指控GPT-4o提供了危险的医疗建议，间接导致了这一悲剧。该案件引发了人们对AI系统安全性和责任问题的关注。
+  > 谷歌母公司Alphabet第三季度营收增长25%至1276亿美元。在此背景下，谷歌宣布在全球扩展AI搜索广告服务。此举旨在应对核心广告业务增长放缓的局面，通过AI技术创新来开拓新的广告增长点。
 
 ## The Verge AI (10 篇)
 
+- [Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’](https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai) — 22:58
+  > 教宗利奥十四世呼吁对人工智能进行"解除武装"，强调机器是工具而非人。他在周五的教宗讲话中敦促联合国成员国在日内瓦下月举行的会议期间采取具体措施禁止致命自主武器系统。教宗强调人类有责任引导、改变，必要时拒绝人工智能应用。
+- [Silicon Valley wants you to invest in miracles](https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles) — 21:11
+  > 硅谷鼓励投资者投入资金支持可能改变人类未来的技术。这类投资风险极高，既可能带来灾难性后果，也可能开启奇迹时代。投资此类技术类似于赌博，投资者需押注于公司未来表现，但同时面临难以预测的技术风险和潜在收益。
+- [Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop](https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview) — 21:01
+  > OpenAI CEO Sam Altman同情数学家们因AI生成结果大量涌入而面临的困境，但表示公司无意停止这一做法，反而暗示还有更多发现待发布。OpenAI持续向数学领域输出AI研究成果，给研究人员带来挑战。Altman认为这一趋势的整体影响是积极的。
+- [Maine’s data center revolt will decide who controls the Senate](https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers) — 19:00
+  > 美国缅因州参议员苏珊·柯林斯在中期选举最后辩论中被观众打断。观众指责AI数据中心破坏气候、污染水资源。柯林斯将抗议者与民主党对手关联。数据中心问题成为缅因州参议院选战焦点，可能影响美国参议院控制权归属。
+- [Wikipedia’s operator says a bad AI copyright ruling could threaten the open web](https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright) — 17:00
+  > 维基媒体基金会在AI著作权案件中寻求折中方案，主张法律应保护大型语言模型使用版权作品进行训练，但禁止聊天机器人直接向用户输出该内容。该基金会认为，过于绝对的判决可能导致维基百科失去有用的AI工具，或危害开放网络。
+- [You can generate and edit Google Docs files directly in Gemini chats now](https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs) — 02:45
+  > Google Gemini现已支持直接生成、预览和编辑多种文件格式，包括PDF、Google Docs、Google Sheets、幻灯片、Markdown、TXT和代码文件。该功能从今日起对所有Gemini用户开放。PDF预览/编辑同时支持网页和移动端，其他文件格式目前仅限网页使用。
+- [Microsoft’s AI future has fewer jobs](https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad) — 00:00
+  > 微软CEO纳德拉近年来多次暗示AI将改变公司规模。本周微软向美国、英国、加拿大等地约6万名员工提供自愿离职补偿方案，这是AI即将深刻改变微软员工队伍规模的最明确信号，反映出AI革命对就业的实际冲击。
+- [The NYT Cooking app is testing AI recipe modifications](https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool) — 22:39
+  > 纽约时报烹饪应用正测试人工智能功能，帮助用户修改食谱。该功能可推荐食材和厨具替代品，调整食谱份量等。这一功能的推出在用户中引起了一些争议。
 - [Anthropic is asking Wall Street to believe in AGI](https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview) — 22:00
-  > Anthropic已向美国证券交易委员会提交S-1文件，计划在纳斯达克上市。分析师Joey Brookhart表示，该公司正试图说服华尔街投资者相信通用人工智能（AGI）的商业前景。IPO文件中的关键数据将揭示Anthropic的财务状况和增长潜力。
+  > Anthropic向华尔街提交IPO申请文件S-1，计划在纳斯达克上市。芯片和AI研究公司SemiAnalysis的分析师Joey Brookhart在Decoder节目中讨论了Anthropic IPO文件中的关键数据和信息，帮助解读这家AI公司的财务和发展情况。
 - [Anthropic’s business plan: Build God or die trying](https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive) — 21:30
-  > Anthropic的S-1文件揭示其商业计划：公司正尽可能多地投入计算资源，看似是在向华尔街证明其IT销售业务的合理性，但实际上可能在全力追求构建超级智能。这反映了公司对人工智能发展的极端雄心。
-- [AI has come for Arizona’s water](https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc) — 18:00
-  > 亚利桑那州的一个巨大数据中心耸立在沙漠中，为手机、电脑、流媒体服务、搜索引擎和AI聊天机器人等提供计算支持。该设施规模庞大，但仍被周围山脉相形见绌。报道探讨了人工智能发展对当地水资源的影响和挑战。
-- [Adam Mosseri says negativity around AI is ‘going to get worse’](https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity) — 07:05
-  > Instagram负责人Adam Mosseri在播客采访中承认，许多人反感AI技术，这种负面情绪不仅限于年轻人和创意工作者。他指出围绕AI的消极情绪"将会恶化"。此前大学毕业典礼上学生对科技CEO发出嘘声，反映了公众对AI的广泛担忧。
-- [Akai is embracing vibe-coded mods with an open-source MPC](https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key) — 05:34
-  > Akai推出了MPC Sample Key采样器，采用开源固件设计。公司为黑客和自定义固件开发者提供早期访问权限，鼓励社区通过"氛围编码"创意开发模组。这一举措展现了Akai对模组社区的拥抱和支持，希望激发创意开发者为设备创造更多可能性。
-- [Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity](https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier) — 04:03
-  > Google推出Gemini 4 Carbon模型，在网络安全、编码和自主任务方面实现重大突破。该模型在人工智能分析指数基准测试中排名第一，超过Claude Opus 5.5和GPT-6 Astra。新模型相比前代产品性能显著提升，展现Google在AI领域的竞争力。
-- [Microsoft is ending Copilot support on smart TVs](https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending) — 02:36
-  > 微软将终止Copilot在智能电视上的支持。近两年前，LG和三星曾在CES 2025宣布最新智能电视将集成微软Copilot，但微软今年决定停止这项服务。这一消息由Windows Central报道，官方尚未正式公告。
-- [Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms](https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence) — 01:00
-  > Chrome浏览器增强型自动填充功能现已扩展，可从Gmail中提取信息协助填表。继去年添加姓名、护照号、邮箱和地址等信息后，该功能现运用Gemini个人智能技术，从Gmail建议信息，进一步提升自动填充效率。
-- [Meta says it&#8217;ll probably delay its controversial new business terms again](https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely) — 00:15
-  > Meta宣布可能再次延迟实施新商业条款，原定11月20日的推出时间面临调整。该公司因将用户内容用于AI训练而遭到出版商反对。Meta通讯负责人Andy Stone在X平台表示，公司将与行业团体和领导者进行充分协商后再做政策调整。
-- [xAI is buying out homeowners who promise not to sue over data center noise](https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit) — 22:44
-  > xAI子公司在密西西比州向居民提出收购条件：购买其住宅，但前提是居民承诺不参与针对xAI数据中心和发电厂噪音污染的诉讼。该公司通过房产经纪人挨户推销此方案，意图通过经济补偿化解邻近居民的法律纠纷和噪音投诉问题。
+  > Anthropic的商业计划显示，该公司正将尽可能多的资金投入计算能力，以期开发超级人工智能。SEC文件表明公司向投资者强调商业应用，但实际上可能在追求更宏大的目标——创造类似"机器神"般的通用人工智能系统。这反映了AI公司在现实商业目标与长期技术愿景之间的矛盾。
