@@ -2,72 +2,66 @@
 layout: default
 ---
 
-# AI 日报 2026-11-07
+# AI 日报 2026-11-08
 
-> 共收录 **30** 篇，来自 **2** 个源 · 生成于 12:46 PM EST
-
-## TechCrunch AI (20 篇)
-
-- [After the midterms, is the AI industry in for a rough two years?](https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/) — 01:23
-  > 美国中期选举后，民主党获胜可能改变科技产业前景。选民在41项数据中心相关议案中，除一项外均投票支持对数据中心开发施加更多限制。即使数据中心不在直接投票议题中，也成为许多地方竞选的焦点。这表明AI产业未来两年可能面临监管加强的挑战。
-- [Ramp data shows AI spending stalling just as Anthropic nears its IPO](https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/) — 23:54
-  > AI支出增长放缓。虽然AI使用量持续上升，但支出已停滞不前。大型AI公司用户实施价格下调和更精明的成本控制措施，这可能动摇投资者对AI超高速增长的预期，对即将进行IPO的Anthropic等企业构成挑战。
-- [After blocking Muse, Amazon now lets users text Alexa to help them shop](https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/) — 22:10
-  > 亚马逊在阻止Muse后，现已允许用户通过文本与Alexa互动来辅助购物。该功能将在未来数周内向数百万用户推出。这一举措使用户能够通过文字指令与Alexa交互，获得购物帮助和建议，进一步拓展了语音助手的应用场景。
-- [Underdog shows off a 32MB speech model in new demo](https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/) — 21:02
-  > 初创公司Underdog展示了一款仅32MB的语音模型。尽管体积极小，该模型仍能生成语音和音乐。这一突破展现了在资源受限的条件下实现复杂音频生成的可能性，有望推动轻量级AI模型在移动设备和边缘计算中的应用。
-- [Physicl raises $10M to make the digital world real enough for robots](https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/) — 21:00
-  > 初创公司Physicl获得1000万美元融资，旨在解决机器人面临的"模拟到现实"转换难题。该公司利用原本用于在线商品展示的技术流程，帮助机器人更好地适应真实世界环境，弥合虚拟模拟与现实应用之间的差距。
-- [Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M](https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/) — 14:28
-  > 网络安全公司Palo Alto Networks正洽谈以5亿美元收购AI代理安全初创公司Clutch。Clutch由Lightspeed和SignalFire支持，上次估值为8500万美元。此次交易反映了AI安全领域投资的升温，以及大型安全厂商对AI相关威胁防护的重视。
-- [Airbnb says it&#8217;s launching an AI travel agent in the first half of 2027](https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/) — 06:40
-  > Airbnb计划在2027年上半年推出AI旅行助手。该AI代理将帮助旅客规划行程、比较选项、管理预订以及在住宿期间提供全程协助。这项新功能旨在提升用户体验，通过人工智能技术简化旅行预订和管理流程。
-- [Meta says US users can now video chat with their Muse AI avatar](https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/) — 03:48
-  > Meta推出虚拟AI助手Muse的新功能，美国用户现可通过可定制的动画头像与其进行视频通话。该功能是Meta为即将发布的类似电子宠物的可穿戴设备铺路，旨在将Muse虚拟形象具象化。这标志着Meta在AI助手领域的进一步发展。
-- [Meta warns that election backlash against data centers could make AI expansion harder](https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/) — 03:12
-  > Meta警告称，对数据中心的政治反对浪潮可能威胁其未来的人工智能投资。随着各地社区对大规模基础设施项目的抵触增加，Meta面临来自政界的压力。公司表示，如果这种反对持续，将难以扩展AI能力，可能影响技术发展计划。
-- [OpenAI released a new cybersecurity model. Is that enough?](https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/) — 03:06
-  > OpenAI推出新的网络安全模型，用于保护数字基础设施。该举措出现在AI实验室面临其网络安全工作审查之际。新模型旨在帮助识别和防止网络威胁，但业界对其是否足以应对日益复杂的网络安全挑战仍存疑虑。
-- [OpenAI president Greg Brockman says company could be IPO ready in 2027](https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/) — 02:02
-  > OpenAI总裁格雷格·布罗克曼在华尔街日报科技大会上表示，公司可能在2027年为首次公开募股做好准备。布罗克曼强调OpenAI在企业市场上的进展，该公司正在赶上已在该领域成功拓展业务的竞争对手Anthropic。
-- [Claude can now analyze your spending with its new Personal Finance tool](https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/) — 02:00
-  > Claude推出个人财务工具，用户可通过Plaid连接银行和信用卡账户，向Claude提问财务相关问题。该功能帮助用户分析支出情况，提供财务管理建议。用户可查看交易记录、预算跟踪等信息，实现更便捷的个人财务管理。
-- [Axiom Math wants to keep AI slop out of mathematics](https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/) — 00:16
-  > Axiom Math公司致力于解决AI生成的数学内容质量问题。该公司开发的AI代理最近正式验证了数学领域最大的资料库之一——Stacks Project，通过形式化验证技术确保AI证明的准确性和可靠性，有效应对AI泛滥带来的数学论证质量下降问题。
-- [Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure](https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/) — 23:19
-  > Dropbox以3.5亿美元收购Tigris Data公司，以强化其AI基础设施。此次收购旨在支持DBX Agent Cloud平台的开发，该平台是专为开发AI模型和智能体的开发者而设计的新型存储平台。
-- [Aina&#8217;s smart ring has a screen, a joystick, and a mic so you can talk to AI agents](https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/) — 22:42
-  > Aina推出一款智能戒指，配备屏幕、摇杆和麦克风，可用于与AI助手交互。该戒指支持接听电话、语音控制及在Mac上进行语音记录。用户可通过语音与AI代理交流，实现手指上的智能助手功能。
-- [Box taps Nvidia’s Nemotron for new agent-first content retrieval system](https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/) — 22:00
-  > Box公司采用Nvidia的Nemotron模型推出新的智能体优先内容检索系统。该系统可将查询响应速度提高四倍，错误率降低20%，令牌使用量减少90%。这项技术改进有望显著提升企业内容管理效率和准确性。
-- [A YC startup is putting $1M behind 5 unsolved materials science problems for AI](https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/) — 21:00
-  > YC创业公司投入100万美元资金，针对5个未解决的材料科学难题进行AI研究。尽管前沿AI模型已解决众多数学难题并在生命科学领域取得进展，但在高级材料的复杂物理研究中尚未取得突破性成果。该举措旨在推动AI在材料科学领域的应用。
-- [Agility is the first pure humanoid robot company on the stock market. Are you buying?](https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/) — 20:00
-  > Agility Robotics成为首家在纳斯达克上市的纯人形机器人公司。该公司专注于开发人形机器人技术，此次上市标志着人形机器人行业发展的重要里程碑。上市后，投资者可以直接投资于纯人形机器人领域，反映了市场对该技术未来应用前景的看好。
-- [Apple is reportedly cutting budgets for its internal AI usage](https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/) — 09:26
-  > 苹果公司据报道正在削减其内部AI使用的预算。随着AI使用成本账单到期，各大科技公司发现"令牌滥用"的热潮已经消退，转而采取更加谨慎的成本控制策略，实施"令牌配给制"以实现更合理的财务管理。
-- [After the midterms, a bigger clash over data centers could be coming](https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/) — 09:02
-  > 美国中期选举中，数据中心问题超越党派分歧成为焦点。选民在多个地区投票反对大型数据中心项目扩展，因担忧其带来的能源消耗、环境污染和房产税上升。这表明未来围绕数据中心的冲突可能加剧，需要在技术发展和社区利益间寻求平衡。
+> 共收录 **27** 篇，来自 **2** 个源 · 生成于 11:42 AM EST
 
 ## The Verge AI (10 篇)
 
+- [NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake](https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review) — 23:50
+  > NYT烹饪AI助手在作者的平日晚餐中帮助不大。每晚7点，作者都为晚餐发愁，总想着用鸡肉做菜，却又怕丈夫抱怨吃腻了。虽然应该做meal plan，但实际没做。最近，AI助手在烹制鸡肉时表现不错，但在烘焙蛋糕时差点毁了作品。这反映了AI在不同烹饪任务中表现不一的特点。
+- [The US let Nvidia sell chips to an empty office in China](https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government) — 23:43
+  > 美国商务部和英伟达因对华芯片销售审查不力而受批评。英伟达获准向中国企业销售H200芯片,但被列入批准名单的新矩阵公司办公室空置,形同虚设。监管部门未充分尽职审查经销商资质,引发国家安全隐忧。
+- [AI broke the cybersecurity world. What’s next?](https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos) — 23:00
+  > AI技术的出现打破了网络安全领域的现状。本期节目邀请Cognition公司首席安全官、资深网络安全专家Alex Stamos讨论当前网络安全面临的混乱局面。这是关于AI实际应用的特别系列节目第一期。Alex以直言不讳著称，为听众带来深入见解。
+- [Why a new report on Anthropic automating AI development is alarming researchers](https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development) — 20:30
+  > Anthropic正利用AI开发更强大的AI系统，其模型改进速度是去年的两倍，且未见放缓迹象。AI安全研究机构METR发布的报告显示，经过11周调查，这一自动化AI开发进展引发研究人员担忧，可能带来难以控制的风险。
+- [OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO](https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation) — 07:46
+  > OpenAI在新一轮融资中筹集110亿美元，估值升至1.25万亿美元，成为全球最具价值的公司之一。这距其今年3月以8520亿美元估值融资1220亿美元仅数月之隔。与此同时，竞争对手Anthropic也在筹备IPO上市。
+- [China reportedly recruited AI exec to spy on Jensen Huang](https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy) — 07:00
+  > 据《纽约时报》报道，中国情报机构招募美国芯片公司高管艾丽丝·黄向英伟达CEO黄仁勋充当间谍，企图获取美国AI芯片信息，并可能影响英伟达向中国供应先进芯片。中国国家安全部门参与了此次招募行动。
+- [All the latest updates on AI data centers](https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy) — 04:02
+  > 科技公司争相建设AI数据中心，以支撑人工智能发展。然而，这些耗能巨大的服务器中心快速扩张引发全球争议，涉及电网压力、电费上涨、社区影响和环保问题等。该议题已成为两党关注的重要政治问题。
+- [Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now](https://www.theverge.com/tech/1028871/meta-muse-ai-spaces) — 02:10
+  > Meta推出AI助手Muse的新功能"spaces"，允许用户构建定制化的应用式体验。用户可通过Muse创建购物中心、学校仪表板、音乐追踪器、益智游戏等多种空间，并在应用内直接交互使用。该功能使Muse更具个性化和实用性。
 - [AI is the new dating dealbreaker](https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity) — 01:00
-  > 25岁的数据分析师艾琳搬到旧金山后，使用约会应用Hinge来结识新人。她发现一个趋势：许多用户在个人资料中表达了对AI的态度，AI正成为约会中的新"分手理由"。用户们越来越关注潜在伴侣对人工智能的看法，这反映了AI在当代社交和个人关系中日益重要的影响。
+  > AI成为新的约会破裂点。一位25岁分析师在旧金山使用交友应用Hinge时发现，越来越多男性在个人资料中提及AI话题。这一现象反映出AI正在改变约会文化，成为人们筛选伴侣的重要参考因素。对AI的态度差异可能导致潜在伴侣之间产生分歧，成为影响感情发展的关键因素。
 - [Big Tech lost big in the 2026 election](https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast) — 00:38
-  > 2026年美国中期选举中，美国选民大幅支持民主党，反对人工智能和大科技公司。这意味着对Big Tech的抵制将重新升温，数据中心建设面临更大阻力。民主党政府可能加强对科技巨头的监管和限制。
-- [How Akai and Moog are embracing vibe-coded mods](https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai) — 00:34
-  > 音乐设备制造商inMusic宣布拥抱改装社区。该公司旗下拥有Akai、Moog、Native Instruments等品牌。CEO Jack O'Donnell表示，公司将向社区提供工具箱和设备内部工作原理，允许用户自定义改装MPC采样器等产品，推动社区创新发展。
-- [Amazon will let you text Alexa your shopping list](https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders) — 22:00
-  > 亚马逊推出Alexa购物新功能，用户可通过文本消息向Alexa描述所需商品或发送商品照片，Alexa将在亚马逊商品中搜索匹配结果，并以短信形式回复推荐商品，方便客户完成购物。
-- [Protesters break into Microsoft data center site in Amsterdam](https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam) — 19:55
-  > 阿姆斯特丹一个微软新数据中心建筑工地今晨遭抗议者闯入。"Geef Tegengas"组织成员组织了这次反对在阿姆斯特丹郊区建造三座85米高数据中心塔楼的抗议活动。约100名抗议者进入了建筑工地。
-- [OpenAI is stepping back from NDAs for data center projects](https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda) — 08:37
-  > OpenAI宣布在数据中心项目中做出新承诺。在中期选举中选民反对数据中心扩展后，OpenAI承诺不再与公职人员签署保密协议（NDA）。此举旨在增加项目透明度，回应公众对数据中心项目的审查，许多项目因使用NDA隐瞒讨论而备受争议。
-- [Airbnb is working on an AI travel agent](https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings) — 08:06
-  > Airbnb计划在2027年上半年推出AI旅行代理助手，帮助用户规划和预订旅行。该公司在第三季度财务报告中透露了这一计划。虽然当前AI代理擅长餐厅预订、日程安排等简单任务，但Airbnb正在开发更复杂的功能，以提升用户旅行体验。
-- [Perplexity launches its own take on AI agents for work](https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work) — 06:26
-  > Perplexity推出工作专用AI助手"Teammates"，与OpenAI和Anthropic竞争。这些始终在线的AI助手可在工作空间中担任多种角色，整合现有项目、技能和内存，并与Perplexity Computer集成，能在用户设备上部署代理。
-- [Muse has a voice mode now](https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar) — 03:03
-  > Meta推出Muse AI助手语音对话功能。用户现可通过iOS应用与Muse AI助手进行实时语音交互。CEO马克·扎克伯格宣布了这一新功能上线。该功能允许用户在聊天过程中与虚拟助手头像进行语音对话，提升了用户交互体验。
-- [Claude AI can plug directly into your bank account](https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance) — 02:00
-  > 人工智能公司Anthropic推出了Claude AI的个人财务管理新功能，可通过Plaid银行接口平台直接连接用户的银行账户和信用卡账户。用户可以询问Claude诸如"我这个月的钱花在哪里"之类的问题，Claude将生成财务概览和分析报告，帮助用户更好地管理个人财务。
+  > 2026年美国选举中，民众大规模投票支持民主党，反对人工智能发展。大科技公司遭遇重大挫折。反对科技巨头的运动即将再度兴起，数据中心建设面临更严峻的挑战和阻力。
+
+## TechCrunch AI (17 篇)
+
+- [Crusoe sells troubled Wyoming data center project to Google](https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/) — 09:40
+  > Crusoe能源公司将其在怀俄明州陷入困境的数据中心项目出售给谷歌。这笔交易反映出大规模AI数据中心开发面临的挑战。项目涉及建设规模庞大的计算设施,需要克服能源供应、基础设施建设和融资等多方面困难,成为AI时代数据中心发展的缩影。
+- [OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation](https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/) — 06:53
+  > OpenAI正进行新一轮融资，已筹集110亿美元，融资尚未完成但预计数周内完成。此轮融资后，OpenAI估值达1.25万亿美元。这展现了投资者对这家AI公司的强烈信心和市场对其发展前景的看好。
+- [Hundreds of Artex AI hacking tools found publicly exposed to the web](https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/) — 02:44
+  > 安全研究人员发现数百台服务器公开暴露渗透测试工具Artex到互联网上，任何人都可以访问这个黑客工具。这些服务器配置不当，导致该工具被广泛暴露，存在重大安全隐患。未经授权的用户可能利用此工具进行网络攻击和入侵活动。
+- [Meta introduces Spaces, a new way to collaborate with your Muse agent](https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/) — 02:44
+  > Meta推出Spaces功能，为用户提供与Muse AI助手协作的新方式。Spaces作为Muse智能体的最新功能和集成，旨在改进用户与AI助手的交互体验。该功能有望成为Meta在人工智能领域的又一创新尝试。
+- [How a Blue Wave midterm might reshape the AI industry](https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/) — 02:00
+  > 美国中期选举中民主党的历史性胜利可能改变科技产业格局。选民在41项数据中心相关议案投票中，除一项外均支持对数据中心开发施加更多限制。这反映出公众对数据中心扩张的担忧，可能影响AI产业发展和基础设施建设政策。
+- [After the midterms, is the AI industry in for a rough two years?](https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/) — 01:23
+  > 美国中期选举后，民主党赢得历史性胜利，可能改变科技行业前景。周二公投的41项数据中心相关议案中，除一项外均获多数支持，要求对数据中心开发施加更多限制。即使数据中心未直接列入投票，也成为重要议题。这可能对AI产业未来两年发展造成压力。
+- [Ramp data shows AI spending stalling just as Anthropic nears its IPO](https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/) — 23:54
+  > 根据Ramp的数据，尽管AI使用量持续增长，但AI支出增速放缓。大型企业用户的价格下降和成本控制优化可能挑战投资者对AI超高速增长的预期。这一趋势出现在Anthropic即将上市之际，引发对AI市场增长可持续性的疑问。
+- [After blocking Muse, Amazon now lets users text Alexa to help them shop](https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/) — 22:10
+  > 亚马逊解除了对Muse的封禁后，现已推出新功能允许用户通过文本与Alexa互动进行购物。该功能将在未来几周内向数百万用户推出。用户可以通过发送消息与虚拟助手Alexa沟通，获得购物建议和协助完成购买。这一举措旨在提升用户购物体验，让用户能更便捷地通过文本方式与Alexa进行交互。
+- [Underdog shows off a 32MB speech model in new demo](https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/) — 21:02
+  > Underdog公司推出一款仅32MB的语音模型，在新演示中展示了其能力。尽管体积很小，该模型不仅能生成语音，还能生成音乐，展现了在极限压缩条件下保持功能完整性的技术突破。
+- [Physicl raises $10M to make the digital world real enough for robots](https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/) — 21:00
+  > Physicl公司获得1000万美元融资，致力于解决机器人的模拟与现实差距问题。该公司利用为在线商品营销而开发的管道技术，通过创建高度逼真的数字模型，帮助机器人更好地从虚拟环境转移到真实世界运行。这项技术有望推进机器人技术的实际应用。
+- [Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M](https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/) — 14:28
+  > Palo Alto Networks正洽谈收购AI代理安全初创公司Clutch，交易金额约5亿美元。Clutch获得了Lightspeed和SignalFire的投资支持，上一轮估值为8500万美元。此次收购将帮助Palo Alto Networks扩展其AI安全产品组合，应对AI代理日益增长的安全威胁。
+- [Airbnb says it&#8217;s launching an AI travel agent in the first half of 2027](https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/) — 06:40
+  > Airbnb宣布将在2027年上半年推出AI旅行助手。该助手将帮助旅客规划行程、比较选项、管理预订和整个住宿期间的协助。这一创新工具旨在通过人工智能技术提升用户的旅行体验，简化预订流程和旅行管理。
+- [Meta says US users can now video chat with their Muse AI avatar](https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/) — 03:48
+  > Meta推出AI助手Muse的新功能，美国用户现可通过可定制的动画虚拟形象与其进行视频通话。这是Meta为即将发布的类似电子宠物的可穿戴设备做准备，该设备将使Muse AI助手更加拟人化和互动化。
+- [Meta warns that election backlash against data centers could make AI expansion harder](https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/) — 03:12
+  > Meta警告称，针对数据中心日益增长的政治反对可能威胁其未来的人工智能投资。随着社区对大型基础设施项目的抵制增加，Meta面临扩展AI所需的数据中心建设困难。政治阻力可能导致项目延期或取消，进而影响其AI发展计划和竞争力。
+- [OpenAI released a new cybersecurity model. Is that enough?](https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/) — 03:06
+  > OpenAI发布了新的网络安全模型，旨在保护数字基础设施。此举正值AI实验室面临其网络安全工作受到审查之际。新模型的推出表明OpenAI在应对数字威胁和强化基础设施防护方面的努力，但业界仍在评估这一举措是否足以满足日益增长的网络安全需求。
+- [OpenAI president Greg Brockman says company could be IPO ready in 2027](https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/) — 02:02
+  > OpenAI总裁格雷格·布罗克曼在华尔街日报科技大会上表示，公司可能在2027年做好上市准备。他指出OpenAI在企业市场获得进展，正在追赶竞争对手Anthropic已经占据的领地。
+- [Claude can now analyze your spending with its new Personal Finance tool](https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/) — 02:00
+  > Anthropic推出Claude新功能——个人财务工具。用户可通过Plaid连接银行和信用卡账户，向Claude提问财务相关问题。该工具帮助用户分析支出情况，提供财务建议和管理功能，使财务管理更加便捷智能。
