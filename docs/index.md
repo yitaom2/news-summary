@@ -2,77 +2,95 @@
 layout: default
 ---
 
-# AI 日报 2026-11-10
+# AI 日报 2026-11-11
 
-> 共收录 **31** 篇，来自 **3** 个源 · 生成于 04:15 PM EST
+> 共收录 **40** 篇，来自 **3** 个源 · 生成于 01:24 PM EST
 
 ## Hacker News (10 篇)
 
-- [Protesters slam AI after entering Microsoft data centre site](https://www.independent.co.uk/tv/news/protesters-microsoft-data-centre-amsterdam-video-b3080959.html) — 05:11
-  > 抗议者闯入微软数据中心反对AI发展。阿姆斯特丹的环保活动人士因担忧AI服务器的能耗和环境影响而进行抗议。抗议者指责微软在未充分考虑生态后果的情况下，大规模部署AI基础设施。此事件反映了公众对人工智能扩张所引发的环境问题日益增长的关注。
-- [Xinhua Unveils Bionic Humanoid Robot News Anchors with Ubtech – Unite.ai](https://www.unite.ai/xinhua-unveils-bionic-humanoid-robot-news-anchors-with-ubtech/) — 04:58
-  > 新华社与优必选科技合作推出仿生人形机器人新闻主播。这些机器人采用先进的人工智能和机器人技术，能够以自然流畅的方式播报新闻。该项目代表了媒体行业的创新发展，展示了AI技术在新闻传播领域的应用前景。这些机器人主播可能改变传统新闻播报方式。
-- [Show HN: Airgap-check – find what your AI app silently downloads offline](https://github.com/humanethq/airgap-check) — 04:37
-  > Airgap-check是一个工具，用于检测AI应用在离线环境中默默下载的内容。该项目发布在GitHub上，旨在帮助用户识别和监控AI应用的隐藏下载行为，增强离线使用的透明度和安全性。
-- [Triton for MTIA: Bridging the Programming Model Gaps for Custom AI Accelerators](https://arxiv.org/abs/2608.00325) — 04:35
-  > Meta推出Triton for MTIA，为其自研AI芯片MTIA提供编程支持。Triton是一款开源编程语言，能简化AI加速器的开发工作。该方案旨在填补自定义AI芯片的编程模型空白，降低开发难度，提高开发效率。通过Triton，开发者可更容易地为MTIA芯片编写高效代码，加速Meta AI基础设施的建设。
-- [We Benchmarked Fireworks, Together, Baseten, Modal, DeepInfra, Z.ai and Keln](https://keln.ai/blog/ai-inference-provider-benchmark-2026) — 04:26
-  > 本文对Fireworks、Together、Baseten、Modal、DeepInfra、Z.ai和Keln等七家AI推理服务提供商进行了性能基准测试对比。通过系统评估这些平台的推理能力、速度、成本等关键指标，为用户选择合适的AI推理服务提供参考。该基准测试结果有助于企业和开发者了解各服务商的优劣势。
-- [Institutional vs Personal AI](https://armincat.com/articles/eunice-vs-aunties) — 04:03
-  > 本文讨论机构级AI与个人AI的差异。机构AI通常由大型组织开发，面向广泛用户，强调安全性和规范；个人AI则由个人开发者创建，更灵活多变。两者在设计理念、应用场景和治理方式上存在显著区别。随着AI技术发展，如何平衡两类AI的发展成为重要课题。
-- [Cost of AI Crash Protection Spikes](https://www.youtube.com/watch?v=YUyoWFlaOKg) — 04:03
-  > 人工智能碰撞保护成本飙升。随着AI技术的发展，确保AI系统安全性和防止潜在风险的保护措施成本大幅增加。这反映了AI安全防护的复杂性和资源投入需求的上升，引发业界对如何平衡创新与安全的讨论。
-- [Lawyer builds private AI server with eight used Nvidia V100 GPUs](https://www.tomshardware.com/tech-industry/artificial-intelligence/lawyer-builds-private-ai-server-with-eight-used-nvidia-v100-gpus-up-to-215-tokens-per-second-to-keep-legal-files-offline-costing-about-usd2-400-per-four-gpu-board) — 03:58
-  > 一位律师用八块二手Nvidia V100 GPU组建了私人AI服务器，用于处理法律文件，保持数据离线。该系统可达到每秒215个令牌的处理速度，四块GPU板卡的成本约2400美元。这一做法既保护了客户隐私信息的安全，又相对降低了运营成本。
-- [AI is the last of capitalism's distraction](https://fredrocha.net/2026/10/20/ai-is-the-last-of-capitalisms-distraction/) — 03:52
-  > 本文认为AI是资本主义最后的分散注意力工具。作者暗示在资本主义制度下，AI被用作转移大众视线的手段，使人们忽视更深层的经济和社会问题。文章表明，当AI的热潮最终褪去后，资本主义本身的矛盾和问题将无处可逃。
-- [Show HN: Markolis – Market microstructure and MCP server for AI agents](https://www.markolis.com) — 03:51
-  > Markolis是一个针对AI代理的市场微观结构和MCP服务器工具。该项目旨在为AI代理提供市场数据分析和交易相关的微观结构信息支持。通过MCP（模型上下文协议）服务器的设计，使AI代理能够更好地理解和分析金融市场的微观结构特征，支持更智能的市场分析和决策。
-
-## TechCrunch AI (11 篇)
-
-- [Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy](https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/) — 04:09
-  > 英伟达CEO黄仁勋取消了ElevenLabs峰会的出席计划，此前他也退出了Anthropic活动。这一举动引发了业界关注。背景涉及英伟达与多家AI公司的合作和竞争关系。黄仁勋的缺席可能反映了科技巨头在AI领域日益复杂的商业关系和战略调整。
-- [Anthropic releases new Mythos and Fable models amid RSI concerns](https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/) — 03:24
-  > Anthropic发布了新的Mythos和Fable模型。新模型在编程、推理和视觉等领域有所改进，与用户的沟通也更加清晰。此举在引发了相关安全和责任方面的担忧。
-- [Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny](https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/) — 02:09
-  > 英伟达首席执行官黄仁勋被曝与疑似中国间谍有染，这一丑闻可能影响英伟达的游说活动。英伟达正努力说服美国放宽对华芯片出口限制，以维持在中国人工智能市场的业务。该绯闻事件或将复杂化英伟达的中国战略和政策游说工作。
-- [Meta releases Muse Ember, a new lightweight model for agent execution](https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/) — 02:00
-  > Meta推出轻量级AI模型Muse Ember，专门用于智能体执行任务。该模型成本极低，每百万输入令牌仅需10美分，远低于Haiku和Luna等竞争对手。Ember的推出使企业能以更经济的方式部署AI智能体，有望加速AI应用的广泛采用。
-- [Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines](https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/) — 00:56
-  > Anthropic斥资34亿美元购买天然气涡轮机，加入AI行业能源争夺大战。该交易旨在为其AI数据中心提供充足电力。此举反映了AI公司对能源需求的急剧增长，以及对稳定、可靠电力供应的迫切需求。然而，这笔巨大投资也可能面临长期风险和后悔的空间。
-- [Medium&#8217;s new TK app brings AI assistance directly into the writing process](https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/) — 00:12
-  > Medium推出新的TK写作应用，在用户创作过程中集成AI辅助功能。尽管AI在出版领域引发争议，Medium仍选择拥抱这一技术。该应用旨在帮助写手提高创作效率，直接将AI能力融入写作流程中。
-- [Automattic debuts a platform to deploy vibe-coding apps amid a changing internet](https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/) — 22:00
-  > Automattic推出名为Spacefast的新平台，用于部署基于"氛围编码"的应用程序。该平台旨在与Lovable等竞争对手竞争。Spacefast允许开发者利用AI技术快速构建和部署应用，适应当前互联网变化的需求。
-- [Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s &#8216;about a 50-50&#8217;](https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/) — 13:26
-  > 英伟达董事会正调查首席执行官黄仁勋与疑似中国间谍的关系。耶鲁大学教授杰弗里·桑嫩菲尔德估计，黄仁勋留任CEO的概率约为五五开。该事件引发了对公司治理和安全问题的关注。
-- [Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy](https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/) — 05:00
-  > 英伟达将调查首席执行官黄仁勋与一名可能的中国间谍的关系。黄仁勋在公司备忘录中承认存在婚外情。
-- [After the midterms, things are looking rocky for Elon Musk and data centers](https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/) — 06:07
-  > 中期选举后，埃隆·马斯克和数据中心面临挑战。中期选举结果对科技产业产生重大影响。数据中心的扩张面临政策不确定性和能源成本压力。马斯克旗下公司的发展前景受到政治环境变化的影响。科技行业需要适应新的监管环境和市场格局。
-- [Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo](https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/) — 05:17
-  > 美国情报备忘录显示，中国国家安全部招募了一名女性科技高管，对英伟达首席执行官进行间谍活动。该备忘录于今年早些时候流传。此事涉及一家名为Megaspeed的公司高管，反映了中美之间在科技领域的持续竞争和安全顾虑。
+- [Relay – A multi-agent pipeline for AI-assisted front end engineering](https://github.com/rgadda/frontend-eng-team) — 02:23
+  > Relay是一个多智能体管道系统，用于辅助前端工程。该项目在GitHub上发布，旨在通过多个AI代理的协作来优化和自动化前端开发流程。该系统能够处理复杂的前端工程任务，提高开发效率。项目在Hacker News上发布但暂未获得广泛讨论。
+- [AI and the Art of Work](https://shanedowling.com/posts/2026-11-10-ai-and-the-art-of-work/) — 02:22
+  > 该文章讨论人工智能对工作的影响。作者通过分析AI技术的发展，探讨了自动化对传统工作的改变，以及人类在AI时代如何重新定义工作的价值和意义。文章强调适应AI驱动的职场变化，开发创意和人际交往等AI难以替代的技能的重要性。
+- [Show HN: Mitra MCP lets AI agents make calls from your phone number](https://www.getmitra.com/mcp) — 02:20
+  > Mitra MCP是一款工具，允许AI代理使用用户的电话号码进行通话。这项技术使人工智能助手能够代表用户拨打和接听电话，扩展了AI的应用范围。该工具在黑客新闻上分享，旨在为AI代理赋予实时通讯能力，可能改变人机交互方式。
+- [AI R&D Is Accelerating Towards Potential RSI in 2027](https://thezvi.substack.com/p/ai-r-and-d-is-accelerating-towards) — 02:15
+  > 根据文章，人工智能研究开发正在加速发展，可能在2027年达到递归自我改进（RSI）的阶段。这意味着AI系统将能够自主改进自身性能，无需人类干预。这一进展标志着AI发展的关键拐点，可能带来指数级的能力增长，引发业界对潜在风险和机遇的广泛讨论。
+- [Building AI tools for institutional trading](https://medium.com/prooftrading/building-ai-tools-for-institutional-trading-a1e74035fcd3) — 02:15
+  > 本文介绍了为机构交易构建AI工具的相关内容。文章讨论了如何利用人工智能技术开发专门服务于机构投资者和交易员的工具，包括提高交易效率、风险管理和决策支持等方面。这些AI工具旨在帮助机构交易者更好地分析市场数据、优化交易策略，从而提升交易性能和竞争力。
+- [Show HN: Qitt – A proactive AI chief of staff built on T3 Code](https://github.com/bquenin/qitt) — 02:13
+  > Qitt是一个基于T3代码框架构建的主动式AI首席助理。这是一个在GitHub上分享的项目，在Hacker News上获得了讨论。该工具旨在为用户提供AI驱动的协助和决策支持，帮助提高工作效率和生产力。项目采用现代技术栈开发。
+- [Anthropic eyes $1.4T IPO valuation in test of Wall Street's AI fervor](https://www.reuters.com/business/anthropic-ipo-raise-much-644-billion-latest-draft-prospectus-shows-2026-11-10/) — 02:08
+  > Anthropic计划进行IPO，估值目标为1.4万亿美元，这将成为对华尔街AI热情的重大考验。该融资规模达6440亿美元，反映出市场对AI企业的期待。此举标志着Anthropic从私募融资向公开市场迈进，同时也展现了生成式AI领域持续升温的投资热潮。
+- [My Brutally Honest Thoughts About the AI Bubble](https://www.youtube.com/watch?v=w1dRDj1QRks) — 02:07
+  > 这篇文章标题为《我对AI泡沫的坦诚看法》，发布在YouTube平台。文章在黑客新闻上获得1个赞，暂无评论。内容涉及对当前AI产业发展的批评性评价，作者针对AI领域可能存在的泡沫现象提出了坦率的观点和分析。
+- [Work at the Frontier: AI's effect on freelance work](https://openai.com/index/ai-effect-on-freelance-work) — 02:02
+  > 本文探讨了人工智能对自由职业工作的影响。随着AI技术发展，自由职业者面临新的机遇与挑战。AI可以提高工作效率、降低成本，但也可能替代部分工作。自由职业者需要适应AI时代，提升专业技能，寻找人类独有的价值，如创意、复杂问题解决和人际交往能力，以保持竞争力。
+- [The AI Business Model Just Collapsed](https://www.honest-broker.com/p/the-ai-business-model-just-collapsed) — 01:47
+  > AI商业模式已经崩溃。大型科技公司投入数十亿美元开发AI，但面临投资回报率低、用户增长停滞的困境。生成式AI应用难以找到可持续的商业模式，广告收入不足以支撑高昂的计算成本。竞争加剧导致利润空间压缩，企业难以在AI领域获得预期收益，引发对AI泡沫的担忧。
 
 ## The Verge AI (10 篇)
 
-- [Apple’s $50 Intelligence Usage Packs extend access to some AI features](https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro) — 03:09
-  > 苹果推出50美元的智能使用套餐，扩展AI功能访问权限。苹果在九月初发布支持文章后，更新了Logic Pro应用，添加"购买更多使用次数"选项，单次购买价格为49.99美元。该功能允许用户通过一次性付费获得更多Apple Intelligence AI助手功能使用额度，如创建歌曲等。
-- [Anthropic launches new Claude Fable and Mythos 5.2 models](https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2) — 03:00
-  > Anthropic推出Claude Fable 5.2和Claude Mythos 5.2两款新模型。新模型旨在应对技术难题，相比5.1版本在代码生成、推理和视觉能力方面有改进，输出速度也更快。
-- [Instagram’s Effect Builder makes new filters from AI prompts](https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters) — 02:07
-  > Instagram推出Effect Builder功能，允许美国18岁以上用户通过AI生成自定义滤镜。用户可在提示框中描述滤镜想法，系统会根据文本描述生成相应效果，用户还可附加风格选项进行定制。该功能目前仅限美国用户使用，可用于Stories帖子。
-- [The future of AI hinges on… Jensen Huang’s sex life?](https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me) — 01:36
-  > 英伟达CEO黄仁勋因不当言行引发争议。报道指出其曾存在与女性相处不当的问题，这引发了关于他个人判断力的讨论。此事被描述为涉及国家安全的事件，虽然具体细节未完全披露，但反映了科技界高管的道德问题受到公众关注。
-- [Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec](https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai) — 23:50
-  > 特朗普在《60分钟》节目中讨论AI安全问题。他认为AI风险被夸大了，可以得到管理，并称司法部正在管控风险。他还暗示可能逮捕某位AI高管。特朗普对AI安全警告采取了相对乐观和强硬的立场。
-- [Disney and Adobe are building generative AI tools together](https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership) — 23:38
-  > 迪士尼与Adobe建立多年合作伙伴关系，共同开发专有的"艺术家主导"生成式AI模型，支持迪士尼的制片流程。Adobe将为迪士尼提供最新技术的优先使用权，应用于主题公园、邮轮等各个领域的制作。
-- [Hold up — I had a great time talking to the RIAA guy](https://www.theverge.com/podcast/1029684/riaa-mitch-glazier-napster-ai-labels-music) — 23:30
-  > 播客主持人采访了美国唱片工业协会（RIAA）首席执行官米奇·格拉泽。这次对话对主持人意义重大，因为她在大学时期经历了Napster时代，当时RIAA因起诉下载音乐的学生而备受争议，这也促使她成为版权律师。
-- [Jonathan Kanter is using AI to take on Big Tech](https://www.theverge.com/policy/1029652/kanter-doj-biden-legal-tech) — 22:30
-  > 美国司法部反垄断部门前负责人乔纳森·坎特于2024年卸任后，继续致力于打击非法垄断。他与前代理反垄断部门主任多哈·梅基联手，利用人工智能这一工具在私营部门继续开展反垄断工作。这标志着反垄断执法策略的创新转变。
-- [Here’s the full text of Jensen Huang’s memo to Nvidia](https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia) — 06:54
-  > 英伟达周日宣布对首席执行官黄仁勋与AI高管艾丽丝·黄（中国政府特使）的关系展开调查。董事会启动调查，黄仁勋向员工发送备忘录承认了这段婚外情。
-- [Nvidia is investigating Jensen Huang’s relationship with an alleged Chinese spy](https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy) — 04:22
-  > 英伟达宣布对首席执行官黄仁勋与Megaspeed公司高管艾丽丝·黄的关系展开调查。据报道，艾丽丝·黄被中国国家安全部招募，对英伟达进行间谍活动。英伟达董事会已启动独立调查以审视此事。
+- [ChatGPT is getting verified AI ‘Business Agents’](https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub) — 02:00
+  > ChatGPT推出经过验证的"商务代理"功能，允许用户与代表品牌的AI助手对话，协助比较购物等事务。该功能首先向美国符合条件的电商和在线服务企业开放，是ChatGPT今日发布的商业功能套件的一部分，目前处于测试阶段。
+- [The indie game community is in disarray over AI and Big Walk](https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai) — 01:32
+  > 独立游戏节（IGF）评委发表声明，拒绝为任何使用生成式AI的游戏投票。随后，热门独立游戏《Big Walk》开发者回应称，仅在游戏开发最后阶段"谨慎使用"AI来解决难题。该声明引发独立游戏社区关于AI使用的广泛争议和讨论。
+- [Anthropic has its own AI-powered office suite now](https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now) — 01:30
+  > Anthropic推出了AI办公套件，进一步扩展其产品线。此前该公司因专注企业和编程工具而闻名，吸引了众多大型企业客户，也激发了OpenAI、Meta等竞争对手的效仿。今年早些时候Claude Code引起热议，现在Anthropic正试图扩大其市场影响力。
+- [eBay appears to have shut the door on third-party AI agents](https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping) — 00:20
+  > eBay已关闭第三方AI代理访问权限，包括Meta的Muse。此前用户可使用AI代理在eBay上浏览商品并生成每日商品摘要。此举成为AI代理领域的最新障碍，反映了平台对AI自动化浏览的谨慎态度。
+- [Google releases Gemini 4 Carbon with agent ‘swarm’ feature](https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout) — 00:00
+  > Google发布最新AI模型Gemini 4 Carbon，声称这是其迄今最强大的模型，能与Anthropic和OpenAI的顶级系统竞争。该模型两周前先向"网络安全防御者"小组发布，现已向公众推出。Gemini 4 Carbon具备代理"群集"功能，标志着Google在AI领域的重大进展。
+- [Anthropic targets $1.4 trillion IPO](https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion) — 22:06
+  > Anthropic公司确认其IPO将成为历史上最大规模IPO之一。根据纽约时报报道，其IPO定价预计在每股70至78美元之间，公司估值最高可达1.4万亿美元，尽管这低于之前的预期。
+- [Adobe is going all in on agentic AI](https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates) — 22:00
+  > Adobe正积极投身于生成式AI领域，将聊天机器人和AI代理定位为设计助手。在迈阿密Max大会上，Adobe发布了多项新工具和功能，允许第三方AI代理访问和修改用户内容，旨在自动化创意工作流程和重复性任务，为设计师提供更高效的创意支持。
+- [Photoshop, Lightroom, and Premiere are making it easier to remove things](https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates) — 22:00
+  > Adobe在其Max活动中宣布，将在Photoshop、Lightroom和Premiere中添加新功能，利用Firefly AI平台实现自动移除对象、瑕疵和不需要的元素。这些新功能旨在加快设计和编辑项目进度，简化工作流程，使用户能更高效地完成编辑任务。
+- [Hands-on with Ring’s new AI drone camera for your home](https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot) — 21:30
+  > 亚马逊旗下智能家居公司Ring推出室内飞行无人机摄像头。该产品名为Ring Drone Cam，将于2027年1月27日上市，售价249.99美元。Ring创始人在纽约发布会宣布了这一消息。这是Ring在宣布该产品近六年后终于实现其上市计划。
+- [David Ellison says AI could be the ‘biggest creative unlock in modern history’](https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai) — 08:28
+  > 派拉蒙斯凯德影业CEO大卫·埃利森表示，人工智能可能成为现代历史上最大的创意突破。他认为AI对电影行业的影响将超过CGI技术。埃利森在公司财报电话会议中指出，从制片角度看，AI具有巨大潜力改革电影制作流程，难以想象AI不会对整个行业产生深远影响。
+
+## TechCrunch AI (20 篇)
+
+- [Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks](https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/) — 01:30
+  > Anthropic推出Claude Meetings功能，可在工作讨论中实时协助。该工具能记录会议内容并自动生成计划，在白板上绘制时间表，在会议聊天中回答问题，并可访问关联工作应用检索信息如历史数据，大幅提高工作效率。
+- [Nvidia CEO Jensen Huang&#8217;s affair with alleged Chinese spy: a timeline](https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/) — 01:04
+  > 英伟达首席执行官黄仁勋被曝与一名疑似中国间谍有染。此事涉及美中之间在先进人工智能基础设施竞争中的国家安全问题。该丑闻可能对美国的国家安全造成影响，引发外界对信息泄露和商业机密保护的担忧。
+- [Google broadens its AI hardware portfolio with two new specialized chips](https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/) — 23:54
+  > 谷歌推出两款新型张量处理器（TPU），扩展其AI芯片产品线。新芯片专门针对机密模型训练和增加内存容量等用途而设计，满足更多人工智能应用场景需求，进一步巩固谷歌在AI硬件领域的竞争优势。
+- [Meta&#8217;s AI agent Muse lands on Apple Watch and Android Wear OS](https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/) — 23:29
+  > Meta公司的AI助手Muse登陆苹果手表和安卓Wear OS系统。用户现在可以通过语音通话、文本信息或语音输入与Meta AI助手互动。该功能的推出进一步扩展了AI助手在可穿戴设备上的应用范围，为用户提供了更便捷的移动端交互体验。
+- [Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly](https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/) — 22:05
+  > Adobe推出多项AI创新功能。在Firefly中新增原型构建工具以对抗Figma；为Photoshop和Premiere Pro引入AI代理技术，可自动执行重复性创意任务；增强生成式AI工具能力，提升创意工作效率。这些更新展示Adobe在创意设计领域的AI应用进展。
+- [Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion](https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/) — 22:01
+  > Anthropic公司宣布IPO定价区间为每股70至78美元，按完全稀释基础计算，若按价格区间上限定价，公司估值将达1.404万亿美元。这将使其成为全球最高估值的公司之一。
+- [After challenging Google&#8217;s Android with Cyanogen, its co-founder takes aim at Windows for AI era](https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/) — 22:00
+  > Cyanogen创始人推出Kora操作系统，作为Windows的免费替代品。该系统针对重度依赖AI模型和智能体的用户设计。Kora基于开源技术，旨在为AI时代提供新的解决方案。这位创始人曾通过Cyanogen挑战Android系统，如今再次尝试在操作系统领域进行创新。
+- [Spotify&#8217;s AI DJ gets new voices, personalities, and an option for less chatter](https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/) — 22:00
+  > Spotify为Premium用户推出AI DJ定制功能。用户可选择具有不同个性的新语音，或关闭歌曲间的评论。此举让用户能更灵活地控制AI DJ体验，满足不同听歌偏好。
+- [Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot](https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/) — 21:30
+  > Ring推出家庭安全无人机和企业安保机器人。这款无人机专为家庭安全设计，可进行巡逻监控；企业安保机器人则用于商业场所巡逻防护。Amazon旗下的Ring公司借此进一步扩展其安全产品线，从传统的门铃摄像头向机器人领域拓展。
+- [Cyberattacks threaten to make open source AI a little less open, Hugging Face exec warns](https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/) — 21:00
+  > Hugging Face高管警告，针对开放式人工智能平台的网络攻击日益增多，可能迫使采取更严格的安全限制措施。这将威胁开源社区对全球开发者的可访问性，损害开源生态的核心价值。
+- [Otter AI can now follow conversations across 30+ languages](https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/) — 15:00
+  > Otter AI扩展了语言支持范围，现已支持30多种语言。该平台推出了一项新功能，能够跟踪多语言对话，即使说话者在不同语言之间切换也能流畅进行。这一更新使Otter AI的多语言能力得到显著提升，为全球用户提供了更便捷的跨语言交流支持。
+- [Anthropic reportedly plans to move forward with IPO plans](https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/) — 09:27
+  > 人工智能公司Anthropic计划推进首次公开募股（IPO）。据《华尔街日报》报道，该公司预计本周将设定估值区间。这反映出Anthropic作为AI领域主要参与者的发展势头，并将通过IPO融资来支持其业务扩展。
+- [Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago](https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/) — 07:28
+  > 英伟达CEO黄仁勋据报去年曾聘请一家公关公司处理公关事务。该公司专门处理高知名度性丑闻案件。此举发生在《纽约时报》2025年10月报道黄仁勋妻子艾丽斯·黄的商业往来后不久。
+- [A short seller flagged Nvidia CEO&#8217;s ties to a suspected Chinese spy six months before the scandal](https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/) — 06:46
+  > 英伟达首席执行官黄仁勋与一名疑似中国间谍关系密切的丑闻曝光前六个月，卖空机构Culper Research就已对其提出质疑。该机构质疑黄仁勋与一位中国高管的不寻常密切关系，暗示存在潜在的安全隐患，后来这一争议最终演变成重大丑闻。
+- [The race is on to sue Nvidia](https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/) — 06:23
+  > 英伟达股价下跌超4%，原因是董事会启动调查首席执行官黄仁勋与涉嫌中国间谍的关系。证券法专家指出，英伟达之前声称此事"正常"的立场可能演变成代价高昂的问题，面临被起诉的风险。
+- [Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy](https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/) — 04:09
+  > 英伟达CEO黄仁勋取消了原定出席ElevenLabs峰会的计划，此前他也退出了Anthropic公司的活动。虽然官方未公布具体原因，但此举引发外界对英伟达与这些AI公司关系的猜测。黄仁勋频繁取消重要活动出席，可能反映了英伟达在AI生态中的复杂局面。
+- [Anthropic releases new Mythos and Fable models amid RSI concerns](https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/) — 03:24
+  > Anthropic推出新的Mythos和Fable模型。新模型在编码、推理和视觉等领域有所改进，并能更清晰地与用户沟通。这一发布在人们对重复性劳动伤害(RSI)等问题持续关注的背景下进行。
+- [Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny](https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/) — 02:09
+  > 英伟达CEO黄仁勋与涉嫌中国间谍的女性关系曝光，可能威胁公司游说美国放松芯片出口管制、保持中国市场准入的努力。此事引发对黄仁勋个人操守和公司中国业务前景的关注，恐将成为美中芯片竞争中的敏感问题。
+- [Meta releases Muse Ember, a new lightweight model for agent execution](https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/) — 02:00
+  > Meta发布轻量级模型Muse Ember，专用于智能体执行。该模型成本极低，每百万输入令牌仅需0.1美元，远低于Haiku和Luna等竞品。Ember在保持性能的同时大幅降低成本，为企业和开发者提供更经济的AI解决方案。
+- [Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines](https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/) — 00:56
+  > 人工智能公司Anthropic斥资34亿美元购买天然气涡轮机。这笔交易反映了AI企业对能源的巨大需求，因为大规模AI模型训练和运行消耗电力惊人。此举表明Anthropic计划通过自建能源基础设施来满足日益增长的电力需求，但也可能面临长期能源成本和环保风险等问题。
