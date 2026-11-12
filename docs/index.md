@@ -2,72 +2,95 @@
 layout: default
 ---
 
-# AI 日报 2026-11-12
+# AI 日报 2026-11-13
 
-> 共收录 **30** 篇，来自 **2** 个源 · 生成于 01:16 PM EST
+> 共收录 **40** 篇，来自 **3** 个源 · 生成于 01:39 PM EST
 
-## TechCrunch AI (20 篇)
+## Hacker News (10 篇)
 
-- [Is Jensen Huang’s bad behavior more commonplace than it seems?](https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/) — 00:16
-  > 英伟达CEO黄仁勋的不当行为引发关注。业界投资顾问表示，许多业内高管对此类行为心知肚明，实际上是在默认纵容。这反映出科技行业高层存在的广泛问题——不当行为在业界可能比表面看起来更普遍，且被上层人士所容忍。
-- [OpenAI&#8217;s quarterly revenue reportedly crosses $10B for the first time](https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/) — 00:14
-  > OpenAI季度收入首次突破100亿美元，较第二季度的67亿美元增长近50%。这一增长反映了OpenAI在AI领域的持续扩张和商业化进展，以及ChatGPT等产品日益增长的市场需求。
-- [Databricks&#8217; new AI agent tells CEO Ali Ghodsi the unvarnished truth](https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/) — 23:00
-  > Databricks首席执行官Ali Ghodsi利用公司新开发的AI助手Genie获取员工的真实反馈。在拥有12000名员工的公司中，Ghodsi承认无法了解所有人，员工也不太可能向他坦白问题。通过Genie这个AI代理，他能够获得未经过滤的真实信息，帮助他更好地了解公司运营状况。
-- [Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads](https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/) — 22:00
-  > Plurai公司采用类似自动驾驶汽车的端到端模型方法来改进AI智能体性能。由于AI智能体和自动驾驶汽车都是在不可预测环境中运行的概率系统，该公司借鉴已被证实有效的自动驾驶技术经验，致力于增强AI智能体的工作能力和可靠性。
-- [Nvidia’s crisis has corporate governance experts reaching for the popcorn](https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/) — 15:30
-  > 英伟达公司正经历前所未有的治理危机，引发企业治理专家广泛关注。这场风波的规模和性质之独特，使得业界专家普遍表示这是他们职业生涯中罕见所见。此事件突显了科技巨头在公司治理方面面临的重大挑战，引发了对企业监管和领导层问责机制的深入思考。
-- [OpenAI acquires Odessia, travel startup created by Sonder founder](https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/) — 05:08
-  > OpenAI收购了由Sonder创始人Francis Davidson创办的旅游初创公司Odessia。这笔收购反映了OpenAI在扩展业务领域的举动。Davidson在旅游行业享有盛誉，其加入OpenAI预示该公司可能在旅游领域进行新的探索和开发，但OpenAI尚未披露具体计划。
-- [OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect](https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/) — 04:52
-  > 纽约AI安全法正式生效。该法要求OpenAI、Anthropic等主要AI开发商必须注册、披露安全实践措施，并报告重大事件，否则面临罚款。这一举措将对这些科技巨头的运营和透明度提出新的要求，标志着美国州级AI监管力度加强。
-- [All 7 Anthropic founders will each cash out about $250M in IPO](https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/) — 03:57
-  > 人工智能公司Anthropic的7位创始人计划在IPO中各出售相同数量的股份，每位创始人预计获得约2.5亿美元现金。这笔交易将使创始人团队保持对公司的控制权，同时实现个人的资本收益。
-- [Oura to acquire AI-native primary care startup Counsel Health for $625M](https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/) — 03:23
-  > Oura宣布收购AI驱动的初级保健初创公司Counsel Health，交易金额6.25亿美元。此举发生在Oura因"IPO市场不确定性"无限期推迟最高22亿美元IPO计划数周后。该收购反映出Oura向医疗健康领域扩展的战略转变。
-- [PSI is trying to make a business out of AI-driven scientific discovery](https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/) — 03:03
-  > PSI利用未发布的Anthropic AI模型，成功解答了科学家们近20年来一直追求的量子计算基础问题。这表明PSI正在探索将AI驱动的科学发现商业化，通过先进的大语言模型加速科研突破，为AI在科学领域的应用开辟新的商业机遇。
-- [OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google](https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/) — 02:49
-  > OpenAI推出ChatGPT新业务资料功能，旨在将ChatGPT打造成更强大的消费者发现引擎。这些新功能旨在赋权商家，帮助ChatGPT更好地发现和推荐商业信息，使其更接近谷歌搜索引擎的功能。此举反映了OpenAI将ChatGPT扩展为商业生态系统平台的战略。
-- [Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks](https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/) — 01:30
-  > Anthropic推出Claude Meetings功能，可在工作会议中实时协助参与者。该AI助手能够记录讨论内容并起草计划、制定时间表、在会议聊天中回答问题，还能接入工作应用获取相关信息如往年数据等，旨在提高会议效率和协作生产力。
-- [Nvidia CEO Jensen Huang&#8217;s affair with alleged Chinese spy: a timeline](https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/) — 01:04
-  > 英伟达CEO黄仁勋与一名被指控为中国间谍的女性有染。这一丑闻可能对美国国家安全产生重大影响，尤其是在美中AI芯片技术竞赛的关键时期。该事件涉及高端技术机密泄露风险，可能影响美国AI产业发展战略。
-- [Google broadens its AI hardware portfolio with two new specialized chips](https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/) — 23:54
-  > 谷歌推出两款新的张量处理单元（TPU），拓展其人工智能芯片产品线。新芯片专门用于保密模型训练和提供更大内存容量，满足更多应用场景需求。这些芯片强化了谷歌在AI硬件领域的竞争力。
-- [Meta&#8217;s AI agent Muse lands on Apple Watch and Android Wear OS](https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/) — 23:29
-  > Meta的AI助手Muse已登陆苹果手表和安卓Wear OS系统。用户可以通过语音通话、文字消息或语音输入等多种方式在Apple Watch上与Meta的AI助手互动。这一举措扩展了AI助手的应用场景，使智能穿戴设备用户能更便捷地获取AI服务。
-- [Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly](https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/) — 22:05
-  > Adobe推出新功能，在Photoshop、Premiere和Firefly中集成AI代理和创意工具。其中，Adobe在Firefly中推出原型生成工具，直接与Figma展开竞争。这些更新旨在增强设计和视频编辑能力，利用AI技术提升创意工作效率。
-- [Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion](https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/) — 22:01
-  > Anthropic公司公布首次公开募股（IPO）价格区间为每股70美元至78美元。若按最高价格发行，公司完全稀释后估值将达1.404万亿美元。这一估值反映了市场对这家AI公司的高度认可。
-- [After challenging Google&#8217;s Android with Cyanogen, its co-founder takes aim at Windows for AI era](https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/) — 22:00
-  > Cyanogen联合创始人推出名为Kora的操作系统，定位为Windows的免费替代品。Kora专门针对AI模型和智能体的重度用户设计。这是该创始人继挑战Android后，再次在操作系统领域的创新尝试，旨在为AI时代的用户提供新的选择。
-- [Spotify&#8217;s AI DJ gets new voices, personalities, and an option for less chatter](https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/) — 22:00
-  > Spotify为付费用户推出AI DJ定制功能。用户可选择具有不同性格特征的新声音，或关闭歌曲间的解说评论。此举增强了AI DJ的个性化体验，让用户能更灵活地控制听歌过程中的交互程度。
-- [Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot](https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/) — 21:30
-  > 亚马逊旗下的Ring公司正式进军机器人领域。该公司推出了家庭安全无人机和企业安全巡逻机器人两款新产品，用于保护住宅和商业场所。Ring以其门铃摄像头产品而闻名，此举标志着其安全业务的重大扩展。
+- [Hugging Face CEO vows to keep fighting for open-source AI](https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/) — 02:17
+  > Hugging Face首席执行官承诺继续为开源AI而努力。在英伟达CEO黄仁勋退出相关合作后，Hugging Face CEO表示将坚持推动开源人工智能的发展。该公司致力于让AI技术更加开放和可获取，对抗专有系统的垄断，促进AI领域的民主化和创新。
+- [Air-LLM: Broadcasting AI Weights for Edge LLM Inference via RF Computing](https://arxiv.org/abs/2610.00465) — 02:16
+  > Air-LLM是一项新技术，通过射频计算方式将AI模型权重通过无线电广播传输到边缘设备，用于边缘推理。这种方法允许在资源受限的设备上运行大型语言模型推理，无需预先存储完整模型。该技术利用RF通信和计算相结合，可能降低边缘设备的存储需求，提高分布式AI推理的效率。
+- [Washing dishes at Denny's to rockstar of AI, the rise and fall of Jensen Huang](https://www.theguardian.com/technology/2026/nov/12/rise-and-fall-of-nvidia-ceo-jensen-huang-profile) — 02:15
+  > 本文讲述英伟达CEO黄仁勋的人生经历，从在丹尼斯餐厅洗碗的普通员工起步，到成为AI领域的明星人物。文章记录了他的职业发展轨迹，展现了他如何通过创办英伟达，引领GPU技术革命，成为科技产业的关键人物。这是一个典型的草根奋斗到行业领袖的励志故事。
+- [Tell HN: Hardware flaws to confidential AI are probably worse than they let on](https://news.ycombinator.com/item?id=50471606) — 02:13
+  > 文章指出，提供隐私AI推理服务的公司宣称使用Intel SGX/TDX等可信执行环境，但存在严重硬件漏洞。攻击者可能通过物理攻击提取CPU密钥，进而伪造TDX验证引用。作者质疑用户如何验证这些验证引用的真实性，认为相关安全风险可能比公开宣传的更严重。
+- [Show HN: I built an enhanced AI chat using the new Generative UI from CopilotKit](https://github.com/aanthonymax/copilotkit-generative-ui-example) — 01:51
+  > 开发者基于CopilotKit新推出的生成式UI功能，构建了一个增强型AI聊天应用。该项目在GitHub上开源，展示了如何利用CopilotKit的生成式UI能力创建更加智能和交互性强的聊天界面。这个示例项目为开发者提供了实现类似功能的参考方案。
+- [AI Models Know What Women, Peace and Security Is. They Just Don't Bring It Up](https://blog.cip.org/p/ai-models-know-what-women-peace-and) — 01:32
+  > AI模型虽然能够理解"妇女、和平与安全"这一概念，但在实际应用中往往不会主动提及。研究表明，当被直接询问时，AI可以准确解释该概念的含义，但在解决相关问题或提供建议时，却鲜少自发地引入这个重要议题。这反映了AI模型在理解与应用之间存在的偏差。
+- [Ask HN: What is your current AI stack looking like?](https://news.ycombinator.com/item?id=50470767) — 01:19
+  > 这是一个黑客新闻（Hacker News）论坛讨论帖，主题为询问用户当前使用的AI技术栈。该帖获得2个赞和2条评论。这类讨论通常涵盖开发者、研究人员在生产环境或实验中采用的AI框架、模型、工具和平台，如大语言模型、机器学习框架等技术选择。
+- [Near AI Gateway: Easily Use Private AI from Claude, Codex and Open Code](https://gateway.near.ai) — 01:14
+  > Near AI Gateway是一个新平台，允许用户轻松访问来自Claude、Codex和开源代码的私有AI模型。该服务为开发者提供便捷的接口，整合多个AI模型，支持隐私保护的本地化部署。用户可通过统一网关调用不同的AI能力，简化集成流程，降低使用门槛。
+- [US companies are seeking fewer foreign developers, and more "AI engineers"](https://village.dev/blog/us-companies-are-seeking-fewer-foreign-software-developers-and-far-more-ai-engineers/) — 01:13
+  > 美国公司对外国开发者的需求下降，转而大力招聘AI工程师。这反映出科技行业对人工智能专业人才的需求激增，同时对传统软件开发人员（特别是海外员工）的需求有所减少。这一趋势说明美国科技行业正经历人才需求结构性转变，更加看重AI技术能力。
+- [AI Meeting Assistants Raise Eavesdropping Concerns and Discovery Headaches](https://www.corporatecomplianceinsights.com/ai-meeting-assistants-raise-eavesdropping-concerns-discovery-headaches/) — 01:05
+  > AI会议助手引发隐私窃听和法律取证问题。这些工具在自动记录和转录会议内容时，可能导致未经授权的数据收集，引起隐私泄露风险。同时，在诉讼过程中，AI生成的会议记录可能被用作证据，造成法律发现阶段的复杂性和合规挑战。企业需谨慎使用此类技术，明确告知参会者并制定相关政策。
 
 ## The Verge AI (10 篇)
 
-- [Google’s Tabletop AI experiment lets you build custom collaboration apps](https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability) — 00:00
-  > Google推出实验性AI工具Tabletop，可生成定制化协作中心，帮助用户与家人和朋友协调沟通。该平台在视觉上类似于Asana和Monday等工作管理应用，但内置AI功能，用户可通过描述自动生成个性化交互工具。
-- [Google’s AlphaGenome 2 zooms in on the cellular roots of disease](https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model) — 23:00
-  > 谷歌DeepMind研发的新型AI模型AlphaGenome 2能够分析DNA变化如何影响不同细胞，为科学家提供更详细的视角来理解复杂的疾病原因机制。该模型有望揭示疾病根源，指引开发新的治疗方法。
-- [Adobe’s AI experiments let you walk around in photos and interview your characters](https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai) — 22:00
-  > Adobe在年度Max大会上展示最新实验性AI工具：可将图像转换为可探索的3D场景，通过对话设计AI角色，以及将图像编辑转变为复制粘贴过程。这些创新功能将显著提升创意工作流程的效率和互动性。
-- [The US is winning the AI race. Jensen Huang could have blown it](https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy) — 03:04
-  > 英伟达CEO黄仁勋是美国AI竞争中的关键人物。他掌控着全球最具价值的公司之一，控制着推动AI繁荣的紧缺技术。由于其重要地位和影响力，黄仁勋成为间谍活动的目标。他与各国领导人和企业高管关系密切，在美国赢得AI竞赛中扮演重要角色。
-- [ChatGPT is getting verified AI ‘Business Agents’](https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub) — 02:00
-  > ChatGPT推出经过验证的"商业代理"功能，允许用户与代表品牌的AI代理聊天，协助比较购物等任务。该功能首先在美国向符合条件的电商和在线服务企业推出，作为ChatGPT今日发布的商业功能套件的一部分，目前处于测试阶段。
-- [The indie game community is in disarray over AI and Big Walk](https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai) — 01:32
-  > 独立游戏节（IGF）评委发表声明，拒绝投票支持任何使用生成式AI的游戏。随后，热门独立游戏《Big Walk》开发者回应称，仅在游戏最后阶段有限度地使用AI来解决难题。此举引发独立游戏社区关于AI使用的激烈争议。
-- [Anthropic has its own AI-powered office suite now](https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now) — 01:30
-  > Anthropic推出自有的AI办公套件，进一步扩展其产品线。该公司长期专注于企业级和编码工具，吸引了众多高端企业客户，促使OpenAI、Meta等竞争对手效仿其策略。继Claude Code热潮后，Anthropic现正努力扩大市场份额和产品覆盖范围。
-- [eBay appears to have shut the door on third-party AI agents](https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping) — 00:20
-  > eBay已阻止包括Meta的Muse在内的第三方AI代理访问其平台。此前数周，用户一直使用Muse代理浏览和整理eBay等平台的手表销售信息。这是AI代理竞争中的最新障碍，反映了电商平台对AI自动化访问的限制态度。
-- [Google releases Gemini 4 Carbon with agent ‘swarm’ feature](https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout) — 00:00
-  > 谷歌推出最新AI模型Gemini 4 Carbon，已面向公众发布。该模型先于两周前向网络安全专家小组推出。谷歌声称Carbon是其迄今最强大的模型，能与Anthropic和OpenAI的最先进系统相竞争。该模型具有智能体"群集"功能。
-- [Anthropic targets $1.4 trillion IPO](https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion) — 22:06
-  > Anthropic确认其IPO可能成为历史上最大规模的IPO之一。公司IPO价格预计在每股70至78美元之间，估值最高可达1.4万亿美元。虽然这一估值较之前预期有所下降，但仍属于IPO规模最大的行列。
+- [Oh, Palantir is ‘progressive’ now, is it?](https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video) — 02:06
+  > Palantir首席执行官Alex Karp试图向左转向，声称公司"进步"。作者对此表示讽刺和反感，认为这是一种虚伪的政治立场调整。上周选举右翼遭重创，这些支持右翼的科技创业者被迫改变政治立场。文章暗示这种转向是出于政治利益考量，而非真实信念。
+- [The Jensen Huang scandal is hardly over](https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling) — 01:44
+  > 英伟达CEO黄仁勋陷入婚外情丑闻。作为英伟达唯一的CEO，黄仁勋因在AI产业中的核心地位和缺乏继任计划而被认为"不可撼动"。但这一丑闻表明他并非真正的"防弹人物"，引发对其领导力和公司治理的质疑。
+- [AI chatbots are recommending fake retail websites, study finds](https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations) — 01:00
+  > 研究发现，AI聊天机器人在回答购物相关问题时，可能会推荐虚假零售网站和其他风险网站。IP保护公司Podqi与多个平台合作，对ChatGPT、Gemini和Perplexity进行测试，结果表明这些聊天机器人存在导向用户访问欺诈网站的风险，购物者需谨慎使用AI工具进行购物调研。
+- [More game developers are starting to use generative AI](https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs) — 01:00
+  > 根据游戏开发者大会最新调查，使用生成式AI的游戏开发者数量持续增长。今年40%的开发者表示在工作中使用生成式AI，较去年的36%有所提升。这表明生成式AI技术在游戏开发领域的应用越来越广泛，成为开发者的重要工具。
+- [Jensen Huang is out. What did China want from him?](https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump) — 00:30
+  > 英伟达CEO詹森·黄因丑闻辞职。报道称其卷入多起绯闻事件，包括与一名涉嫌中国间谍的人员有关，引发轩然大波。事件发展迅速，相关调查正在进行中。此事可能涉及国家安全与商业机密等敏感问题。
+- [Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup](https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang) — 23:48
+  > 英伟达联合创始人兼CEO黄仁勋因涉及多起婚外情丑闻而辞职。董事会调查显示，他与直属下属和一名疑似中国间谍发生不当关系。新任董事长哈维·琼斯宣布了黄仁勋的辞职决定。这一事件引发了公司内部的重大变动。
+- [Nvidia CEO Jensen Huang has resigned. What happens next?](https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang) — 23:01
+  > 英伟达CEO黄仁勋因与女性员工的不当关系而宣布辞职。公司最初因其与Megaspeed公司高管Alice Huang的婚外情启动调查，随后纽约时报报道发现他与一名直接向他汇报的英伟达女高管也有不当关系。董事会召开会议处理此事。
+- [I reviewed the Apple HomeView, ask me anything](https://www.theverge.com/tech/1031868/i-reviewed-the-apple-homeview-ask-me-anything) — 22:10
+  > 《The Verge》资深智能家居评测员Jen Tuohy对苹果首款智能显示屏HomeView进行了评测。该产品售价299美元，提供台面和壁挂两种版本。评测员在厨房、卧室、办公室等多个场景进行了详细测试，并邀请读者提问交流。
+- [Nvidia CEO Jensen Huang resigns amid spy, affair scandals](https://www.theverge.com/ai-artificial-intelligence/1031689/jensen-huang-nvidia-ceo-resigns) — 21:53
+  > 英伟达首席执行官黄仁勋因婚外情丑闻辞职。公司董事会宣布，长期担任联合创始人、总裁兼首席执行官的黄仁勋已提交辞呈。辞职原因涉及两起婚外情事件，其中一起涉及一名中国间谍，另一起涉及向他汇报工作的英伟达高管。董事会已接受其辞呈。
+- [Nvidia is reportedly preparing to fire Jensen Huang](https://www.theverge.com/tech/1031652/jensen-huang-rumor) — 06:44
+  > 英伟达董事会正准备解雇首席执行官黄仁勋。此前《纽约时报》报道其涉及第二起婚外情，该对象为公司高管。黄仁勋近日已承认与一名涉嫌中国间谍身份女性的婚外情。董事会因此考虑采取行动。
+
+## TechCrunch AI (20 篇)
+
+- [Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang&#8217;s exit](https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/) — 01:36
+  > Hugging Face首席执行官承诺将继续为开源AI而奋斗，此言论引发了关于英伟达120多亿美元收购案的疑问。这表明在Huang离职后，Hugging Face仍坚持开源AI的发展方向，可能对英伟达的商业战略产生影响。
+- [United Airlines blocks AI agents from booking flights, citing cybersecurity risks](https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/) — 01:17
+  > 联合航空公司因网络安全风险考虑，禁止客户使用人工智能代理来预订航班和管理预订。该航空公司表示，这一措施是为了保护客户信息安全和防止潜在的欺诈活动。联合航空成为首批对AI代理采取限制措施的大型航空公司之一。
+- [SoftBank’s billion-dollar loss may have put a cap on AI&#8217;s natural gas ambitions](https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/) — 01:00
+  > 软银因预订天然气涡轮机为AI数据中心供电而亏损超30亿美元。该公司曾计划大规模采购这些涡轮机以满足AI数据中心的电力需求，但巨额损失表明这一战略存在风险。此事可能影响能源市场对AI电力需求的预期，并对天然气涡轮机市场产生深远影响。
+- [Phota Labs uses AI to turn everyday photos into professional-looking shots](https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/) — 01:00
+  > Phota Labs利用人工智能技术自动化照片编辑过程，使普通用户能够轻松将日常照片转化为专业级作品。该公司的目标不是提供额外的编辑工具，而是通过AI技术进步，简化编辑流程，让任何人都能拍摄出更高质量的照片。
+- [Jensen Huang agrees to testify before Congress](https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/) — 00:36
+  > 英伟达CEO黄仁勋同意在国会作证。此前有报道称他因与疑似为中国充当间谍的女性有婚外情而被罢免CEO职位。在多位资深议员威胁传唤他后，黄仁勋同意于周三出庭作证。
+- [Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry](https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/) — 00:32
+  > 英伟达首席执行官黄仁勋被撤职事件引发关注。黄仁勋的影响力不仅体现在商业层面，更重要的是他对AI产业发展方向的引导作用。其离职可能影响AI芯片战略、产业政策倡议、技术创新方向、供应链合作以及行业生态建设等多个方面，对整个AI产业产生深远影响。
+- [Trump floats Apple chairman Tim Cook as Jensen Huang&#8217;s successor](https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/) — 00:12
+  > 特朗普在Truth Social上发文表示，只有一个人能接替黄仁勋担任英伟达首席执行官，那就是苹果首席执行官蒂姆·库克。这一言论引发了对科技行业领导力流动的关注和讨论。
+- [Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?](https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/) — 23:37
+  > 英伟达首席财务官科莱特·克雷斯将接替陷入丑闻的长期CEO黄仁勋，担任临时首席执行官。黄仁勋面临争议事件，公司董事会决定由克雷斯暂时主持公司运营，直到找到永久替代者。克雷斯曾在英伟达担任多个重要财务职位，具有丰富的公司运营经验。
+- [Norwest pushes deeper into AI with new $4B fund](https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/) — 23:18
+  > 风险投资公司Norwest宣布推出新基金，规模达40亿美元，创下该公司历史新高。这笔资金将用于加大在人工智能领域的投资力度。该举措反映了投资界对AI技术发展前景的看好，以及对相关企业和项目的持续关注。
+- [Cyberattack on Fireworks AI allowed hackers to access Notion customers&#8217; chat transcripts](https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/) — 23:02
+  > Fireworks AI遭网络攻击，黑客获取了Notion客户的聊天记录。这是该公司两个月内发生的第二次数据泄露事件。攻击者成功入侵了Fireworks的系统，导致敏感的用户通信数据被曝露。此事件突显了AI服务提供商在数据安全方面面临的严峻挑战。
+- [The unfolding Jensen Huang scandal: a timeline](https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/) — 22:30
+  > 英伟达CEO黄仁勋因婚外情丑闻宣布辞职。这一事件可能对国家安全造成影响，因为美国和中国正在争夺最先进AI基础设施的开发权。黄仁勋的离职可能会影响英伟达的领导层稳定性，进而影响美国在AI芯片领域的竞争力。
+- [Nine Korean startups vie for a spot in Disrupt 2027&#8217;s Startup Battlefield 200 competition](https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/) — 21:26
+  > 九家韩国初创企业争夺Disrupt 2027创业战场200强的席位。这些初创企业涉及深科技领域，包括医疗保健、金融科技、能源、半导体和人工智能。所有企业均寻求进入美国市场。
+- [Who could replace Jensen Huang? A highly unscientific list of possible successors](https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/) — 11:13
+  > 英伟达首席执行官黄仁勋面临困境，公司缺乏明确的继任计划。有报道列举了可能的继任者名单。这反映出科技巨头在领导层风险管理上的隐患。黄仁勋长期主导英伟达战略，其个人风格深刻影响公司文化。如何建立健全的人才梯队和继任机制，成为企业治理的关键课题。
+- [Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang](https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/) — 07:28
+  > 英伟达董事会计划罢免创始人兼CEO黄仁勋。黄仁勋领导英伟达长达33年。董事会可能最早在周三晚间做出决定。受此影响，英伟达股价下跌。
+- [Jensen Huang accused of having another affair — with an Nvidia exec](https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/) — 07:17
+  > 英伟达CEO黄仁勋面临新的不忠指控。继被指与疑似中共特务的女性有染后，他又被曝与英伟达一名下属有婚外情。这是对黄仁勋个人生活的进一步质疑，引发对其私生活和职业操守的关注。
+- [Why the data center you dread might never even be built](https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/) — 04:15
+  > 数据中心建设面临多重困境。除了本地反对、审批延迟和电力短缺外，更根本的问题是许多已宣布的项目可能永远无法建成。尽管AI基础设施获得大量投资，但现实障碍导致许多计划搁浅。数据中心繁荣正遭遇严峻挑战。
+- [Meta is losing its longtime head of  infrastructure](https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/) — 04:12
+  > Meta基础设施部门长期负责人桑托什·贾纳尔丹宣布离职。贾纳尔丹于2009年加入Meta，长期主导公司基础设施建设工作。他的离职标志着Meta在技术基础设施领域的重要人事变动，可能影响公司未来的技术发展战略。
+- [How backlash and red tape continue to slow data centers post-Blue Wave](https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/) — 04:02
+  > 数据中心建设面临多重挑战。除了当地居民反对和许可延迟外，电力供应短缺也成为障碍。更根本的问题是，许多宣布的项目可能永远无法建成。尽管AI基础设施投资规模巨大，但现实中的阻力正在减缓数据中心的发展步伐。
+- [CoreWeave turns to customer prepayments, shorter contracts to fund AI growth](https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/) — 03:54
+  > CoreWeave为加速AI业务增长，采取多项融资策略。该公司要求客户预付款，对特定合同进行借贷融资，并推出可能导致价格上升的短期合同。这些措施反映出CoreWeave在快速扩张中面临的资金压力，同时也显示出AI基础设施市场的高度竞争态势。
+- [With $720M round, Britain&#8217;s Fractile gets a leg up in the race for AI chips](https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/) — 03:34
+  > 英国芯片设计公司Fractile完成7.2亿美元融资，成为专用AI芯片领域融资最充分的企业之一。该轮融资将帮助Fractile在竞争激烈的AI芯片市场中获得竞争优势，与英伟达等巨头抗衡。
