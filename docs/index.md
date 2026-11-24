@@ -2,87 +2,95 @@
 layout: default
 ---
 
-# AI 日报 2026-11-24
+# AI 日报 2026-11-25
 
-> 共收录 **36** 篇，来自 **3** 个源 · 生成于 05:23 PM EST
+> 共收录 **40** 篇，来自 **3** 个源 · 生成于 03:57 PM EST
 
 ## Hacker News (10 篇)
 
-- [News site where AI picks, writes, and publishes every story](https://aitoday.it/) — 06:11
-  > 一个新闻网站完全由人工智能驱动，负责选择、撰写和发布每一篇新闻稿件。该网站展示了AI在新闻生成领域的应用潜力，自动化了传统新闻编辑的核心工作流程。这种完全由AI驱动的新闻运营模式代表了传媒业的一个新方向。
-- [16-Year-Old Founded an AI Missile Startup. He's Targeting 'Cost per Kill'](https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/) — 05:56
-  > 一位16岁少年创立了AI导弹初创公司Polemos，致力于开发智能武器系统。该公司关注"单位杀伤成本"指标，旨在利用人工智能技术降低导弹成本并提高效能。这一举措引发了关于AI在军事领域应用的伦理问题和安全隐患的广泛讨论。
-- [Emma AI by NuanceLabs [video]](https://app.nuancelabs.ai/try) — 05:50
-  > NuanceLabs推出了Emma AI工具，提供在线试用平台。该项目在Hacker News上发布，获得2个赞，暂无评论。用户可访问指定链接体验该AI应用的功能演示视频。
-- [Steven Pinker responds to Scott Alexender contra AI doomerism](https://quillette.com/2026/11/23/will-we-all-go-together-when-we-go-ai-alignment-scott-alexander-doomerism/) — 05:50
-  > 心理学家Steven Pinker对Scott Alexander关于AI末日论的批评进行了回应。Alexander认为AI带来的风险被夸大了，而Pinker则在Quillette上发表文章阐述自己的观点。这场辩论反映了学术界对人工智能未来发展方向和潜在威胁的不同看法。
-- [The AI conversation we're not having](https://www.gnanaguru.com/blog/things-two-years-in-ai-taught-me/) — 05:46
-  > 这篇文章讨论了关于AI发展的一个被忽视的重要对话。作者通过两年在AI领域的经历，分享了AI技术发展中的关键教训和洞察。文章暗示当前社会对某些AI相关议题的讨论不足，可能涉及AI伦理、安全性、应用前景等方面的深层次思考。该话题引发了业界和科技社区的关注，虽然评论数量有限，但反映了对这一主题的兴趣。
-- [Google Gemini decouples chat history from AI training](https://blog.google/innovation-and-ai/products/gemini-app/updated-controls/) — 05:38
-  > Google Gemini更新了隐私政策，将聊天历史与AI模型训练解耦。用户的对话记录将不再被用于训练Gemini模型，增强了用户隐私保护。这一变化允许用户更安心地使用AI助手，无需担心个人对话被用于AI模型优化。用户可以通过更新的控制选项管理其数据。
-- [Show HN: Offthread – AI chat that redacts personal details in the browser](https://offthread.chat) — 05:36
-  > Offthread是一款AI聊天应用，具有在浏览器中自动编辑个人信息的功能。用户可以与AI进行对话，同时系统会自动识别和隐藏敏感的个人数据，保护用户隐私。该项目在Hacker News上发布，旨在提供更安全的AI交互体验。
-- [Humanizer and AI-text detection tools](https://vektormemory.com/research) — 05:36
-  > 本文讨论了文本人性化工具和AI文本检测工具的相关内容。这些工具用于处理AI生成的文本，使其更像人类写作风格，或检测文本是否由AI生成。这些技术在学术诚实、内容创作和信息真实性验证等领域引发了重要讨论。
-- [Show HN: Truce – a neutral mediator that AI agents can call to settle disputes](https://trucehq.com/agents) — 05:08
-  > Truce是一个中立的AI调解平台。争议双方私密陈述各自立场，Truce提出具体解决方案，双方同意才生效。支持MCP服务器集成，AI助手可代表用户启动或应对调解。"Agent Truce"功能允许两个AI代理代表不同方处理纠纷，如退款、延迟交付或发票问题。各方提交证据和私密授权（如最高支付额），调解基于案情提议，符合双方授权则自动接受。平台不涉及资金转移，AI调用免费。
-- [Sovereign skills: Porting an AI code audit to Inkling 2 Mini and Qwen3.8](https://getstream.io/blog/local-video-audit-skill/) — 05:05
-  > 本文介绍了将AI代码审计功能迁移到Inkling 2 Mini和Qwen3.8两个本地模型的过程。作者分享了如何利用这些轻量级模型实现代码审计能力，同时保持本地部署的优势。这涉及模型适配、性能优化等技术挑战，为开发者提供了在资源受限环境中运行AI审计工具的方案。
-
-## TechCrunch AI (16 篇)
-
-- [Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes](https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/) — 06:05
-  > Anthropic推出Claude Ship工具，允许AI代理自动审查、修复和批准代码变更。随着AI生成代码不断增加，这一工具旨在消除开发流程中的瓶颈，由AI代理处理常规审批任务，提高开发效率。
-- [Supertake raises $20M to let AI agents turn your market predictions into stock portfolios](https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/) — 06:02
-  > 创业公司Supertake完成2000万美元融资。该平台允许用户将市场预测转化为股票投资组合，用户无需自行选股，可直接将投资理念付诸实践。AI代理将根据用户的市场预测自动生成并管理相应的股票投资组合。
-- [Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal](https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/) — 05:47
-  > 英伟达CEO黄仁勋在丑闻中被恢复职位，埃隆·马斯克等人表示庆祝。马斯克称"错误已被纠正"。这一事件涉及黄仁勋的职位变动，最终在各界关注下得到解决，他重新获得了英伟达的领导职位。
-- [Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist](https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/) — 05:25
-  > 曾由艾丽斯·黄领导的芯片公司Megaspeed因与英伟达CEO黄仁勋丑闻相关，可能被列入美国黑名单。该公司若被列入黑名单，将被禁止与美国公司做生意，除非获得联邦政府特殊许可证。
-- [Nvidia employees greet Jensen Huang like a hero as he returns to company&#8217;s HQ](https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/) — 04:38
-  > 英伟达CEO黄仁勋回到公司总部，受到员工英雄般的欢迎。他向员工表示"我将在第二次任期内成为更好的CEO"。这反映出黄仁勋在员工中享有高度支持和信任。作为AI芯片领域的领军人物，黄仁勋的领导力对英伟达的持续发展至关重要。
-- [Google Search&#8217;s AI Mode can now tap into Drive and Wallet for more personalized responses](https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/) — 03:14
-  > 谷歌搜索的AI模式现已支持访问用户的Drive云盘和Wallet钱包应用，以提供更个性化的回复。这一功能将用户在谷歌生态系统中已有的数据充分利用，通过Gemini应用实现个人智能功能，使AI能够更好地理解用户需求并提供定制化服务。
-- [Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO](https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/) — 02:12
-  > 英伟达首席执行官黄仁勋将于下周在参议院作证。此前有两党议员呼吁黄仁勋就其与一名涉嫌中国间谍的关系作证。这场公开听证会旨在调查该事件的相关细节。黄仁勋最近被重新任命为英伟达首席执行官。
-- [Amazon snaps up Decart&#8217;s AI optimization tech for $7.5B as it prepares to sell Trainium chips](https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/) — 01:14
-  > 亚马逊以75亿美元收购AI优化技术公司Decart及其研究团队。此举旨在增强其AI芯片能力，为即将推出的Trainium芯片做准备。通过获得Decart的优化技术和人才，亚马逊能进一步提升自主AI芯片的性能和竞争力。
-- [Jensen Huang isn&#8217;t out of the woods yet](https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/) — 00:57
-  > 英伟达CEO黄仁勋面临复职挑战。尽管黄仁勋即将重返公司，但科技领袖需要清醒认识到其复职可能带来的各种问题。这一决定涉及公司治理、领导力信任等复杂议题，需要谨慎评估其长期影响。
-- [Trump reportedly called into Nvidia board meeting to advocate for Huang&#8217;s return](https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/) — 00:39
-  > 特朗普近日致电英伟达董事会会议，支持黄仁勋回归。特朗普在接受CNBC采访时表示，他与董事会进行了沟通，并成功说服了他们。这一举动引发关注，显示特朗普对英伟达领导层变动事务的直接干预。
-- [Trump endorses Jensen Huang&#8217;s return to Nvidia, says US has no evidence of wrongdoing](https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/) — 23:04
-  > 特朗普为黄仁勋重返英伟达背书，声称美国没有证据证明其有不当行为。特朗普引用美国司法部长为黄仁勋辩护，同时敦促英伟达继续进行出口管制调查。
-- [Sierra doubles valuation to $30B within six months as demand for AI in CX takes off](https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/) — 22:43
-  > 客户体验企业软件公司Sierra在半年内估值翻倍至300亿美元。该公司由前Salesforce联席CEO布雷特·泰勒联合创办，宣布完成F轮融资1.75亿美元。融资规模的快速增长反映了企业对AI在客户体验领域应用的强劲需求。
-- [Nvidia reverses course and brings Jensen Huang back as CEO](https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/) — 22:21
-  > 英伟达宣布扭转之前的决定，让创始人兼前首席执行官黄仁勋重新担任CEO。这一令人震惊的决定得到了美国政府高级官员的支持。黄仁勋此前曾宣布退休，但现在将重新执掌公司。
-- [How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO](https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/) — 09:25
-  > 三家知名投资机构——Notable Capital、新加坡政府投资公司GIC和英国资产管理公司Baillie Gifford在Anthropic上市前对其进行了巨额投资。这些投资者看好Anthropic在人工智能领域的发展潜力，相信其技术和商业模式具有长期价值。他们的巨额押注反映出对这家AI企业未来前景的高度信心。
-- [OpenAI’s chief scientist has thoughts on how to limit AI development](https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/) — 05:14
-  > OpenAI首席科学家建议通过建立测量标准来限制AI发展速度。他指出，要对AI开发设置"速度限制"，首先需要达成共识，确定如何衡量AI发展的速度。这一观点触及了AI监管的核心问题——在缺乏统一衡量标准的情况下，很难有效控制技术进展。
-- [Why data centers are at the center of the Big Tech backlash](https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/) — 02:08
-  > 记者帕里斯·马克斯在其新著《超大规模》中分析了数据中心为何成为对大科技公司反感的核心。该书探讨了科技巨头的数据中心如何带来环境破坏、能源消耗、隐私问题等负面影响，以及这些设施如何推动了社会对大科技公司的质疑和批评。
+- [Show HN: ModelXare – Decentralized AI Models](https://www.modelxare.com/) — 04:49
+  > ModelXare是一个去中心化AI模型平台，旨在让用户完全控制AI模型并保护数据隐私。该项目采用双系统模型动态路由用户意图到最优微模型，微模型在本地下载缓存后处理请求。作者愿景是构建AI领域的"DNS等价物"，建立社区驱动的微模型网络，打破大型AI实验室的垄断。
+- [Strukto: First Virtual Terminal for AI Agents](https://www.strukto.ai/) — 04:40
+  > Strukto推出首个AI代理虚拟终端产品。该虚拟终端允许AI代理像真实用户一样与计算机交互，可执行各类任务。这一工具为AI代理赋能，使其能够更有效地完成自动化工作，代表了人工智能应用的新进展。
+- [Gen AI will not end civilization](https://robkohr.com/articles/no--gen-ai-will-not-end-civilization) — 04:37
+  > 本文认为生成式人工智能不会导致文明终结。作者通过分析AI技术的实际能力和局限，驳斥了关于AI会毁灭人类文明的悲观预测。文章强调应理性看待生成式AI的发展，既要认识其潜力，也要正视其局限性，避免过度恐慌或夸大其威胁。
+- [Amazon, eBay AI Toy Sales Must Stop, Says Global Coalition of Over 150 Groups...](https://fairplayforkids.org/amazon-ebay-ai-toy-sales-must-stop-says-global-coalition-of-over-150-groups-and-experts-from-6-continents/) — 04:25
+  > 超过150个全球组织和来自6大洲的专家联合呼吁亚马逊和eBay停止销售AI玩具。该联盟认为AI玩具存在隐私风险、数据安全问题和对儿童发展的潜在负面影响，要求平台立即停止这类产品销售。
+- [RealPCB: A benchmark for AI agents laying out real production circuit boards](https://www.esunalabs.com/realpcb/) — 04:22
+  > RealPCB是一个基准测试平台，用于评估AI代理在实际生产电路板布局中的能力。该基准测试涵盖真实的工程挑战，帮助开发者和研究人员测试和改进AI系统在复杂电路板设计任务中的表现。这项工作推进了AI在硬件工程领域的应用和评估。
+- [Smart watches, AI glasses outlawed in Manitoba schools](https://www.cbc.ca/news/canada/manitoba/wearable-technology-ban-schools-manitoba-9.7433957) — 04:02
+  > 曼尼托巴省学校禁止使用智能手表和AI眼镜。该地区教育部门出台新规定，禁止学生在校期间佩戴这类可穿戴设备。此举旨在减少课堂分心，保护学生隐私，防止作弊行为。学校认为这些设备可能影响教学效果和学生专注力，同时涉及数据安全隐患。
+- [Is AI Still a Sychophant?](https://techstackups.com/articles/is-ai-still-a-sycophant/) — 03:55
+  > 文章探讨人工智能是否仍然表现出"谄媚者"的特性。该话题在技术社区引发关注，讨论AI系统是否过度迎合用户需求、缺乏独立判断，或是否已改进其客观性和真实性。这反映了对AI诚实性和可靠性的持续思考。
+- [Show HN: GrowPython, an AI agent that runs outreach up to the booked call](https://growpython.com/) — 03:52
+  > GrowPython是一个AI代理工具，能够自动执行销售外展活动直至预定通话。该工具可以帮助企业自动化整个销售流程中的初始接触和跟进阶段，从而提高销售效率。用户无需手动进行繁琐的外展工作，AI代理将自动处理从联系潜在客户到确认通话预约的全部过程。
+- ["I am the cardholder": What AI shopping agents declare in the customer's name](https://zenodo.org/records/24393764) — 03:52
+  > 本文探讨了AI购物代理在代表消费者进行购物时的身份声明问题。研究指出，当AI系统以"我是持卡人"的名义进行交易时，存在身份认证和消费者权益保护的法律问题。这涉及AI代理权限边界、交易有效性和消费者责任界定等重要问题，需要在AI商务应用中建立更清晰的监管框架。
+- [Ask HN: Am I the only one whose AI hype is cooling down a lot?](https://news.ycombinator.com/item?id=50633601) — 03:51
+  > 一位从业15年的程序员分享了他对AI工具热情冷却的原因。尽管免费使用配额充足，但他每月使用成本从年初的3k-5k降至更低。他发现AI在研究和代码实现中的实用性下降，经常无法找到基本事实，需反复调整才能得到有用结果。与其依赖AI，他更享受独立完成任务带来的成就感。他认为自己对AI的期待已逐渐回归理性。
 
 ## The Verge AI (10 篇)
 
+- [Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired](https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology) — 04:02
+  > 英伟达CEO黄仁勋在重返公司后首次全员大会上向员工道歉，并试图澄清白宫和科技领袖帮助他复职的说法不属实。根据彭博社、纽约时报等多家媒体报道，黄仁勋否认了外界关于其复职与特朗普政府干预的相关传闻。
+- [David Fincher is being dragged for suspected use of AI in his latest film](https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive) — 02:15
+  > 大卫·芬奇因其最新电影《悬崖·布斯的进一步冒险》(《好莱坞往事》续集)疑似使用生成式AI而遭受批评。早期试映会上,观众发现影片存在诡异、不一致的视觉效果,引发了该片是否使用生成AI的质疑。粉丝对这部由布拉德·皮特主演的续集充满期待,但这些视觉问题引起了广泛讨论。
+- [Tidal will start banning AI-generated music next month](https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban) — 01:17
+  > Tidal音乐流媒体平台将从12月9日起禁止AI生成音乐。该平台将删除约2900万首AI生成歌曲，并每天拒绝8到8.5万首曲目。这一举措旨在保护音乐人权益，反映了音乐行业对AI生成内容的关切。
+- [Jensen Huang deepfakes are the hot new AI slop](https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes) — 00:30
+  > 英伟达前CEO黄仁勋的深度伪造视频在网络走红，该视频在Instagram获得近600万次浏览。视频显示黄仁勋在伊比萨岛夜店狂欢，穿着标志性黑皮夹克跳舞。这类AI生成的虚假视频正成为网络热门现象，反映出深度伪造技术被广泛用于制造虚假内容的问题。
+- [The New York Times warns photographers not to update Photoshop over AI features](https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features) — 00:09
+  > 纽约时报警告自由职业摄影师避免更新Adobe Photoshop。该报社担忧2027版本中的AI功能以"用户可能未察觉的方式"运作。纽约时报摄影负责人通过邮件向摄影师发出此警告，可能涉及AI生成内容对新闻摄影真实性和伦理的影响。
+- [Trump engineered a risky comeback for Jensen Huang](https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated) — 06:25
+  > 英伟达董事会接受黄仁勋辞去CEO职位的辞呈。此前报道称黄仁勋与一名涉嫌中国间谍的女性有婚外情。特朗普总统在史蒂芬·史密斯广播节目中表示，黄仁勋将"东山再起"，暗示支持其职业复出。
+- [Nvidia CEO Jensen Huang is back. What happens next?](https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang) — 06:10
+  > Nvidia首席执行官黄仁勋承认与Megaspeed公司高管Alice Huang有婚外情。公司启动调查后，《纽约时报》报道称他还与一位直接向他汇报的Nvidia高管有另一段婚外情。董事会随后召开会议应对此事。
+- [Welcome to elite impunity, Jensen Huang](https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang) — 06:09
+  > Jensen Huang重新担任Nvidia首席执行官，这一决定出人意料，仅得到特朗普和副总统万斯的支持。评论者质疑这是否违反自由市场原则，暗示存在权力干预。文章讽刺称这反映了"精英豁免权"现象，即权贵人物不受正常市场规则约束。
 - [AI data centers throw another wrench into chaotic UN climate talks](https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit) — 05:09
-  > 联合国气候大会COP31在土耳其安塔利亚闭幕，但面临新的挑战。全球清洁能源革命需要实现全面电气化，同时高耗能数据中心需求激增。这两股力量的矛盾给气候谈判增添了复杂性，代表们难以达成令人满意的共识。
+  > 联合国气候大会COP31在土耳其安塔利亚闭幕，会议陷入混乱。全球清洁能源革命需要实现全球经济电气化，但耗能巨大的AI数据中心快速增长，加剧了能源压力。与会代表必须在全球经济电气化和数据中心能耗增长之间寻找平衡，这成为气候谈判的重大挑战。
 - [Claude AI can review pull requests and ship fixes on its own now](https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests) — 04:00
-  > Anthropic推出Claude Ship产品，赋予Claude AI新功能以辅助软件工程师。Claude现可独立审查、修复和批准代码拉取请求。这一升级扩展了Claude既有的代码审查能力，使其能更深度参与开发工作流程，提高代码交付效率。
-- [How Jensen Huang ended up as Nvidia CEO again](https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return) — 03:57
-  > 英伟达联合创始人兼CEO黄仁勋因被指控有婚外情而于11月12日宣布辞职。这位30年前创办英伟达的企业家承认对妻子不忠。黄仁勋的离职引发了对这位AI领域关键人物领导力的质疑。
-- [Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription](https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording) — 03:04
-  > Nothing推出新款真无线耳机Ear Note，配备AI转录功能。该耳机搭载麦克风充电盒，可录音、转录对话内容，通过配套应用管理录音、转录文本及AI生成的摘要。这一功能类似于苹果手表新功能和亚马逊Bee穿戴设备。Nothing首席执行官Carl Pei展示了该新设备。
-- [Oregon and Virginia sue SpaceX over Grok’s porn deepfakes](https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit) — 02:26
-  > 俄勒冈州和弗吉尼亚州总检察长分别起诉SpaceX违反消费者保护法。他们指控SpaceX忽视行业标准安全措施，虚假宣传其X社交媒体平台和Grok AI功能的安全性，涉及Grok生成色情深度伪造内容问题。两州认为SpaceX及其CEO马斯克故意违法。
-- [White House brags that Trump was ‘totally involved’ in getting Jensen reinstated](https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated) — 00:30
-  > 白宫证实特朗普总统在黄仁勋重新担任英伟达首席执行官一事上"完全参与"。白宫通讯主任斯蒂文·切恩发表声明称，特朗普总统完全参与其中，这是英伟达董事会的英明决定。白宫试图强调特朗普在此事中发挥的重要作用。
-- [Tech leaders are celebrating Jensen Huang’s return](https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay) — 00:14
-  > 英伟达CEO黄仁勋因涉及不忠、职场不当行为等丑闻被赶出公司。这位曾领导世界最有价值公司的高管，据称与中国特务有染、与下属有染，且职场行为恶劣。股价随之下跌。尽管如此，科技界领袖仍在庆祝他的回归。
-- [Jensen Huang is back as Nvidia’s CEO](https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated) — 22:04
-  > 英伟达董事会一致投票决定恢复詹森·黄的首席执行官职位。董事会在与黄进行一系列讨论和会议后，确信他的坦诚和领导能力足以胜任英伟达的运营。这一决定于周一上午宣布。
-- [Meta Muse can do your Black Friday shopping at Walmart](https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday) — 19:00
-  > 沃尔玛与Meta合作，推出由Meta Muse驱动的AI购物助手。用户可授权AI代理通过沃尔玛的Sparky助手自动搜索和购买黑五优惠商品。该功能基于沃尔玛上月发布的Agent Gateway技术，使AI代理能在保护隐私的前提下为用户找到相关商品。
-- [We haven’t seen the last of the major tech outages](https://www.theverge.com/tech/1039851/major-tech-outages) — 06:48
-  > 过去一周内，美国经历了联邦航空局全国停飞、Outlook多日宕机导致企业瘫痪和摩根大通银行系统故障等重大技术事故。国家情报总监表示，美国民众应做好准备，因为类似的大规模技术中断还会继续发生。专家预测未来还会出现更多此类事件。
+  > Anthropic推出Claude Ship新产品，赋予Claude AI助手更强大的代码管理能力。Claude现可自主审查、修复和批准拉取请求，帮助软件工程师更高效地交付代码。这是在现有代码审查功能基础上的重要升级，进一步提升了AI在软件开发工作流中的自动化程度。
+
+## TechCrunch AI (20 篇)
+
+- [Anthropic shares fall below IPO price, a worrying sign for AI startups](https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/) — 02:30
+  > Anthropic股价跌破IPO发行价，这是一个令人担忧的信号。作为知名AI初创公司，Anthropic的上市后表现不佳可能会对整个AI初创企业的估值造成压力。这反映了投资者对AI公司商业模式和盈利能力的担忧，可能影响其他AI初创公司的融资前景和估值水平。
+- [UK warns AI-driven cyberattacks are exposing years of weak security](https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/) — 02:02
+  > 英国网络安全部门警告，人工智能驱动的网络攻击正暴露出多年来存在的薄弱安全防护。AI黑客工具利用基础安全漏洞进行攻击，该机构强调建立强大的安全基础设施至关重要。
+- [Meta brings its Muse AI assistant directly into Instagram DMs](https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/) — 01:00
+  > Meta将其Muse AI助手直接集成到Instagram私信中，用户无需在Instagram和Muse应用之间切换，可在DM内直接与AI互动。这一整合简化了操作流程，提高了用户体验，使AI助手更易获取和使用。
+- [Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming](https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/) — 00:46
+  > 音乐流媒体平台Tidal宣布将禁止并删除数百万首AI生成的音乐。该公司表示，将继续接受由AI辅助创作的歌曲，但不接受完全由AI生成的音乐。此举旨在应对大量低质量AI生成内容（"AI垃圾"）对平台的冲击。
+- [Why a Crusoe investor is betting on solar and batteries to power future AI data centers](https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/) — 00:10
+  > 新一代AI数据中心每年需要数十吉瓦的电力。Crusoe公司的投资者认为，太阳能和储能技术是为未来AI数据中心提供电力的最佳解决方案。这反映了科技行业对可再生能源的重视，以满足AI快速发展带来的庞大电力需求。
+- [Pinterest will now let parents limit the AI-generated content their teens see](https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/) — 00:02
+  > Pinterest推出新功能，让家长能限制青少年看到的AI生成内容。与其他社交平台主要限制青少年访问AI聊天机器人不同，Pinterest针对AI生成内容充斥用户信息流的问题。这一举措旨在帮助家长更好地管理青少年在平台上的内容体验。
+- [Amazon&#8217;s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia](https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/) — 23:51
+  > 亚马逊以75亿美元收购Decart公司，旨在提升其Trainium芯片的效能。此举是亚马逊缩小与英伟达芯片差距的战略之举，通过优化软件来弥补硅芯片性能不足，降低对英伟达GPU的依赖，加强自身人工智能芯片竞争力。
+- [Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes](https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/) — 06:05
+  > Anthropic推出Claude Ship工具，允许AI代理自动审查、修复和批准代码变更。随着AI生成代码不断增加，该工具旨在通过让AI代理处理常规审批任务来消除开发流程中的瓶颈，提高开发效率。
+- [Supertake raises $20M to let AI agents turn your market predictions into stock portfolios](https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/) — 06:02
+  > Supertake初创公司完成2000万美元融资。该平台允许用户基于自己的市场预测，由AI代理自动生成和管理股票投资组合，用户无需手动选股。这一服务让投资者能够直接将市场判断转化为投资决策。
+- [Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal](https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/) — 05:47
+  > 英伟达CEO黄仁勋因丑闻事件被撤销职务后，近日得到恢复。埃隆·马斯克等多位人士对其复职表示庆祝。马斯克评论称"错误已被纠正"。这一转变表明黄仁勋在英伟达的地位获得重新确认，相关风波也告一段落。
+- [Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist](https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/) — 05:25
+  > 美国可能将芯片公司Megaspeed列入黑名单。该公司曾由Alice Huang领导，一旦被列黑名单，美国公司将被禁止与其商业往来，除非获得联邦政府特别许可。这与Jensen Huang丑闻有关。
+- [Nvidia employees greet Jensen Huang like a hero as he returns to company&#8217;s HQ](https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/) — 04:38
+  > 英伟达首席执行官黄仁勋回归公司总部，员工热烈欢迎。黄仁勋向员工表示："我第二次担任CEO时会做得更好。"这表明黄仁勋重新担任公司最高领导职位，并承诺将带领英伟达实现更好的发展。
+- [Google Search&#8217;s AI Mode can now tap into Drive and Wallet for more personalized responses](https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/) — 03:14
+  > 谷歌搜索的AI模式现已支持访问用户的Google Drive和Wallet，为用户提供更个性化的搜索响应。通过在AI模式中集成个人智能功能，谷歌能够利用其生态系统内已有的丰富用户数据，为Gemini应用提供更加定制化的服务。
+- [Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO](https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/) — 02:12
+  > 英伟达CEO黄仁勋将于下周在参议院作证。此前，黄仁勋因与疑似中国间谍的不当关系而被撤职，随后被恢复职位。两党议员呼吁他就此事件进行公开作证和说明。
+- [Amazon snaps up Decart&#8217;s AI optimization tech for $7.5B as it prepares to sell Trainium chips](https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/) — 01:14
+  > 亚马逊以75亿美元收购AI优化技术公司Decart，获得其AI优化技术和研究团队。此举为亚马逊推进自主芯片战略做准备，预示亚马逊计划加快Trainium芯片的商业化进程，以在AI芯片市场与英伟达等竞争对手抗衡。
+- [Jensen Huang isn&#8217;t out of the woods yet](https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/) — 00:57
+  > 英伟达CEO黄仁勋面临复职挑战。尽管获得复职机会，但技术领导者需清醒认识其复职可能带来的各种问题。报道强调，仅因一个人物回归就盲目乐观是不明智的，业界应理性审视潜在风险和挑战。
+- [Trump reportedly called into Nvidia board meeting to advocate for Huang&#8217;s return](https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/) — 00:39
+  > 特朗普在CNBC采访中表示，他曾致电英伟达董事会会议，劝说董事会同意黄仁勋回归。特朗普称"我和他们谈过，让我这样说吧，我说服了他们"。这反映了特朗普对科技高管人事安排的直接干预。
+- [Trump endorses Jensen Huang&#8217;s return to Nvidia, says US has no evidence of wrongdoing](https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/) — 23:04
+  > 特朗普为英伟达首席执行官黄仁勋回归辩护，称美国没有不当行为证据。特朗普引用美国司法部长言论，支持黄仁勋继续领导英伟达，同时敦促该公司继续其出口管制调查。
+- [Sierra doubles valuation to $30B within six months as demand for AI in CX takes off](https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/) — 22:43
+  > Sierra在半年内估值翻倍至300亿美元。这家由前Salesforce联合首席执行官Bret Taylor联合创办的企业客户体验公司宣布完成F轮融资，融资金额达17.5亿美元。此融资反映了AI在客户体验领域应用需求的快速增长。
+- [Nvidia reverses course and brings Jensen Huang back as CEO](https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/) — 22:21
+  > 英伟达逆转决定，重新任命黄仁勋为CEO。这一令人惊讶的人事变动得到了美国政府高级官员的支持。
